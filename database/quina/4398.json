@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "01/06/2017",
+  "dataProximoConcurso": "02/06/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "08",
+    "78",
+    "68",
+    "70",
+    "20"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "20",
+    "68",
+    "70",
+    "78"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 45,
+      "valorPremio": 7255.74
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3274,
+      "valorPremio": 149.96
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 90187,
+      "valorPremio": 2.99
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PARAÍBA DO SUL, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4398,
+  "numeroConcursoAnterior": 4397,
+  "numeroConcursoFinal_0_5": 4405,
+  "numeroConcursoProximo": 4399,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5663184.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 105783322.32,
+  "valorAcumuladoProximoConcurso": 601462.64,
+  "valorEstimadoProximoConcurso": 1200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

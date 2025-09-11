@@ -1,0 +1,122 @@
+{
+  "acumulado": true,
+  "dataApuracao": "05/11/2003",
+  "dataProximoConcurso": "08/11/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "11",
+    "35",
+    "69",
+    "93",
+    "06",
+    "31",
+    "29",
+    "10",
+    "18",
+    "80",
+    "77",
+    "26",
+    "28",
+    "05",
+    "50",
+    "63",
+    "97",
+    "17",
+    "38",
+    "08"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "06",
+    "08",
+    "10",
+    "11",
+    "17",
+    "18",
+    "26",
+    "28",
+    "29",
+    "31",
+    "35",
+    "38",
+    "50",
+    "63",
+    "69",
+    "77",
+    "80",
+    "93",
+    "97"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SE"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 26,
+      "valorPremio": 13078.15
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 373,
+      "valorPremio": 911.61
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2510,
+      "valorPremio": 67.49
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 13981,
+      "valorPremio": 12.12
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 170016.02
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "POÇOS DE CALDAS, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 365,
+  "numeroConcursoAnterior": 364,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 366,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio próximo concurso: (20 ACERTOS)R$2.500.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1778470.24,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

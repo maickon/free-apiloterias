@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "10/05/2014",
+  "dataProximoConcurso": "12/05/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "43",
+    "27",
+    "16",
+    "23",
+    "50"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "16",
+    "23",
+    "27",
+    "43",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 85,
+      "valorPremio": 4267.99
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6003,
+      "valorPremio": 86.33
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Uberaba, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3485,
+  "numeroConcursoAnterior": 3484,
+  "numeroConcursoFinal_0_5": 3495,
+  "numeroConcursoProximo": 3486,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4709366.25,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 74112972.11,
+  "valorAcumuladoProximoConcurso": 507890.49,
+  "valorEstimadoProximoConcurso": 1100000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

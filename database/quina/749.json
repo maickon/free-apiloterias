@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "16/09/2000",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "34",
+    "18",
+    "40",
+    "55",
+    "37"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "18",
+    "34",
+    "37",
+    "40",
+    "55"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 349790.33
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 450,
+      "valorPremio": 774.98
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 15859,
+      "valorPremio": 29.33
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Tubarão, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 749,
+  "numeroConcursoAnterior": 748,
+  "numeroConcursoFinal_0_5": 755,
+  "numeroConcursoProximo": 750,
+  "numeroJogo": 3,
+  "observacao": "Sorteio em Tubarão/SC (Caminhão da Sorte). Ganhador: SP. Previsão prêmio próximo conc. R$300MIL .",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

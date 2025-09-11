@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "29/08/2007",
+  "dataProximoConcurso": "01/09/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "60",
+    "36",
+    "67",
+    "59",
+    "41",
+    "22",
+    "47",
+    "72",
+    "12",
+    "09",
+    "53",
+    "78",
+    "13",
+    "34",
+    "17",
+    "99",
+    "38",
+    "19",
+    "61",
+    "07"
+  ],
+  "exibirDetalhamentoPorCidade": false,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "09",
+    "12",
+    "13",
+    "17",
+    "19",
+    "22",
+    "34",
+    "36",
+    "38",
+    "41",
+    "47",
+    "53",
+    "59",
+    "60",
+    "61",
+    "67",
+    "72",
+    "78",
+    "99"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1578823.13
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 22,
+      "valorPremio": 13561.19
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 255,
+      "valorPremio": 1169.98
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2332,
+      "valorPremio": 63.73
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 12961,
+      "valorPremio": 11.47
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 149173.06
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "GUARAMIRIM, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 753,
+  "numeroConcursoAnterior": 752,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 754,
+  "numeroJogo": 16,
+  "observacao": "Ganhador de 20 acertos: Mandaguari/PR.\r\nGanhador de Zero acerto: Blumenau/SC.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

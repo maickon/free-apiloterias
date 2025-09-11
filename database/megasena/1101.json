@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "19/08/2009",
+  "dataProximoConcurso": "22/08/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "07",
+    "12",
+    "57",
+    "06",
+    "24",
+    "10"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "07",
+    "10",
+    "12",
+    "24",
+    "57"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "GUARATINGUETA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 22310116.55
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 284,
+      "valorPremio": 7904.4
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 17901,
+      "valorPremio": 179.14
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "MACAPÁ, AP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1101,
+  "numeroConcursoAnterior": 1100,
+  "numeroConcursoFinal_0_5": 1105,
+  "numeroConcursoProximo": 1102,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 38343704.0,
+  "valorAcumuladoConcurso_0_5": 4934834.86,
+  "valorAcumuladoConcursoEspecial": 33073498.88,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

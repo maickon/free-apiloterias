@@ -1,0 +1,81 @@
+{
+  "acumulado": true,
+  "dataApuracao": "15/10/2019",
+  "dataProximoConcurso": "17/10/2019",
+  "dezenasSorteadasOrdemSorteio": [
+    "21",
+    "18",
+    "09",
+    "26",
+    "06",
+    "24",
+    "10"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "09",
+    "10",
+    "18",
+    "21",
+    "24",
+    "26"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 73,
+      "valorPremio": 2215.63
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3023,
+      "valorPremio": 20.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 38181,
+      "valorPremio": 4.0
+    },
+    {
+      "descricaoFaixa": "Mês da Sorte",
+      "faixa": 5,
+      "numeroDeGanhadores": 168746,
+      "valorPremio": 2.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "Setembro",
+  "numero": 213,
+  "numeroConcursoAnterior": 212,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 214,
+  "numeroJogo": 11,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DIA_DE_SORTE",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 3046990.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 377395.14,
+  "valorEstimadoProximoConcurso": 700000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

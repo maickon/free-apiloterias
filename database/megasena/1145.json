@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "16/01/2010",
+  "dataProximoConcurso": "20/01/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "19",
+    "03",
+    "60",
+    "33",
+    "24",
+    "16"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "16",
+    "19",
+    "24",
+    "33",
+    "60"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "BRASÍLIA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "DF"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 14836725.73
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 129,
+      "valorPremio": 13095.79
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8734,
+      "valorPremio": 276.31
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TORRES, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1145,
+  "numeroConcursoAnterior": 1144,
+  "numeroConcursoFinal_0_5": 1150,
+  "numeroConcursoProximo": 1146,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 28855462.0,
+  "valorAcumuladoConcurso_0_5": 1956096.57,
+  "valorAcumuladoConcursoEspecial": 1473054.66,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

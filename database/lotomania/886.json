@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "06/12/2008",
+  "dataProximoConcurso": "10/12/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "11",
+    "51",
+    "50",
+    "70",
+    "38",
+    "47",
+    "03",
+    "72",
+    "05",
+    "07",
+    "32",
+    "36",
+    "14",
+    "37",
+    "15",
+    "79",
+    "97",
+    "45",
+    "98",
+    "71"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "05",
+    "07",
+    "11",
+    "14",
+    "15",
+    "32",
+    "36",
+    "37",
+    "38",
+    "45",
+    "47",
+    "50",
+    "51",
+    "70",
+    "71",
+    "72",
+    "79",
+    "97",
+    "98"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RS"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1854719.56
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 18,
+      "valorPremio": 18332.12
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 246,
+      "valorPremio": 1341.37
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2172,
+      "valorPremio": 75.96
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 13088,
+      "valorPremio": 12.6
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 82494.53
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "RIBEIRÃO PRETO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 886,
+  "numeroConcursoAnterior": 885,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 887,
+  "numeroJogo": 16,
+  "observacao": "Ganhador de 20 Acertos: PORTO ALEGRE/RS.\r\nGanhadores de 0 (ZERO) Acerto: PORTO ALEGRE/RS e SUZANO/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 350000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

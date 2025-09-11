@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "07/07/2001",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "41",
+    "61",
+    "25",
+    "09",
+    "40"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "25",
+    "40",
+    "41",
+    "61"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 338897.77
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 315,
+      "valorPremio": 1075.87
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 13400,
+      "valorPremio": 33.6
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Rondonópolis, MT",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 866,
+  "numeroConcursoAnterior": 865,
+  "numeroConcursoFinal_0_5": 875,
+  "numeroConcursoProximo": 867,
+  "numeroJogo": 3,
+  "observacao": "Estimativa de prêmio(Quina)próximo concurso: R$300MIL",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

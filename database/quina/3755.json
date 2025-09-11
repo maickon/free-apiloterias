@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "04/04/2015",
+  "dataProximoConcurso": "06/04/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "68",
+    "41",
+    "78",
+    "63",
+    "16"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "16",
+    "41",
+    "63",
+    "68",
+    "78"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 49,
+      "valorPremio": 8597.16
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3881,
+      "valorPremio": 155.06
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CABREÚVA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3755,
+  "numeroConcursoAnterior": 3754,
+  "numeroConcursoFinal_0_5": 3765,
+  "numeroConcursoProximo": 3756,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5468539.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 79453909.13,
+  "valorAcumuladoProximoConcurso": 589764.91,
+  "valorEstimadoProximoConcurso": 1200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

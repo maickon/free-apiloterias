@@ -1,0 +1,87 @@
+{
+  "acumulado": true,
+  "dataApuracao": "10/01/2017",
+  "dataProximoConcurso": "12/01/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "10",
+    "33",
+    "36",
+    "78",
+    "59",
+    "76",
+    "61"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "33",
+    "36",
+    "59",
+    "61",
+    "76",
+    "78"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 9,
+      "valorPremio": 23317.98
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 342,
+      "valorPremio": 876.61
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 6712,
+      "valorPremio": 6.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 67508,
+      "valorPremio": 2.0
+    },
+    {
+      "descricaoFaixa": "Time do Coração",
+      "faixa": 6,
+      "numeroDeGanhadores": 46214,
+      "valorPremio": 5.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "BELÉM, PA",
+  "nomeTimeCoracaoMesSorte": "BAHIA/BA",
+  "numero": 979,
+  "numeroConcursoAnterior": 978,
+  "numeroConcursoFinal_0_5": 980,
+  "numeroConcursoProximo": 980,
+  "numeroJogo": 20,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "TIMEMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4142110.0,
+  "valorAcumuladoConcurso_0_5": 13093606.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 13093606.0,
+  "valorEstimadoProximoConcurso": 13500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

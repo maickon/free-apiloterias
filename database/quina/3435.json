@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "10/03/2014",
+  "dataProximoConcurso": "11/03/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "29",
+    "56",
+    "78",
+    "42",
+    "07"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "29",
+    "42",
+    "56",
+    "78"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 133,
+      "valorPremio": 3028.88
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6348,
+      "valorPremio": 90.65
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ARROIO DO SILVA, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3435,
+  "numeroConcursoAnterior": 3434,
+  "numeroConcursoFinal_0_5": 3445,
+  "numeroConcursoProximo": 3436,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5229429.75,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 60717987.21,
+  "valorAcumuladoProximoConcurso": 1101994.45,
+  "valorEstimadoProximoConcurso": 1700000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

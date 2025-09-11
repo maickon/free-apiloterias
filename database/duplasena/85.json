@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "10/09/2002",
+  "dataProximoConcurso": "13/09/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "09",
+    "25",
+    "28",
+    "27",
+    "19",
+    "32",
+    "23",
+    "24",
+    "45",
+    "01",
+    "19",
+    "30"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "19",
+    "25",
+    "27",
+    "28",
+    "32"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "01",
+    "19",
+    "23",
+    "24",
+    "30",
+    "45"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 213566.32
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 35,
+      "valorPremio": 4067.93
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1925,
+      "valorPremio": 73.69
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Feira de Santana, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 85,
+  "numeroConcursoAnterior": 84,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 86,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$4.700.000,00. O ganhador da sena-2ºsorteio é de SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 4370829.75,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,90 @@
+{
+  "acumulado": false,
+  "dataApuracao": "11/07/2020",
+  "dataProximoConcurso": "14/07/2020",
+  "dezenasSorteadasOrdemSorteio": [
+    "27",
+    "20",
+    "11",
+    "14",
+    "17",
+    "25",
+    "23"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "14",
+    "17",
+    "20",
+    "23",
+    "25",
+    "27"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SAO PAULO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1428508.72
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 103,
+      "valorPremio": 1746.29
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3160,
+      "valorPremio": 20.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 38962,
+      "valorPremio": 4.0
+    },
+    {
+      "descricaoFaixa": "Mês da Sorte",
+      "faixa": 5,
+      "numeroDeGanhadores": 125332,
+      "valorPremio": 2.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO LOTERIAS CAIXA",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "Dezembro",
+  "numero": 328,
+  "numeroConcursoAnterior": 327,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 329,
+  "numeroJogo": 11,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DIA_DE_SORTE",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 3059346.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 350000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

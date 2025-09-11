@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "25/06/2011",
+  "dataProximoConcurso": "29/06/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "20",
+    "02",
+    "43",
+    "15",
+    "05",
+    "57"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "05",
+    "15",
+    "20",
+    "43",
+    "57"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SANTO ANDRÉ",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 73451540.26
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 314,
+      "valorPremio": 13945.66
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 20014,
+      "valorPremio": 312.56
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CARUARU, PE",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1295,
+  "numeroConcursoAnterior": 1294,
+  "numeroConcursoFinal_0_5": 1300,
+  "numeroConcursoProximo": 1296,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 74795498.0,
+  "valorAcumuladoConcurso_0_5": 5070347.43,
+  "valorAcumuladoConcursoEspecial": 32766611.7,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

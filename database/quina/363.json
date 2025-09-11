@@ -1,0 +1,65 @@
+{
+  "acumulado": false,
+  "dataApuracao": "08/01/1998",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "74",
+    "60",
+    "17",
+    "31",
+    "51"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "17",
+    "31",
+    "51",
+    "60",
+    "74"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 321101.08
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 195,
+      "valorPremio": 1646.67
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 9931,
+      "valorPremio": 43.03
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "",
+  "nomeMunicipioUFSorteio": "",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 363,
+  "numeroConcursoAnterior": 362,
+  "numeroConcursoFinal_0_5": 365,
+  "numeroConcursoProximo": 364,
+  "numeroJogo": 3,
+  "observacao": "O ganhador da QUINA é do Estado do Pará.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

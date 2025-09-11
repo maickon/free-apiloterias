@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "08/01/2018",
+  "dataProximoConcurso": "09/01/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "49",
+    "52",
+    "33",
+    "10",
+    "31"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "31",
+    "33",
+    "49",
+    "52"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 142,
+      "valorPremio": 4941.05
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 10989,
+      "valorPremio": 96.01
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 238459,
+      "valorPremio": 2.43
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "POMERODE, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4575,
+  "numeroConcursoAnterior": 4574,
+  "numeroConcursoFinal_0_5": 4585,
+  "numeroConcursoProximo": 4576,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 12169548.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 58771913.84,
+  "valorAcumuladoProximoConcurso": 8258872.63,
+  "valorEstimadoProximoConcurso": 9500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

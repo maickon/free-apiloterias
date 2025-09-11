@@ -1,0 +1,81 @@
+{
+  "acumulado": true,
+  "dataApuracao": "13/07/2023",
+  "dataProximoConcurso": "15/07/2023",
+  "dezenasSorteadasOrdemSorteio": [
+    "04",
+    "11",
+    "19",
+    "16",
+    "21",
+    "23",
+    "12"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "11",
+    "12",
+    "16",
+    "19",
+    "21",
+    "23"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 25,
+      "valorPremio": 2959.88
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1123,
+      "valorPremio": 25.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 12816,
+      "valorPremio": 5.0
+    },
+    {
+      "descricaoFaixa": "Mês da Sorte",
+      "faixa": 5,
+      "numeroDeGanhadores": 41503,
+      "valorPremio": 2.5
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO DA SORTE",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "Novembro",
+  "numero": 783,
+  "numeroConcursoAnterior": 782,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 784,
+  "numeroJogo": 11,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DIA_DE_SORTE",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1264772.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 172659.52,
+  "valorEstimadoProximoConcurso": 350000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

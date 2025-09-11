@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "10/07/2010",
+  "dataProximoConcurso": "14/07/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "27",
+    "17",
+    "57",
+    "26",
+    "55",
+    "20"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "17",
+    "20",
+    "26",
+    "27",
+    "55",
+    "57"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "MOMBAÇA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "CE"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 20642817.77
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 63,
+      "valorPremio": 30696.54
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4448,
+      "valorPremio": 621.1
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ANDRADINA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1195,
+  "numeroConcursoAnterior": 1194,
+  "numeroConcursoFinal_0_5": 1200,
+  "numeroConcursoProximo": 1196,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 33032140.0,
+  "valorAcumuladoConcurso_0_5": 2239231.38,
+  "valorAcumuladoConcursoEspecial": 27417227.11,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "20/10/2014",
+  "dataProximoConcurso": "21/10/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "49",
+    "54",
+    "44",
+    "17",
+    "13"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "13",
+    "17",
+    "44",
+    "49",
+    "54"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 123,
+      "valorPremio": 2820.86
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6432,
+      "valorPremio": 77.06
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Nova Venécia, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3618,
+  "numeroConcursoAnterior": 3617,
+  "numeroConcursoFinal_0_5": 3625,
+  "numeroConcursoProximo": 3619,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4504099.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 32881998.67,
+  "valorAcumuladoProximoConcurso": 485753.05,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

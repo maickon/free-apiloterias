@@ -1,0 +1,82 @@
+{
+  "acumulado": false,
+  "dataApuracao": "01/04/2006",
+  "dataProximoConcurso": "04/04/2006",
+  "dezenasSorteadasOrdemSorteio": [
+    "60",
+    "66",
+    "52",
+    "34",
+    "37"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "34",
+    "37",
+    "52",
+    "60",
+    "66"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PE"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 340829.42
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 175,
+      "valorPremio": 2167.59
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7226,
+      "valorPremio": 69.74
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Vitória da Conquista, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1582,
+  "numeroConcursoAnterior": 1581,
+  "numeroConcursoFinal_0_5": 1585,
+  "numeroConcursoProximo": 1583,
+  "numeroJogo": 3,
+  "observacao": "Estimativa de prêmio (quina) para o próximo concurso, a ser realizado em 04/04/2006: R$300.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

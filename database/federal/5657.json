@@ -1,0 +1,118 @@
+{
+  "acumulado": false,
+  "dataApuracao": "23/04/2022",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "058064",
+    "006566",
+    "026746",
+    "046523",
+    "053156"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "058064",
+    "006566",
+    "026746",
+    "046523",
+    "053156"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 0,
+      "municipio": "FERNANDOPOLIS",
+      "nomeFatansiaUL": "FERNANDOPOLIS LOTERICA",
+      "posicao": 5,
+      "serie": "A",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "JAGUARIUNA",
+      "nomeFatansiaUL": "TRIO LOTERIAS",
+      "posicao": 1,
+      "serie": "A",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "SANTO ANDRE",
+      "nomeFatansiaUL": "SAPUCAIA LOTERIAS",
+      "posicao": 2,
+      "serie": "A",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "SAO JOSE DO RIO PRETO",
+      "nomeFatansiaUL": "LOTERICA LEGAL",
+      "posicao": 4,
+      "serie": "A",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "SAO PAULO",
+      "nomeFatansiaUL": "A RODA DE OURO LOTERIAS",
+      "posicao": 3,
+      "serie": "A",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "1 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1350000.0
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 15500.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 14000.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 13000.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 12227.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO DA SORTE",
+  "nomeMunicipioUFSorteio": "SAO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": null,
+  "numero": 5657,
+  "numeroConcursoAnterior": 5656,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 5658,
+  "numeroJogo": 10,
+  "observacao": null,
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTERIA_FEDERAL",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

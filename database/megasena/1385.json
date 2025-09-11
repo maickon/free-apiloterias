@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "02/05/2012",
+  "dataProximoConcurso": "05/05/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "42",
+    "37",
+    "35",
+    "27",
+    "59",
+    "36"
+  ],
+  "exibirDetalhamentoPorCidade": false,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "27",
+    "35",
+    "36",
+    "37",
+    "42",
+    "59"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "ITATIBA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 13402970.05
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 52,
+      "valorPremio": 28177.29
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4170,
+      "valorPremio": 501.95
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ANASTÁCIO, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1385,
+  "numeroConcursoAnterior": 1384,
+  "numeroConcursoFinal_0_5": 1390,
+  "numeroConcursoProximo": 1386,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 25027030.0,
+  "valorAcumuladoConcurso_0_5": 1696569.18,
+  "valorAcumuladoConcursoEspecial": 15856440.95,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "02/01/2015",
+  "dataProximoConcurso": "03/01/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "11",
+    "16",
+    "23",
+    "61",
+    "56"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "16",
+    "23",
+    "56",
+    "61"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 103,
+      "valorPremio": 3545.11
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 11222,
+      "valorPremio": 46.48
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "POSSE, GO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3679,
+  "numeroConcursoAnterior": 3678,
+  "numeroConcursoFinal_0_5": 3685,
+  "numeroConcursoProximo": 3680,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4740094.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 51956551.83,
+  "valorAcumuladoProximoConcurso": 511204.38,
+  "valorEstimadoProximoConcurso": 1200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

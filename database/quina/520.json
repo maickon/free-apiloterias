@@ -1,0 +1,65 @@
+{
+  "acumulado": false,
+  "dataApuracao": "27/02/1999",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "30",
+    "43",
+    "04",
+    "28",
+    "12"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "12",
+    "28",
+    "30",
+    "43"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 8,
+      "valorPremio": 42549.92
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 660,
+      "valorPremio": 515.76
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 23530,
+      "valorPremio": 19.29
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "",
+  "nomeMunicipioUFSorteio": "",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 520,
+  "numeroConcursoAnterior": 519,
+  "numeroConcursoFinal_0_5": 525,
+  "numeroConcursoProximo": 521,
+  "numeroJogo": 3,
+  "observacao": "8 Acertadores da QUINA: Bahia, Pernambuco, Rio de Janeiro, Rio Grande do Sul=2 e São Paulo=3",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

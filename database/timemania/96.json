@@ -1,0 +1,87 @@
+{
+  "acumulado": true,
+  "dataApuracao": "26/12/2009",
+  "dataProximoConcurso": "09/01/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "09",
+    "04",
+    "51",
+    "20",
+    "32",
+    "80",
+    "36"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "09",
+    "20",
+    "32",
+    "36",
+    "51",
+    "80"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 59623.44
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 225,
+      "valorPremio": 757.12
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 4647,
+      "valorPremio": 6.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 43645,
+      "valorPremio": 2.0
+    },
+    {
+      "descricaoFaixa": "Time do Coração",
+      "faixa": 6,
+      "numeroDeGanhadores": 8402,
+      "valorPremio": 2.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "",
+  "nomeMunicipioUFSorteio": "TUBARÃO, SC",
+  "nomeTimeCoracaoMesSorte": "PORT DESPORT     /SP",
+  "numero": 96,
+  "numeroConcursoAnterior": 95,
+  "numeroConcursoFinal_0_5": 100,
+  "numeroConcursoProximo": 97,
+  "numeroJogo": 20,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "TIMEMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2138564.0,
+  "valorAcumuladoConcurso_0_5": 128327.18,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 7487787.23,
+  "valorEstimadoProximoConcurso": 7600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

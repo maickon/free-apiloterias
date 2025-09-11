@@ -1,0 +1,87 @@
+{
+  "acumulado": true,
+  "dataApuracao": "20/07/2011",
+  "dataProximoConcurso": "23/07/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "26",
+    "47",
+    "10",
+    "51",
+    "24",
+    "11",
+    "36"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "11",
+    "24",
+    "26",
+    "36",
+    "47",
+    "51"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 7,
+      "valorPremio": 13459.38
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 203,
+      "valorPremio": 663.02
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 4160,
+      "valorPremio": 6.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 39769,
+      "valorPremio": 2.0
+    },
+    {
+      "descricaoFaixa": "Time do Coração",
+      "faixa": 6,
+      "numeroDeGanhadores": 36163,
+      "valorPremio": 5.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ANDRADAS, MG",
+  "nomeTimeCoracaoMesSorte": "S. PAULO/SP",
+  "numero": 229,
+  "numeroConcursoAnterior": 228,
+  "numeroConcursoFinal_0_5": 230,
+  "numeroConcursoProximo": 230,
+  "numeroJogo": 20,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "TIMEMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2083222.0,
+  "valorAcumuladoConcurso_0_5": 5822450.69,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 5822450.69,
+  "valorEstimadoProximoConcurso": 6000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

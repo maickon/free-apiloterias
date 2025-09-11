@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "31/12/2010",
+  "dataProximoConcurso": "03/01/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "69",
+    "72",
+    "28",
+    "41",
+    "11"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "28",
+    "41",
+    "69",
+    "72"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "DIVISA NOVA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 681357.36
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 54,
+      "valorPremio": 4004.92
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3822,
+      "valorPremio": 80.83
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Angra dos Reis, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2486,
+  "numeroConcursoAnterior": 2485,
+  "numeroConcursoFinal_0_5": 2495,
+  "numeroConcursoProximo": 2487,
+  "numeroJogo": 3,
+  "observacao": "VALOR LÍQUIDO ACUMULADO PARA O CONCURSO ESPECIAL DE SÃO JOÃO - R$ 25.903.040,02.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2807427.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

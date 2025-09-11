@@ -1,0 +1,67 @@
+{
+  "acumulado": true,
+  "dataApuracao": "13/03/2013",
+  "dataProximoConcurso": "16/03/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "26",
+    "10",
+    "04",
+    "37",
+    "47",
+    "57"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "10",
+    "26",
+    "37",
+    "47",
+    "57"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 58,
+      "valorPremio": 25819.12
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4681,
+      "valorPremio": 457.01
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Auditório",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1476,
+  "numeroConcursoAnterior": 1475,
+  "numeroConcursoFinal_0_5": 1480,
+  "numeroConcursoProximo": 1477,
+  "numeroJogo": 2,
+  "observacao": "SORTEIO REALIZADO EM ESTÚDIO DE TV.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 25578566.0,
+  "valorAcumuladoConcurso_0_5": 4340131.41,
+  "valorAcumuladoConcursoEspecial": 11151463.06,
+  "valorAcumuladoProximoConcurso": 2758568.78,
+  "valorEstimadoProximoConcurso": 7000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "21/12/2004",
+  "dataProximoConcurso": "28/12/2004",
+  "dezenasSorteadasOrdemSorteio": [
+    "05",
+    "39",
+    "46",
+    "49",
+    "34",
+    "04",
+    "24",
+    "05",
+    "26",
+    "02",
+    "42",
+    "30"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "05",
+    "34",
+    "39",
+    "46",
+    "49"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "02",
+    "05",
+    "24",
+    "26",
+    "30",
+    "42"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2291175.63
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 23,
+      "valorPremio": 3758.63
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1285,
+      "valorPremio": 67.02
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ATIBAIA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 315,
+  "numeroConcursoAnterior": 314,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 316,
+  "numeroJogo": 18,
+  "observacao": "Estimativa prêmio (sena 1º sorteio) próx conc: R$200.000,00. Acumulado 2º para 1º sorteio: R$129.672,69. Não haverá sorteio das loterias 24, 25/12/04.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

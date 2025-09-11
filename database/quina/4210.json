@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "17/10/2016",
+  "dataProximoConcurso": "18/10/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "38",
+    "73",
+    "30",
+    "51",
+    "32"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "30",
+    "32",
+    "38",
+    "51",
+    "73"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 31,
+      "valorPremio": 11362.36
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 2948,
+      "valorPremio": 179.67
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 89291,
+      "valorPremio": 3.26
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SANTOS DUMONT, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4210,
+  "numeroConcursoAnterior": 4209,
+  "numeroConcursoFinal_0_5": 4215,
+  "numeroConcursoProximo": 4211,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6109375.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 36961306.58,
+  "valorAcumuladoProximoConcurso": 1286900.35,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

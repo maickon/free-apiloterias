@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "06/06/2002",
+  "dataProximoConcurso": "08/06/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "56",
+    "39",
+    "30",
+    "76",
+    "16"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "16",
+    "30",
+    "39",
+    "56",
+    "76"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 219,
+      "valorPremio": 1252.44
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8908,
+      "valorPremio": 40.9
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Campina Grande, PB",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1002,
+  "numeroConcursoAnterior": 1001,
+  "numeroConcursoFinal_0_5": 1005,
+  "numeroConcursoProximo": 1003,
+  "numeroJogo": 3,
+  "observacao": "Estimativa de prêmio (QUINA) próximo concurso: R$650.000,00",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 274283.48,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

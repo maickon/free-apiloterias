@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "13/06/2008",
+  "dataProximoConcurso": "17/06/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "01",
+    "09",
+    "14",
+    "29",
+    "23",
+    "27",
+    "30",
+    "03",
+    "24",
+    "07",
+    "18",
+    "42"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "09",
+    "14",
+    "23",
+    "27",
+    "29"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "03",
+    "07",
+    "18",
+    "24",
+    "30",
+    "42"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 62,
+      "valorPremio": 2218.93
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2451,
+      "valorPremio": 56.13
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "GOIÁS, GO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 665,
+  "numeroConcursoAnterior": 664,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 666,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 2430981.52,
+  "valorEstimadoProximoConcurso": 2600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

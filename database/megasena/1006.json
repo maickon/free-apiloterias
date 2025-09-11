@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "20/09/2008",
+  "dataProximoConcurso": "24/09/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "48",
+    "17",
+    "04",
+    "33",
+    "55",
+    "02"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "04",
+    "17",
+    "33",
+    "48",
+    "55"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1675260.09
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 136,
+      "valorPremio": 6686.96
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5935,
+      "valorPremio": 153.23
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SÃO MATEUS DO SUL, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1006,
+  "numeroConcursoAnterior": 1005,
+  "numeroConcursoFinal_0_5": 1010,
+  "numeroConcursoProximo": 1007,
+  "numeroJogo": 2,
+  "observacao": "GANHADOR DE 6 ACERTOS: JUIZ DE FORA/MG.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 2585098.58,
+  "valorAcumuladoConcursoEspecial": 5220890.05,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 1500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

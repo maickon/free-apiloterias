@@ -1,0 +1,87 @@
+{
+  "acumulado": true,
+  "dataApuracao": "22/08/2015",
+  "dataProximoConcurso": "25/08/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "61",
+    "39",
+    "80",
+    "59",
+    "47",
+    "21",
+    "27"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "21",
+    "27",
+    "39",
+    "47",
+    "59",
+    "61",
+    "80"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 54489.25
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 127,
+      "valorPremio": 1225.85
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2930,
+      "valorPremio": 6.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 29960,
+      "valorPremio": 2.0
+    },
+    {
+      "descricaoFaixa": "Time do Coração",
+      "faixa": 6,
+      "numeroDeGanhadores": 7552,
+      "valorPremio": 5.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "COLATINA, ES",
+  "nomeTimeCoracaoMesSorte": "VILA NOVA/GO",
+  "numero": 767,
+  "numeroConcursoAnterior": 766,
+  "numeroConcursoFinal_0_5": 770,
+  "numeroConcursoProximo": 768,
+  "numeroJogo": 20,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "TIMEMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1942778.0,
+  "valorAcumuladoConcurso_0_5": 167466.86,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 5741896.4,
+  "valorEstimadoProximoConcurso": 6000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "11/11/2014",
+  "dataProximoConcurso": "12/11/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "63",
+    "42",
+    "19",
+    "29",
+    "52"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "19",
+    "29",
+    "42",
+    "52",
+    "63"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 75,
+      "valorPremio": 7477.24
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5224,
+      "valorPremio": 153.35
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESTÚDIO DE TV",
+  "nomeMunicipioUFSorteio": "OSASCO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3637,
+  "numeroConcursoAnterior": 3636,
+  "numeroConcursoFinal_0_5": 3645,
+  "numeroConcursoProximo": 3638,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7279856.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 39167862.85,
+  "valorAcumuladoProximoConcurso": 2034338.8,
+  "valorEstimadoProximoConcurso": 2800000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

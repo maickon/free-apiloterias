@@ -1,0 +1,107 @@
+{
+  "acumulado": false,
+  "dataApuracao": "10/06/2014",
+  "dataProximoConcurso": "13/06/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "20",
+    "41",
+    "03",
+    "40",
+    "29",
+    "04",
+    "36",
+    "27",
+    "34",
+    "32",
+    "14",
+    "12"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "04",
+    "20",
+    "29",
+    "40",
+    "41"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "12",
+    "14",
+    "27",
+    "32",
+    "34",
+    "36"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "ARARUNA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 5687298.48
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 73,
+      "valorPremio": 3590.73
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3743,
+      "valorPremio": 66.69
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 145,
+      "valorPremio": 1807.75
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 6053,
+      "valorPremio": 41.24
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Auditório",
+  "nomeMunicipioUFSorteio": "OSASCO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1288,
+  "numeroConcursoAnterior": 1287,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1289,
+  "numeroJogo": 18,
+  "observacao": "SORTEIO REALIZADO EM ESTÚDIO DE TV. O PRÊMIO DA SENA DO 2º SORTEIO (R$ 349.497,68) FICA ACUMULADO PARA A SENA DO 1º SORTEIO DO PRÓXIMO CONCURSO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5671197.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 349497.68,
+  "valorEstimadoProximoConcurso": 600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

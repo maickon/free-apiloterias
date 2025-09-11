@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "04/12/2001",
+  "dataProximoConcurso": "07/12/2001",
+  "dezenasSorteadasOrdemSorteio": [
+    "44",
+    "22",
+    "37",
+    "18",
+    "42",
+    "10",
+    "26",
+    "31",
+    "42",
+    "46",
+    "10",
+    "37"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "18",
+    "22",
+    "37",
+    "42",
+    "44"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "10",
+    "26",
+    "31",
+    "37",
+    "42",
+    "46"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RS"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2979726.32
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 17,
+      "valorPremio": 8219.01
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1300,
+      "valorPremio": 107.08
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Sertãozinho, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 9,
+  "numeroConcursoAnterior": 8,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 10,
+  "numeroJogo": 18,
+  "observacao": "Estimativa prêmio (SENA-1ºSORTEIO) próximo concurso: R$350.000,00. Valor acumulado para a SENA-1ºsorteio é de R$209.584,55.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

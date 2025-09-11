@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "06/04/2002",
+  "dataProximoConcurso": "10/04/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "89",
+    "88",
+    "67",
+    "06",
+    "50",
+    "40",
+    "45",
+    "16",
+    "44",
+    "46",
+    "38",
+    "96",
+    "70",
+    "30",
+    "17",
+    "59",
+    "55",
+    "27",
+    "62",
+    "49"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "16",
+    "17",
+    "27",
+    "30",
+    "38",
+    "40",
+    "44",
+    "45",
+    "46",
+    "49",
+    "50",
+    "55",
+    "59",
+    "62",
+    "67",
+    "70",
+    "88",
+    "89",
+    "96"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PE"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 591169.76
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 13,
+      "valorPremio": 35153.75
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 179,
+      "valorPremio": 2553.07
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1848,
+      "valorPremio": 123.19
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 15453,
+      "valorPremio": 14.74
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 228499.42
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Santa Rosa, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 204,
+  "numeroConcursoAnterior": 203,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 205,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios próximo concurso: (20 ACERTOS) R$600.000,00 - (ZERO ACERTO) R$200.000,00. Ganhador da faixa (zero acerto) é de PE.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

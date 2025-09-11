@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "07/02/2004",
+  "dataProximoConcurso": "11/02/2004",
+  "dezenasSorteadasOrdemSorteio": [
+    "15",
+    "71",
+    "08",
+    "47",
+    "80",
+    "16",
+    "36",
+    "56",
+    "24",
+    "60",
+    "51",
+    "33",
+    "87",
+    "91",
+    "27",
+    "22",
+    "25",
+    "21",
+    "90",
+    "02"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "08",
+    "15",
+    "16",
+    "21",
+    "22",
+    "24",
+    "25",
+    "27",
+    "33",
+    "36",
+    "47",
+    "51",
+    "56",
+    "60",
+    "71",
+    "80",
+    "87",
+    "90",
+    "91"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1780256.74
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 16,
+      "valorPremio": 23715.28
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 282,
+      "valorPremio": 1345.55
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2202,
+      "valorPremio": 85.84
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 12787,
+      "valorPremio": 14.79
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 189722.24
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "VACARIA, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 390,
+  "numeroConcursoAnterior": 389,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 391,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 ACERTOS) próximo concurso: R$450.000,00. Ganhadores (zero acerto) por Estado: SP(1).",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "04/07/2006",
+  "dataProximoConcurso": "07/07/2006",
+  "dezenasSorteadasOrdemSorteio": [
+    "46",
+    "39",
+    "27",
+    "48",
+    "38",
+    "06",
+    "25",
+    "17",
+    "10",
+    "23",
+    "22",
+    "28"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "27",
+    "38",
+    "39",
+    "46",
+    "48"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "10",
+    "17",
+    "22",
+    "23",
+    "25",
+    "28"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MT"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2514240.82
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 14,
+      "valorPremio": 6641.36
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1314,
+      "valorPremio": 70.5
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "BRASÍLIA, DF",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 467,
+  "numeroConcursoAnterior": 466,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 468,
+  "numeroJogo": 18,
+  "observacao": "Estim. prêmio (sena 1º sorteio) próximo concurso, a ser realizado em 07/07/2006: R$250.000,00. Acumulado 2º para 1º sorteio: R$139.468,48.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

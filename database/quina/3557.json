@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "09/08/2014",
+  "dataProximoConcurso": "11/08/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "63",
+    "56",
+    "38",
+    "10",
+    "01"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "10",
+    "38",
+    "56",
+    "63"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 96,
+      "valorPremio": 5594.43
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6899,
+      "valorPremio": 111.2
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "URUSSANGA, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3557,
+  "numeroConcursoAnterior": 3556,
+  "numeroConcursoFinal_0_5": 3565,
+  "numeroConcursoProximo": 3558,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6971842.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 13360911.45,
+  "valorAcumuladoProximoConcurso": 2048026.62,
+  "valorEstimadoProximoConcurso": 2800000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

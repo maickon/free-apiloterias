@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "29/05/2009",
+  "dataProximoConcurso": "02/06/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "40",
+    "49",
+    "33",
+    "50",
+    "31",
+    "41",
+    "12",
+    "50",
+    "41",
+    "31",
+    "45",
+    "23"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "31",
+    "33",
+    "40",
+    "41",
+    "49",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "12",
+    "23",
+    "31",
+    "41",
+    "45",
+    "50"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SANTO ANDRÉ",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 277261.01
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 15,
+      "valorPremio": 5905.33
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1159,
+      "valorPremio": 109.18
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PRADÓPOLIS, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 763,
+  "numeroConcursoAnterior": 762,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 764,
+  "numeroJogo": 18,
+  "observacao": "A APOSTA GANHADORA DE 6 ACERTOS DO 1º SORTEIO FOI REALIZADA EM SANTO ANDRÉ/SP. O VALOR ACUMULADO REFERE-SE AO PRÊMIO PARA 6 ACERTOS DO 2º SORTEIO, QUE NESTE CONCURSO NÃO HOUVE GANHADOR.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1437361.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 132869.91,
+  "valorEstimadoProximoConcurso": 250000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,87 @@
+{
+  "acumulado": true,
+  "dataApuracao": "02/05/2015",
+  "dataProximoConcurso": "05/05/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "67",
+    "57",
+    "73",
+    "63",
+    "21",
+    "22",
+    "44"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "21",
+    "22",
+    "44",
+    "57",
+    "63",
+    "67",
+    "73"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 5,
+      "valorPremio": 22396.5
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 164,
+      "valorPremio": 975.45
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 3331,
+      "valorPremio": 6.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 33527,
+      "valorPremio": 2.0
+    },
+    {
+      "descricaoFaixa": "Time do Coração",
+      "faixa": 6,
+      "numeroDeGanhadores": 15154,
+      "valorPremio": 5.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "REGISTRO, SP",
+  "nomeTimeCoracaoMesSorte": "VITÓRIA/BA",
+  "numero": 720,
+  "numeroConcursoAnterior": 719,
+  "numeroConcursoFinal_0_5": 725,
+  "numeroConcursoProximo": 721,
+  "numeroJogo": 20,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "TIMEMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2092794.0,
+  "valorAcumuladoConcurso_0_5": 55991.28,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 7253544.68,
+  "valorEstimadoProximoConcurso": 7500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

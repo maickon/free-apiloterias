@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "05/10/2017",
+  "dataProximoConcurso": "06/10/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "79",
+    "24",
+    "11",
+    "33",
+    "34"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "24",
+    "33",
+    "34",
+    "79"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 45,
+      "valorPremio": 9455.8
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5574,
+      "valorPremio": 114.79
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 147391,
+      "valorPremio": 2.38
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ITAPIRANGA, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4499,
+  "numeroConcursoAnterior": 4498,
+  "numeroConcursoFinal_0_5": 4505,
+  "numeroConcursoProximo": 4500,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7380355.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 31941019.19,
+  "valorAcumuladoProximoConcurso": 2163459.34,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

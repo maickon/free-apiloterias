@@ -1,0 +1,87 @@
+{
+  "acumulado": true,
+  "dataApuracao": "22/08/2009",
+  "dataProximoConcurso": "29/08/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "38",
+    "56",
+    "22",
+    "44",
+    "48",
+    "39",
+    "52"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "22",
+    "38",
+    "39",
+    "44",
+    "48",
+    "52",
+    "56"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 6,
+      "valorPremio": 23561.52
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 179,
+      "valorPremio": 752.16
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 3383,
+      "valorPremio": 6.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 29841,
+      "valorPremio": 2.0
+    },
+    {
+      "descricaoFaixa": "Time do Coração",
+      "faixa": 6,
+      "numeroDeGanhadores": 13570,
+      "valorPremio": 2.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SANTANA, AP",
+  "nomeTimeCoracaoMesSorte": "VITÓRIA/BA",
+  "numero": 78,
+  "numeroConcursoAnterior": 77,
+  "numeroConcursoFinal_0_5": 80,
+  "numeroConcursoProximo": 79,
+  "numeroJogo": 20,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "TIMEMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1696318.0,
+  "valorAcumuladoConcurso_0_5": 184902.15,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 2213636.78,
+  "valorEstimadoProximoConcurso": 2400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

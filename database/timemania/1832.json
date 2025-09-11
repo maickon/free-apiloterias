@@ -1,0 +1,87 @@
+{
+  "acumulado": true,
+  "dataApuracao": "08/09/2022",
+  "dataProximoConcurso": "10/09/2022",
+  "dezenasSorteadasOrdemSorteio": [
+    "61",
+    "14",
+    "44",
+    "55",
+    "05",
+    "56",
+    "34"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "14",
+    "34",
+    "44",
+    "55",
+    "56",
+    "61"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 23199.1
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 51,
+      "valorPremio": 1299.66
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 941,
+      "valorPremio": 9.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 9921,
+      "valorPremio": 3.0
+    },
+    {
+      "descricaoFaixa": "Time do Coração",
+      "faixa": 6,
+      "numeroDeGanhadores": 4380,
+      "valorPremio": 7.5
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO DA SORTE",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "FORTALEZA        /CE",
+  "numero": 1832,
+  "numeroConcursoAnterior": 1831,
+  "numeroConcursoFinal_0_5": 1835,
+  "numeroConcursoProximo": 1833,
+  "numeroJogo": 20,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "TIMEMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 874995.0,
+  "valorAcumuladoConcurso_0_5": 179079.63,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 115995.5,
+  "valorEstimadoProximoConcurso": 200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "09/08/2013",
+  "dataProximoConcurso": "10/08/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "29",
+    "11",
+    "10",
+    "57",
+    "72"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "11",
+    "29",
+    "57",
+    "72"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 122,
+      "valorPremio": 4442.06
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8669,
+      "valorPremio": 89.3
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ITABIRA, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3261,
+  "numeroConcursoAnterior": 3260,
+  "numeroConcursoFinal_0_5": 3265,
+  "numeroConcursoProximo": 3262,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7035012.75,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 11748169.38,
+  "valorAcumuladoProximoConcurso": 1992527.26,
+  "valorEstimadoProximoConcurso": 2800000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

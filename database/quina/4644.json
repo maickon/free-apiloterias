@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "02/04/2018",
+  "dataProximoConcurso": "03/04/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "32",
+    "13",
+    "22",
+    "31",
+    "18"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "13",
+    "18",
+    "22",
+    "31",
+    "32"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 92,
+      "valorPremio": 4060.81
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6968,
+      "valorPremio": 80.62
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 146308,
+      "valorPremio": 2.11
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "SEARA, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4644,
+  "numeroConcursoAnterior": 4643,
+  "numeroConcursoFinal_0_5": 4645,
+  "numeroConcursoProximo": 4645,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6479875.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 82757676.71,
+  "valorAcumuladoProximoConcurso": 1265636.48,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

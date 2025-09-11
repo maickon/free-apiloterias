@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "23/12/2010",
+  "dataProximoConcurso": "24/12/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "01",
+    "31",
+    "48",
+    "78",
+    "44"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "31",
+    "44",
+    "48",
+    "78"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 86,
+      "valorPremio": 3150.73
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6404,
+      "valorPremio": 60.44
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "VOLTA REDONDA, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2480,
+  "numeroConcursoAnterior": 2479,
+  "numeroConcursoFinal_0_5": 2485,
+  "numeroConcursoProximo": 2481,
+  "numeroJogo": 3,
+  "observacao": "VALOR LÍQUIDO ACUMULADO PARA O CONCURSO ESPECIAL DE SÃO JOÃO - R$ 24.906.260,92.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 3517464.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 379347.59,
+  "valorEstimadoProximoConcurso": 700000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

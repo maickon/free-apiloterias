@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "03/02/2004",
+  "dataProximoConcurso": "05/02/2004",
+  "dezenasSorteadasOrdemSorteio": [
+    "15",
+    "64",
+    "30",
+    "43",
+    "63"
+  ],
+  "exibirDetalhamentoPorCidade": false,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "15",
+    "30",
+    "43",
+    "63",
+    "64"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 271538.24
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 84,
+      "valorPremio": 3232.6
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4563,
+      "valorPremio": 79.04
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "VACARIA, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1257,
+  "numeroConcursoAnterior": 1256,
+  "numeroConcursoFinal_0_5": 1265,
+  "numeroConcursoProximo": 1258,
+  "numeroJogo": 3,
+  "observacao": "Estimativa de prêmio (QUINA) próximo concurso: R$300.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

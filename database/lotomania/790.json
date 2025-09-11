@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "05/01/2008",
+  "dataProximoConcurso": "09/01/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "84",
+    "76",
+    "65",
+    "47",
+    "38",
+    "91",
+    "16",
+    "68",
+    "57",
+    "44",
+    "28",
+    "81",
+    "82",
+    "56",
+    "06",
+    "61",
+    "15",
+    "85",
+    "09",
+    "17"
+  ],
+  "exibirDetalhamentoPorCidade": false,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "09",
+    "15",
+    "16",
+    "17",
+    "28",
+    "38",
+    "44",
+    "47",
+    "56",
+    "57",
+    "61",
+    "65",
+    "68",
+    "76",
+    "81",
+    "82",
+    "84",
+    "85",
+    "91"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "CE"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "GO"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 1868447.49
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 4,
+      "valorPremio": 81852.03
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 140,
+      "valorPremio": 2338.63
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1511,
+      "valorPremio": 108.34
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 9529,
+      "valorPremio": 17.18
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 81852.04
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "MACAÉ, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 790,
+  "numeroConcursoAnterior": 789,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 791,
+  "numeroJogo": 16,
+  "observacao": "GANHADORES DE 20 ACERTOS: FORTALEZA/CE e GOIÂNIA/GO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "02/10/2009",
+  "dataProximoConcurso": "06/10/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "11",
+    "17",
+    "47",
+    "38",
+    "42",
+    "49",
+    "35",
+    "13",
+    "15",
+    "18",
+    "21",
+    "42"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "17",
+    "38",
+    "42",
+    "47",
+    "49"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "13",
+    "15",
+    "18",
+    "21",
+    "35",
+    "42"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 61522.3
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 93,
+      "valorPremio": 1323.06
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2336,
+      "valorPremio": 75.24
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "MANAUS, AM",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 799,
+  "numeroConcursoAnterior": 798,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 800,
+  "numeroJogo": 18,
+  "observacao": "Ganhadores de seis acertos do 2º sorteio: Porto Alegre/RS, Cariacica/ES e Rondonópolis/MT.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1996609.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1564517.34,
+  "valorEstimadoProximoConcurso": 1800000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

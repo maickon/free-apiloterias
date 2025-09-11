@@ -1,0 +1,80 @@
+{
+  "acumulado": false,
+  "dataApuracao": "20/02/2017",
+  "dataProximoConcurso": "21/02/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "23",
+    "76",
+    "78",
+    "15",
+    "17"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "15",
+    "17",
+    "23",
+    "76",
+    "78"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SANTA ROSA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RS"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 5431283.05
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 79,
+      "valorPremio": 6282.3
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6564,
+      "valorPremio": 113.69
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 169753,
+      "valorPremio": 2.41
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Espaço Caixa Loterias",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4316,
+  "numeroConcursoAnterior": 4315,
+  "numeroConcursoFinal_0_5": 4325,
+  "numeroConcursoProximo": 4317,
+  "numeroJogo": 3,
+  "observacao": "Devido a problemas no ambiente tecnológico de processamento de loterias, a apuração dos ganhadores do concurso 4317 da Quina será realizada no dia 22/02/2017, às 10h, no Espaço Caixa Loterias/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 8608194.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 74081711.91,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

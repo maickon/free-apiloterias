@@ -1,0 +1,80 @@
+{
+  "acumulado": false,
+  "dataApuracao": "22/12/2021",
+  "dataProximoConcurso": "23/12/2021",
+  "dezenasSorteadasOrdemSorteio": [
+    "53",
+    "15",
+    "58",
+    "40",
+    "36"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "15",
+    "36",
+    "40",
+    "53",
+    "58"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "NOVA BANDEIRANTES",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MT"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 730905.35
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 44,
+      "valorPremio": 7119.21
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3676,
+      "valorPremio": 81.15
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 88738,
+      "valorPremio": 3.36
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO LOTERIAS CAIXA",
+  "nomeMunicipioUFSorteio": "SÃO PAULO,  SP",
+  "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "numero": 5737,
+  "numeroConcursoAnterior": 5736,
+  "numeroConcursoFinal_0_5": 5745,
+  "numeroConcursoProximo": 5738,
+  "numeroJogo": 3,
+  "observacao": "Acumulado próximo concurso final cinco (5745) R$ 1.699.641,92",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6881862.0,
+  "valorAcumuladoConcurso_0_5": 1699641.92,
+  "valorAcumuladoConcursoEspecial": 69952273.09,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 700000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

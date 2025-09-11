@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "28/08/2008",
+  "dataProximoConcurso": "30/08/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "57",
+    "16",
+    "28",
+    "61",
+    "33"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "16",
+    "28",
+    "33",
+    "57",
+    "61"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 3317910.59
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 258,
+      "valorPremio": 2722.58
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 11234,
+      "valorPremio": 83.37
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PRESIDENTE VENCESLAU, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1945,
+  "numeroConcursoAnterior": 1944,
+  "numeroConcursoFinal_0_5": 1955,
+  "numeroConcursoProximo": 1946,
+  "numeroJogo": 3,
+  "observacao": "Ganhador da Quina: São Paulo/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 360000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

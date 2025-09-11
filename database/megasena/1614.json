@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "05/07/2014",
+  "dataProximoConcurso": "09/07/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "49",
+    "27",
+    "43",
+    "17",
+    "14",
+    "21"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "14",
+    "17",
+    "21",
+    "27",
+    "43",
+    "49"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SÃO PAULO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 6912438.29
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 149,
+      "valorPremio": 13843.25
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7458,
+      "valorPremio": 395.09
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "EUNÁPOLIS, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1614,
+  "numeroConcursoAnterior": 1613,
+  "numeroConcursoFinal_0_5": 1615,
+  "numeroConcursoProximo": 1615,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 35231515.0,
+  "valorAcumuladoConcurso_0_5": 15457912.45,
+  "valorAcumuladoConcursoEspecial": 38345074.33,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 20000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

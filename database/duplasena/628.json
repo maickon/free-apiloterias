@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "29/01/2008",
+  "dataProximoConcurso": "01/02/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "32",
+    "27",
+    "01",
+    "02",
+    "24",
+    "14",
+    "41",
+    "06",
+    "25",
+    "48",
+    "36",
+    "31"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "02",
+    "14",
+    "24",
+    "27",
+    "32"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "06",
+    "25",
+    "31",
+    "36",
+    "41",
+    "48"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 17,
+      "valorPremio": 4192.47
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 809,
+      "valorPremio": 88.1
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "GUARAPARI, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 628,
+  "numeroConcursoAnterior": 627,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 629,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 213815.8,
+  "valorEstimadoProximoConcurso": 350000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

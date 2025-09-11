@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "04/08/2004",
+  "dataProximoConcurso": "07/08/2004",
+  "dezenasSorteadasOrdemSorteio": [
+    "96",
+    "84",
+    "54",
+    "43",
+    "83",
+    "35",
+    "76",
+    "74",
+    "91",
+    "92",
+    "46",
+    "52",
+    "87",
+    "14",
+    "24",
+    "82",
+    "86",
+    "42",
+    "10",
+    "70"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "14",
+    "24",
+    "35",
+    "42",
+    "43",
+    "46",
+    "52",
+    "54",
+    "70",
+    "74",
+    "76",
+    "82",
+    "83",
+    "84",
+    "86",
+    "87",
+    "91",
+    "92",
+    "96"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1563183.2
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 5,
+      "valorPremio": 63965.38
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 197,
+      "valorPremio": 1623.49
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1787,
+      "valorPremio": 89.15
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 10838,
+      "valorPremio": 14.7
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 159913.46
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SÃO LOURENÇO, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 440,
+  "numeroConcursoAnterior": 439,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 441,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 CERTOS) próximo concurso: R$500.000,00 (QUINHENTOS MIL REAIS). Ganhadores (zero acerto)por Estado: PR(1).",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

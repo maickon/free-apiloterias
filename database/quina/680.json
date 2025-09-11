@@ -1,0 +1,82 @@
+{
+  "acumulado": false,
+  "dataApuracao": "30/03/2000",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "36",
+    "63",
+    "50",
+    "35",
+    "71"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "35",
+    "36",
+    "50",
+    "63",
+    "71"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 120927.22
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 185,
+      "valorPremio": 1307.32
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7645,
+      "valorPremio": 42.02
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Campo Grande, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 680,
+  "numeroConcursoAnterior": 679,
+  "numeroConcursoFinal_0_5": 685,
+  "numeroConcursoProximo": 681,
+  "numeroJogo": 3,
+  "observacao": "Sorteio realizado em Campo Grande/MS(Caminhão da Sorte). QUINA saiu p/ R.de Janeiro/RJ e S.Paulo/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "10/09/2014",
+  "dataProximoConcurso": "13/09/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "44",
+    "09",
+    "33",
+    "10",
+    "23",
+    "51"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "10",
+    "23",
+    "33",
+    "44",
+    "51"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "Curitiba",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 7065301.82
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 110,
+      "valorPremio": 18096.85
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6257,
+      "valorPremio": 454.49
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Estúdio de TV",
+  "nomeMunicipioUFSorteio": "OSASCO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1634,
+  "numeroConcursoAnterior": 1633,
+  "numeroConcursoFinal_0_5": 1635,
+  "numeroConcursoProximo": 1635,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 34001840.0,
+  "valorAcumuladoConcurso_0_5": 17961072.32,
+  "valorAcumuladoConcursoEspecial": 52863656.12,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 22000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

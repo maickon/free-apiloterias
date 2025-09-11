@@ -1,0 +1,65 @@
+{
+  "acumulado": false,
+  "dataApuracao": "04/06/1998",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "77",
+    "44",
+    "66",
+    "01",
+    "20"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "20",
+    "44",
+    "66",
+    "77"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 78558.62
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 322,
+      "valorPremio": 731.91
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 10818,
+      "valorPremio": 29.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "",
+  "nomeMunicipioUFSorteio": "",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 412,
+  "numeroConcursoAnterior": 411,
+  "numeroConcursoFinal_0_5": 415,
+  "numeroConcursoProximo": 413,
+  "numeroJogo": 3,
+  "observacao": "Ganhadores da Quina = S+O PAULO: 3",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

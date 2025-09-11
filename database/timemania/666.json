@@ -1,0 +1,87 @@
+{
+  "acumulado": true,
+  "dataApuracao": "18/12/2014",
+  "dataProximoConcurso": "20/12/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "42",
+    "68",
+    "74",
+    "37",
+    "57",
+    "32",
+    "80"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "32",
+    "37",
+    "42",
+    "57",
+    "68",
+    "74",
+    "80"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 5,
+      "valorPremio": 46735.05
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 331,
+      "valorPremio": 1008.52
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 6346,
+      "valorPremio": 6.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 65548,
+      "valorPremio": 2.0
+    },
+    {
+      "descricaoFaixa": "Time do Coração",
+      "faixa": 6,
+      "numeroDeGanhadores": 16336,
+      "valorPremio": 5.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "São João do Piauí, PI",
+  "nomeTimeCoracaoMesSorte": "CRICIÚMA/SC",
+  "numero": 666,
+  "numeroConcursoAnterior": 665,
+  "numeroConcursoFinal_0_5": 670,
+  "numeroConcursoProximo": 667,
+  "numeroJogo": 20,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "TIMEMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4173828.0,
+  "valorAcumuladoConcurso_0_5": 218480.91,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 10444071.81,
+  "valorEstimadoProximoConcurso": 11000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

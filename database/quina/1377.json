@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "23/11/2004",
+  "dataProximoConcurso": "25/11/2004",
+  "dezenasSorteadasOrdemSorteio": [
+    "60",
+    "07",
+    "15",
+    "06",
+    "67"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "07",
+    "15",
+    "60",
+    "67"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 271155.87
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 146,
+      "valorPremio": 1857.23
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5637,
+      "valorPremio": 63.9
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "VITÓRIA, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1377,
+  "numeroConcursoAnterior": 1376,
+  "numeroConcursoFinal_0_5": 1385,
+  "numeroConcursoProximo": 1378,
+  "numeroJogo": 3,
+  "observacao": "Estimativa de prêmio (quina) para o próximo concurso: R$300.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

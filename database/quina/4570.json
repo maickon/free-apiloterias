@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "02/01/2018",
+  "dataProximoConcurso": "03/01/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "38",
+    "65",
+    "36",
+    "59",
+    "26"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "26",
+    "36",
+    "38",
+    "59",
+    "65"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 37,
+      "valorPremio": 11208.72
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4617,
+      "valorPremio": 135.07
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 119503,
+      "valorPremio": 2.87
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CAMBORIÚ, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4570,
+  "numeroConcursoAnterior": 4569,
+  "numeroConcursoFinal_0_5": 4575,
+  "numeroConcursoProximo": 4571,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7193233.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 56406624.43,
+  "valorAcumuladoProximoConcurso": 2739864.17,
+  "valorEstimadoProximoConcurso": 3500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "28/12/2001",
+  "dataProximoConcurso": "28/12/2001",
+  "dezenasSorteadasOrdemSorteio": [
+    "43",
+    "44",
+    "40",
+    "30",
+    "04",
+    "32",
+    "23",
+    "20",
+    "07",
+    "28",
+    "13",
+    "34"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "30",
+    "32",
+    "40",
+    "43",
+    "44"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "07",
+    "13",
+    "20",
+    "23",
+    "28",
+    "34"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 35,
+      "valorPremio": 3926.93
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2057,
+      "valorPremio": 66.57
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Sorocaba, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 15,
+  "numeroConcursoAnterior": 14,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 16,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$2.300.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 2082122.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

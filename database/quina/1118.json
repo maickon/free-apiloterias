@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "11/03/2003",
+  "dataProximoConcurso": "13/03/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "70",
+    "36",
+    "42",
+    "10",
+    "62"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "36",
+    "42",
+    "62",
+    "70"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 319904.06
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 193,
+      "valorPremio": 1657.53
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 9190,
+      "valorPremio": 46.24
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Itumbiara, GO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1118,
+  "numeroConcursoAnterior": 1117,
+  "numeroConcursoFinal_0_5": 1125,
+  "numeroConcursoProximo": 1119,
+  "numeroJogo": 3,
+  "observacao": "Estimativa de prêmio (QUINA) próximo concurso: R$310.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "15/12/2017",
+  "dataProximoConcurso": "16/12/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "78",
+    "07",
+    "49",
+    "11",
+    "50"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "11",
+    "49",
+    "50",
+    "78"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 78,
+      "valorPremio": 5209.31
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5339,
+      "valorPremio": 114.44
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 133328,
+      "valorPremio": 2.52
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "BRAGANÇA PAULISTA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4557,
+  "numeroConcursoAnterior": 4556,
+  "numeroConcursoFinal_0_5": 4565,
+  "numeroConcursoProximo": 4558,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7047600.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 52479691.95,
+  "valorAcumuladoProximoConcurso": 1368088.48,
+  "valorEstimadoProximoConcurso": 2200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

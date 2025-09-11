@@ -1,0 +1,87 @@
+{
+  "acumulado": true,
+  "dataApuracao": "01/02/2020",
+  "dataProximoConcurso": "04/02/2020",
+  "dezenasSorteadasOrdemSorteio": [
+    "68",
+    "03",
+    "29",
+    "66",
+    "43",
+    "71",
+    "51"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "29",
+    "43",
+    "51",
+    "66",
+    "68",
+    "71"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 69,
+      "valorPremio": 1517.54
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1325,
+      "valorPremio": 9.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 13734,
+      "valorPremio": 3.0
+    },
+    {
+      "descricaoFaixa": "Time do Coração",
+      "faixa": 6,
+      "numeroDeGanhadores": 3272,
+      "valorPremio": 7.5
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "CRBIAMUNDOE\u0000\u0000\u0000\u0000\u0000\u0000/AL",
+  "numero": 1440,
+  "numeroConcursoAnterior": 1439,
+  "numeroConcursoFinal_0_5": 1445,
+  "numeroConcursoProximo": 1441,
+  "numeroJogo": 20,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "TIMEMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1307001.0,
+  "valorAcumuladoConcurso_0_5": 36648.75,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1190009.39,
+  "valorEstimadoProximoConcurso": 1350000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

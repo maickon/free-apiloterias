@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "09/09/2000",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "39",
+    "40",
+    "35",
+    "71",
+    "42"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "35",
+    "39",
+    "40",
+    "42",
+    "71"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RN"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 398095.35
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 282,
+      "valorPremio": 1411.69
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 13553,
+      "valorPremio": 39.05
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Birigüi, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 746,
+  "numeroConcursoAnterior": 745,
+  "numeroConcursoFinal_0_5": 755,
+  "numeroConcursoProximo": 747,
+  "numeroJogo": 3,
+  "observacao": "Sorteio em Birigui/SP(Caminhão da Sorte). Ganhador RN. Previsão prêmio prox.conc. R$ 300.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

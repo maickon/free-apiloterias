@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "21/05/2013",
+  "dataProximoConcurso": "22/05/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "33",
+    "63",
+    "16",
+    "67",
+    "51"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "16",
+    "33",
+    "51",
+    "63",
+    "67"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 62,
+      "valorPremio": 5415.93
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4392,
+      "valorPremio": 109.22
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "VILA VELHA, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3199,
+  "numeroConcursoAnterior": 3198,
+  "numeroConcursoFinal_0_5": 3205,
+  "numeroConcursoProximo": 3200,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4358982.75,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 71019551.19,
+  "valorAcumuladoProximoConcurso": 470102.71,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

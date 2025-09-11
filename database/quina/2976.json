@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "22/08/2012",
+  "dataProximoConcurso": "23/08/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "67",
+    "33",
+    "01",
+    "40",
+    "75"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "33",
+    "40",
+    "67",
+    "75"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 59,
+      "valorPremio": 5644.87
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3820,
+      "valorPremio": 124.55
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TAQUARITINGA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2976,
+  "numeroConcursoAnterior": 2975,
+  "numeroConcursoFinal_0_5": 2985,
+  "numeroConcursoProximo": 2977,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4323409.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 12310649.19,
+  "valorAcumuladoProximoConcurso": 466266.25,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

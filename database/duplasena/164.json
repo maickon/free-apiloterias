@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "24/06/2003",
+  "dataProximoConcurso": "27/06/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "40",
+    "41",
+    "47",
+    "23",
+    "45",
+    "04",
+    "26",
+    "50",
+    "33",
+    "27",
+    "19",
+    "20"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "23",
+    "40",
+    "41",
+    "45",
+    "47"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "19",
+    "20",
+    "26",
+    "27",
+    "33",
+    "50"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 17,
+      "valorPremio": 4650.08
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1016,
+      "valorPremio": 77.52
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Curitiba, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 164,
+  "numeroConcursoAnterior": 163,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 165,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$1.300.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1186210.11,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

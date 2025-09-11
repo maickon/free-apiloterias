@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "27/10/2011",
+  "dataProximoConcurso": "28/10/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "24",
+    "28",
+    "47",
+    "35",
+    "31"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "24",
+    "28",
+    "31",
+    "35",
+    "47"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 70,
+      "valorPremio": 4103.89
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4913,
+      "valorPremio": 83.53
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ITATIBA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2732,
+  "numeroConcursoAnterior": 2731,
+  "numeroConcursoFinal_0_5": 2735,
+  "numeroConcursoProximo": 2733,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 3729188.25,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 23780568.46,
+  "valorAcumuladoProximoConcurso": 402181.34,
+  "valorEstimadoProximoConcurso": 800000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

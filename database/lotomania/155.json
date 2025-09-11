@@ -1,0 +1,138 @@
+{
+  "acumulado": false,
+  "dataApuracao": "06/10/2001",
+  "dataProximoConcurso": "10/10/2001",
+  "dezenasSorteadasOrdemSorteio": [
+    "33",
+    "72",
+    "18",
+    "24",
+    "15",
+    "70",
+    "05",
+    "01",
+    "50",
+    "29",
+    "93",
+    "37",
+    "42",
+    "17",
+    "26",
+    "38",
+    "32",
+    "47",
+    "34",
+    "27"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "05",
+    "15",
+    "17",
+    "18",
+    "24",
+    "26",
+    "27",
+    "29",
+    "32",
+    "33",
+    "34",
+    "37",
+    "38",
+    "42",
+    "47",
+    "50",
+    "70",
+    "72",
+    "93"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 413601.32
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 64,
+      "valorPremio": 7645.61
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 858,
+      "valorPremio": 568.14
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 49178,
+      "valorPremio": 7.08
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 28329,
+      "valorPremio": 8.61
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 206800.68
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Chapecó, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 155,
+  "numeroConcursoAnterior": 154,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 156,
+  "numeroJogo": 16,
+  "observacao": "GANHADORES COM ZERO ACERTO DE RJ. Estimativa prêmio próximo concurso: (VINTE ACERTOS) R$500.000,00 - (ZERO ACERTO) R$170.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

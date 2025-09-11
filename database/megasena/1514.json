@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "24/07/2013",
+  "dataProximoConcurso": "27/07/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "23",
+    "16",
+    "17",
+    "59",
+    "42",
+    "60"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "16",
+    "17",
+    "23",
+    "42",
+    "59",
+    "60"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "TOLEDO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 14061405.08
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 66,
+      "valorPremio": 31999.66
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6219,
+      "valorPremio": 485.14
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CAICÓ, RN",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1514,
+  "numeroConcursoAnterior": 1513,
+  "numeroConcursoFinal_0_5": 1515,
+  "numeroConcursoProximo": 1515,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 36074146.0,
+  "valorAcumuladoConcurso_0_5": 11574814.35,
+  "valorAcumuladoConcursoEspecial": 33933877.16,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 14000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

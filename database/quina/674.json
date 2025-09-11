@@ -1,0 +1,82 @@
+{
+  "acumulado": false,
+  "dataApuracao": "16/03/2000",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "50",
+    "06",
+    "56",
+    "02",
+    "80"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "06",
+    "50",
+    "56",
+    "80"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 2,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 88929.4
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 251,
+      "valorPremio": 1062.91
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 10560,
+      "valorPremio": 33.57
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Auditório",
+  "nomeMunicipioUFSorteio": "Brasília, DF",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 674,
+  "numeroConcursoAnterior": 673,
+  "numeroConcursoFinal_0_5": 675,
+  "numeroConcursoProximo": 675,
+  "numeroJogo": 3,
+  "observacao": "Sorteio em Brasília/DF.  A  QUINA saiu para: Belo Horizonte e Pouso Alegre/MG, e São Paulo/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

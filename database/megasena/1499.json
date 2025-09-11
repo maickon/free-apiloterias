@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "01/06/2013",
+  "dataProximoConcurso": "05/06/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "26",
+    "37",
+    "08",
+    "22",
+    "54",
+    "33"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "22",
+    "26",
+    "33",
+    "37",
+    "54"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "PEDRA PRETA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MT"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 43036617.07
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 295,
+      "valorPremio": 13922.29
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 18276,
+      "valorPremio": 321.03
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ITATIAIA, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1499,
+  "numeroConcursoAnterior": 1498,
+  "numeroConcursoFinal_0_5": 1500,
+  "numeroConcursoProximo": 1500,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 70151904.0,
+  "valorAcumuladoConcurso_0_5": 18044570.81,
+  "valorAcumuladoConcursoEspecial": 25283214.32,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 22000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

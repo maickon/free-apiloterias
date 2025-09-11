@@ -1,0 +1,87 @@
+{
+  "acumulado": true,
+  "dataApuracao": "08/12/2010",
+  "dataProximoConcurso": "11/12/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "39",
+    "31",
+    "67",
+    "45",
+    "13",
+    "62",
+    "80"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "13",
+    "31",
+    "39",
+    "45",
+    "62",
+    "67",
+    "80"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 7,
+      "valorPremio": 12058.09
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 160,
+      "valorPremio": 753.63
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2696,
+      "valorPremio": 6.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 25871,
+      "valorPremio": 2.0
+    },
+    {
+      "descricaoFaixa": "Time do Coração",
+      "faixa": 6,
+      "numeroDeGanhadores": 6707,
+      "valorPremio": 5.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "GUARULHOS, SP",
+  "nomeTimeCoracaoMesSorte": "PONTE PRETA/SP",
+  "numero": 165,
+  "numeroConcursoAnterior": 164,
+  "numeroConcursoFinal_0_5": 170,
+  "numeroConcursoProximo": 166,
+  "numeroJogo": 20,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "TIMEMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1531212.0,
+  "valorAcumuladoConcurso_0_5": 42203.33,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 5221169.1,
+  "valorEstimadoProximoConcurso": 5400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

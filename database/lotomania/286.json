@@ -1,0 +1,138 @@
+{
+  "acumulado": false,
+  "dataApuracao": "29/01/2003",
+  "dataProximoConcurso": "01/02/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "55",
+    "44",
+    "14",
+    "71",
+    "92",
+    "96",
+    "17",
+    "68",
+    "19",
+    "35",
+    "21",
+    "43",
+    "64",
+    "05",
+    "01",
+    "37",
+    "27",
+    "50",
+    "23",
+    "39"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "05",
+    "14",
+    "17",
+    "19",
+    "21",
+    "23",
+    "27",
+    "35",
+    "37",
+    "39",
+    "43",
+    "44",
+    "50",
+    "55",
+    "64",
+    "68",
+    "71",
+    "92",
+    "96"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MT"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 388493.08
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 88,
+      "valorPremio": 4210.39
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 851,
+      "valorPremio": 433.74
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 5380,
+      "valorPremio": 34.31
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 23687,
+      "valorPremio": 7.8
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Jardim, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 286,
+  "numeroConcursoAnterior": 285,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 287,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios próximo concurso: (20 ACERTOS) R$650.000,00 - (ZERO ACERTO) R$600.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

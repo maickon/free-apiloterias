@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "05/08/2009",
+  "dataProximoConcurso": "08/08/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "21",
+    "48",
+    "33",
+    "01",
+    "56",
+    "17"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "17",
+    "21",
+    "33",
+    "48",
+    "56"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SANTOS",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 34907671.59
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 242,
+      "valorPremio": 12266.88
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 13115,
+      "valorPremio": 323.35
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ROLIM DE MOURA, RO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1097,
+  "numeroConcursoAnterior": 1096,
+  "numeroConcursoFinal_0_5": 1100,
+  "numeroConcursoProximo": 1098,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 50705642.75,
+  "valorAcumuladoConcurso_0_5": 8971818.95,
+  "valorAcumuladoConcursoEspecial": 31237564.43,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

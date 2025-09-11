@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "20/03/2012",
+  "dataProximoConcurso": "21/03/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "48",
+    "33",
+    "01",
+    "27",
+    "20"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "20",
+    "27",
+    "33",
+    "48"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 81,
+      "valorPremio": 3792.06
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5227,
+      "valorPremio": 83.94
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Auditório",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2852,
+  "numeroConcursoAnterior": 2851,
+  "numeroConcursoFinal_0_5": 2855,
+  "numeroConcursoProximo": 2853,
+  "numeroJogo": 3,
+  "observacao": "SORTEIO REALIZADO EM ESTÚDIO DE TV.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 3987315.75,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 55547490.34,
+  "valorAcumuladoProximoConcurso": 430019.59,
+  "valorEstimadoProximoConcurso": 900000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

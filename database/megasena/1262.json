@@ -1,0 +1,84 @@
+{
+  "acumulado": false,
+  "dataApuracao": "02/03/2011",
+  "dataProximoConcurso": "05/03/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "11",
+    "39",
+    "09",
+    "05",
+    "08",
+    "07"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "07",
+    "08",
+    "09",
+    "11",
+    "39"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "RIO DE JANEIRO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "SÃO JOSÉ DOS CAMPOS",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 16677746.77
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 440,
+      "valorPremio": 6266.81
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 25528,
+      "valorPremio": 154.3
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PARATY, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1262,
+  "numeroConcursoAnterior": 1261,
+  "numeroConcursoFinal_0_5": 1265,
+  "numeroConcursoProximo": 1263,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 47098396.0,
+  "valorAcumuladoConcurso_0_5": 8586258.36,
+  "valorAcumuladoConcursoEspecial": 9258180.92,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

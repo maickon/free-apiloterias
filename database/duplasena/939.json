@@ -1,0 +1,107 @@
+{
+  "acumulado": false,
+  "dataApuracao": "04/02/2011",
+  "dataProximoConcurso": "08/02/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "47",
+    "12",
+    "06",
+    "34",
+    "23",
+    "15",
+    "45",
+    "42",
+    "27",
+    "19",
+    "08",
+    "50"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "12",
+    "15",
+    "23",
+    "34",
+    "47"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "08",
+    "19",
+    "27",
+    "42",
+    "45",
+    "50"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "BELO HORIZONTE",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 3657135.76
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 99,
+      "valorPremio": 1526.68
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3517,
+      "valorPremio": 40.92
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 201521.34
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 61,
+      "valorPremio": 2477.72
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 3190,
+      "valorPremio": 45.12
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "FLORIANÓPOLIS, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 939,
+  "numeroConcursoAnterior": 938,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 940,
+  "numeroJogo": 18,
+  "observacao": "A APOSTA GANHADORA DE 6 ACERTOS NO 2º SORTEIO FOI REALIZADA EM LOUVEIRA/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 3270028.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 150000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

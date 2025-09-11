@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "24/02/2006",
+  "dataProximoConcurso": "03/03/2006",
+  "dezenasSorteadasOrdemSorteio": [
+    "33",
+    "42",
+    "21",
+    "04",
+    "38",
+    "20",
+    "19",
+    "05",
+    "34",
+    "39",
+    "06",
+    "46"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "20",
+    "21",
+    "33",
+    "38",
+    "42"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "05",
+    "06",
+    "19",
+    "34",
+    "39",
+    "46"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 97299.43
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 76,
+      "valorPremio": 2560.51
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 3097,
+      "valorPremio": 62.61
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CORUMBÁ, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 433,
+  "numeroConcursoAnterior": 432,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 434,
+  "numeroJogo": 18,
+  "observacao": "ACUMULOU! Estim. de prêmio (sena 1º sorteio) p/ o próx. concurso, a ser realizado em 03/03/2006: R$7.000.000,00. Ganhadores do 2º sorteio: RJ e SP(2).",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 6564514.81,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,84 @@
+{
+  "acumulado": false,
+  "dataApuracao": "05/04/2014",
+  "dataProximoConcurso": "09/04/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "36",
+    "29",
+    "23",
+    "49",
+    "32",
+    "45"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "23",
+    "29",
+    "32",
+    "36",
+    "45",
+    "49"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "UBERLÂNDIA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "SÃO PAULO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 25541942.1
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 353,
+      "valorPremio": 15601.86
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 21216,
+      "valorPremio": 370.84
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ITUPORANGA, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1588,
+  "numeroConcursoAnterior": 1587,
+  "numeroConcursoFinal_0_5": 1590,
+  "numeroConcursoProximo": 1589,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 94071416.0,
+  "valorAcumuladoConcurso_0_5": 19373490.99,
+  "valorAcumuladoConcursoEspecial": 22398347.52,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

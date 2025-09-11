@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "20/10/2010",
+  "dataProximoConcurso": "23/10/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "41",
+    "19",
+    "57",
+    "53",
+    "21",
+    "27"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "19",
+    "21",
+    "27",
+    "41",
+    "53",
+    "57"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "CARAPICUIBA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 13344577.42
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 124,
+      "valorPremio": 17833.09
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6867,
+      "valorPremio": 460.02
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SÃO RAIMUNDO NONATO, PI",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1224,
+  "numeroConcursoAnterior": 1223,
+  "numeroConcursoFinal_0_5": 1225,
+  "numeroConcursoProximo": 1225,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 37770716.0,
+  "valorAcumuladoConcurso_0_5": 20723614.76,
+  "valorAcumuladoConcursoEspecial": 50689985.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 23000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

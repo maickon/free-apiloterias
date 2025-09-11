@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "12/08/2003",
+  "dataProximoConcurso": "15/08/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "07",
+    "10",
+    "14",
+    "08",
+    "44",
+    "21",
+    "18",
+    "49",
+    "09",
+    "41",
+    "15",
+    "29"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "08",
+    "10",
+    "14",
+    "21",
+    "44"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "09",
+    "15",
+    "18",
+    "29",
+    "41",
+    "49"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "GO"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2483253.57
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 30,
+      "valorPremio": 4252.01
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1575,
+      "valorPremio": 80.69
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Araraquara, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 178,
+  "numeroConcursoAnterior": 177,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 179,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$300.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

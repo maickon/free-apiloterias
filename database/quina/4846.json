@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "08/12/2018",
+  "dataProximoConcurso": "10/12/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "52",
+    "15",
+    "04",
+    "21",
+    "41"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "15",
+    "21",
+    "41",
+    "52"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 46,
+      "valorPremio": 7121.24
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4110,
+      "valorPremio": 119.85
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 108029,
+      "valorPremio": 2.5
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SANTO ANASTÁCIO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4846,
+  "numeroConcursoAnterior": 4845,
+  "numeroConcursoFinal_0_5": 4855,
+  "numeroConcursoProximo": 4847,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5681716.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 50352850.6,
+  "valorAcumuladoProximoConcurso": 603430.9,
+  "valorEstimadoProximoConcurso": 1300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

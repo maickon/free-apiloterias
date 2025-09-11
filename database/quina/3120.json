@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "15/02/2013",
+  "dataProximoConcurso": "16/02/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "60",
+    "31",
+    "30",
+    "26",
+    "39"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "26",
+    "30",
+    "31",
+    "39",
+    "60"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 37,
+      "valorPremio": 9725.06
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4114,
+      "valorPremio": 124.94
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ARACATI, CE",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3120,
+  "numeroConcursoAnterior": 3119,
+  "numeroConcursoFinal_0_5": 3125,
+  "numeroConcursoProximo": 3121,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4671050.25,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 49099593.59,
+  "valorAcumuladoProximoConcurso": 503758.22,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

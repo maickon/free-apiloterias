@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "09/05/2024",
+  "dataProximoConcurso": "10/05/2024",
+  "dezenasSorteadasOrdemSorteio": [
+    "17",
+    "44",
+    "34",
+    "20",
+    "46"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "17",
+    "20",
+    "34",
+    "44",
+    "46"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 47,
+      "valorPremio": 10892.12
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5642,
+      "valorPremio": 86.41
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 138469,
+      "valorPremio": 3.52
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO DA SORTE",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "numero": 6436,
+  "numeroConcursoAnterior": 6435,
+  "numeroConcursoFinal_0_5": 6445,
+  "numeroConcursoProximo": 6437,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 11246875.0,
+  "valorAcumuladoConcurso_0_5": 978147.86,
+  "valorAcumuladoConcursoEspecial": 128161586.54,
+  "valorAcumuladoProximoConcurso": 7921163.73,
+  "valorEstimadoProximoConcurso": 9200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

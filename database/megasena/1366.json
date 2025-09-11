@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "25/02/2012",
+  "dataProximoConcurso": "29/02/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "59",
+    "44",
+    "54",
+    "37",
+    "27",
+    "12"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "12",
+    "27",
+    "37",
+    "44",
+    "54",
+    "59"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "CUIABÁ",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MT"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 22902720.55
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 124,
+      "valorPremio": 19590.46
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7974,
+      "valorPremio": 435.2
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CAPÃO DA CANOA, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1366,
+  "numeroConcursoAnterior": 1365,
+  "numeroConcursoFinal_0_5": 1370,
+  "numeroConcursoProximo": 1367,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 41492838.0,
+  "valorAcumuladoConcurso_0_5": 4221544.04,
+  "valorAcumuladoConcursoEspecial": 7839517.74,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

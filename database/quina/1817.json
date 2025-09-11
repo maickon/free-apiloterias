@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "20/10/2007",
+  "dataProximoConcurso": "23/10/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "21",
+    "60",
+    "20",
+    "57",
+    "47"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "20",
+    "21",
+    "47",
+    "57",
+    "60"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 368620.92
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 91,
+      "valorPremio": 4050.78
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6126,
+      "valorPremio": 79.93
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "NOVA IGUAÇU, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1817,
+  "numeroConcursoAnterior": 1816,
+  "numeroConcursoFinal_0_5": 1825,
+  "numeroConcursoProximo": 1818,
+  "numeroJogo": 3,
+  "observacao": "Ganhador da quina: Curitiba/PR.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 350000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

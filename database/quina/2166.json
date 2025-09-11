@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "08/12/2009",
+  "dataProximoConcurso": "09/12/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "25",
+    "28",
+    "37",
+    "56",
+    "22"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "22",
+    "25",
+    "28",
+    "37",
+    "56"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 209,
+      "valorPremio": 2765.56
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 11561,
+      "valorPremio": 71.42
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "VOTUPORANGA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2166,
+  "numeroConcursoAnterior": 2165,
+  "numeroConcursoFinal_0_5": 2175,
+  "numeroConcursoProximo": 2167,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6252704.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 4858133.14,
+  "valorEstimadoProximoConcurso": 5600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "16/03/2019",
+  "dataProximoConcurso": "18/03/2019",
+  "dezenasSorteadasOrdemSorteio": [
+    "14",
+    "27",
+    "61",
+    "12",
+    "46"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "12",
+    "14",
+    "27",
+    "46",
+    "61"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 81,
+      "valorPremio": 5231.18
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5758,
+      "valorPremio": 110.66
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 144614,
+      "valorPremio": 2.42
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ITUPEVA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4926,
+  "numeroConcursoAnterior": 4925,
+  "numeroConcursoFinal_0_5": 4935,
+  "numeroConcursoProximo": 4927,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7349383.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 80004499.52,
+  "valorAcumuladoProximoConcurso": 2161372.22,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

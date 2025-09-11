@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "11/10/2007",
+  "dataProximoConcurso": "13/10/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "16",
+    "21",
+    "77",
+    "28",
+    "07"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "16",
+    "21",
+    "28",
+    "77"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1360810.95
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 306,
+      "valorPremio": 1659.99
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 14414,
+      "valorPremio": 46.82
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CHAPECÓ, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1813,
+  "numeroConcursoAnterior": 1812,
+  "numeroConcursoFinal_0_5": 1815,
+  "numeroConcursoProximo": 1814,
+  "numeroJogo": 3,
+  "observacao": "Ganhador de 5 acertos: São Paulo/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,65 @@
+{
+  "acumulado": false,
+  "dataApuracao": "02/09/1999",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "74",
+    "41",
+    "69",
+    "24",
+    "33"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "24",
+    "33",
+    "41",
+    "69",
+    "74"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 260207.32
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 189,
+      "valorPremio": 1376.76
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8688,
+      "valorPremio": 39.78
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "",
+  "nomeMunicipioUFSorteio": "",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 597,
+  "numeroConcursoAnterior": 596,
+  "numeroConcursoFinal_0_5": 605,
+  "numeroConcursoProximo": 598,
+  "numeroJogo": 3,
+  "observacao": "Houve um único acertador da QUINA, da cidade do Rio de Janeiro/RJ",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "15/01/2010",
+  "dataProximoConcurso": "19/01/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "38",
+    "39",
+    "36",
+    "12",
+    "44",
+    "23",
+    "09",
+    "18",
+    "17",
+    "33",
+    "27",
+    "14"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "12",
+    "23",
+    "36",
+    "38",
+    "39",
+    "44"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "09",
+    "14",
+    "17",
+    "18",
+    "27",
+    "33"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SALVADOR",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 5842907.21
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 46,
+      "valorPremio": 3886.24
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 3008,
+      "valorPremio": 84.9
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TORRES, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 829,
+  "numeroConcursoAnterior": 828,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 830,
+  "numeroJogo": 18,
+  "observacao": "QUANDO NÃO HÁ GANHADOR DA SENA DO 2º SORTEIO, O VALOR DO PRÊMIO ACUMULA PARA A SENA DO 1º SORTEIO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2900801.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 268150.59,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

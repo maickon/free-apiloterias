@@ -1,0 +1,80 @@
+{
+  "acumulado": false,
+  "dataApuracao": "22/02/2022",
+  "dataProximoConcurso": "23/02/2022",
+  "dezenasSorteadasOrdemSorteio": [
+    "09",
+    "55",
+    "39",
+    "40",
+    "11"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "11",
+    "39",
+    "40",
+    "55"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "RIO DE JANEIRO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 14715798.21
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 110,
+      "valorPremio": 6195.08
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8974,
+      "valorPremio": 72.32
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 216807,
+      "valorPremio": 2.99
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO LOTERIAS CAIXA",
+  "nomeMunicipioUFSorteio": "SÃO PAULO,  SP",
+  "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "numero": 5787,
+  "numeroConcursoAnterior": 5786,
+  "numeroConcursoFinal_0_5": 5795,
+  "numeroConcursoProximo": 5788,
+  "numeroJogo": 3,
+  "observacao": "Acumulado próximo concurso final cinco (5795) R$ 1.887.317,41",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 14971362.0,
+  "valorAcumuladoConcurso_0_5": 1887317.41,
+  "valorAcumuladoConcursoEspecial": 93387672.67,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 700000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

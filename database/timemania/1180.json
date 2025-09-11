@@ -1,0 +1,87 @@
+{
+  "acumulado": true,
+  "dataApuracao": "15/05/2018",
+  "dataProximoConcurso": "17/05/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "29",
+    "79",
+    "45",
+    "58",
+    "01",
+    "73",
+    "68"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "29",
+    "45",
+    "58",
+    "68",
+    "73",
+    "79"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 33752.58
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 138,
+      "valorPremio": 1048.21
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2855,
+      "valorPremio": 6.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 29034,
+      "valorPremio": 2.0
+    },
+    {
+      "descricaoFaixa": "Time do Coração",
+      "faixa": 6,
+      "numeroDeGanhadores": 7718,
+      "valorPremio": 5.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CAMPOS NOVOS, SC",
+  "nomeTimeCoracaoMesSorte": "SAMPAIO CORRÊA/MA",
+  "numero": 1180,
+  "numeroConcursoAnterior": 1179,
+  "numeroConcursoFinal_0_5": 1185,
+  "numeroConcursoProximo": 1181,
+  "numeroJogo": 20,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "TIMEMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1819690.0,
+  "valorAcumuladoConcurso_0_5": 50628.86,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 3486413.89,
+  "valorEstimadoProximoConcurso": 3600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "12/04/2005",
+  "dataProximoConcurso": "15/04/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "15",
+    "37",
+    "43",
+    "08",
+    "28",
+    "20",
+    "46",
+    "05",
+    "22",
+    "26",
+    "15",
+    "08"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "15",
+    "20",
+    "28",
+    "37",
+    "43"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "05",
+    "08",
+    "15",
+    "22",
+    "26",
+    "46"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 33,
+      "valorPremio": 2435.72
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1386,
+      "valorPremio": 57.77
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Novo Horizonte, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 343,
+  "numeroConcursoAnterior": 342,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 344,
+  "numeroJogo": 18,
+  "observacao": "ACUMULOU!!! Estimativa de prêmio (SENA 1º SORTEIO)próximo concurso, a ser realizado em 15/04/2005: R$2.600.000,00(DOIS MILHÕES E SEISCENTOS MIL REAIS).",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 2490065.22,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

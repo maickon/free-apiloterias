@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "23/01/2015",
+  "dataProximoConcurso": "24/01/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "66",
+    "53",
+    "67",
+    "06",
+    "49"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "49",
+    "53",
+    "66",
+    "67"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 66,
+      "valorPremio": 6134.97
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4161,
+      "valorPremio": 139.01
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "GURUPI, TO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3697,
+  "numeroConcursoAnterior": 3696,
+  "numeroConcursoFinal_0_5": 3705,
+  "numeroConcursoProximo": 3698,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5256255.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 57344516.51,
+  "valorAcumuladoProximoConcurso": 566870.74,
+  "valorEstimadoProximoConcurso": 1200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

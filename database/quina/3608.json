@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "08/10/2014",
+  "dataProximoConcurso": "09/10/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "46",
+    "38",
+    "33",
+    "63",
+    "10"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "33",
+    "38",
+    "46",
+    "63"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 109,
+      "valorPremio": 4666.26
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6495,
+      "valorPremio": 111.87
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CONSELHEIRO PENA, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3608,
+  "numeroConcursoAnterior": 3607,
+  "numeroConcursoFinal_0_5": 3615,
+  "numeroConcursoProximo": 3609,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6602612.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 29925660.39,
+  "valorAcumuladoProximoConcurso": 1282038.6,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

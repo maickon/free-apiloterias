@@ -1,0 +1,80 @@
+{
+  "acumulado": false,
+  "dataApuracao": "11/02/2022",
+  "dataProximoConcurso": "12/02/2022",
+  "dezenasSorteadasOrdemSorteio": [
+    "75",
+    "78",
+    "56",
+    "05",
+    "39"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "39",
+    "56",
+    "75",
+    "78"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "BALNEARIO PINHAL",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RS"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 716471.12
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 84,
+      "valorPremio": 3655.47
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4008,
+      "valorPremio": 72.96
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 91631,
+      "valorPremio": 3.19
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO LOTERIAS CAIXA",
+  "nomeMunicipioUFSorteio": "SÃO PAULO,  SP",
+  "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "numero": 5778,
+  "numeroConcursoAnterior": 5777,
+  "numeroConcursoFinal_0_5": 5785,
+  "numeroConcursoProximo": 5779,
+  "numeroJogo": 3,
+  "observacao": "Acumulado próximo concurso final cinco (5785) R$ 2.549.842,45",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6745956.0,
+  "valorAcumuladoConcurso_0_5": 2549842.45,
+  "valorAcumuladoConcursoEspecial": 89171690.58,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 700000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

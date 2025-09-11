@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "17/12/2008",
+  "dataProximoConcurso": "20/12/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "49",
+    "33",
+    "24",
+    "40",
+    "46",
+    "43"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "24",
+    "33",
+    "40",
+    "43",
+    "46",
+    "49"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 19067463.74
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 59,
+      "valorPremio": 31380.11
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5508,
+      "valorPremio": 336.14
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PIRASSUNUNGA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1031,
+  "numeroConcursoAnterior": 1030,
+  "numeroConcursoFinal_0_5": 1035,
+  "numeroConcursoProximo": 1032,
+  "numeroJogo": 2,
+  "observacao": "Ganhador de 6 acertos: São José do Rio Preto/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 3986403.14,
+  "valorAcumuladoConcursoEspecial": 14451257.75,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 1600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

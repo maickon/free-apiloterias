@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "01/03/2014",
+  "dataProximoConcurso": "05/03/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "58",
+    "34",
+    "06",
+    "14",
+    "51"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "14",
+    "34",
+    "51",
+    "58"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 82,
+      "valorPremio": 4291.98
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5272,
+      "valorPremio": 95.36
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "MADRE DE DEUS, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3430,
+  "numeroConcursoAnterior": 3429,
+  "numeroConcursoFinal_0_5": 3435,
+  "numeroConcursoProximo": 3431,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4568694.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 59391177.77,
+  "valorAcumuladoProximoConcurso": 492719.43,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

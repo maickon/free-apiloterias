@@ -1,0 +1,84 @@
+{
+  "acumulado": false,
+  "dataApuracao": "04/02/2012",
+  "dataProximoConcurso": "08/02/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "50",
+    "25",
+    "17",
+    "16",
+    "54",
+    "02"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "16",
+    "17",
+    "25",
+    "50",
+    "54"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "ARAPIRACA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "AL"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "ITAÚNA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 22673254.06
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 112,
+      "valorPremio": 30004.55
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 9880,
+      "valorPremio": 485.9
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "GAROPABA, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1360,
+  "numeroConcursoAnterior": 1359,
+  "numeroConcursoFinal_0_5": 1365,
+  "numeroConcursoProximo": 1361,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 57400014.0,
+  "valorAcumuladoConcurso_0_5": 3891116.73,
+  "valorAcumuladoConcursoEspecial": 5295154.83,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

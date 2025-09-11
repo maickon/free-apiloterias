@@ -1,0 +1,87 @@
+{
+  "acumulado": true,
+  "dataApuracao": "03/11/2011",
+  "dataProximoConcurso": "05/11/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "54",
+    "75",
+    "13",
+    "47",
+    "30",
+    "15",
+    "73"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "13",
+    "15",
+    "30",
+    "47",
+    "54",
+    "73",
+    "75"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 42311.79
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 166,
+      "valorPremio": 728.25
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2963,
+      "valorPremio": 6.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 28739,
+      "valorPremio": 2.0
+    },
+    {
+      "descricaoFaixa": "Time do Coração",
+      "faixa": 6,
+      "numeroDeGanhadores": 4912,
+      "valorPremio": 5.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "MIGUEL PEREIRA, RJ",
+  "nomeTimeCoracaoMesSorte": "RIO BRANCO/ES",
+  "numero": 259,
+  "numeroConcursoAnterior": 258,
+  "numeroConcursoFinal_0_5": 260,
+  "numeroConcursoProximo": 260,
+  "numeroJogo": 20,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "TIMEMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1531022.0,
+  "valorAcumuladoConcurso_0_5": 4019938.4,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 4019938.4,
+  "valorEstimadoProximoConcurso": 4100000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

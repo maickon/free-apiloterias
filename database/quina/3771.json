@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "24/04/2015",
+  "dataProximoConcurso": "25/04/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "12",
+    "68",
+    "16",
+    "30",
+    "55"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "12",
+    "16",
+    "30",
+    "55",
+    "68"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 77,
+      "valorPremio": 6717.93
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5634,
+      "valorPremio": 131.16
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ITANHAEM, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3771,
+  "numeroConcursoAnterior": 3770,
+  "numeroConcursoFinal_0_5": 3775,
+  "numeroConcursoProximo": 3772,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6715011.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 84971157.65,
+  "valorAcumuladoProximoConcurso": 1270336.14,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

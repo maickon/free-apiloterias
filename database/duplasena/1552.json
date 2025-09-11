@@ -1,0 +1,119 @@
+{
+  "acumulado": false,
+  "dataApuracao": "04/10/2016",
+  "dataProximoConcurso": "06/10/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "03",
+    "10",
+    "25",
+    "35",
+    "23",
+    "16",
+    "08",
+    "06",
+    "47",
+    "21",
+    "37",
+    "15"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "10",
+    "16",
+    "23",
+    "25",
+    "35"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "06",
+    "08",
+    "15",
+    "21",
+    "37",
+    "47"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SÃO PAULO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1319472.33
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 20,
+      "valorPremio": 3235.74
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1014,
+      "valorPremio": 72.93
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 19757,
+      "valorPremio": 1.87
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 12,
+      "valorPremio": 4853.62
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 806,
+      "valorPremio": 91.76
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 8,
+      "numeroDeGanhadores": 16590,
+      "valorPremio": 2.22
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Espaço Caixa Loterias",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1552,
+  "numeroConcursoAnterior": 1551,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1553,
+  "numeroJogo": 18,
+  "observacao": "O PRÊMIO DA SENA DO 2º SORTEIO (R$ 71.186,34) FICA ACUMULADO PARA A SENA DO 1º SORTEIO DO PRÓXIMO CONCURSO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2132672.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 7871295.95,
+  "valorAcumuladoProximoConcurso": 71186.34,
+  "valorEstimadoProximoConcurso": 200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "31/03/2004",
+  "dataProximoConcurso": "03/04/2004",
+  "dezenasSorteadasOrdemSorteio": [
+    "07",
+    "90",
+    "77",
+    "19",
+    "27",
+    "12",
+    "03",
+    "78",
+    "04",
+    "35",
+    "43",
+    "20",
+    "24",
+    "88",
+    "38",
+    "30",
+    "05",
+    "44",
+    "31",
+    "81"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "04",
+    "05",
+    "07",
+    "12",
+    "19",
+    "20",
+    "24",
+    "27",
+    "30",
+    "31",
+    "35",
+    "38",
+    "43",
+    "44",
+    "77",
+    "78",
+    "81",
+    "88",
+    "90"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "DF"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 488552.43
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 10,
+      "valorPremio": 27484.2
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 239,
+      "valorPremio": 1149.96
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2174,
+      "valorPremio": 62.97
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 11982,
+      "valorPremio": 11.43
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TIETÊ, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 404,
+  "numeroConcursoAnterior": 403,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 405,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 ACERTOS) para o próximo concurso: R$600.000,00.\r\nAcumulado zero acerto para 20 acertos, próximo concurso: R$137.421,02",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

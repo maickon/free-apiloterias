@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "05/11/2011",
+  "dataProximoConcurso": "07/11/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "01",
+    "11",
+    "27",
+    "15",
+    "65"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "11",
+    "15",
+    "27",
+    "65"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 102,
+      "valorPremio": 3990.68
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8167,
+      "valorPremio": 71.2
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "MIGUEL PEREIRA, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2739,
+  "numeroConcursoAnterior": 2738,
+  "numeroConcursoFinal_0_5": 2745,
+  "numeroConcursoProximo": 2740,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5284064.25,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 25589184.23,
+  "valorAcumuladoProximoConcurso": 1039168.35,
+  "valorEstimadoProximoConcurso": 1600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

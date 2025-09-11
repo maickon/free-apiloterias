@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "03/05/2008",
+  "dataProximoConcurso": "07/05/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "24",
+    "47",
+    "91",
+    "76",
+    "92",
+    "79",
+    "08",
+    "03",
+    "83",
+    "82",
+    "17",
+    "57",
+    "21",
+    "15",
+    "70",
+    "44",
+    "38",
+    "19",
+    "68",
+    "26"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "08",
+    "15",
+    "17",
+    "19",
+    "21",
+    "24",
+    "26",
+    "38",
+    "44",
+    "47",
+    "57",
+    "68",
+    "70",
+    "76",
+    "79",
+    "82",
+    "83",
+    "91",
+    "92"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 155469.42
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 7,
+      "valorPremio": 29613.22
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 151,
+      "valorPremio": 1372.8
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1251,
+      "valorPremio": 82.85
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 7019,
+      "valorPremio": 14.77
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "MONTE SIÃO, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 824,
+  "numeroConcursoAnterior": 823,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 825,
+  "numeroJogo": 16,
+  "observacao": "ACUMULADO DE 0 (ZERO ACERTO) PARA 20 ACERTOS: R$103.646,30.   GANHADORES DE 20 ACERTOS: XINGUARA/PA, BELO HORIZONTE/MG.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 103646.3,
+  "valorEstimadoProximoConcurso": 450000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

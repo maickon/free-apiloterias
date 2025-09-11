@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "11/08/2001",
+  "dataProximoConcurso": "15/08/2001",
+  "dezenasSorteadasOrdemSorteio": [
+    "85",
+    "75",
+    "23",
+    "24",
+    "65",
+    "10",
+    "02",
+    "33",
+    "11",
+    "89",
+    "71",
+    "93",
+    "51",
+    "43",
+    "66",
+    "13",
+    "55",
+    "06",
+    "49",
+    "08"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "06",
+    "08",
+    "10",
+    "11",
+    "13",
+    "23",
+    "24",
+    "33",
+    "43",
+    "49",
+    "51",
+    "55",
+    "65",
+    "66",
+    "71",
+    "75",
+    "85",
+    "89",
+    "93"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MS"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 1078488.65
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 35,
+      "valorPremio": 15759.24
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 674,
+      "valorPremio": 818.36
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 4688,
+      "valorPremio": 58.61
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 25566,
+      "valorPremio": 10.75
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Betim, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 139,
+  "numeroConcursoAnterior": 138,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 140,
+  "numeroJogo": 16,
+  "observacao": "Estimativa prêmio próximo concurso: (20 acertos-R$600.861,24)  e  \r\n(0 acerto-R$1.000.000,00)",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

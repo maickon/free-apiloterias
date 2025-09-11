@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "23/04/2012",
+  "dataProximoConcurso": "24/04/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "80",
+    "38",
+    "31",
+    "76",
+    "30"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "30",
+    "31",
+    "38",
+    "76",
+    "80"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 79,
+      "valorPremio": 7503.79
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5822,
+      "valorPremio": 145.45
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "FORQUILHINHA, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2879,
+  "numeroConcursoAnterior": 2878,
+  "numeroConcursoFinal_0_5": 2885,
+  "numeroConcursoProximo": 2880,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7695353.25,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 62560530.93,
+  "valorAcumuladoProximoConcurso": 4634821.87,
+  "valorEstimadoProximoConcurso": 5500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

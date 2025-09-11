@@ -1,0 +1,84 @@
+{
+  "acumulado": false,
+  "dataApuracao": "20/04/2011",
+  "dataProximoConcurso": "23/04/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "09",
+    "40",
+    "05",
+    "22",
+    "36",
+    "11"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "09",
+    "11",
+    "22",
+    "36",
+    "40"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SÃO JOSÉ DOS PINHAIS",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "LIMEIRA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 35704303.03
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 560,
+      "valorPremio": 10159.62
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 30367,
+      "valorPremio": 267.64
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "FRANCO DA ROCHA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1276,
+  "numeroConcursoAnterior": 1275,
+  "numeroConcursoFinal_0_5": 1280,
+  "numeroConcursoProximo": 1277,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 97178962.0,
+  "valorAcumuladoConcurso_0_5": 11580625.31,
+  "valorAcumuladoConcursoEspecial": 19190685.85,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

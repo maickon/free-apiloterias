@@ -1,0 +1,65 @@
+{
+  "acumulado": false,
+  "dataApuracao": "26/06/1999",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "48",
+    "49",
+    "15",
+    "13",
+    "80"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "13",
+    "15",
+    "48",
+    "49",
+    "80"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 4,
+      "valorPremio": 88099.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 321,
+      "valorPremio": 1097.81
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 15458,
+      "valorPremio": 30.29
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "",
+  "nomeMunicipioUFSorteio": "",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 568,
+  "numeroConcursoAnterior": 567,
+  "numeroConcursoFinal_0_5": 575,
+  "numeroConcursoProximo": 569,
+  "numeroJogo": 3,
+  "observacao": "Os Ganhadores são dos Estados: Alagoas, Espírito Santo, Minas Gerais e São Paulo.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

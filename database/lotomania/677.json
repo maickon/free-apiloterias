@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "06/12/2006",
+  "dataProximoConcurso": "09/12/2006",
+  "dezenasSorteadasOrdemSorteio": [
+    "02",
+    "79",
+    "83",
+    "35",
+    "36",
+    "49",
+    "91",
+    "51",
+    "25",
+    "80",
+    "48",
+    "98",
+    "21",
+    "53",
+    "89",
+    "33",
+    "54",
+    "68",
+    "06",
+    "90"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "06",
+    "21",
+    "25",
+    "33",
+    "35",
+    "36",
+    "48",
+    "49",
+    "51",
+    "53",
+    "54",
+    "68",
+    "79",
+    "80",
+    "83",
+    "89",
+    "90",
+    "91",
+    "98"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1230462.36
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 5,
+      "valorPremio": 47228.16
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 77,
+      "valorPremio": 3066.77
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 913,
+      "valorPremio": 128.83
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 5437,
+      "valorPremio": 21.64
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SANTA BÁRBARA, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 677,
+  "numeroConcursoAnterior": 676,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 678,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 Acertos) para o próximo concurso a ser realizado em 09/12/2006: R$500.000,00. Acumulado de Zero Acerto para 20 Acertos R$118.070,41.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,81 @@
+{
+  "acumulado": true,
+  "dataApuracao": "16/10/2020",
+  "dataProximoConcurso": "19/10/2020",
+  "dezenasSorteadasOrdemSorteio": [
+    "5",
+    "7",
+    "3",
+    "3",
+    "4",
+    "1",
+    "1"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "5",
+    "7",
+    "3",
+    "3",
+    "4",
+    "1",
+    "1"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 6,
+      "valorPremio": 15270.32
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 181,
+      "valorPremio": 723.14
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2303,
+      "valorPremio": 56.83
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 20941,
+      "valorPremio": 5.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Espaço Loterias CAIXA",
+  "nomeMunicipioUFSorteio": "SAO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": null,
+  "numero": 6,
+  "numeroConcursoAnterior": 5,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 7,
+  "numeroJogo": 7,
+  "observacao": "Os valores apresentados no link Locais da Sorte do Super Sete correspondem aos prêmios brutos, sem o desconto do imposto de renda sobre prêmios.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "SUPER_SETE",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2254427.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1083869.13,
+  "valorEstimadoProximoConcurso": 1500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 1083869.13
+}

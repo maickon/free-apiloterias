@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "05/04/2005",
+  "dataProximoConcurso": "07/04/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "04",
+    "48",
+    "08",
+    "69",
+    "35"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "08",
+    "35",
+    "48",
+    "69"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 181,
+      "valorPremio": 1531.46
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8143,
+      "valorPremio": 45.22
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Ituporanga, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1431,
+  "numeroConcursoAnterior": 1430,
+  "numeroConcursoFinal_0_5": 1435,
+  "numeroConcursoProximo": 1432,
+  "numeroJogo": 3,
+  "observacao": "ACUMULOU!!! Estimativa de prêmio (quina) para o próximo concurso: R$600.000,00 (SEISCENTOS MIL REAIS).",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 277194.24,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

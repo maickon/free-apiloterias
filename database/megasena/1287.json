@@ -1,0 +1,67 @@
+{
+  "acumulado": true,
+  "dataApuracao": "28/05/2011",
+  "dataProximoConcurso": "01/06/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "33",
+    "42",
+    "12",
+    "31",
+    "11",
+    "52"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "12",
+    "31",
+    "33",
+    "42",
+    "52"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 137,
+      "valorPremio": 23204.42
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8177,
+      "valorPremio": 555.39
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SANTO ANTÔNIO DE JESUS, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1287,
+  "numeroConcursoAnterior": 1286,
+  "numeroConcursoFinal_0_5": 1290,
+  "numeroConcursoProximo": 1288,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 54299780.0,
+  "valorAcumuladoConcurso_0_5": 9806524.2,
+  "valorAcumuladoConcursoEspecial": 25346327.05,
+  "valorAcumuladoProximoConcurso": 37004670.64,
+  "valorEstimadoProximoConcurso": 43000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

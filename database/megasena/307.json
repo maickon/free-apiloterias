@@ -1,0 +1,67 @@
+{
+  "acumulado": true,
+  "dataApuracao": "24/10/2001",
+  "dataProximoConcurso": "27/10/2001",
+  "dezenasSorteadasOrdemSorteio": [
+    "26",
+    "17",
+    "13",
+    "41",
+    "16",
+    "44"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "13",
+    "16",
+    "17",
+    "26",
+    "41",
+    "44"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 44,
+      "valorPremio": 12632.8
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3962,
+      "valorPremio": 139.76
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Manaus, AM",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 307,
+  "numeroConcursoAnterior": 306,
+  "numeroConcursoFinal_0_5": 310,
+  "numeroConcursoProximo": 308,
+  "numeroJogo": 2,
+  "observacao": "Estimativa de prêmio próximo concurso (SENA): R$ 4.000.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 5434016.73,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 3000002.7,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

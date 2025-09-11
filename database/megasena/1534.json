@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "28/09/2013",
+  "dataProximoConcurso": "02/10/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "28",
+    "12",
+    "34",
+    "29",
+    "01",
+    "48"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "12",
+    "28",
+    "29",
+    "34",
+    "48"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "ITALVA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 5734618.57
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 89,
+      "valorPremio": 19892.61
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6196,
+      "valorPremio": 408.19
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "JACOBINA, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1534,
+  "numeroConcursoAnterior": 1533,
+  "numeroConcursoFinal_0_5": 1535,
+  "numeroConcursoProximo": 1535,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 30240480.0,
+  "valorAcumuladoConcurso_0_5": 9804702.12,
+  "valorAcumuladoConcursoEspecial": 43438653.59,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 12300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

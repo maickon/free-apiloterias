@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "03/09/2011",
+  "dataProximoConcurso": "08/09/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "48",
+    "34",
+    "25",
+    "42",
+    "13",
+    "08"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "13",
+    "25",
+    "34",
+    "42",
+    "48"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "VINHEDO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2824002.29
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 241,
+      "valorPremio": 6361.12
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 9757,
+      "valorPremio": 224.45
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "VIRGÍNIA, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1316,
+  "numeroConcursoAnterior": 1315,
+  "numeroConcursoFinal_0_5": 1320,
+  "numeroConcursoProximo": 1317,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 26185292.0,
+  "valorAcumuladoConcurso_0_5": 7188729.97,
+  "valorAcumuladoConcursoEspecial": 44325136.83,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

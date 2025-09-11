@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "14/05/2013",
+  "dataProximoConcurso": "15/05/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "46",
+    "10",
+    "17",
+    "43",
+    "29"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "17",
+    "29",
+    "43",
+    "46"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 175,
+      "valorPremio": 3764.01
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 11162,
+      "valorPremio": 84.3
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "RIO CLARO, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3193,
+  "numeroConcursoAnterior": 3192,
+  "numeroConcursoFinal_0_5": 3195,
+  "numeroConcursoProximo": 3194,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 8550843.75,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 69486155.22,
+  "valorAcumuladoProximoConcurso": 4176061.69,
+  "valorEstimadoProximoConcurso": 5100000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

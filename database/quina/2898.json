@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "16/05/2012",
+  "dataProximoConcurso": "17/05/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "67",
+    "72",
+    "77",
+    "47",
+    "02"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "47",
+    "67",
+    "72",
+    "77"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 70,
+      "valorPremio": 5529.73
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5325,
+      "valorPremio": 103.84
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "MARINGÁ, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2898,
+  "numeroConcursoAnterior": 2897,
+  "numeroConcursoFinal_0_5": 2905,
+  "numeroConcursoProximo": 2899,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5024841.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 67144869.82,
+  "valorAcumuladoProximoConcurso": 989432.63,
+  "valorEstimadoProximoConcurso": 1500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

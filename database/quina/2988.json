@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "05/09/2012",
+  "dataProximoConcurso": "06/09/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "70",
+    "69",
+    "29",
+    "24",
+    "36"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "24",
+    "29",
+    "36",
+    "69",
+    "70"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 75,
+      "valorPremio": 4400.62
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4357,
+      "valorPremio": 108.21
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SÃO LUÍS, MA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2988,
+  "numeroConcursoAnterior": 2987,
+  "numeroConcursoFinal_0_5": 2995,
+  "numeroConcursoProximo": 2989,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4284450.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 15058510.0,
+  "valorAcumuladoProximoConcurso": 462064.59,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

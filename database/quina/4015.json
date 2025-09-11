@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "22/02/2016",
+  "dataProximoConcurso": "23/02/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "46",
+    "03",
+    "22",
+    "65",
+    "41"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "22",
+    "41",
+    "46",
+    "65"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 41,
+      "valorPremio": 12329.43
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3330,
+      "valorPremio": 216.86
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "CAXIAS DO SUL, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4015,
+  "numeroConcursoAnterior": 4014,
+  "numeroConcursoFinal_0_5": 4025,
+  "numeroConcursoProximo": 4016,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6663567.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 72435138.68,
+  "valorAcumuladoProximoConcurso": 2514308.23,
+  "valorEstimadoProximoConcurso": 3200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

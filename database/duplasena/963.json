@@ -1,0 +1,107 @@
+{
+  "acumulado": false,
+  "dataApuracao": "29/04/2011",
+  "dataProximoConcurso": "03/05/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "39",
+    "05",
+    "11",
+    "13",
+    "10",
+    "37",
+    "30",
+    "31",
+    "40",
+    "12",
+    "07",
+    "48"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "10",
+    "11",
+    "13",
+    "37",
+    "39"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "07",
+    "12",
+    "30",
+    "31",
+    "40",
+    "48"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SERRA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "ES"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2643380.74
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 81,
+      "valorPremio": 1693.01
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3359,
+      "valorPremio": 38.88
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 22,
+      "valorPremio": 6233.36
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2012,
+      "valorPremio": 64.91
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "RIBEIRÃO DAS NEVES, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 963,
+  "numeroConcursoAnterior": 962,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 964,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2966978.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 182845.33,
+  "valorEstimadoProximoConcurso": 300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

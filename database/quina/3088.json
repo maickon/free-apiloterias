@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "07/01/2013",
+  "dataProximoConcurso": "08/01/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "38",
+    "64",
+    "47",
+    "42",
+    "66"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "38",
+    "42",
+    "47",
+    "64",
+    "66"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 76,
+      "valorPremio": 4761.07
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4879,
+      "valorPremio": 105.94
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PENEDO, AL",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3088,
+  "numeroConcursoAnterior": 3087,
+  "numeroConcursoFinal_0_5": 3095,
+  "numeroConcursoProximo": 3089,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4697195.25,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 40136303.32,
+  "valorAcumuladoProximoConcurso": 506577.88,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

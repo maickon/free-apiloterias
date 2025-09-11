@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "20/03/2015",
+  "dataProximoConcurso": "21/03/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "07",
+    "68",
+    "78",
+    "32",
+    "16"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "16",
+    "32",
+    "68",
+    "78"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 78,
+      "valorPremio": 7626.5
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5402,
+      "valorPremio": 157.31
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "BARRA BONITA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3743,
+  "numeroConcursoAnterior": 3742,
+  "numeroConcursoFinal_0_5": 3745,
+  "numeroConcursoProximo": 3744,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7722186.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 75163178.0,
+  "valorAcumuladoProximoConcurso": 2138288.32,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

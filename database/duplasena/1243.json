@@ -1,0 +1,98 @@
+{
+  "acumulado": true,
+  "dataApuracao": "03/01/2014",
+  "dataProximoConcurso": "07/01/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "40",
+    "22",
+    "08",
+    "43",
+    "17",
+    "24",
+    "29",
+    "18",
+    "36",
+    "47",
+    "35",
+    "43"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "17",
+    "22",
+    "24",
+    "40",
+    "43"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "18",
+    "29",
+    "35",
+    "36",
+    "43",
+    "47"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 78,
+      "valorPremio": 3756.67
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4834,
+      "valorPremio": 57.72
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 137,
+      "valorPremio": 2138.83
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 6639,
+      "valorPremio": 42.03
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "LEME, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1243,
+  "numeroConcursoAnterior": 1242,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1244,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6339660.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 6690543.02,
+  "valorEstimadoProximoConcurso": 7500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

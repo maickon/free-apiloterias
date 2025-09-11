@@ -1,0 +1,87 @@
+{
+  "acumulado": true,
+  "dataApuracao": "31/12/2016",
+  "dataProximoConcurso": "03/01/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "18",
+    "14",
+    "22",
+    "41",
+    "13",
+    "53",
+    "01"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "13",
+    "14",
+    "18",
+    "22",
+    "41",
+    "53"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 4,
+      "valorPremio": 34911.45
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 285,
+      "valorPremio": 699.97
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 5161,
+      "valorPremio": 6.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 47557,
+      "valorPremio": 2.0
+    },
+    {
+      "descricaoFaixa": "Time do Coração",
+      "faixa": 6,
+      "numeroDeGanhadores": 9373,
+      "valorPremio": 5.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PICOS, PI",
+  "nomeTimeCoracaoMesSorte": "BRASILIENSE/DF",
+  "numero": 975,
+  "numeroConcursoAnterior": 974,
+  "numeroConcursoFinal_0_5": 980,
+  "numeroConcursoProximo": 976,
+  "numeroJogo": 20,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "TIMEMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2544380.0,
+  "valorAcumuladoConcurso_0_5": 69822.89,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 10554503.21,
+  "valorEstimadoProximoConcurso": 10800000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

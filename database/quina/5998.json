@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "12/11/2022",
+  "dataProximoConcurso": "14/11/2022",
+  "dezenasSorteadasOrdemSorteio": [
+    "39",
+    "09",
+    "66",
+    "71",
+    "12"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "12",
+    "39",
+    "66",
+    "71"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 51,
+      "valorPremio": 7665.02
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4823,
+      "valorPremio": 77.19
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 122467,
+      "valorPremio": 3.04
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO DA SORTE",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "numero": 5998,
+  "numeroConcursoAnterior": 5997,
+  "numeroConcursoFinal_0_5": 6005,
+  "numeroConcursoProximo": 5999,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 8588258.0,
+  "valorAcumuladoConcurso_0_5": 1594020.11,
+  "valorAcumuladoConcursoEspecial": 49757550.69,
+  "valorAcumuladoProximoConcurso": 2332131.89,
+  "valorEstimadoProximoConcurso": 3300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

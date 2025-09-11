@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "25/07/2016",
+  "dataProximoConcurso": "26/07/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "03",
+    "58",
+    "61",
+    "18",
+    "31"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "18",
+    "31",
+    "58",
+    "61"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 134,
+      "valorPremio": 6447.89
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 10240,
+      "valorPremio": 126.88
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 261274,
+      "valorPremio": 2.73
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "ANÁPOLIS, GO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4140,
+  "numeroConcursoAnterior": 4139,
+  "numeroConcursoFinal_0_5": 4145,
+  "numeroConcursoProximo": 4141,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 14986095.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 10855634.05,
+  "valorAcumuladoProximoConcurso": 13159130.93,
+  "valorEstimadoProximoConcurso": 15500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

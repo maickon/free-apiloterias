@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "18/10/2001",
+  "dataProximoConcurso": "16/10/2001",
+  "dezenasSorteadasOrdemSorteio": [
+    "50",
+    "09",
+    "73",
+    "23",
+    "01"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "09",
+    "23",
+    "50",
+    "73"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 280832.23
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 291,
+      "valorPremio": 965.06
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 11845,
+      "valorPremio": 31.49
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Jaraguá do Sul, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 908,
+  "numeroConcursoAnterior": 907,
+  "numeroConcursoFinal_0_5": 915,
+  "numeroConcursoProximo": 909,
+  "numeroJogo": 3,
+  "observacao": "Estimativa prêmio próximo concurso (quina): R$ 400 MIL.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

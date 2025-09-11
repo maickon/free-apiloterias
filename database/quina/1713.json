@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "10/02/2007",
+  "dataProximoConcurso": "13/02/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "71",
+    "62",
+    "04",
+    "55",
+    "30"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "30",
+    "55",
+    "62",
+    "71"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 339375.48
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 73,
+      "valorPremio": 4648.98
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4916,
+      "valorPremio": 91.71
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Cabo Frio, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1713,
+  "numeroConcursoAnterior": 1712,
+  "numeroConcursoFinal_0_5": 1715,
+  "numeroConcursoProximo": 1714,
+  "numeroJogo": 3,
+  "observacao": "Estimativa de prêmio (quina) para o próximo concurso, a ser realizado em 13/02/2007: R$300.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

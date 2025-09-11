@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "28/02/2009",
+  "dataProximoConcurso": "04/03/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "08",
+    "11",
+    "16",
+    "15",
+    "57",
+    "52"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "11",
+    "15",
+    "16",
+    "52",
+    "57"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 14557865.34
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 77,
+      "valorPremio": 20599.07
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5743,
+      "valorPremio": 276.18
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SÃO JOÃO DA BARRA, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1052,
+  "numeroConcursoAnterior": 1051,
+  "numeroConcursoFinal_0_5": 1055,
+  "numeroConcursoProximo": 1053,
+  "numeroJogo": 2,
+  "observacao": "GANHADOR DE 6 ACERTOS: RIO DE JANEIRO/RJ.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 27092243.5,
+  "valorAcumuladoConcurso_0_5": 4163086.25,
+  "valorAcumuladoConcursoEspecial": 8039923.61,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 1500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

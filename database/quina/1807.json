@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "27/09/2007",
+  "dataProximoConcurso": "29/09/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "58",
+    "76",
+    "51",
+    "04",
+    "28"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "28",
+    "51",
+    "58",
+    "76"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 346789.92
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 131,
+      "valorPremio": 2647.25
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6479,
+      "valorPremio": 71.1
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "FORMIGA, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1807,
+  "numeroConcursoAnterior": 1806,
+  "numeroConcursoFinal_0_5": 1815,
+  "numeroConcursoProximo": 1808,
+  "numeroJogo": 3,
+  "observacao": "Ganhador de 5 acertos: São Paulo/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

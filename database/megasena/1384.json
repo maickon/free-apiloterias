@@ -1,0 +1,84 @@
+{
+  "acumulado": false,
+  "dataApuracao": "28/04/2012",
+  "dataProximoConcurso": "02/05/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "56",
+    "18",
+    "31",
+    "02",
+    "30",
+    "45"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "18",
+    "30",
+    "31",
+    "45",
+    "56"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "LONDRINA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "SÃO CAETANO DO SUL",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 4030007.03
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 56,
+      "valorPremio": 33924.99
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5010,
+      "valorPremio": 541.71
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "FORQUILHINHA, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1384,
+  "numeroConcursoAnterior": 1383,
+  "numeroConcursoFinal_0_5": 1385,
+  "numeroConcursoProximo": 1385,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 32449994.0,
+  "valorAcumuladoConcurso_0_5": 10703882.73,
+  "valorAcumuladoConcursoEspecial": 15470857.02,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 14000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

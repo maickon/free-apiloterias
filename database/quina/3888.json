@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "19/09/2015",
+  "dataProximoConcurso": "21/09/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "63",
+    "42",
+    "40",
+    "51",
+    "14"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "14",
+    "40",
+    "42",
+    "51",
+    "63"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 42,
+      "valorPremio": 14728.73
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3614,
+      "valorPremio": 244.52
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PITANGUI, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3888,
+  "numeroConcursoAnterior": 3887,
+  "numeroConcursoFinal_0_5": 3895,
+  "numeroConcursoProximo": 3889,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 8030357.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 26071688.31,
+  "valorAcumuladoProximoConcurso": 4493432.2,
+  "valorEstimadoProximoConcurso": 5300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

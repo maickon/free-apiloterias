@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "27/01/2001",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "19",
+    "45",
+    "65",
+    "16",
+    "95",
+    "68",
+    "88",
+    "57",
+    "11",
+    "22",
+    "42",
+    "03",
+    "81",
+    "25",
+    "04",
+    "08",
+    "50",
+    "12",
+    "55",
+    "02"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "03",
+    "04",
+    "08",
+    "11",
+    "12",
+    "16",
+    "19",
+    "22",
+    "25",
+    "42",
+    "45",
+    "50",
+    "55",
+    "57",
+    "65",
+    "68",
+    "81",
+    "88",
+    "95"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RS"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 631571.69
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 19,
+      "valorPremio": 22160.41
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 369,
+      "valorPremio": 1141.05
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2737,
+      "valorPremio": 76.69
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 16181,
+      "valorPremio": 12.98
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 210523.91
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SÃO SEBASTIÃO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 84,
+  "numeroConcursoAnterior": 83,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 85,
+  "numeroJogo": 16,
+  "observacao": "Estimativa prêmio próximo concurso: faixa 20 acertos:R$400MIL - faixa nenhum acerto:R$150MIL. Ganhador da faixa de nenhum acerto: RS.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

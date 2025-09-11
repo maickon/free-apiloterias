@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "08/01/2008",
+  "dataProximoConcurso": "11/01/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "27",
+    "37",
+    "45",
+    "14",
+    "08",
+    "32",
+    "04",
+    "26",
+    "01",
+    "43",
+    "45",
+    "22"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "14",
+    "27",
+    "32",
+    "37",
+    "45"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "01",
+    "04",
+    "22",
+    "26",
+    "43",
+    "45"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SC"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 9977736.42
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 84,
+      "valorPremio": 3524.6
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 4173,
+      "valorPremio": 70.95
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PENEDO, AL",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 622,
+  "numeroConcursoAnterior": 621,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 623,
+  "numeroJogo": 18,
+  "observacao": "GANHADOR DE 6 ACERTOS NO 1º SORTEIO: JOINVILLE/SC. ACUMULADO DO 2º PARA O 1º SORTEIO: R$ 444.098,75.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 550000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

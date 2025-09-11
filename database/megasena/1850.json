@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "24/08/2016",
+  "dataProximoConcurso": "27/08/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "24",
+    "32",
+    "23",
+    "40",
+    "41",
+    "38"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "23",
+    "24",
+    "32",
+    "38",
+    "40",
+    "41"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "RIO DE JANEIRO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 58632725.66
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 81,
+      "valorPremio": 48339.16
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5935,
+      "valorPremio": 942.46
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "IPU, CE",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1850,
+  "numeroConcursoAnterior": 1849,
+  "numeroConcursoFinal_0_5": 1855,
+  "numeroConcursoProximo": 1851,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 67912631.5,
+  "valorAcumuladoConcurso_0_5": 4533704.3,
+  "valorAcumuladoConcursoEspecial": 43272692.12,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

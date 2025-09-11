@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "30/04/2010",
+  "dataProximoConcurso": "04/05/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "28",
+    "27",
+    "31",
+    "07",
+    "05",
+    "12",
+    "36",
+    "04",
+    "35",
+    "40",
+    "26",
+    "45"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "07",
+    "12",
+    "27",
+    "28",
+    "31"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "04",
+    "26",
+    "35",
+    "36",
+    "40",
+    "45"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 14,
+      "valorPremio": 6658.68
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 919,
+      "valorPremio": 144.91
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CÁCERES, MT",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 859,
+  "numeroConcursoAnterior": 858,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 860,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1512679.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1278142.73,
+  "valorEstimadoProximoConcurso": 1500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

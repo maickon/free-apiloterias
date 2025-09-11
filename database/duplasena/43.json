@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "17/04/2002",
+  "dataProximoConcurso": "19/04/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "34",
+    "01",
+    "32",
+    "39",
+    "43",
+    "10",
+    "26",
+    "32",
+    "39",
+    "11",
+    "41",
+    "05"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "10",
+    "32",
+    "34",
+    "39",
+    "43"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "05",
+    "11",
+    "26",
+    "32",
+    "39",
+    "41"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 16,
+      "valorPremio": 4037.58
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 784,
+      "valorPremio": 82.09
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Jales, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 43,
+  "numeroConcursoAnterior": 42,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 44,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSorteio); próximo concurso: R$420.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 310856.25,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

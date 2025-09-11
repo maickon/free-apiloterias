@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "03/09/2014",
+  "dataProximoConcurso": "06/09/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "18",
+    "56",
+    "27",
+    "06",
+    "24",
+    "59"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "18",
+    "24",
+    "27",
+    "56",
+    "59"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "Ribeirão Preto",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 46770615.69
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 244,
+      "valorPremio": 19385.55
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 16339,
+      "valorPremio": 413.56
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Estúdio de TV",
+  "nomeMunicipioUFSorteio": "OSASCO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1632,
+  "numeroConcursoAnterior": 1631,
+  "numeroConcursoFinal_0_5": 1635,
+  "numeroConcursoProximo": 1633,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 80793170.0,
+  "valorAcumuladoConcurso_0_5": 13520025.46,
+  "valorAcumuladoConcursoEspecial": 51854327.26,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

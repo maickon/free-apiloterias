@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "17/04/2013",
+  "dataProximoConcurso": "20/04/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "10",
+    "01",
+    "34",
+    "54",
+    "06",
+    "40"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "06",
+    "10",
+    "34",
+    "40",
+    "54"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "LONDRINA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 37137524.71
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 174,
+      "valorPremio": 20176.24
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 12128,
+      "valorPremio": 413.52
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "LINS, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1486,
+  "numeroConcursoAnterior": 1485,
+  "numeroConcursoFinal_0_5": 1490,
+  "numeroConcursoProximo": 1487,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 59964778.0,
+  "valorAcumuladoConcurso_0_5": 7642970.01,
+  "valorAcumuladoConcursoEspecial": 17230410.34,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

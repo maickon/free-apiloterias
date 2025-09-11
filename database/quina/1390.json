@@ -1,0 +1,82 @@
+{
+  "acumulado": false,
+  "dataApuracao": "23/12/2004",
+  "dataProximoConcurso": "28/12/2004",
+  "dezenasSorteadasOrdemSorteio": [
+    "19",
+    "17",
+    "64",
+    "42",
+    "43"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "17",
+    "19",
+    "42",
+    "43",
+    "64"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    },
+    {
+      "ganhadores": 2,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 547780.82
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 312,
+      "valorPremio": 1632.64
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 13584,
+      "valorPremio": 49.81
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ATIBAIA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1390,
+  "numeroConcursoAnterior": 1389,
+  "numeroConcursoFinal_0_5": 1395,
+  "numeroConcursoProximo": 1391,
+  "numeroJogo": 3,
+  "observacao": "Estimativa de prêmio (quina) para o próximo concurso: R$300.000,00. Informamos que não haverá sorteio das loterias nos dias 24 e 25/12/2004.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

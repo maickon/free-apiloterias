@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "02/07/2012",
+  "dataProximoConcurso": "03/07/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "59",
+    "27",
+    "45",
+    "10",
+    "37"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "27",
+    "37",
+    "45",
+    "59"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 183,
+      "valorPremio": 2416.25
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8874,
+      "valorPremio": 71.18
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "UNAÍ, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2932,
+  "numeroConcursoAnterior": 2931,
+  "numeroConcursoFinal_0_5": 2935,
+  "numeroConcursoProximo": 2933,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5740020.75,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 1677078.27,
+  "valorAcumuladoProximoConcurso": 1726319.93,
+  "valorEstimadoProximoConcurso": 2300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

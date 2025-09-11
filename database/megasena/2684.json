@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "03/02/2024",
+  "dataProximoConcurso": "06/02/2024",
+  "dezenasSorteadasOrdemSorteio": [
+    "26",
+    "45",
+    "53",
+    "48",
+    "46",
+    "17"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "17",
+    "26",
+    "45",
+    "46",
+    "48",
+    "53"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "BRASILIA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "DF"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 94839718.02
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 109,
+      "valorPremio": 57025.61
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8288,
+      "valorPremio": 1071.39
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO DA SORTE",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "numero": 2684,
+  "numeroConcursoAnterior": 2683,
+  "numeroConcursoFinal_0_5": 2685,
+  "numeroConcursoProximo": 2685,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 107809170.0,
+  "valorAcumuladoConcurso_0_5": 27330868.55,
+  "valorAcumuladoConcursoEspecial": 11285151.38,
+  "valorAcumuladoProximoConcurso": 27330868.55,
+  "valorEstimadoProximoConcurso": 32000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

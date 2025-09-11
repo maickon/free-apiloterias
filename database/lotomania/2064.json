@@ -1,0 +1,136 @@
+{
+  "acumulado": false,
+  "dataApuracao": "11/04/2020",
+  "dataProximoConcurso": "14/04/2020",
+  "dezenasSorteadasOrdemSorteio": [
+    "01",
+    "56",
+    "49",
+    "72",
+    "82",
+    "18",
+    "04",
+    "57",
+    "67",
+    "06",
+    "99",
+    "37",
+    "41",
+    "02",
+    "33",
+    "11",
+    "07",
+    "03",
+    "62",
+    "05"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "11",
+    "18",
+    "33",
+    "37",
+    "41",
+    "49",
+    "56",
+    "57",
+    "62",
+    "67",
+    "72",
+    "82",
+    "99"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "JUINA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MT"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "JUINA",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "MT"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 544050.65
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 77251.63
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 57,
+      "valorPremio": 1694.12
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 494,
+      "valorPremio": 195.47
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 2849,
+      "valorPremio": 33.89
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 12113,
+      "valorPremio": 7.97
+    },
+    {
+      "descricaoFaixa": "0 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 77251.65
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "numero": 2064,
+  "numeroConcursoAnterior": 2063,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 2065,
+  "numeroJogo": 16,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 3182222.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 2206778.54,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

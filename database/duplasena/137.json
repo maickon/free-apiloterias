@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "21/03/2003",
+  "dataProximoConcurso": "25/03/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "48",
+    "14",
+    "31",
+    "29",
+    "18",
+    "42",
+    "01",
+    "15",
+    "04",
+    "33",
+    "20",
+    "35"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "14",
+    "18",
+    "29",
+    "31",
+    "42",
+    "48"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "01",
+    "04",
+    "15",
+    "20",
+    "33",
+    "35"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 26,
+      "valorPremio": 3993.77
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1254,
+      "valorPremio": 82.5
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Mogi-Guaçu, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 137,
+  "numeroConcursoAnterior": 136,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 138,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$1.500.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1353867.99,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

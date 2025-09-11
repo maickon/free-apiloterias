@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "01/03/2003",
+  "dataProximoConcurso": "08/03/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "15",
+    "31",
+    "23",
+    "06",
+    "59",
+    "37"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "15",
+    "23",
+    "31",
+    "37",
+    "59"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 19946601.01
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 135,
+      "valorPremio": 13861.59
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 9944,
+      "valorPremio": 187.48
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Corumbá, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 442,
+  "numeroConcursoAnterior": 441,
+  "numeroConcursoFinal_0_5": 445,
+  "numeroConcursoProximo": 443,
+  "numeroJogo": 2,
+  "observacao": "Estimativa de prêmio (SENA) próximo concurso: R$700.000,00. A CAIXA informa que o concurso 443 da Mega Sena acontecerá em 08/03/2003.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 3863784.19,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

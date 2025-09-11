@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "09/10/2013",
+  "dataProximoConcurso": "11/10/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "06",
+    "56",
+    "33",
+    "50",
+    "51",
+    "10"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "10",
+    "33",
+    "50",
+    "51",
+    "56"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "VITÓRIA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "ES"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 23232379.04
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 209,
+      "valorPremio": 13956.16
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 11870,
+      "valorPremio": 351.04
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Auditório",
+  "nomeMunicipioUFSorteio": "OSASCO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1537,
+  "numeroConcursoAnterior": 1536,
+  "numeroConcursoFinal_0_5": 1540,
+  "numeroConcursoProximo": 1538,
+  "numeroJogo": 2,
+  "observacao": "Sorteio realizado em Estúdio de TV.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 49821730.0,
+  "valorAcumuladoConcurso_0_5": 8440254.06,
+  "valorAcumuladoConcursoEspecial": 45356893.2,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "09/12/2005",
+  "dataProximoConcurso": "13/12/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "28",
+    "14",
+    "48",
+    "32",
+    "47",
+    "11",
+    "48",
+    "07",
+    "42",
+    "33",
+    "08",
+    "39"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "14",
+    "28",
+    "32",
+    "47",
+    "48"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "07",
+    "08",
+    "33",
+    "39",
+    "42",
+    "48"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "GO"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 6796034.63
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 275641.66
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 47,
+      "valorPremio": 3909.81
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2436,
+      "valorPremio": 75.16
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "VOTORANTIM, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 411,
+  "numeroConcursoAnterior": 410,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 412,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA 1º SORTEIO) para o próximo conc., a ser realizado em 13/12/2005: R$100.000,00. Ganhador do 1º sorteio: GO.  2º sorteio: SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

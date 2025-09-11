@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "11/02/2004",
+  "dataProximoConcurso": "14/02/2004",
+  "dezenasSorteadasOrdemSorteio": [
+    "37",
+    "03",
+    "19",
+    "34",
+    "39",
+    "07"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "07",
+    "19",
+    "34",
+    "37",
+    "39"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RS"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2054340.05
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 128,
+      "valorPremio": 4366.34
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5345,
+      "valorPremio": 104.17
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "IBAITI, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 537,
+  "numeroConcursoAnterior": 536,
+  "numeroConcursoFinal_0_5": 540,
+  "numeroConcursoProximo": 538,
+  "numeroJogo": 2,
+  "observacao": "Estimativa de prêmio (SENA) próximo concurso: R$1.000.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 2354230.53,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

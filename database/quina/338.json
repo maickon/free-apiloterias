@@ -1,0 +1,65 @@
+{
+  "acumulado": false,
+  "dataApuracao": "05/10/1997",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "03",
+    "07",
+    "10",
+    "23",
+    "43"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "07",
+    "10",
+    "23",
+    "43"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 15,
+      "valorPremio": 26552.07
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 1320,
+      "valorPremio": 301.73
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 38777,
+      "valorPremio": 13.68
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "",
+  "nomeMunicipioUFSorteio": "",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 338,
+  "numeroConcursoAnterior": 337,
+  "numeroConcursoFinal_0_5": 345,
+  "numeroConcursoProximo": 339,
+  "numeroJogo": 3,
+  "observacao": "Ganhadores da QUINA dos Estados: 1BA, 1MG, 1PA, 1PB, 3PR, 3RJ, 2SC e 3SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "08/12/2005",
+  "dataProximoConcurso": "10/12/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "54",
+    "35",
+    "33",
+    "60",
+    "50"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "33",
+    "35",
+    "50",
+    "54",
+    "60"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 136,
+      "valorPremio": 2714.86
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6753,
+      "valorPremio": 72.63
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Votorantim, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1534,
+  "numeroConcursoAnterior": 1533,
+  "numeroConcursoFinal_0_5": 1535,
+  "numeroConcursoProximo": 1535,
+  "numeroJogo": 3,
+  "observacao": "ACUMULOU!!! Estimativa de prêmio (quina) para o próximo concurso, a ser realizado em 10/12/2005: R$1.200.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 673437.54,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

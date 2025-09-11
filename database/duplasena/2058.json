@@ -1,0 +1,119 @@
+{
+  "acumulado": true,
+  "dataApuracao": "05/03/2020",
+  "dataProximoConcurso": "07/03/2020",
+  "dezenasSorteadasOrdemSorteio": [
+    "24",
+    "30",
+    "10",
+    "40",
+    "47",
+    "35",
+    "14",
+    "44",
+    "26",
+    "33",
+    "12",
+    "08"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "24",
+    "30",
+    "35",
+    "40",
+    "47"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "08",
+    "12",
+    "14",
+    "26",
+    "33",
+    "44"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "JUINA",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "MT"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 23,
+      "valorPremio": 6367.64
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1365,
+      "valorPremio": 122.62
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 28192,
+      "valorPremio": 2.96
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 161101.15
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 32,
+      "valorPremio": 4119.06
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2204,
+      "valorPremio": 75.94
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 8,
+      "numeroDeGanhadores": 37280,
+      "valorPremio": 2.24
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "numero": 2058,
+  "numeroConcursoAnterior": 2057,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 2059,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4826350.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 20704790.12,
+  "valorAcumuladoProximoConcurso": 6787259.22,
+  "valorEstimadoProximoConcurso": 7200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "05/08/2008",
+  "dataProximoConcurso": "07/08/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "65",
+    "64",
+    "07",
+    "59",
+    "08"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "08",
+    "59",
+    "64",
+    "65"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 88,
+      "valorPremio": 4404.59
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5046,
+      "valorPremio": 102.42
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TREMEMBÉ, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1935,
+  "numeroConcursoAnterior": 1934,
+  "numeroConcursoFinal_0_5": 1945,
+  "numeroConcursoProximo": 1936,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 387603.47,
+  "valorEstimadoProximoConcurso": 850000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

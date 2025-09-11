@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "30/05/2012",
+  "dataProximoConcurso": "02/06/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "44",
+    "28",
+    "18",
+    "24",
+    "04",
+    "39"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "18",
+    "24",
+    "28",
+    "39",
+    "44"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "GOVERNADOR VALADARES",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 8139697.37
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 86,
+      "valorPremio": 17831.94
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5717,
+      "valorPremio": 383.2
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CAMPO MAIOR, PI",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1393,
+  "numeroConcursoAnterior": 1392,
+  "numeroConcursoFinal_0_5": 1395,
+  "numeroConcursoProximo": 1394,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 26194122.0,
+  "valorAcumuladoConcurso_0_5": 7420647.9,
+  "valorAcumuladoConcursoEspecial": 19469904.65,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

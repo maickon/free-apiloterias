@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "18/03/2008",
+  "dataProximoConcurso": "25/03/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "36",
+    "31",
+    "32",
+    "21",
+    "40",
+    "38",
+    "08",
+    "12",
+    "28",
+    "43",
+    "32",
+    "11"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "21",
+    "31",
+    "32",
+    "36",
+    "38",
+    "40"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "08",
+    "11",
+    "12",
+    "28",
+    "32",
+    "43"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 36,
+      "valorPremio": 3766.32
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1947,
+      "valorPremio": 69.64
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ITAPERUNA, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 641,
+  "numeroConcursoAnterior": 640,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 642,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 4300358.77,
+  "valorEstimadoProximoConcurso": 4500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

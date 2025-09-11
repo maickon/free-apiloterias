@@ -1,0 +1,118 @@
+{
+  "acumulado": false,
+  "dataApuracao": "22/07/2023",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "026034",
+    "063921",
+    "000044",
+    "086133",
+    "024856"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "026034",
+    "063921",
+    "000044",
+    "086133",
+    "024856"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 0,
+      "municipio": "BELO HORIZONTE",
+      "nomeFatansiaUL": "CURINGA DA SORTE",
+      "posicao": 2,
+      "serie": "A",
+      "uf": "MG"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "VOLTA REDONDA",
+      "nomeFatansiaUL": "LOTERIA VOLDAC LTDA ME",
+      "posicao": 4,
+      "serie": "A",
+      "uf": "RJ"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "ASSIS",
+      "nomeFatansiaUL": "LOTERICAS SAO JUDAS",
+      "posicao": 1,
+      "serie": "A",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "GUARULHOS",
+      "nomeFatansiaUL": "POOL CENTER LOTERIAS",
+      "posicao": 3,
+      "serie": "A",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "SAO PAULO",
+      "nomeFatansiaUL": "O SIGNO LOTERICO",
+      "posicao": 5,
+      "serie": "A",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "1 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1350000.0
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 15500.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 14000.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 13000.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 12227.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO DA SORTE",
+  "nomeMunicipioUFSorteio": "SAO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": null,
+  "numero": 5784,
+  "numeroConcursoAnterior": 5783,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 5785,
+  "numeroJogo": 10,
+  "observacao": null,
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTERIA_FEDERAL",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

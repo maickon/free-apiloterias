@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "27/08/2014",
+  "dataProximoConcurso": "28/08/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "65",
+    "72",
+    "39",
+    "62",
+    "41"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "39",
+    "41",
+    "62",
+    "65",
+    "72"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 81,
+      "valorPremio": 9436.49
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5544,
+      "valorPremio": 196.95
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "PELOTAS, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3572,
+  "numeroConcursoAnterior": 3571,
+  "numeroConcursoFinal_0_5": 3575,
+  "numeroConcursoProximo": 3573,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 9922379.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 18230224.07,
+  "valorAcumuladoProximoConcurso": 5624628.98,
+  "valorEstimadoProximoConcurso": 7000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

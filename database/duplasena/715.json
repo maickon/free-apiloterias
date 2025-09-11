@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "05/12/2008",
+  "dataProximoConcurso": "09/12/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "32",
+    "05",
+    "30",
+    "14",
+    "41",
+    "21",
+    "14",
+    "36",
+    "47",
+    "24",
+    "02",
+    "18"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "14",
+    "21",
+    "30",
+    "32",
+    "41"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "02",
+    "14",
+    "18",
+    "24",
+    "36",
+    "47"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 64,
+      "valorPremio": 2832.6
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 3100,
+      "valorPremio": 58.48
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "RIBEIRÃO PRETO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 715,
+  "numeroConcursoAnterior": 714,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 716,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 5342421.51,
+  "valorEstimadoProximoConcurso": 5700000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

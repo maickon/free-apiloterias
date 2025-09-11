@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "29/07/2003",
+  "dataProximoConcurso": "01/08/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "11",
+    "09",
+    "29",
+    "12",
+    "19",
+    "34",
+    "10",
+    "15",
+    "43",
+    "50",
+    "28",
+    "12"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "11",
+    "12",
+    "19",
+    "29",
+    "34"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "10",
+    "12",
+    "15",
+    "28",
+    "43",
+    "50"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 132817.96
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 40,
+      "valorPremio": 2213.64
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1331,
+      "valorPremio": 66.28
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Salvador, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 174,
+  "numeroConcursoAnterior": 173,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 175,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$1.500.000,00. Ganhadores (sena-2ºsorteio) por Estado: BA(1).",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1348121.61,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

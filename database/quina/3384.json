@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "07/01/2014",
+  "dataProximoConcurso": "08/01/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "47",
+    "73",
+    "46",
+    "48",
+    "26"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "26",
+    "46",
+    "47",
+    "48",
+    "73"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 103,
+      "valorPremio": 5064.35
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8141,
+      "valorPremio": 91.53
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "RIBEIRÃO DAS NEVES, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3384,
+  "numeroConcursoAnterior": 3383,
+  "numeroConcursoFinal_0_5": 3385,
+  "numeroConcursoProximo": 3385,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6771440.25,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 47105925.67,
+  "valorAcumuladoProximoConcurso": 1893415.43,
+  "valorEstimadoProximoConcurso": 2700000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

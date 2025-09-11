@@ -1,0 +1,107 @@
+{
+  "acumulado": false,
+  "dataApuracao": "01/12/2015",
+  "dataProximoConcurso": "04/12/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "09",
+    "07",
+    "02",
+    "25",
+    "34",
+    "20",
+    "21",
+    "26",
+    "45",
+    "12",
+    "06",
+    "22"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "07",
+    "09",
+    "20",
+    "25",
+    "34"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "06",
+    "12",
+    "21",
+    "22",
+    "26",
+    "45"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "ARAQUARI",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SC"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 6349776.84
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 36,
+      "valorPremio": 6620.76
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 2501,
+      "valorPremio": 90.76
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 30,
+      "valorPremio": 7944.91
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2295,
+      "valorPremio": 98.9
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "JI-PARANÁ, RO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1442,
+  "numeroConcursoAnterior": 1441,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1443,
+  "numeroJogo": 18,
+  "observacao": "O ACUMULADO DA SENA DO 2º SORTEIO (R$ 317.796,43) FICA ACUMULADO PARA A SENA DO 1º SORTEIO DO PRÓXIMO CONCURSO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5156790.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 317796.43,
+  "valorEstimadoProximoConcurso": 500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "23/10/2010",
+  "dataProximoConcurso": "27/10/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "32",
+    "55",
+    "34",
+    "31",
+    "50",
+    "40"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "31",
+    "32",
+    "34",
+    "40",
+    "50",
+    "55"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "BELO HORIZONTE",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 24970852.82
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 36,
+      "valorPremio": 64045.66
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3825,
+      "valorPremio": 861.11
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SÃO RAIMUNDO NONATO, PI",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1225,
+  "numeroConcursoAnterior": 1224,
+  "numeroConcursoFinal_0_5": 1230,
+  "numeroConcursoProximo": 1226,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 39382110.0,
+  "valorAcumuladoConcurso_0_5": 2669692.5,
+  "valorAcumuladoConcursoEspecial": 51296733.3,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

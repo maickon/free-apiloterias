@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "10/11/2007",
+  "dataProximoConcurso": "14/11/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "68",
+    "88",
+    "61",
+    "34",
+    "85",
+    "99",
+    "66",
+    "67",
+    "75",
+    "27",
+    "72",
+    "23",
+    "96",
+    "77",
+    "59",
+    "31",
+    "43",
+    "13",
+    "00",
+    "01"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "00",
+    "01",
+    "13",
+    "23",
+    "27",
+    "31",
+    "34",
+    "43",
+    "59",
+    "61",
+    "66",
+    "67",
+    "68",
+    "72",
+    "75",
+    "77",
+    "85",
+    "88",
+    "96",
+    "99"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    },
+    {
+      "ganhadores": 2,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 358343.66
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 30,
+      "valorPremio": 9533.24
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 318,
+      "valorPremio": 899.36
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2345,
+      "valorPremio": 60.75
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 12507,
+      "valorPremio": 11.4
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PARANAGUÁ, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 774,
+  "numeroConcursoAnterior": 773,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 775,
+  "numeroJogo": 16,
+  "observacao": "Ganhadores de 20 acertos: Salvador/BA, São Paulo/SP e Osasco/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 142998.61,
+  "valorEstimadoProximoConcurso": 500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

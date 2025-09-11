@@ -1,0 +1,135 @@
+{
+  "acumulado": false,
+  "dataApuracao": "22/02/2018",
+  "dataProximoConcurso": "24/02/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "43",
+    "34",
+    "45",
+    "26",
+    "12",
+    "16",
+    "12",
+    "29",
+    "22",
+    "13",
+    "30",
+    "27"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "12",
+    "16",
+    "26",
+    "34",
+    "43",
+    "45"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "12",
+    "13",
+    "22",
+    "27",
+    "29",
+    "30"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "BRASÍLIA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "DF"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "GUARULHOS",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "SÃO PAULO",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1809242.34
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 25,
+      "valorPremio": 2871.88
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1226,
+      "valorPremio": 66.92
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 20865,
+      "valorPremio": 1.96
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 39488.33
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 29,
+      "valorPremio": 2228.18
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1122,
+      "valorPremio": 73.13
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 8,
+      "numeroDeGanhadores": 19186,
+      "valorPremio": 2.13
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "CAMPO BELO, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1759,
+  "numeroConcursoAnterior": 1758,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1760,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2366062.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 13197753.5,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 150000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

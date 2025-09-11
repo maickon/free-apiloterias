@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "16/03/2018",
+  "dataProximoConcurso": "17/03/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "21",
+    "31",
+    "32",
+    "37",
+    "24"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "21",
+    "24",
+    "31",
+    "32",
+    "37"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 46,
+      "valorPremio": 7452.06
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4189,
+      "valorPremio": 123.05
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 107877,
+      "valorPremio": 2.62
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "MANHUAÇU, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4631,
+  "numeroConcursoAnterior": 4630,
+  "numeroConcursoFinal_0_5": 4635,
+  "numeroConcursoProximo": 4632,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5945664.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 78934063.56,
+  "valorAcumuladoProximoConcurso": 631463.64,
+  "valorEstimadoProximoConcurso": 1300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

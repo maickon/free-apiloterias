@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "03/03/2021",
+  "dataProximoConcurso": "06/03/2021",
+  "dezenasSorteadasOrdemSorteio": [
+    "54",
+    "25",
+    "05",
+    "10",
+    "49",
+    "32"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "10",
+    "25",
+    "32",
+    "49",
+    "54"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "CURITIBA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2780964.58
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 59,
+      "valorPremio": 25587.57
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3150,
+      "valorPremio": 684.65
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO LOTERIAS CAIXA",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "numero": 2349,
+  "numeroConcursoAnterior": 2348,
+  "numeroConcursoFinal_0_5": 2350,
+  "numeroConcursoProximo": 2350,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 26184258.0,
+  "valorAcumuladoConcurso_0_5": 17118616.07,
+  "valorAcumuladoConcursoEspecial": 11236357.23,
+  "valorAcumuladoProximoConcurso": 17118616.07,
+  "valorEstimadoProximoConcurso": 22000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

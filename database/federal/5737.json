@@ -1,0 +1,118 @@
+{
+  "acumulado": false,
+  "dataApuracao": "04/02/2023",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "050460",
+    "050011",
+    "099963",
+    "004061",
+    "073491"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "050460",
+    "050011",
+    "099963",
+    "004061",
+    "073491"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 0,
+      "municipio": "BRASILIA",
+      "nomeFatansiaUL": "LOTERIA TIO PATINHAS",
+      "posicao": 3,
+      "serie": "A",
+      "uf": "DF"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "LONDRINA",
+      "nomeFatansiaUL": "LOTERICA SAMUARA",
+      "posicao": 1,
+      "serie": "A",
+      "uf": "PR"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "BASTOS",
+      "nomeFatansiaUL": "LOTERICA BASTOS",
+      "posicao": 2,
+      "serie": "A",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "SAO JOSE DO RIO PRETO",
+      "nomeFatansiaUL": "PE KENT LOTERIAS",
+      "posicao": 5,
+      "serie": "A",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "SAO JOSE DOS CAMPOS",
+      "nomeFatansiaUL": "LOTERICA CASA DA SORTE",
+      "posicao": 4,
+      "serie": "A",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "1 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 500000.0
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 27000.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 24000.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 19000.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 18329.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO DA SORTE",
+  "nomeMunicipioUFSorteio": "SAO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": null,
+  "numero": 5737,
+  "numeroConcursoAnterior": 5736,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 5738,
+  "numeroJogo": 10,
+  "observacao": "Local de Sorteio: ESPAÇO DA SORTE",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTERIA_FEDERAL",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

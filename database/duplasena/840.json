@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "23/02/2010",
+  "dataProximoConcurso": "26/02/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "06",
+    "48",
+    "02",
+    "50",
+    "07",
+    "24",
+    "05",
+    "03",
+    "34",
+    "47",
+    "13",
+    "21"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "06",
+    "07",
+    "24",
+    "48",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "03",
+    "05",
+    "13",
+    "21",
+    "34",
+    "47"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 56,
+      "valorPremio": 2148.31
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2245,
+      "valorPremio": 76.55
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "FLORIANÓPOLIS, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 840,
+  "numeroConcursoAnterior": 839,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 841,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1952159.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 3363130.49,
+  "valorEstimadoProximoConcurso": 3600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

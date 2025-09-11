@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "01/08/2013",
+  "dataProximoConcurso": "02/08/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "79",
+    "50",
+    "59",
+    "16",
+    "66"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "16",
+    "50",
+    "59",
+    "66",
+    "79"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 103,
+      "valorPremio": 6563.4
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6921,
+      "valorPremio": 139.54
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "JOÃO PESSOA, PB",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3254,
+  "numeroConcursoAnterior": 3253,
+  "numeroConcursoFinal_0_5": 3255,
+  "numeroConcursoProximo": 3255,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 8775791.25,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 9431608.04,
+  "valorAcumuladoProximoConcurso": 3627512.58,
+  "valorEstimadoProximoConcurso": 4700000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

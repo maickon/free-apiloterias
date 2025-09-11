@@ -1,0 +1,80 @@
+{
+  "acumulado": false,
+  "dataApuracao": "30/11/2023",
+  "dataProximoConcurso": "01/12/2023",
+  "dezenasSorteadasOrdemSorteio": [
+    "51",
+    "32",
+    "67",
+    "27",
+    "30"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "27",
+    "30",
+    "32",
+    "51",
+    "67"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "TAUBATE",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2718543.44
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 19,
+      "valorPremio": 17447.88
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 2525,
+      "valorPremio": 125.03
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 70155,
+      "valorPremio": 4.5
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO DA SORTE",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "numero": 6304,
+  "numeroConcursoAnterior": 6303,
+  "numeroConcursoFinal_0_5": 6305,
+  "numeroConcursoProximo": 6305,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7283127.5,
+  "valorAcumuladoConcurso_0_5": 3431414.2,
+  "valorAcumuladoConcursoEspecial": 60879608.95,
+  "valorAcumuladoProximoConcurso": 3431414.2,
+  "valorEstimadoProximoConcurso": 4300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

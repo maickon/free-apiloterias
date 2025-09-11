@@ -1,0 +1,136 @@
+{
+  "acumulado": false,
+  "dataApuracao": "29/01/2019",
+  "dataProximoConcurso": "01/02/2019",
+  "dezenasSorteadasOrdemSorteio": [
+    "55",
+    "23",
+    "10",
+    "03",
+    "41",
+    "07",
+    "83",
+    "46",
+    "18",
+    "27",
+    "81",
+    "34",
+    "24",
+    "25",
+    "60",
+    "11",
+    "16",
+    "02",
+    "29",
+    "30"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "03",
+    "07",
+    "10",
+    "11",
+    "16",
+    "18",
+    "23",
+    "24",
+    "25",
+    "27",
+    "29",
+    "30",
+    "34",
+    "41",
+    "46",
+    "55",
+    "60",
+    "81",
+    "83"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "PIRANHAS",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "GO"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "BRUSQUE",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "SC"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 659953.72
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 26,
+      "valorPremio": 7407.52
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 251,
+      "valorPremio": 685.1
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2155,
+      "valorPremio": 55.85
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 25907,
+      "valorPremio": 4.64
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 96297.83
+    },
+    {
+      "descricaoFaixa": "0 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 32103,
+      "valorPremio": 3.74
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "GUARACIABA, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1939,
+  "numeroConcursoAnterior": 1938,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1940,
+  "numeroJogo": 16,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 3966856.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

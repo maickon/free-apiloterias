@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "14/12/2012",
+  "dataProximoConcurso": "15/12/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "67",
+    "45",
+    "11",
+    "77",
+    "62"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "45",
+    "62",
+    "67",
+    "77"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 65,
+      "valorPremio": 6159.21
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5344,
+      "valorPremio": 107.02
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CARMO DO RIO CLARO, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3070,
+  "numeroConcursoAnterior": 3069,
+  "numeroConcursoFinal_0_5": 3075,
+  "numeroConcursoProximo": 3071,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5197074.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 35850289.93,
+  "valorAcumuladoProximoConcurso": 1055158.63,
+  "valorEstimadoProximoConcurso": 1700000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

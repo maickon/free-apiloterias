@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "04/04/2008",
+  "dataProximoConcurso": "08/04/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "42",
+    "35",
+    "10",
+    "36",
+    "43",
+    "50",
+    "03",
+    "38",
+    "33",
+    "42",
+    "12",
+    "44"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "35",
+    "36",
+    "42",
+    "43",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "03",
+    "12",
+    "33",
+    "38",
+    "42",
+    "44"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 25,
+      "valorPremio": 3771.67
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1473,
+      "valorPremio": 64.01
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "JACAREÍ, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 645,
+  "numeroConcursoAnterior": 644,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 646,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 569490.42,
+  "valorEstimadoProximoConcurso": 700000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

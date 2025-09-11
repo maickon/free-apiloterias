@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "09/03/2012",
+  "dataProximoConcurso": "10/03/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "24",
+    "11",
+    "79",
+    "31",
+    "27"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "24",
+    "27",
+    "31",
+    "79"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 81,
+      "valorPremio": 5524.03
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6559,
+      "valorPremio": 97.45
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TIETÊ, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2843,
+  "numeroConcursoAnterior": 2842,
+  "numeroConcursoFinal_0_5": 2845,
+  "numeroConcursoProximo": 2844,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5808461.25,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 53060775.98,
+  "valorAcumuladoProximoConcurso": 2179648.12,
+  "valorEstimadoProximoConcurso": 2800000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

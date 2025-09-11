@@ -1,0 +1,119 @@
+{
+  "acumulado": false,
+  "dataApuracao": "04/08/2016",
+  "dataProximoConcurso": "06/08/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "43",
+    "15",
+    "07",
+    "25",
+    "05",
+    "03",
+    "39",
+    "15",
+    "12",
+    "06",
+    "08",
+    "28"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "05",
+    "07",
+    "15",
+    "25",
+    "43"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "06",
+    "08",
+    "12",
+    "15",
+    "28",
+    "39"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "MONTE CARMELO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 791116.57
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 13,
+      "valorPremio": 4166.12
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1173,
+      "valorPremio": 52.76
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 19294,
+      "valorPremio": 1.6
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 10,
+      "valorPremio": 4874.36
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 833,
+      "valorPremio": 74.3
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 8,
+      "numeroDeGanhadores": 15928,
+      "valorPremio": 1.94
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "BOM JESUS DA LAPA, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1526,
+  "numeroConcursoAnterior": 1525,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1527,
+  "numeroJogo": 18,
+  "observacao": "O PRÊMIO DA SENA DO 2º SORTEIO (R$ 59.575,54 ) FICA ACUMULADO PARA A SENA DO 1º SORTEIO DO PRÓXIMO CONCURSO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1784824.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 5230458.82,
+  "valorAcumuladoProximoConcurso": 59575.54,
+  "valorEstimadoProximoConcurso": 200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

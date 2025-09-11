@@ -1,0 +1,65 @@
+{
+  "acumulado": false,
+  "dataApuracao": "13/05/1999",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "67",
+    "53",
+    "51",
+    "12",
+    "28"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "12",
+    "28",
+    "51",
+    "53",
+    "67"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 5,
+      "valorPremio": 55135.18
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 321,
+      "valorPremio": 858.81
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 12020,
+      "valorPremio": 30.58
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "",
+  "nomeMunicipioUFSorteio": "",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 550,
+  "numeroConcursoAnterior": 549,
+  "numeroConcursoFinal_0_5": 555,
+  "numeroConcursoProximo": 551,
+  "numeroJogo": 3,
+  "observacao": "Ganhadores da QUINA dos Estados de Minas Gerais (2), Santa Catarina e São Paulo (2).",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

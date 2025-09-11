@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "11/06/2004",
+  "dataProximoConcurso": "15/06/2004",
+  "dezenasSorteadasOrdemSorteio": [
+    "30",
+    "15",
+    "48",
+    "17",
+    "11",
+    "42",
+    "36",
+    "01",
+    "06",
+    "13",
+    "43",
+    "25"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "15",
+    "17",
+    "30",
+    "42",
+    "48"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "01",
+    "06",
+    "13",
+    "25",
+    "36",
+    "43"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "GO"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 5411630.98
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 197072.22
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 64,
+      "valorPremio": 2052.84
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2195,
+      "valorPremio": 59.63
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ALEGRE, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 263,
+  "numeroConcursoAnterior": 262,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 264,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA 1º SORTEIO) próximo concurso: R$100.000,00. O ganhador da SENA 2º SORTEIO é do estado do Paraná.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

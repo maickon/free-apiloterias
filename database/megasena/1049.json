@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "18/02/2009",
+  "dataProximoConcurso": "21/02/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "34",
+    "17",
+    "52",
+    "05",
+    "02",
+    "29"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "05",
+    "17",
+    "29",
+    "34",
+    "52"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1636050.81
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 143,
+      "valorPremio": 6210.78
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6295,
+      "valorPremio": 141.09
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ARACATI, CE",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1049,
+  "numeroConcursoAnterior": 1048,
+  "numeroConcursoFinal_0_5": 1050,
+  "numeroConcursoProximo": 1050,
+  "numeroJogo": 2,
+  "observacao": "Ganhador de 6 acertos: São Paulo/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 7934773.59,
+  "valorAcumuladoConcursoEspecial": 7093767.61,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 10000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

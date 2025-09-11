@@ -1,0 +1,67 @@
+{
+  "acumulado": true,
+  "dataApuracao": "14/12/2019",
+  "dataProximoConcurso": "17/12/2019",
+  "dezenasSorteadasOrdemSorteio": [
+    "24",
+    "42",
+    "48",
+    "10",
+    "43",
+    "49"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "24",
+    "42",
+    "43",
+    "48",
+    "49"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 49,
+      "valorPremio": 62000.46
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4361,
+      "valorPremio": 995.19
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "numero": 2216,
+  "numeroConcursoAnterior": 2215,
+  "numeroConcursoFinal_0_5": 2220,
+  "numeroConcursoProximo": 2217,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 52692673.5,
+  "valorAcumuladoConcurso_0_5": 6474910.24,
+  "valorAcumuladoConcursoEspecial": 92052554.77,
+  "valorAcumuladoProximoConcurso": 31185223.61,
+  "valorEstimadoProximoConcurso": 36000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,87 @@
+{
+  "acumulado": true,
+  "dataApuracao": "13/05/2017",
+  "dataProximoConcurso": "16/05/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "20",
+    "03",
+    "34",
+    "62",
+    "12",
+    "49",
+    "23"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "12",
+    "20",
+    "23",
+    "34",
+    "49",
+    "62"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 11,
+      "valorPremio": 24785.39
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 497,
+      "valorPremio": 783.67
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 8941,
+      "valorPremio": 6.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 87138,
+      "valorPremio": 2.0
+    },
+    {
+      "descricaoFaixa": "Time do Coração",
+      "faixa": 6,
+      "numeroDeGanhadores": 13048,
+      "valorPremio": 5.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "",
+  "nomeMunicipioUFSorteio": "LUCAS DO RIO VERDE, MT",
+  "nomeTimeCoracaoMesSorte": "U BARBARENSE     /SP",
+  "numero": 1031,
+  "numeroConcursoAnterior": 1030,
+  "numeroConcursoFinal_0_5": 1035,
+  "numeroConcursoProximo": 1032,
+  "numeroJogo": 20,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "TIMEMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4870838.0,
+  "valorAcumuladoConcurso_0_5": 270750.76,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 19330889.45,
+  "valorEstimadoProximoConcurso": 20000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

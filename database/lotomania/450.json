@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "08/09/2004",
+  "dataProximoConcurso": "11/09/2004",
+  "dezenasSorteadasOrdemSorteio": [
+    "34",
+    "98",
+    "89",
+    "24",
+    "42",
+    "13",
+    "20",
+    "63",
+    "14",
+    "11",
+    "22",
+    "31",
+    "76",
+    "82",
+    "47",
+    "08",
+    "18",
+    "37",
+    "12",
+    "75"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "11",
+    "12",
+    "13",
+    "14",
+    "18",
+    "20",
+    "22",
+    "24",
+    "31",
+    "34",
+    "37",
+    "42",
+    "47",
+    "63",
+    "75",
+    "76",
+    "82",
+    "89",
+    "98"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 312040.92
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 6,
+      "valorPremio": 34671.21
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 154,
+      "valorPremio": 1350.83
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1404,
+      "valorPremio": 73.81
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 8450,
+      "valorPremio": 12.27
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ITAJUBÁ, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 450,
+  "numeroConcursoAnterior": 449,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 451,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 ACERTOS) próximo concurso: R$470.000,00 (QUATROCENTOS E SETENTA MIL REAIS). Acumulado da faixa ZERO ACERTO para 20 ACERTOS: R$104.013,64",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "12/01/2009",
+  "dataProximoConcurso": "15/01/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "20",
+    "05",
+    "09",
+    "24",
+    "39",
+    "32",
+    "26",
+    "42",
+    "46",
+    "11",
+    "50",
+    "19"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "09",
+    "20",
+    "24",
+    "32",
+    "39"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "11",
+    "19",
+    "26",
+    "42",
+    "46",
+    "50"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 31,
+      "valorPremio": 4867.67
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2119,
+      "valorPremio": 101.73
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TORRES, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 828,
+  "numeroConcursoAnterior": 827,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 829,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2448576.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 5574756.63,
+  "valorEstimadoProximoConcurso": 6000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

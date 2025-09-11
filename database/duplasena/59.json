@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "11/06/2002",
+  "dataProximoConcurso": "14/06/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "38",
+    "33",
+    "02",
+    "16",
+    "28",
+    "46",
+    "28",
+    "32",
+    "23",
+    "38",
+    "35",
+    "43"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "16",
+    "28",
+    "33",
+    "38",
+    "46"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "23",
+    "28",
+    "32",
+    "35",
+    "38",
+    "43"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 26,
+      "valorPremio": 2742.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1077,
+      "valorPremio": 65.95
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Itabaiana, SE",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 59,
+  "numeroConcursoAnterior": 58,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 60,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA 1º SORTEIO ) próximo concurso R$1.100.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 964423.67,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

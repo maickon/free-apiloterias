@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "28/03/2012",
+  "dataProximoConcurso": "29/03/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "76",
+    "10",
+    "77",
+    "42",
+    "31"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "31",
+    "42",
+    "76",
+    "77"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 64,
+      "valorPremio": 7417.53
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5430,
+      "valorPremio": 124.89
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CHARQUEADAS, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2859,
+  "numeroConcursoAnterior": 2858,
+  "numeroConcursoFinal_0_5": 2865,
+  "numeroConcursoProximo": 2860,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6162543.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 57137031.86,
+  "valorAcumuladoProximoConcurso": 2760099.08,
+  "valorEstimadoProximoConcurso": 3300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

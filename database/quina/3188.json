@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "08/05/2013",
+  "dataProximoConcurso": "09/05/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "36",
+    "53",
+    "79",
+    "28",
+    "26"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "26",
+    "28",
+    "36",
+    "53",
+    "79"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 42,
+      "valorPremio": 8699.39
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4950,
+      "valorPremio": 105.44
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "JARDIM, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3188,
+  "numeroConcursoAnterior": 3187,
+  "numeroConcursoFinal_0_5": 3195,
+  "numeroConcursoProximo": 3189,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4743060.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 67915639.12,
+  "valorAcumuladoProximoConcurso": 511524.26,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

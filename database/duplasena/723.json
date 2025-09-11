@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "02/01/2009",
+  "dataProximoConcurso": "06/01/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "50",
+    "28",
+    "08",
+    "31",
+    "11",
+    "03",
+    "41",
+    "13",
+    "20",
+    "21",
+    "28",
+    "15"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "08",
+    "11",
+    "28",
+    "31",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "13",
+    "15",
+    "20",
+    "21",
+    "28",
+    "41"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 18,
+      "valorPremio": 3879.58
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 741,
+      "valorPremio": 94.24
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "NOVA ANDRADINA, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 723,
+  "numeroConcursoAnterior": 722,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 724,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 350056.73,
+  "valorEstimadoProximoConcurso": 500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

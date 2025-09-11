@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "04/07/2017",
+  "dataProximoConcurso": "05/07/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "13",
+    "56",
+    "50",
+    "53",
+    "60"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "13",
+    "50",
+    "53",
+    "56",
+    "60"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 54,
+      "valorPremio": 6285.14
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4082,
+      "valorPremio": 125.02
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 103268,
+      "valorPremio": 2.71
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "UBÁ, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4420,
+  "numeroConcursoAnterior": 4419,
+  "numeroConcursoFinal_0_5": 4425,
+  "numeroConcursoProximo": 4421,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5886744.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 2395021.05,
+  "valorAcumuladoProximoConcurso": 625206.0,
+  "valorEstimadoProximoConcurso": 1300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

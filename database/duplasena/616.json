@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "11/12/2007",
+  "dataProximoConcurso": "14/12/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "07",
+    "23",
+    "48",
+    "16",
+    "33",
+    "46",
+    "28",
+    "32",
+    "39",
+    "01",
+    "34",
+    "27"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "16",
+    "23",
+    "33",
+    "46",
+    "48"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "01",
+    "27",
+    "28",
+    "32",
+    "34",
+    "39"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 300034.5
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 53,
+      "valorPremio": 3774.02
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2356,
+      "valorPremio": 84.58
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PICOS, PI",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 616,
+  "numeroConcursoAnterior": 615,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 617,
+  "numeroJogo": 18,
+  "observacao": "Ganhador da sena do 2º sorteio: Barueri/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 5682189.36,
+  "valorEstimadoProximoConcurso": 6000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

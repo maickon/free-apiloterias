@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "15/10/2008",
+  "dataProximoConcurso": "18/10/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "07",
+    "09",
+    "20",
+    "41",
+    "12",
+    "19"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "09",
+    "12",
+    "19",
+    "20",
+    "41"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 15668367.92
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 178,
+      "valorPremio": 8371.4
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 10125,
+      "valorPremio": 147.17
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CAMPINAS DO SUL, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1013,
+  "numeroConcursoAnterior": 1012,
+  "numeroConcursoFinal_0_5": 1015,
+  "numeroConcursoProximo": 1014,
+  "numeroJogo": 2,
+  "observacao": "Ganhador de seis acertos: Bertioga/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 6175698.13,
+  "valorAcumuladoConcursoEspecial": 7364979.48,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 1600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

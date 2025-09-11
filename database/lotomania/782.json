@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "08/12/2007",
+  "dataProximoConcurso": "12/12/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "84",
+    "00",
+    "86",
+    "40",
+    "38",
+    "24",
+    "31",
+    "29",
+    "18",
+    "13",
+    "02",
+    "79",
+    "04",
+    "89",
+    "34",
+    "65",
+    "27",
+    "23",
+    "63",
+    "52"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "00",
+    "02",
+    "04",
+    "13",
+    "18",
+    "23",
+    "24",
+    "27",
+    "29",
+    "31",
+    "34",
+    "38",
+    "40",
+    "52",
+    "63",
+    "65",
+    "79",
+    "84",
+    "86",
+    "89"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SC"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 461431.67
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 9,
+      "valorPremio": 30696.97
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 252,
+      "valorPremio": 1096.32
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1672,
+      "valorPremio": 82.31
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 9616,
+      "valorPremio": 14.32
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "GUARULHOS, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 782,
+  "numeroConcursoAnterior": 781,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 783,
+  "numeroJogo": 16,
+  "observacao": "Ganhadores de 20 acertos: Santa Cecília/SC e Rio de Janeiro/RJ. Valor acumulado de zero para vinte acertos: R$138.136,37.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 138136.37,
+  "valorEstimadoProximoConcurso": 500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

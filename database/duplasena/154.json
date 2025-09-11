@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "20/05/2003",
+  "dataProximoConcurso": "23/05/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "19",
+    "13",
+    "17",
+    "01",
+    "02",
+    "04",
+    "20",
+    "12",
+    "19",
+    "46",
+    "26",
+    "25"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "02",
+    "04",
+    "13",
+    "17",
+    "19"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "12",
+    "19",
+    "20",
+    "25",
+    "26",
+    "46"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 18,
+      "valorPremio": 4209.94
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1096,
+      "valorPremio": 68.88
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Nova Friburgo, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 154,
+  "numeroConcursoAnterior": 153,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 155,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$600.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 459141.67,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

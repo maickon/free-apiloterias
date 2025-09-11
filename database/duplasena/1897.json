@@ -1,0 +1,119 @@
+{
+  "acumulado": true,
+  "dataApuracao": "02/02/2019",
+  "dataProximoConcurso": "05/02/2019",
+  "dezenasSorteadasOrdemSorteio": [
+    "31",
+    "12",
+    "38",
+    "29",
+    "04",
+    "34",
+    "03",
+    "44",
+    "49",
+    "46",
+    "34",
+    "19"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "12",
+    "29",
+    "31",
+    "34",
+    "38"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "03",
+    "19",
+    "34",
+    "44",
+    "46",
+    "49"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "PELOTAS",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "RS"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 76,
+      "valorPremio": 3147.63
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3446,
+      "valorPremio": 79.33
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 64282,
+      "valorPremio": 2.12
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 263142.06
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 44,
+      "valorPremio": 4893.14
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 3396,
+      "valorPremio": 80.5
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 8,
+      "numeroDeGanhadores": 68409,
+      "valorPremio": 1.99
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "GUARACIABA, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1897,
+  "numeroConcursoAnterior": 1896,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1898,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7883474.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 14480583.59,
+  "valorAcumuladoProximoConcurso": 15544146.21,
+  "valorEstimadoProximoConcurso": 16300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

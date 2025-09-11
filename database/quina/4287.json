@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "17/01/2017",
+  "dataProximoConcurso": "18/01/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "54",
+    "39",
+    "37",
+    "70",
+    "46"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "37",
+    "39",
+    "46",
+    "54",
+    "70"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 37,
+      "valorPremio": 8597.85
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3355,
+      "valorPremio": 142.58
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 90127,
+      "valorPremio": 2.91
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "TEÓFILO OTONI, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4287,
+  "numeroConcursoAnterior": 4286,
+  "numeroConcursoFinal_0_5": 4295,
+  "numeroConcursoProximo": 4288,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5517702.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 64911589.31,
+  "valorAcumuladoProximoConcurso": 586011.62,
+  "valorEstimadoProximoConcurso": 1100000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,107 @@
+{
+  "acumulado": false,
+  "dataApuracao": "29/06/2012",
+  "dataProximoConcurso": "03/07/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "19",
+    "32",
+    "16",
+    "39",
+    "38",
+    "34",
+    "02",
+    "45",
+    "32",
+    "19",
+    "33",
+    "05"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "16",
+    "19",
+    "32",
+    "34",
+    "38",
+    "39"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "02",
+    "05",
+    "19",
+    "32",
+    "33",
+    "45"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 2,
+      "municipio": "SOROCABA (1), SANTO ANDRÉ (1)",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 3964868.98
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 135,
+      "valorPremio": 2225.79
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5898,
+      "valorPremio": 48.52
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 93,
+      "valorPremio": 3230.98
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 6514,
+      "valorPremio": 43.93
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PARAUAPEBAS, PA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1085,
+  "numeroConcursoAnterior": 1084,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1086,
+  "numeroJogo": 18,
+  "observacao": "O PRÊMIO DA SENA DO 2º SORTEIO FICA ACUMULADO PARA O 1º SORTEIO DO PRÓXIMO CONCURSO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6501090.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 400641.33,
+  "valorEstimadoProximoConcurso": 600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

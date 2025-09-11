@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "26/09/2003",
+  "dataProximoConcurso": "30/09/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "31",
+    "43",
+    "03",
+    "37",
+    "35",
+    "34",
+    "02",
+    "41",
+    "11",
+    "10",
+    "09",
+    "27"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "31",
+    "34",
+    "35",
+    "37",
+    "43"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "02",
+    "09",
+    "10",
+    "11",
+    "27",
+    "41"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 40,
+      "valorPremio": 2838.89
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2146,
+      "valorPremio": 52.72
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Recife, PE",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 191,
+  "numeroConcursoAnterior": 190,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 192,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1º sorteio) próximo concurso: R$4.000.000,00",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 3850164.07,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

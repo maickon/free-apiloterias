@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "07/02/2003",
+  "dataProximoConcurso": "11/02/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "43",
+    "25",
+    "47",
+    "42",
+    "01",
+    "04",
+    "39",
+    "26",
+    "36",
+    "09",
+    "20",
+    "24"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "04",
+    "25",
+    "42",
+    "43",
+    "47"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "09",
+    "20",
+    "24",
+    "26",
+    "36",
+    "39"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 19,
+      "valorPremio": 5434.27
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1119,
+      "valorPremio": 91.92
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Itanhaém, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 126,
+  "numeroConcursoAnterior": 125,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 127,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de Prêmio (SENA - 1º SORTEIO)próximo concurso: R$900.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 756324.61,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

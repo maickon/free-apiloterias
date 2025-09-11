@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "03/10/2009",
+  "dataProximoConcurso": "07/10/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "58",
+    "50",
+    "84",
+    "94",
+    "00",
+    "23",
+    "17",
+    "34",
+    "08",
+    "20",
+    "03",
+    "01",
+    "92",
+    "53",
+    "24",
+    "55",
+    "77",
+    "85",
+    "62",
+    "32"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "00",
+    "01",
+    "03",
+    "08",
+    "17",
+    "20",
+    "23",
+    "24",
+    "32",
+    "34",
+    "50",
+    "53",
+    "55",
+    "58",
+    "62",
+    "77",
+    "84",
+    "85",
+    "92",
+    "94"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "PIRACICABA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "SANTOS",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 512576.69
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 25,
+      "valorPremio": 12733.77
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 238,
+      "valorPremio": 1337.58
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2090,
+      "valorPremio": 108.79
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 12042,
+      "valorPremio": 18.88
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "MANAUS, AM",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 972,
+  "numeroConcursoAnterior": 971,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 973,
+  "numeroJogo": 16,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5165678.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

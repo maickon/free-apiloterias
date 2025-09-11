@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "11/12/2018",
+  "dataProximoConcurso": "12/12/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "42",
+    "56",
+    "11",
+    "15",
+    "44"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "15",
+    "42",
+    "44",
+    "56"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 106,
+      "valorPremio": 4046.59
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7156,
+      "valorPremio": 90.13
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 166570,
+      "valorPremio": 2.12
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CRICIÚMA, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4848,
+  "numeroConcursoAnterior": 4847,
+  "numeroConcursoFinal_0_5": 4855,
+  "numeroConcursoProximo": 4849,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7439791.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 50994021.03,
+  "valorAcumuladoProximoConcurso": 2099495.18,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

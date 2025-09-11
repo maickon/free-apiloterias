@@ -1,0 +1,80 @@
+{
+  "acumulado": false,
+  "dataApuracao": "30/01/2024",
+  "dataProximoConcurso": "31/01/2024",
+  "dezenasSorteadasOrdemSorteio": [
+    "11",
+    "18",
+    "40",
+    "33",
+    "66"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "18",
+    "33",
+    "40",
+    "66"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SANTO ANDRE",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1291834.74
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 41,
+      "valorPremio": 7209.26
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3071,
+      "valorPremio": 91.66
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 75758,
+      "valorPremio": 3.71
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO DA SORTE",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "numero": 6354,
+  "numeroConcursoAnterior": 6353,
+  "numeroConcursoFinal_0_5": 6355,
+  "numeroConcursoProximo": 6355,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6493762.5,
+  "valorAcumuladoConcurso_0_5": 3446361.69,
+  "valorAcumuladoConcursoEspecial": 86804152.38,
+  "valorAcumuladoProximoConcurso": 3446361.69,
+  "valorEstimadoProximoConcurso": 4200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

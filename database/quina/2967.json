@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "11/08/2012",
+  "dataProximoConcurso": "13/08/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "07",
+    "62",
+    "34",
+    "59",
+    "19"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "19",
+    "34",
+    "59",
+    "62"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 152,
+      "valorPremio": 3170.32
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 9679,
+      "valorPremio": 71.12
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ASCURRA, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2967,
+  "numeroConcursoAnterior": 2966,
+  "numeroConcursoFinal_0_5": 2975,
+  "numeroConcursoProximo": 2968,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6255570.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 10139944.2,
+  "valorAcumuladoProximoConcurso": 2384539.63,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

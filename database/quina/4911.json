@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "25/02/2019",
+  "dataProximoConcurso": "26/02/2019",
+  "dezenasSorteadasOrdemSorteio": [
+    "28",
+    "32",
+    "50",
+    "72",
+    "20"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "20",
+    "28",
+    "32",
+    "50",
+    "72"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 33,
+      "valorPremio": 9988.99
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 2846,
+      "valorPremio": 174.17
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 85791,
+      "valorPremio": 3.17
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "VIDEIRA, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4911,
+  "numeroConcursoAnterior": 4910,
+  "numeroConcursoFinal_0_5": 4915,
+  "numeroConcursoProximo": 4912,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5717445.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 75029714.74,
+  "valorAcumuladoProximoConcurso": 607225.47,
+  "valorEstimadoProximoConcurso": 1200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "28/07/2005",
+  "dataProximoConcurso": "30/07/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "10",
+    "30",
+    "75",
+    "55",
+    "22"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "22",
+    "30",
+    "55",
+    "75"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 650975.22
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 168,
+      "valorPremio": 2194.59
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7280,
+      "valorPremio": 67.28
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PASSA QUATRO, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1478,
+  "numeroConcursoAnterior": 1477,
+  "numeroConcursoFinal_0_5": 1485,
+  "numeroConcursoProximo": 1479,
+  "numeroJogo": 3,
+  "observacao": "Estimativa de prêmio (QUINA) para o próximo concurso, a ser realizado em 30/07/2005: R$350.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

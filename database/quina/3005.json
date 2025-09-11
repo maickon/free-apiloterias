@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "26/09/2012",
+  "dataProximoConcurso": "27/09/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "32",
+    "54",
+    "66",
+    "39",
+    "22"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "22",
+    "32",
+    "39",
+    "54",
+    "66"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 118,
+      "valorPremio": 5344.9
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8532,
+      "valorPremio": 105.6
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "MANGARATIBA, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3005,
+  "numeroConcursoAnterior": 3004,
+  "numeroConcursoFinal_0_5": 3015,
+  "numeroConcursoProximo": 3006,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 8187331.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 19246454.17,
+  "valorAcumuladoProximoConcurso": 4465412.51,
+  "valorEstimadoProximoConcurso": 5400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

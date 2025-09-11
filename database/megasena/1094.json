@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "25/07/2009",
+  "dataProximoConcurso": "29/07/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "10",
+    "09",
+    "48",
+    "36",
+    "41",
+    "21"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "10",
+    "21",
+    "36",
+    "41",
+    "48"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "RIO DE JANEIRO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 55863193.02
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 211,
+      "valorPremio": 25579.45
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 18534,
+      "valorPremio": 416.01
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CURRAIS NOVOS, RN",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1094,
+  "numeroConcursoAnterior": 1093,
+  "numeroConcursoFinal_0_5": 1095,
+  "numeroConcursoProximo": 1095,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 92189270.25,
+  "valorAcumuladoConcurso_0_5": 20634323.25,
+  "valorAcumuladoConcursoEspecial": 29198514.62,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 25000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,115 @@
+{
+  "acumulado": false,
+  "dataApuracao": "16/09/2014",
+  "dataProximoConcurso": "19/09/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "49",
+    "35",
+    "29",
+    "02",
+    "14",
+    "50",
+    "04",
+    "26",
+    "35",
+    "28",
+    "13",
+    "09"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "14",
+    "29",
+    "35",
+    "49",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "04",
+    "09",
+    "13",
+    "26",
+    "28",
+    "35"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "CAMPINAS",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "CRUZEIRO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2186164.99
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 39,
+      "valorPremio": 3421.28
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 2557,
+      "valorPremio": 49.69
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 177906.63
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 64,
+      "valorPremio": 2084.84
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 3407,
+      "valorPremio": 37.29
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "CARMO, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1316,
+  "numeroConcursoAnterior": 1315,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1317,
+  "numeroJogo": 18,
+  "observacao": "A APOSTA GANHADORA DA SENA DO 2º SORTEIO FOI REALIZADA NA CIDADE DE CAMPINAS/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2886839.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

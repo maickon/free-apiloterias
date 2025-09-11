@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "23/12/2003",
+  "dataProximoConcurso": "26/12/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "39",
+    "21",
+    "33",
+    "40",
+    "50",
+    "15",
+    "19",
+    "18",
+    "15",
+    "50",
+    "39",
+    "13"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "15",
+    "21",
+    "33",
+    "39",
+    "40",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "13",
+    "15",
+    "18",
+    "19",
+    "39",
+    "50"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 386240.61
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 19,
+      "valorPremio": 4668.98
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1338,
+      "valorPremio": 66.05
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PIRACICABA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 216,
+  "numeroConcursoAnterior": 215,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 217,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$250.000,00. Valor acumulado (sena-2ºsorteio): R$133.065,89.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

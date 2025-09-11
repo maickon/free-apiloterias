@@ -1,0 +1,87 @@
+{
+  "acumulado": true,
+  "dataApuracao": "10/10/2015",
+  "dataProximoConcurso": "13/10/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "51",
+    "40",
+    "07",
+    "31",
+    "01",
+    "14",
+    "50"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "07",
+    "14",
+    "31",
+    "40",
+    "50",
+    "51"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 10,
+      "valorPremio": 20471.11
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 384,
+      "valorPremio": 761.57
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 7028,
+      "valorPremio": 6.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 69363,
+      "valorPremio": 2.0
+    },
+    {
+      "descricaoFaixa": "Time do Coração",
+      "faixa": 6,
+      "numeroDeGanhadores": 63455,
+      "valorPremio": 5.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "IPORÃ, PR",
+  "nomeTimeCoracaoMesSorte": "PALMEIRAS/SP",
+  "numero": 788,
+  "numeroConcursoAnterior": 787,
+  "numeroConcursoFinal_0_5": 790,
+  "numeroConcursoProximo": 789,
+  "numeroJogo": 20,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "TIMEMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4261720.0,
+  "valorAcumuladoConcurso_0_5": 419905.66,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 15137811.27,
+  "valorEstimadoProximoConcurso": 15500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

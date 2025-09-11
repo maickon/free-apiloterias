@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "11/04/2012",
+  "dataProximoConcurso": "12/04/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "61",
+    "02",
+    "26",
+    "74",
+    "42"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "26",
+    "42",
+    "61",
+    "74"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 69,
+      "valorPremio": 7051.94
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5507,
+      "valorPremio": 126.22
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ITAJAÍ, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2870,
+  "numeroConcursoAnterior": 2869,
+  "numeroConcursoFinal_0_5": 2875,
+  "numeroConcursoProximo": 2871,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6316527.75,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 59887091.32,
+  "valorAcumuladoProximoConcurso": 2211455.57,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

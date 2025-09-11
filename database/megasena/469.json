@@ -1,0 +1,84 @@
+{
+  "acumulado": false,
+  "dataApuracao": "07/06/2003",
+  "dataProximoConcurso": "11/06/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "29",
+    "47",
+    "42",
+    "21",
+    "13",
+    "26"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "13",
+    "21",
+    "26",
+    "29",
+    "42",
+    "47"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "AL"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RO"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 2596432.92
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 187,
+      "valorPremio": 6048.12
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8798,
+      "valorPremio": 128.07
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Santa Bárbara D Oeste, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 469,
+  "numeroConcursoAnterior": 468,
+  "numeroConcursoFinal_0_5": 470,
+  "numeroConcursoProximo": 470,
+  "numeroJogo": 2,
+  "observacao": "Estimativa de prêmio (SENA) próximo concurso: R$13.500.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 11800739.56,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "25/06/2005",
+  "dataProximoConcurso": "29/06/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "35",
+    "62",
+    "33",
+    "72",
+    "08",
+    "57",
+    "54",
+    "11",
+    "31",
+    "40",
+    "01",
+    "96",
+    "12",
+    "87",
+    "13",
+    "34",
+    "71",
+    "89",
+    "18",
+    "51"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "08",
+    "11",
+    "12",
+    "13",
+    "18",
+    "31",
+    "33",
+    "34",
+    "35",
+    "40",
+    "51",
+    "54",
+    "57",
+    "62",
+    "71",
+    "72",
+    "87",
+    "89",
+    "96"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1477405.51
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 9,
+      "valorPremio": 30602.32
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 114,
+      "valorPremio": 2415.97
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1277,
+      "valorPremio": 107.44
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 8358,
+      "valorPremio": 16.42
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 137710.49
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Aracaju, SE",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 530,
+  "numeroConcursoAnterior": 529,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 531,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 ACERTOS) próximo concurso, a ser realizado em 29/06/2005: R$350.000,00. Ganhador de zero acerto: MG.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

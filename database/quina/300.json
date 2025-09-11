@@ -1,0 +1,65 @@
+{
+  "acumulado": false,
+  "dataApuracao": "22/05/1997",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "08",
+    "19",
+    "20",
+    "28",
+    "34"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "19",
+    "20",
+    "28",
+    "34"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 4,
+      "valorPremio": 70539.11
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 482,
+      "valorPremio": 585.39
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 18669,
+      "valorPremio": 20.11
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "",
+  "nomeMunicipioUFSorteio": "",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 300,
+  "numeroConcursoAnterior": 299,
+  "numeroConcursoFinal_0_5": 305,
+  "numeroConcursoProximo": 301,
+  "numeroJogo": 3,
+  "observacao": "Ganhadores dos Estados da Bahia, Rio de Janeiro, Rio Grande do Sul e São Paulo.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

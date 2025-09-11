@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "03/06/2003",
+  "dataProximoConcurso": "06/06/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "38",
+    "02",
+    "14",
+    "10",
+    "29",
+    "20",
+    "29",
+    "41",
+    "22",
+    "39",
+    "02",
+    "30"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "10",
+    "14",
+    "20",
+    "29",
+    "38"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "02",
+    "22",
+    "29",
+    "30",
+    "39",
+    "41"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 16,
+      "valorPremio": 5547.23
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 781,
+      "valorPremio": 113.21
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Americana, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 158,
+  "numeroConcursoAnterior": 157,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 159,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA - 1º SORTEIO)próximo concurso: R$1600.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1523201.51,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

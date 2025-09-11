@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "04/12/2013",
+  "dataProximoConcurso": "05/12/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "25",
+    "05",
+    "58",
+    "47",
+    "49"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "25",
+    "47",
+    "49",
+    "58"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 89,
+      "valorPremio": 4450.69
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7332,
+      "valorPremio": 77.17
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PONTA GROSSA, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3357,
+  "numeroConcursoAnterior": 3356,
+  "numeroConcursoFinal_0_5": 3365,
+  "numeroConcursoProximo": 3358,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5142063.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 39723086.45,
+  "valorAcumuladoProximoConcurso": 554555.48,
+  "valorEstimadoProximoConcurso": 1200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

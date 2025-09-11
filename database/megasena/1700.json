@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "02/05/2015",
+  "dataProximoConcurso": "05/05/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "58",
+    "41",
+    "48",
+    "50",
+    "15",
+    "18"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "15",
+    "18",
+    "41",
+    "48",
+    "50",
+    "58"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "CAMBUCI",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 31494038.01
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 65,
+      "valorPremio": 45507.4
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5380,
+      "valorPremio": 785.44
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "REGISTRO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1700,
+  "numeroConcursoAnterior": 1699,
+  "numeroConcursoFinal_0_5": 1705,
+  "numeroConcursoProximo": 1701,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 50524517.5,
+  "valorAcumuladoConcurso_0_5": 3425030.44,
+  "valorAcumuladoConcursoEspecial": 22831545.17,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

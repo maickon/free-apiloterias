@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "26/05/2009",
+  "dataProximoConcurso": "29/05/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "12",
+    "11",
+    "28",
+    "35",
+    "34",
+    "45",
+    "23",
+    "45",
+    "22",
+    "50",
+    "49",
+    "13"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "12",
+    "28",
+    "34",
+    "35",
+    "45"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "13",
+    "22",
+    "23",
+    "45",
+    "49",
+    "50"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SÃO BERNARDO DO CAMPO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1833231.14
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 14,
+      "valorPremio": 6875.77
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1578,
+      "valorPremio": 87.14
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SÃO SIMÃO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 762,
+  "numeroConcursoAnterior": 761,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 763,
+  "numeroJogo": 18,
+  "observacao": "A APOSTA GANHADORA DE 6 ACERTOS NO 1º SORTEIO FOI REALIZADA EM SÃO BERNARDO DO CAMPO/SP. O VALOR ACUMULADO REFERE-SE AO PRÊMIO PARA 6 ACERTOS DO 2º SORTEIO, QUE NESTE CONCURSO NÃO HOUVE GANHADOR.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1561995.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 144391.1,
+  "valorEstimadoProximoConcurso": 300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

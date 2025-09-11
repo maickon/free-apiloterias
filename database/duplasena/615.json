@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "07/12/2007",
+  "dataProximoConcurso": "11/12/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "03",
+    "15",
+    "48",
+    "23",
+    "25",
+    "41",
+    "50",
+    "34",
+    "25",
+    "07",
+    "36",
+    "06"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "15",
+    "23",
+    "25",
+    "41",
+    "48"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "06",
+    "07",
+    "25",
+    "34",
+    "36",
+    "50"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 33,
+      "valorPremio": 5870.62
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2329,
+      "valorPremio": 82.88
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Guarulhos, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 615,
+  "numeroConcursoAnterior": 614,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 616,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 5382154.86,
+  "valorEstimadoProximoConcurso": 5700000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

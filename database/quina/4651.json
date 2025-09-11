@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "10/04/2018",
+  "dataProximoConcurso": "11/04/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "35",
+    "42",
+    "06",
+    "62",
+    "24"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "24",
+    "35",
+    "42",
+    "62"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 81,
+      "valorPremio": 5191.47
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6628,
+      "valorPremio": 95.4
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 143694,
+      "valorPremio": 2.42
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "AIMORÉS, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4651,
+  "numeroConcursoAnterior": 4650,
+  "numeroConcursoFinal_0_5": 4655,
+  "numeroConcursoProximo": 4652,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7293598.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 84847547.16,
+  "valorAcumuladoProximoConcurso": 2107294.91,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

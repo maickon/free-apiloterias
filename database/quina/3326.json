@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "26/10/2013",
+  "dataProximoConcurso": "28/10/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "66",
+    "53",
+    "50",
+    "56",
+    "59"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "50",
+    "53",
+    "56",
+    "59",
+    "66"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 71,
+      "valorPremio": 5253.58
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4316,
+      "valorPremio": 123.46
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PARACATU, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3326,
+  "numeroConcursoAnterior": 3325,
+  "numeroConcursoFinal_0_5": 3335,
+  "numeroConcursoProximo": 3327,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4842102.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 31226312.09,
+  "valorAcumuladoProximoConcurso": 522205.63,
+  "valorEstimadoProximoConcurso": 1100000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

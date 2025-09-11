@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "13/10/2001",
+  "dataProximoConcurso": "17/10/2001",
+  "dezenasSorteadasOrdemSorteio": [
+    "59",
+    "23",
+    "86",
+    "38",
+    "81",
+    "63",
+    "17",
+    "04",
+    "16",
+    "51",
+    "54",
+    "88",
+    "90",
+    "84",
+    "44",
+    "08",
+    "62",
+    "30",
+    "57",
+    "66"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "08",
+    "16",
+    "17",
+    "23",
+    "30",
+    "38",
+    "44",
+    "51",
+    "54",
+    "57",
+    "59",
+    "62",
+    "63",
+    "66",
+    "81",
+    "84",
+    "86",
+    "88",
+    "90"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 568932.24
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 19,
+      "valorPremio": 21688.06
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 294,
+      "valorPremio": 1401.61
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2564,
+      "valorPremio": 80.06
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 14677,
+      "valorPremio": 13.99
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 379288.21
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Blumenau, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 157,
+  "numeroConcursoAnterior": 156,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 158,
+  "numeroJogo": 16,
+  "observacao": "01 ganhador de Santarém/PA com ZERO acerto.Estimativa prêmio próximo concurso (20 acertos): R$ 550.000,00 - (ZERO acerto): R$ 200.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

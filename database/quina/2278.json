@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "24/04/2010",
+  "dataProximoConcurso": "26/04/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "11",
+    "15",
+    "25",
+    "06",
+    "48"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "11",
+    "15",
+    "25",
+    "48"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 155,
+      "valorPremio": 2317.52
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 9061,
+      "valorPremio": 56.63
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CÁCERES, MT",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2278,
+  "numeroConcursoAnterior": 2277,
+  "numeroConcursoFinal_0_5": 2285,
+  "numeroConcursoProximo": 2279,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 3885912.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 478952.65,
+  "valorEstimadoProximoConcurso": 900000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

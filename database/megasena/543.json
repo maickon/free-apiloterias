@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "06/03/2004",
+  "dataProximoConcurso": "10/03/2004",
+  "dezenasSorteadasOrdemSorteio": [
+    "35",
+    "54",
+    "37",
+    "42",
+    "49",
+    "46"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "35",
+    "37",
+    "42",
+    "46",
+    "49",
+    "54"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1836749.58
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 78,
+      "valorPremio": 8241.89
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 2557,
+      "valorPremio": 250.47
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "UMUARAMA, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 543,
+  "numeroConcursoAnterior": 542,
+  "numeroConcursoFinal_0_5": 545,
+  "numeroConcursoProximo": 544,
+  "numeroJogo": 2,
+  "observacao": "Estimativa de prêmio (SENA) próximo concurso: R$800.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 3752085.43,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

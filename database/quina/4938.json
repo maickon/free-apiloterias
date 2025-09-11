@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "30/03/2019",
+  "dataProximoConcurso": "01/04/2019",
+  "dezenasSorteadasOrdemSorteio": [
+    "73",
+    "42",
+    "12",
+    "76",
+    "49"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "12",
+    "42",
+    "49",
+    "73",
+    "76"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 62,
+      "valorPremio": 5771.62
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4321,
+      "valorPremio": 124.53
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 105807,
+      "valorPremio": 2.79
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PANCAS, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4938,
+  "numeroConcursoAnterior": 4937,
+  "numeroConcursoFinal_0_5": 4945,
+  "numeroConcursoProximo": 4939,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6206622.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 86880595.97,
+  "valorAcumuladoProximoConcurso": 659178.87,
+  "valorEstimadoProximoConcurso": 1400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

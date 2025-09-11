@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "24/01/2019",
+  "dataProximoConcurso": "25/01/2019",
+  "dezenasSorteadasOrdemSorteio": [
+    "29",
+    "62",
+    "06",
+    "26",
+    "44"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "26",
+    "29",
+    "44",
+    "62"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 112,
+      "valorPremio": 4564.8
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7956,
+      "valorPremio": 96.63
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 172893,
+      "valorPremio": 2.44
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "QUIRINÓPOLIS, GO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4884,
+  "numeroConcursoAnterior": 4883,
+  "numeroConcursoFinal_0_5": 4885,
+  "numeroConcursoProximo": 4885,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 8867586.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 63690838.54,
+  "valorAcumuladoProximoConcurso": 5469899.15,
+  "valorEstimadoProximoConcurso": 6500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

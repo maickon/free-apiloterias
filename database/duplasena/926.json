@@ -1,0 +1,107 @@
+{
+  "acumulado": false,
+  "dataApuracao": "21/12/2010",
+  "dataProximoConcurso": "24/12/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "44",
+    "01",
+    "19",
+    "32",
+    "35",
+    "06",
+    "11",
+    "32",
+    "12",
+    "29",
+    "22",
+    "46"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "06",
+    "19",
+    "32",
+    "35",
+    "44"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "11",
+    "12",
+    "22",
+    "29",
+    "32",
+    "46"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "GOIÂNIA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "GO"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2529531.07
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 29,
+      "valorPremio": 4153.97
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 2068,
+      "valorPremio": 55.47
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 21,
+      "valorPremio": 5736.43
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1813,
+      "valorPremio": 63.28
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "VOLTA REDONDA, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 926,
+  "numeroConcursoAnterior": 925,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 927,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2606332.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 160619.88,
+  "valorEstimadoProximoConcurso": 300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "04/04/2012",
+  "dataProximoConcurso": "05/04/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "17",
+    "65",
+    "16",
+    "37",
+    "69"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "16",
+    "17",
+    "37",
+    "65",
+    "69"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 62,
+      "valorPremio": 6258.36
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4933,
+      "valorPremio": 112.36
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "RIO GRANDE, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2865,
+  "numeroConcursoAnterior": 2864,
+  "numeroConcursoFinal_0_5": 2875,
+  "numeroConcursoProximo": 2866,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5037007.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 58675846.09,
+  "valorAcumuladoProximoConcurso": 998438.22,
+  "valorEstimadoProximoConcurso": 1600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

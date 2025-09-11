@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "05/04/2003",
+  "dataProximoConcurso": "09/04/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "19",
+    "85",
+    "00",
+    "20",
+    "66",
+    "71",
+    "68",
+    "15",
+    "75",
+    "63",
+    "41",
+    "01",
+    "11",
+    "24",
+    "34",
+    "62",
+    "94",
+    "27",
+    "47",
+    "91"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "00",
+    "01",
+    "11",
+    "15",
+    "19",
+    "20",
+    "24",
+    "27",
+    "34",
+    "41",
+    "47",
+    "62",
+    "63",
+    "66",
+    "68",
+    "71",
+    "75",
+    "85",
+    "91",
+    "94"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 2001734.98
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 47,
+      "valorPremio": 11801.98
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 650,
+      "valorPremio": 853.37
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 4574,
+      "valorPremio": 60.41
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 22870,
+      "valorPremio": 12.09
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 503241.9
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Jaguariaíva, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 304,
+  "numeroConcursoAnterior": 303,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 305,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios próximo concurso - (VINTE ACERTOS): R$550.000,00 - (ZERO ACERTO): R$200.000,00. O ganhador com ZERO ACERTO é de SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "19/04/2025",
+  "dataProximoConcurso": "24/04/2025",
+  "dezenasSorteadasOrdemSorteio": [
+    "16",
+    "55",
+    "02",
+    "31",
+    "44",
+    "13"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "13",
+    "16",
+    "31",
+    "44",
+    "55"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "CONCORDIA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SC"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 52035653.48
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 101,
+      "valorPremio": 48304.31
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7246,
+      "valorPremio": 961.85
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO DA SORTE",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "numero": 2854,
+  "numeroConcursoAnterior": 2853,
+  "numeroConcursoFinal_0_5": 2855,
+  "numeroConcursoProximo": 2855,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 83768480.0,
+  "valorAcumuladoConcurso_0_5": 19629432.02,
+  "valorAcumuladoConcursoEspecial": 35451709.98,
+  "valorAcumuladoProximoConcurso": 19629432.02,
+  "valorEstimadoProximoConcurso": 25000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

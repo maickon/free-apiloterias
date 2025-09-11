@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "01/09/2012",
+  "dataProximoConcurso": "05/09/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "31",
+    "39",
+    "59",
+    "19",
+    "53",
+    "44"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "19",
+    "31",
+    "39",
+    "44",
+    "53",
+    "59"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SÃO PAULO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 27700609.77
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 142,
+      "valorPremio": 20561.45
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8046,
+      "valorPremio": 518.39
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "MORRINHOS, GO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1421,
+  "numeroConcursoAnterior": 1420,
+  "numeroConcursoFinal_0_5": 1425,
+  "numeroConcursoProximo": 1422,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 49871110.0,
+  "valorAcumuladoConcurso_0_5": 6177499.61,
+  "valorAcumuladoConcursoEspecial": 36600677.91,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

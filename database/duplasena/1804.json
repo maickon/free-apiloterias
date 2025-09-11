@@ -1,0 +1,119 @@
+{
+  "acumulado": false,
+  "dataApuracao": "23/06/2018",
+  "dataProximoConcurso": "26/06/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "13",
+    "25",
+    "19",
+    "48",
+    "30",
+    "42",
+    "13",
+    "15",
+    "21",
+    "47",
+    "44",
+    "43"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "13",
+    "19",
+    "25",
+    "30",
+    "42",
+    "48"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "13",
+    "15",
+    "21",
+    "43",
+    "44",
+    "47"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "CRUZ DAS ALMAS",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1107971.81
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 22,
+      "valorPremio": 1649.48
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 646,
+      "valorPremio": 64.19
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 10933,
+      "valorPremio": 1.89
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 10,
+      "valorPremio": 3265.97
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 519,
+      "valorPremio": 79.9
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 8,
+      "numeroDeGanhadores": 10034,
+      "valorPremio": 2.06
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CAMPINA GRANDE, PB",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1804,
+  "numeroConcursoAnterior": 1803,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1805,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1195886.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 2887719.44,
+  "valorAcumuladoProximoConcurso": 39917.41,
+  "valorEstimadoProximoConcurso": 200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

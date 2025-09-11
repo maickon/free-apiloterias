@@ -1,0 +1,110 @@
+{
+  "acumulado": true,
+  "dataApuracao": "01/10/2016",
+  "dataProximoConcurso": "04/10/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "25",
+    "02",
+    "48",
+    "18",
+    "19",
+    "30",
+    "22",
+    "20",
+    "39",
+    "38",
+    "02",
+    "26"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "18",
+    "19",
+    "25",
+    "30",
+    "48"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "02",
+    "20",
+    "22",
+    "26",
+    "38",
+    "39"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 23,
+      "valorPremio": 2507.38
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 849,
+      "valorPremio": 77.63
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 15762,
+      "valorPremio": 2.09
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 5,
+      "valorPremio": 10380.54
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 645,
+      "valorPremio": 102.18
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 8,
+      "numeroDeGanhadores": 13806,
+      "valorPremio": 2.38
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ALPINÓPOLIS, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1551,
+  "numeroConcursoAnterior": 1550,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1552,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1900498.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 7767752.15,
+  "valorAcumuladoProximoConcurso": 1125327.77,
+  "valorEstimadoProximoConcurso": 1300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

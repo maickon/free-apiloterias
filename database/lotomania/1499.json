@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "29/10/2014",
+  "dataProximoConcurso": "01/11/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "45",
+    "70",
+    "91",
+    "43",
+    "23",
+    "15",
+    "64",
+    "30",
+    "51",
+    "35",
+    "71",
+    "28",
+    "58",
+    "69",
+    "22",
+    "12",
+    "84",
+    "76",
+    "60",
+    "93"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "12",
+    "15",
+    "22",
+    "23",
+    "28",
+    "30",
+    "35",
+    "43",
+    "45",
+    "51",
+    "58",
+    "60",
+    "64",
+    "69",
+    "70",
+    "71",
+    "76",
+    "84",
+    "91",
+    "93"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "PORTO ALEGRE",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RS"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 863919.56
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 9,
+      "valorPremio": 23495.88
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 123,
+      "valorPremio": 1719.21
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1257,
+      "valorPremio": 105.14
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 6655,
+      "valorPremio": 19.85
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "JUNDIAÍ, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1499,
+  "numeroConcursoAnterior": 1498,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1500,
+  "numeroJogo": 16,
+  "observacao": "O VALOR DO PRÊMIO DE ZERO ACERTO (R$ 105.731,46) FICA ACUMULADO PARA O PRÊMIO PRINCIPAL DO PRÓXIMO CONCURSO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4289184.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 15063263.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "25/08/2001",
+  "dataProximoConcurso": "29/08/2001",
+  "dezenasSorteadasOrdemSorteio": [
+    "33",
+    "78",
+    "48",
+    "22",
+    "58",
+    "82",
+    "38",
+    "83",
+    "05",
+    "26",
+    "76",
+    "32",
+    "45",
+    "80",
+    "69",
+    "54",
+    "18",
+    "47",
+    "81",
+    "53"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "18",
+    "22",
+    "26",
+    "32",
+    "33",
+    "38",
+    "45",
+    "47",
+    "48",
+    "53",
+    "54",
+    "58",
+    "69",
+    "76",
+    "78",
+    "80",
+    "81",
+    "82",
+    "83"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "GO"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1245366.15
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 25,
+      "valorPremio": 19108.0
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 420,
+      "valorPremio": 1137.39
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 3750,
+      "valorPremio": 63.46
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 21800,
+      "valorPremio": 10.92
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 238850.07
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Matão, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 143,
+  "numeroConcursoAnterior": 142,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 144,
+  "numeroJogo": 16,
+  "observacao": "GANHADOR DA FAIXA 0 ACERTO (MT) Estimativa de prêmio próximo concurso: faixa 20 acertos R$500.000,00 e faixa 0 acerto R$150.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

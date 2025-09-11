@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "24/10/2016",
+  "dataProximoConcurso": "25/10/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "24",
+    "21",
+    "43",
+    "05",
+    "11"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "11",
+    "21",
+    "24",
+    "43"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 106,
+      "valorPremio": 3585.1
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8032,
+      "valorPremio": 71.14
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 163749,
+      "valorPremio": 1.91
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "TERESINA, PI",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4216,
+  "numeroConcursoAnterior": 4215,
+  "numeroConcursoFinal_0_5": 4225,
+  "numeroConcursoProximo": 4217,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6591340.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 38837402.66,
+  "valorAcumuladoProximoConcurso": 1967822.46,
+  "valorEstimadoProximoConcurso": 2600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

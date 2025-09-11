@@ -1,0 +1,119 @@
+{
+  "acumulado": true,
+  "dataApuracao": "22/09/2016",
+  "dataProximoConcurso": "24/09/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "04",
+    "33",
+    "16",
+    "45",
+    "44",
+    "10",
+    "24",
+    "10",
+    "12",
+    "27",
+    "50",
+    "25"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "10",
+    "16",
+    "33",
+    "44",
+    "45"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "10",
+    "12",
+    "24",
+    "25",
+    "27",
+    "50"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "PIRAQUARA",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 11,
+      "valorPremio": 4248.7
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 835,
+      "valorPremio": 63.96
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 14140,
+      "valorPremio": 1.88
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 51409.25
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 16,
+      "valorPremio": 2628.88
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 931,
+      "valorPremio": 57.37
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 8,
+      "numeroDeGanhadores": 15080,
+      "valorPremio": 1.77
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SÃO GONÇALO DO RIO ABAIXO, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1547,
+  "numeroConcursoAnterior": 1546,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1548,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1540170.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 7423467.65,
+  "valorAcumuladoProximoConcurso": 243099.11,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

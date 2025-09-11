@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "01/12/2001",
+  "dataProximoConcurso": "27/11/2001",
+  "dezenasSorteadasOrdemSorteio": [
+    "73",
+    "79",
+    "50",
+    "40",
+    "46"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "40",
+    "46",
+    "50",
+    "73",
+    "79"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 332363.59
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 145,
+      "valorPremio": 2292.16
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7687,
+      "valorPremio": 57.44
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ivaiporã, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 926,
+  "numeroConcursoAnterior": 925,
+  "numeroConcursoFinal_0_5": 935,
+  "numeroConcursoProximo": 927,
+  "numeroJogo": 3,
+  "observacao": "Estimativa prêmio próximo concurso (quina): R$300 MIL.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

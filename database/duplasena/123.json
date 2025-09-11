@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "28/01/2003",
+  "dataProximoConcurso": "31/01/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "49",
+    "12",
+    "38",
+    "32",
+    "39",
+    "35",
+    "19",
+    "43",
+    "48",
+    "45",
+    "28",
+    "31"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "12",
+    "32",
+    "35",
+    "38",
+    "39",
+    "49"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "19",
+    "28",
+    "31",
+    "43",
+    "45",
+    "48"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 72,
+      "valorPremio": 3748.5
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 4061,
+      "valorPremio": 66.21
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Jardim, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 123,
+  "numeroConcursoAnterior": 122,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 124,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$11.000.000,00 (ONZE MILHÕES!!!).",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 10531108.64,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

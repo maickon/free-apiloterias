@@ -1,0 +1,107 @@
+{
+  "acumulado": true,
+  "dataApuracao": "02/12/2014",
+  "dataProximoConcurso": "05/12/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "39",
+    "42",
+    "01",
+    "09",
+    "07",
+    "45",
+    "19",
+    "04",
+    "23",
+    "21",
+    "22",
+    "11"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "07",
+    "09",
+    "39",
+    "42",
+    "45"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "04",
+    "11",
+    "19",
+    "21",
+    "22",
+    "23"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "VITÓRIA DA CONQUISTA",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "BA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 57,
+      "valorPremio": 3065.47
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3428,
+      "valorPremio": 48.54
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 232975.16
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 76,
+      "valorPremio": 2299.1
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 3455,
+      "valorPremio": 48.16
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "BARREIRINHAS, MA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1338,
+  "numeroConcursoAnterior": 1337,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1339,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 3780420.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 3452295.96,
+  "valorEstimadoProximoConcurso": 3900000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

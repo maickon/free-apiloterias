@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "18/01/2013",
+  "dataProximoConcurso": "19/01/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "20",
+    "31",
+    "61",
+    "41",
+    "34"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "20",
+    "31",
+    "34",
+    "41",
+    "61"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 71,
+      "valorPremio": 8983.85
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6175,
+      "valorPremio": 147.56
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ARIQUEMES, RO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3098,
+  "numeroConcursoAnterior": 3097,
+  "numeroConcursoFinal_0_5": 3105,
+  "numeroConcursoProximo": 3099,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 8280201.75,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 42943659.82,
+  "valorAcumuladoProximoConcurso": 3485859.2,
+  "valorEstimadoProximoConcurso": 4500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

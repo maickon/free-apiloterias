@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "24/09/2005",
+  "dataProximoConcurso": "28/09/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "16",
+    "65",
+    "05",
+    "25",
+    "28",
+    "86",
+    "64",
+    "87",
+    "11",
+    "21",
+    "01",
+    "40",
+    "82",
+    "49",
+    "41",
+    "61",
+    "73",
+    "04",
+    "84",
+    "94"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "04",
+    "05",
+    "11",
+    "16",
+    "21",
+    "25",
+    "28",
+    "40",
+    "41",
+    "49",
+    "61",
+    "64",
+    "65",
+    "73",
+    "82",
+    "84",
+    "86",
+    "87",
+    "94"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SC"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1063865.4
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 12,
+      "valorPremio": 24242.56
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 157,
+      "valorPremio": 1852.93
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1517,
+      "valorPremio": 95.52
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 9489,
+      "valorPremio": 15.28
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 145455.35
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PORTO ALEGRE, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 555,
+  "numeroConcursoAnterior": 554,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 556,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 ACERTOS) para o próximo concurso, a ser realizado em 28/09/2005: R$300.000,00. Ganhador de zero acerto: MT.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "06/11/2007",
+  "dataProximoConcurso": "08/11/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "10",
+    "46",
+    "05",
+    "80",
+    "58"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "10",
+    "46",
+    "58",
+    "80"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RS"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 714902.23
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 269,
+      "valorPremio": 1607.55
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 12344,
+      "valorPremio": 46.54
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PARANAGUÁ, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1824,
+  "numeroConcursoAnterior": 1823,
+  "numeroConcursoFinal_0_5": 1825,
+  "numeroConcursoProximo": 1825,
+  "numeroJogo": 3,
+  "observacao": "GANHADOR DE 5 ACERTOS: LAGOA VERMELHA/RS.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 350000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

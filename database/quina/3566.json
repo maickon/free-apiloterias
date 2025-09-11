@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "20/08/2014",
+  "dataProximoConcurso": "21/08/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "35",
+    "68",
+    "45",
+    "34",
+    "71"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "34",
+    "35",
+    "45",
+    "68",
+    "71"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 40,
+      "valorPremio": 10233.65
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3752,
+      "valorPremio": 155.85
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CAMAQUÃ, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3566,
+  "numeroConcursoAnterior": 3565,
+  "numeroConcursoFinal_0_5": 3575,
+  "numeroConcursoProximo": 3567,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5313870.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 16065276.3,
+  "valorAcumuladoProximoConcurso": 573084.33,
+  "valorEstimadoProximoConcurso": 1200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

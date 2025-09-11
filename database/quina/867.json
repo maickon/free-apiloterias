@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "10/07/2001",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "42",
+    "66",
+    "58",
+    "04",
+    "20"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "20",
+    "42",
+    "58",
+    "66"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 231310.88
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 204,
+      "valorPremio": 1133.88
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8830,
+      "valorPremio": 34.8
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Jaboticabal, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 867,
+  "numeroConcursoAnterior": 866,
+  "numeroConcursoFinal_0_5": 875,
+  "numeroConcursoProximo": 868,
+  "numeroJogo": 3,
+  "observacao": "Estimativa prêmio próximo concurso (quina) R$300.000,00",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

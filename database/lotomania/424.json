@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "09/06/2004",
+  "dataProximoConcurso": "12/06/2004",
+  "dezenasSorteadasOrdemSorteio": [
+    "11",
+    "25",
+    "69",
+    "48",
+    "23",
+    "83",
+    "98",
+    "26",
+    "58",
+    "35",
+    "85",
+    "59",
+    "71",
+    "79",
+    "28",
+    "19",
+    "46",
+    "34",
+    "40",
+    "72"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "19",
+    "23",
+    "25",
+    "26",
+    "28",
+    "34",
+    "35",
+    "40",
+    "46",
+    "48",
+    "58",
+    "59",
+    "69",
+    "71",
+    "72",
+    "79",
+    "83",
+    "85",
+    "98"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1073023.42
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 10,
+      "valorPremio": 29106.04
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 138,
+      "valorPremio": 2109.13
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1443,
+      "valorPremio": 100.47
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 8455,
+      "valorPremio": 17.15
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CASTELO, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 424,
+  "numeroConcursoAnterior": 423,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 425,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 ACERTOS) próximo concurso: R$400.000,00. Acumulado de zero acerto para 20 acertos: R$145.530,21.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

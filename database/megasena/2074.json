@@ -1,0 +1,84 @@
+{
+  "acumulado": false,
+  "dataApuracao": "01/09/2018",
+  "dataProximoConcurso": "05/09/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "42",
+    "08",
+    "18",
+    "37",
+    "58",
+    "23"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "18",
+    "23",
+    "37",
+    "42",
+    "58"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "PASSOS",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "SÃO SEBASTIÃO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 22327541.33
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 172,
+      "valorPremio": 19405.99
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8812,
+      "valorPremio": 541.11
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "SÃO JOSÉ DO CEDRO, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2074,
+  "numeroConcursoAnterior": 2073,
+  "numeroConcursoFinal_0_5": 2075,
+  "numeroConcursoProximo": 2075,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 57893622.5,
+  "valorAcumuladoConcurso_0_5": 15984260.35,
+  "valorAcumuladoConcursoEspecial": 48032377.59,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 20000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

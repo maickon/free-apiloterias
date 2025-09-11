@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "07/12/2005",
+  "dataProximoConcurso": "10/12/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "96",
+    "16",
+    "48",
+    "76",
+    "94",
+    "73",
+    "64",
+    "32",
+    "09",
+    "30",
+    "85",
+    "45",
+    "03",
+    "31",
+    "25",
+    "14",
+    "06",
+    "56",
+    "04",
+    "71"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "04",
+    "06",
+    "09",
+    "14",
+    "16",
+    "25",
+    "30",
+    "31",
+    "32",
+    "45",
+    "48",
+    "56",
+    "64",
+    "71",
+    "73",
+    "76",
+    "85",
+    "94",
+    "96"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 4883162.3
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 21,
+      "valorPremio": 19511.98
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 334,
+      "valorPremio": 1226.8
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2926,
+      "valorPremio": 69.76
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 16658,
+      "valorPremio": 12.26
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 204875.79
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Votorantim, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 574,
+  "numeroConcursoAnterior": 573,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 575,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 acertos) para o próximo concurso, a ser realizado em 10/12/2005: R$350.000,00. Ganhador de zero acerto: RS.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

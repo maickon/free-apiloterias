@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "14/02/2009",
+  "dataProximoConcurso": "18/02/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "57",
+    "03",
+    "38",
+    "21",
+    "28",
+    "16"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "16",
+    "21",
+    "28",
+    "38",
+    "57"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 3901088.76
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 70,
+      "valorPremio": 16913.47
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4990,
+      "valorPremio": 237.26
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ILHÉUS, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1048,
+  "numeroConcursoAnterior": 1047,
+  "numeroConcursoFinal_0_5": 1050,
+  "numeroConcursoProximo": 1049,
+  "numeroJogo": 2,
+  "observacao": "GANHADOR DE 6 ACERTOS: GUARULHOS/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 6906398.79,
+  "valorAcumuladoConcursoEspecial": 6860046.04,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 1700000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

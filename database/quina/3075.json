@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "20/12/2012",
+  "dataProximoConcurso": "21/12/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "21",
+    "57",
+    "07",
+    "42",
+    "49"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "21",
+    "42",
+    "49",
+    "57"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 117,
+      "valorPremio": 2708.89
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5178,
+      "valorPremio": 87.44
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "MACEIÓ, AL",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3075,
+  "numeroConcursoAnterior": 3074,
+  "numeroConcursoFinal_0_5": 3085,
+  "numeroConcursoProximo": 3076,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4114313.25,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 36998447.23,
+  "valorAcumuladoProximoConcurso": 443715.88,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

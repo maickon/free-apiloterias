@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "30/10/2009",
+  "dataProximoConcurso": "03/11/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "37",
+    "29",
+    "11",
+    "36",
+    "13",
+    "06",
+    "05",
+    "39",
+    "17",
+    "20",
+    "02",
+    "47"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "11",
+    "13",
+    "29",
+    "36",
+    "37"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "02",
+    "05",
+    "17",
+    "20",
+    "39",
+    "47"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "GUAPIAÇU",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 299686.08
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 30,
+      "valorPremio": 2769.43
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1331,
+      "valorPremio": 89.17
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PARNAÍBA, PI",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 807,
+  "numeroConcursoAnterior": 806,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 808,
+  "numeroJogo": 18,
+  "observacao": "NÃO HOUVE GANHADOR DE 6 ACERTOS NO 2º SORTEIO. PORTANTO, O PRÊMIO FICA ACUMULADO PARA 6 ACERTOS NO 1º SORTEIO DO PRÓXIMO CONCURSO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1348161.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 124624.25,
+  "valorEstimadoProximoConcurso": 200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

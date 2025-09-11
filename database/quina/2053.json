@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "16/05/2009",
+  "dataProximoConcurso": "19/05/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "77",
+    "38",
+    "24",
+    "16",
+    "39"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "16",
+    "24",
+    "38",
+    "39",
+    "77"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 433899.87
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 136,
+      "valorPremio": 3190.44
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7919,
+      "valorPremio": 104.36
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SÃO PEDRO DA ALDEIA, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2053,
+  "numeroConcursoAnterior": 2052,
+  "numeroConcursoFinal_0_5": 2055,
+  "numeroConcursoProximo": 2054,
+  "numeroJogo": 3,
+  "observacao": "A APOSTA GANHADORA DE 5 ACERTOS FOI REALIZADA EM BARBACENA/MG.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

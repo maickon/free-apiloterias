@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "20/04/2002",
+  "dataProximoConcurso": "24/04/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "31",
+    "44",
+    "60",
+    "95",
+    "29",
+    "08",
+    "17",
+    "43",
+    "69",
+    "90",
+    "96",
+    "66",
+    "87",
+    "11",
+    "37",
+    "07",
+    "77",
+    "59",
+    "68",
+    "03"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "07",
+    "08",
+    "11",
+    "17",
+    "29",
+    "31",
+    "37",
+    "43",
+    "44",
+    "59",
+    "60",
+    "66",
+    "68",
+    "69",
+    "77",
+    "87",
+    "90",
+    "95",
+    "96"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SE"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2498091.47
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 12,
+      "valorPremio": 40855.97
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 178,
+      "valorPremio": 2754.34
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1913,
+      "valorPremio": 127.67
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 11554,
+      "valorPremio": 21.13
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Jales, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 208,
+  "numeroConcursoAnterior": 207,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 209,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios próximo concurso: (20 ACERTOS) R$550.000,00 - (ZERO ACERTO) R$400.000,00. O ganhador de (20 acertos) é de Aracaju/SE.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

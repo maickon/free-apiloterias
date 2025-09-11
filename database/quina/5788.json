@@ -1,0 +1,80 @@
+{
+  "acumulado": false,
+  "dataApuracao": "23/02/2022",
+  "dataProximoConcurso": "24/02/2022",
+  "dezenasSorteadasOrdemSorteio": [
+    "26",
+    "12",
+    "35",
+    "36",
+    "03"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "12",
+    "26",
+    "35",
+    "36"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "CHAPECO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SC"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 658964.44
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 63,
+      "valorPremio": 4482.76
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4452,
+      "valorPremio": 60.41
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 110976,
+      "valorPremio": 2.42
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO LOTERIAS CAIXA",
+  "nomeMunicipioUFSorteio": "SÃO PAULO,  SP",
+  "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "numero": 5788,
+  "numeroConcursoAnterior": 5787,
+  "numeroConcursoFinal_0_5": 5795,
+  "numeroConcursoProximo": 5789,
+  "numeroJogo": 3,
+  "observacao": "Acumulado próximo concurso final cinco (5795) R$ 2.169.730,74",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6204500.0,
+  "valorAcumuladoConcurso_0_5": 2169730.74,
+  "valorAcumuladoConcursoEspecial": 93670086.01,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 700000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

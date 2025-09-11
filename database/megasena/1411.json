@@ -1,0 +1,84 @@
+{
+  "acumulado": false,
+  "dataApuracao": "01/08/2012",
+  "dataProximoConcurso": "04/08/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "32",
+    "44",
+    "12",
+    "08",
+    "48",
+    "46"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "12",
+    "32",
+    "44",
+    "46",
+    "48"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "ARAUCÁRIA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "SÃO BERNARDO DO CAMPO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 21505646.36
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 360,
+      "valorPremio": 12795.43
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 21016,
+      "valorPremio": 313.11
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "GUANAMBI, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1411,
+  "numeroConcursoAnterior": 1410,
+  "numeroConcursoFinal_0_5": 1415,
+  "numeroConcursoProximo": 1412,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 78679980.0,
+  "valorAcumuladoConcurso_0_5": 9254389.39,
+  "valorAcumuladoConcursoEspecial": 31390840.47,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "06/09/2008",
+  "dataProximoConcurso": "10/09/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "17",
+    "68",
+    "05",
+    "37",
+    "78",
+    "47",
+    "56",
+    "31",
+    "49",
+    "40",
+    "65",
+    "38",
+    "13",
+    "43",
+    "08",
+    "44",
+    "20",
+    "66",
+    "29",
+    "71"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "08",
+    "13",
+    "17",
+    "20",
+    "29",
+    "31",
+    "37",
+    "38",
+    "40",
+    "43",
+    "44",
+    "47",
+    "49",
+    "56",
+    "65",
+    "66",
+    "68",
+    "71",
+    "78"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "CE"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 1002640.62
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 21,
+      "valorPremio": 14443.28
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 341,
+      "valorPremio": 889.47
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2174,
+      "valorPremio": 69.76
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 12440,
+      "valorPremio": 12.19
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TABOÃO DA SERRA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 860,
+  "numeroConcursoAnterior": 859,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 861,
+  "numeroJogo": 16,
+  "observacao": "GANHADORES DE 20 ACERTOS: NOVA RUSSAS/CE E SÃO PAULO/SP. NÃO TEVE GANHADOR DE ZERO ACERTO, PORTANTO O PRÊMIO FICA ACUMULADO PARA O PRÓXIMO CONCURSO NA FAIXA PRINCIPAL.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 151654.47,
+  "valorEstimadoProximoConcurso": 500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

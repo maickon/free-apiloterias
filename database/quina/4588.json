@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "23/01/2018",
+  "dataProximoConcurso": "24/01/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "33",
+    "75",
+    "67",
+    "42",
+    "57"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "33",
+    "42",
+    "57",
+    "67",
+    "75"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 64,
+      "valorPremio": 8397.81
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6726,
+      "valorPremio": 120.16
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 169427,
+      "valorPremio": 2.62
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "CONCÓRDIA, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4588,
+  "numeroConcursoAnterior": 4587,
+  "numeroConcursoFinal_0_5": 4595,
+  "numeroConcursoProximo": 4589,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 9322078.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 64247252.15,
+  "valorAcumuladoProximoConcurso": 4960998.49,
+  "valorEstimadoProximoConcurso": 6000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

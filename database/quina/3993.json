@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "25/01/2016",
+  "dataProximoConcurso": "26/01/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "16",
+    "46",
+    "74",
+    "11",
+    "48"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "16",
+    "46",
+    "48",
+    "74"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 48,
+      "valorPremio": 11177.21
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3900,
+      "valorPremio": 196.52
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "LEOPOLDINA, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3993,
+  "numeroConcursoAnterior": 3992,
+  "numeroConcursoFinal_0_5": 3995,
+  "numeroConcursoProximo": 3994,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7072202.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 65988481.65,
+  "valorAcumuladoProximoConcurso": 3535030.24,
+  "valorEstimadoProximoConcurso": 4500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,87 @@
+{
+  "acumulado": true,
+  "dataApuracao": "23/12/2014",
+  "dataProximoConcurso": "27/12/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "66",
+    "60",
+    "08",
+    "51",
+    "15",
+    "25",
+    "69"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "15",
+    "25",
+    "51",
+    "60",
+    "66",
+    "69"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 15,
+      "valorPremio": 14598.76
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 358,
+      "valorPremio": 873.82
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 7554,
+      "valorPremio": 6.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 73398,
+      "valorPremio": 2.0
+    },
+    {
+      "descricaoFaixa": "Time do Coração",
+      "faixa": 6,
+      "numeroDeGanhadores": 49012,
+      "valorPremio": 5.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Estúdio de TV",
+  "nomeMunicipioUFSorteio": "Osasco, SP",
+  "nomeTimeCoracaoMesSorte": "ATLÉTICO/MG",
+  "numero": 668,
+  "numeroConcursoAnterior": 667,
+  "numeroConcursoFinal_0_5": 670,
+  "numeroConcursoProximo": 669,
+  "numeroJogo": 20,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "TIMEMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4350724.0,
+  "valorAcumuladoConcurso_0_5": 440388.85,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 11553611.4,
+  "valorEstimadoProximoConcurso": 12000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "30/12/2008",
+  "dataProximoConcurso": "03/01/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "30",
+    "18",
+    "08",
+    "70",
+    "44"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "18",
+    "30",
+    "44",
+    "70"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 2,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 236829.94
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 95,
+      "valorPremio": 4985.89
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6870,
+      "valorPremio": 91.93
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "NOVA ANDRADINA, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1997,
+  "numeroConcursoAnterior": 1996,
+  "numeroConcursoFinal_0_5": 2005,
+  "numeroConcursoProximo": 1998,
+  "numeroJogo": 3,
+  "observacao": "Ganhadores da Quina: Passa Tempo/MG.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

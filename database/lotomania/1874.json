@@ -1,0 +1,128 @@
+{
+  "acumulado": true,
+  "dataApuracao": "12/06/2018",
+  "dataProximoConcurso": "15/06/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "08",
+    "00",
+    "78",
+    "55",
+    "13",
+    "74",
+    "66",
+    "34",
+    "72",
+    "37",
+    "70",
+    "01",
+    "35",
+    "90",
+    "23",
+    "71",
+    "44",
+    "65",
+    "41",
+    "38"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "00",
+    "01",
+    "08",
+    "13",
+    "23",
+    "34",
+    "35",
+    "37",
+    "38",
+    "41",
+    "44",
+    "55",
+    "65",
+    "66",
+    "70",
+    "71",
+    "72",
+    "74",
+    "78",
+    "90"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "FORTALEZA",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "CE"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 9,
+      "valorPremio": 36634.96
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 145,
+      "valorPremio": 1421.19
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1476,
+      "valorPremio": 139.61
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 9372,
+      "valorPremio": 21.98
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 164857.35
+    },
+    {
+      "descricaoFaixa": "0 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 40318,
+      "valorPremio": 5.11
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PELOTAS, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1874,
+  "numeroConcursoAnterior": 1873,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1875,
+  "numeroJogo": 16,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6791071.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 7225181.74,
+  "valorEstimadoProximoConcurso": 8000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

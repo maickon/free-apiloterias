@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "29/10/2016",
+  "dataProximoConcurso": "03/11/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "17",
+    "58",
+    "33",
+    "52",
+    "11",
+    "03"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "11",
+    "17",
+    "33",
+    "52",
+    "58"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "VARGINHA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 76548193.31
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 275,
+      "valorPremio": 20893.81
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 15560,
+      "valorPremio": 527.52
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TERESINA, PI",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1871,
+  "numeroConcursoAnterior": 1870,
+  "numeroConcursoFinal_0_5": 1875,
+  "numeroConcursoProximo": 1872,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 99659087.5,
+  "valorAcumuladoConcurso_0_5": 12176259.89,
+  "valorAcumuladoConcursoEspecial": 57061491.27,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

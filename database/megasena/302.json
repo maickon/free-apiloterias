@@ -1,0 +1,67 @@
+{
+  "acumulado": true,
+  "dataApuracao": "06/10/2001",
+  "dataProximoConcurso": "10/10/2001",
+  "dezenasSorteadasOrdemSorteio": [
+    "25",
+    "40",
+    "12",
+    "60",
+    "30",
+    "41"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "12",
+    "25",
+    "30",
+    "40",
+    "41",
+    "60"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 101,
+      "valorPremio": 13505.06
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6361,
+      "valorPremio": 213.63
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Chapecó, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 302,
+  "numeroConcursoAnterior": 301,
+  "numeroConcursoFinal_0_5": 305,
+  "numeroConcursoProximo": 303,
+  "numeroJogo": 2,
+  "observacao": "Estimativa prêmio (SENA) próximo concurso: R$12 MILHÕES.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 2629922.29,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 11051609.38,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

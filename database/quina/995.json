@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "18/05/2002",
+  "dataProximoConcurso": "21/05/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "80",
+    "25",
+    "32",
+    "68",
+    "27"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "25",
+    "27",
+    "32",
+    "68",
+    "80"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 2,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 172569.7
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 267,
+      "valorPremio": 1292.66
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 12782,
+      "valorPremio": 35.88
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Franca, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 995,
+  "numeroConcursoAnterior": 994,
+  "numeroConcursoFinal_0_5": 1005,
+  "numeroConcursoProximo": 996,
+  "numeroJogo": 3,
+  "observacao": "Estimativa de prêmio do próximo concurso (quina): R$ 300 MIL.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

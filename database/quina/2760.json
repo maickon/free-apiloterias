@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "01/12/2011",
+  "dataProximoConcurso": "02/12/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "64",
+    "16",
+    "09",
+    "17",
+    "58"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "16",
+    "17",
+    "58",
+    "64"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 79,
+      "valorPremio": 4452.63
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5507,
+      "valorPremio": 91.24
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ARARAQUARA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2760,
+  "numeroConcursoAnterior": 2759,
+  "numeroConcursoFinal_0_5": 2765,
+  "numeroConcursoProximo": 2761,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4566292.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 30750317.14,
+  "valorAcumuladoProximoConcurso": 945849.27,
+  "valorEstimadoProximoConcurso": 1500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

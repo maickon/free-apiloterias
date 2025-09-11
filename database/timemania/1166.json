@@ -1,0 +1,87 @@
+{
+  "acumulado": true,
+  "dataApuracao": "07/04/2018",
+  "dataProximoConcurso": "10/04/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "51",
+    "23",
+    "35",
+    "74",
+    "39",
+    "50",
+    "52"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "23",
+    "35",
+    "39",
+    "50",
+    "51",
+    "52",
+    "74"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 8,
+      "valorPremio": 22421.62
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 287,
+      "valorPremio": 892.84
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 5566,
+      "valorPremio": 6.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 52934,
+      "valorPremio": 2.0
+    },
+    {
+      "descricaoFaixa": "Time do Coração",
+      "faixa": 6,
+      "numeroDeGanhadores": 12109,
+      "valorPremio": 5.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SEARA, SC",
+  "nomeTimeCoracaoMesSorte": "RIO BRANCO/ES",
+  "numero": 1166,
+  "numeroConcursoAnterior": 1165,
+  "numeroConcursoFinal_0_5": 1170,
+  "numeroConcursoProximo": 1167,
+  "numeroJogo": 20,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "TIMEMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 3219662.0,
+  "valorAcumuladoConcurso_0_5": 167752.72,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 6854830.87,
+  "valorEstimadoProximoConcurso": 7200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

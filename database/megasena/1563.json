@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "09/01/2014",
+  "dataProximoConcurso": "11/01/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "43",
+    "36",
+    "01",
+    "20",
+    "13",
+    "06"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "06",
+    "13",
+    "20",
+    "36",
+    "43"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "ARROIO GRANDE",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RS"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 6872625.83
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 202,
+      "valorPremio": 9475.83
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 10395,
+      "valorPremio": 263.05
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "RIBEIRÃO DAS NEVES, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1563,
+  "numeroConcursoAnterior": 1562,
+  "numeroConcursoFinal_0_5": 1565,
+  "numeroConcursoProximo": 1564,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 32694576.0,
+  "valorAcumuladoConcurso_0_5": 4319936.23,
+  "valorAcumuladoConcursoEspecial": 981803.74,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "10/07/2002",
+  "dataProximoConcurso": "13/07/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "81",
+    "20",
+    "63",
+    "87",
+    "64",
+    "57",
+    "65",
+    "41",
+    "62",
+    "05",
+    "79",
+    "83",
+    "36",
+    "91",
+    "21",
+    "24",
+    "55",
+    "74",
+    "50",
+    "85"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "20",
+    "21",
+    "24",
+    "36",
+    "41",
+    "50",
+    "55",
+    "57",
+    "62",
+    "63",
+    "64",
+    "65",
+    "74",
+    "79",
+    "81",
+    "83",
+    "85",
+    "87",
+    "91"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 481029.62
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 12,
+      "valorPremio": 26723.87
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 168,
+      "valorPremio": 1908.85
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1664,
+      "valorPremio": 96.0
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 10507,
+      "valorPremio": 15.21
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Guariba, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 230,
+  "numeroConcursoAnterior": 229,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 231,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios próximo concurso: (20 ACERTOS) R$550.000,00 - (ZERO ACERTO) R$350.000,00. O ganhador da faixa 20 acertos é do Rio de Janeiro/RJ.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

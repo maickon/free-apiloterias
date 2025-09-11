@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "20/12/2014",
+  "dataProximoConcurso": "22/12/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "06",
+    "67",
+    "72",
+    "36",
+    "08"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "08",
+    "36",
+    "67",
+    "72"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 50,
+      "valorPremio": 8457.33
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4425,
+      "valorPremio": 136.51
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da sorte",
+  "nomeMunicipioUFSorteio": "SÃO JOÃO DO PIAUÍ, PI",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3670,
+  "numeroConcursoAnterior": 3669,
+  "numeroConcursoFinal_0_5": 3675,
+  "numeroConcursoProximo": 3671,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5489382.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 49625180.52,
+  "valorAcumuladoProximoConcurso": 592012.76,
+  "valorEstimadoProximoConcurso": 1200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

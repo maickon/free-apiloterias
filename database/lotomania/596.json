@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "22/02/2006",
+  "dataProximoConcurso": "25/02/2006",
+  "dezenasSorteadasOrdemSorteio": [
+    "90",
+    "31",
+    "18",
+    "80",
+    "99",
+    "60",
+    "88",
+    "46",
+    "20",
+    "22",
+    "50",
+    "54",
+    "81",
+    "73",
+    "63",
+    "02",
+    "66",
+    "51",
+    "86",
+    "70"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "18",
+    "20",
+    "22",
+    "31",
+    "46",
+    "50",
+    "51",
+    "54",
+    "60",
+    "63",
+    "66",
+    "70",
+    "73",
+    "80",
+    "81",
+    "86",
+    "88",
+    "90",
+    "99"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SE"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 550502.36
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 23,
+      "valorPremio": 11789.97
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 223,
+      "valorPremio": 1216.01
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1884,
+      "valorPremio": 71.69
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 10533,
+      "valorPremio": 12.83
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 135584.68
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CORUMBÁ, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 596,
+  "numeroConcursoAnterior": 595,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 597,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 acertos) para o próximo concurso, a ser realizado em 25/02/2006: R$500.000,00. Ganhador de zero acerto: SE.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

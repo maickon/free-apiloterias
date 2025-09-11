@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "24/10/2001",
+  "dataProximoConcurso": "27/10/2001",
+  "dezenasSorteadasOrdemSorteio": [
+    "00",
+    "65",
+    "37",
+    "25",
+    "38",
+    "33",
+    "68",
+    "66",
+    "23",
+    "89",
+    "62",
+    "92",
+    "01",
+    "56",
+    "83",
+    "29",
+    "26",
+    "94",
+    "48",
+    "42"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "00",
+    "01",
+    "23",
+    "25",
+    "26",
+    "29",
+    "33",
+    "37",
+    "38",
+    "42",
+    "48",
+    "56",
+    "62",
+    "65",
+    "66",
+    "68",
+    "83",
+    "89",
+    "92",
+    "94"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 600258.52
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 17,
+      "valorPremio": 20997.17
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 347,
+      "valorPremio": 1028.68
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2592,
+      "valorPremio": 68.6
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 15275,
+      "valorPremio": 11.65
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 567184.84
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Manaus, AM",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 160,
+  "numeroConcursoAnterior": 159,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 161,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio próximo concurso (20 acertos): R$ 650.000,00 - (zero acerto): R$ 200.000,00. Ganhador com zero acerto: Rio de Janeiro/RJ.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

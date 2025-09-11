@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "21/01/2009",
+  "dataProximoConcurso": "24/01/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "12",
+    "10",
+    "36",
+    "54",
+    "44",
+    "57"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "12",
+    "36",
+    "44",
+    "54",
+    "57"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 29372147.91
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 82,
+      "valorPremio": 27849.85
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8071,
+      "valorPremio": 282.95
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "MACEIÓ, AL",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1041,
+  "numeroConcursoAnterior": 1040,
+  "numeroConcursoFinal_0_5": 1045,
+  "numeroConcursoProximo": 1042,
+  "numeroJogo": 2,
+  "observacao": "GANHADOR DE 6 ACERTOS: TERESÓPOLIS/RJ.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 5069762.02,
+  "valorAcumuladoConcursoEspecial": 4336425.82,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 1500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

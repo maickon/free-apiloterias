@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "06/08/2003",
+  "dataProximoConcurso": "09/08/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "77",
+    "99",
+    "59",
+    "78",
+    "46",
+    "64",
+    "68",
+    "22",
+    "09",
+    "07",
+    "00",
+    "15",
+    "75",
+    "37",
+    "19",
+    "35",
+    "04",
+    "63",
+    "27",
+    "87"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "00",
+    "04",
+    "07",
+    "09",
+    "15",
+    "19",
+    "22",
+    "27",
+    "35",
+    "37",
+    "46",
+    "59",
+    "63",
+    "64",
+    "68",
+    "75",
+    "77",
+    "78",
+    "87",
+    "99"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "DF"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 544792.83
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 37,
+      "valorPremio": 9816.09
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 380,
+      "valorPremio": 955.78
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 3064,
+      "valorPremio": 59.05
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 16741,
+      "valorPremio": 10.81
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Senhor do Bonfim, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 339,
+  "numeroConcursoAnterior": 338,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 340,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios próximo concurso: (20 ACERTOS) R$650.000,00 - (ZERO ACERTO) R$400.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

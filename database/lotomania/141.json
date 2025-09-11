@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "18/08/2001",
+  "dataProximoConcurso": "22/08/2001",
+  "dezenasSorteadasOrdemSorteio": [
+    "84",
+    "30",
+    "93",
+    "19",
+    "56",
+    "10",
+    "99",
+    "92",
+    "89",
+    "90",
+    "51",
+    "14",
+    "40",
+    "87",
+    "04",
+    "79",
+    "66",
+    "24",
+    "25",
+    "46"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "10",
+    "14",
+    "19",
+    "24",
+    "25",
+    "30",
+    "40",
+    "46",
+    "51",
+    "56",
+    "66",
+    "79",
+    "84",
+    "87",
+    "89",
+    "90",
+    "92",
+    "93",
+    "99"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SE"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1310865.11
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 11,
+      "valorPremio": 46881.97
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 173,
+      "valorPremio": 2980.93
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1946,
+      "valorPremio": 132.0
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 12450,
+      "valorPremio": 20.64
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Maringá, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 141,
+  "numeroConcursoAnterior": 140,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 142,
+  "numeroJogo": 16,
+  "observacao": "Estimativa prêmio próximo concurso: (20 acertos) R$600.000,00 ; (0 acerto) R$1.600.000,00",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

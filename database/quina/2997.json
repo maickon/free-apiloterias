@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "17/09/2012",
+  "dataProximoConcurso": "18/09/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "43",
+    "70",
+    "40",
+    "20",
+    "61"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "20",
+    "40",
+    "43",
+    "61",
+    "70"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 54,
+      "valorPremio": 6646.94
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4515,
+      "valorPremio": 113.56
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SÃO MATEUS, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2997,
+  "numeroConcursoAnterior": 2996,
+  "numeroConcursoFinal_0_5": 3005,
+  "numeroConcursoProximo": 2998,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4659460.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 17083429.29,
+  "valorAcumuladoProximoConcurso": 985310.39,
+  "valorEstimadoProximoConcurso": 1500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

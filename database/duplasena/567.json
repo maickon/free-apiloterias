@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "22/06/2007",
+  "dataProximoConcurso": "26/06/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "11",
+    "12",
+    "45",
+    "13",
+    "22",
+    "49",
+    "35",
+    "12",
+    "38",
+    "21",
+    "22",
+    "32"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "12",
+    "13",
+    "22",
+    "45",
+    "49"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "12",
+    "21",
+    "22",
+    "32",
+    "35",
+    "38"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 16,
+      "valorPremio": 5036.59
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 980,
+      "valorPremio": 81.92
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SANTA TERESA, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 567,
+  "numeroConcursoAnterior": 566,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 568,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 590676.48,
+  "valorEstimadoProximoConcurso": 700000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

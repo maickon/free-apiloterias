@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "14/05/2005",
+  "dataProximoConcurso": "18/05/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "21",
+    "16",
+    "99",
+    "68",
+    "37",
+    "49",
+    "61",
+    "64",
+    "94",
+    "31",
+    "04",
+    "69",
+    "10",
+    "80",
+    "12",
+    "33",
+    "20",
+    "91",
+    "83",
+    "73"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "10",
+    "12",
+    "16",
+    "20",
+    "21",
+    "31",
+    "33",
+    "37",
+    "49",
+    "61",
+    "64",
+    "68",
+    "69",
+    "73",
+    "80",
+    "83",
+    "91",
+    "94",
+    "99"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    },
+    {
+      "ganhadores": 2,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 976819.11
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 15,
+      "valorPremio": 23446.84
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 278,
+      "valorPremio": 1265.12
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2096,
+      "valorPremio": 83.59
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 11551,
+      "valorPremio": 15.17
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 87925.66
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Passos, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 518,
+  "numeroConcursoAnterior": 517,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 519,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 ACERTOS) próximo concurso, a ser realizado em 18/05/2005: R$400.000,00. Ganhadores de zero acerto: BA e RJ.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

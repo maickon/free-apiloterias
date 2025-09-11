@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "29/11/2008",
+  "dataProximoConcurso": "02/12/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "74",
+    "67",
+    "27",
+    "69",
+    "29"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "27",
+    "29",
+    "67",
+    "69",
+    "74"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1367013.13
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 135,
+      "valorPremio": 3984.15
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7497,
+      "valorPremio": 95.66
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "EMBU-GUAÇU, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1985,
+  "numeroConcursoAnterior": 1984,
+  "numeroConcursoFinal_0_5": 1995,
+  "numeroConcursoProximo": 1986,
+  "numeroJogo": 3,
+  "observacao": "Ganhador de 5 acertos: Contagem/MG.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

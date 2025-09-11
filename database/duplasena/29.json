@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "22/02/2002",
+  "dataProximoConcurso": "26/02/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "50",
+    "23",
+    "39",
+    "19",
+    "12",
+    "01",
+    "47",
+    "45",
+    "41",
+    "35",
+    "25",
+    "16"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "12",
+    "19",
+    "23",
+    "39",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "16",
+    "25",
+    "35",
+    "41",
+    "45",
+    "47"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 11,
+      "valorPremio": 7614.58
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 928,
+      "valorPremio": 89.92
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ITU, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 29,
+  "numeroConcursoAnterior": 28,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 30,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$1.500.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1374281.7,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "22/08/2015",
+  "dataProximoConcurso": "24/08/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "80",
+    "32",
+    "65",
+    "61",
+    "70"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "32",
+    "61",
+    "65",
+    "70",
+    "80"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 36,
+      "valorPremio": 17288.41
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3344,
+      "valorPremio": 265.88
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "COLATINA, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3865,
+  "numeroConcursoAnterior": 3864,
+  "numeroConcursoFinal_0_5": 3875,
+  "numeroConcursoProximo": 3866,
+  "numeroJogo": 3,
+  "observacao": "Rateio em processamento. Tente mais tarde.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 8079378.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 19251655.01,
+  "valorAcumuladoProximoConcurso": 3820975.68,
+  "valorEstimadoProximoConcurso": 5000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

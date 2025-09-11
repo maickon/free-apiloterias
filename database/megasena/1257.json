@@ -1,0 +1,84 @@
+{
+  "acumulado": false,
+  "dataApuracao": "12/02/2011",
+  "dataProximoConcurso": "16/02/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "27",
+    "15",
+    "30",
+    "52",
+    "26",
+    "02"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "15",
+    "26",
+    "27",
+    "30",
+    "52"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "MADALENA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "CE"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "RIO DE JANEIRO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 26211767.61
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 154,
+      "valorPremio": 24358.21
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 11765,
+      "valorPremio": 455.48
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "BALNEÁRIO ARROIO DO SILVA, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1257,
+  "numeroConcursoAnterior": 1256,
+  "numeroConcursoFinal_0_5": 1260,
+  "numeroConcursoProximo": 1258,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 64072694.0,
+  "valorAcumuladoConcurso_0_5": 11338622.3,
+  "valorAcumuladoConcursoEspecial": 6573695.79,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

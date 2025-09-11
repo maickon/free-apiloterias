@@ -1,0 +1,138 @@
+{
+  "acumulado": false,
+  "dataApuracao": "02/02/2008",
+  "dataProximoConcurso": "06/02/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "15",
+    "44",
+    "77",
+    "13",
+    "81",
+    "58",
+    "16",
+    "50",
+    "86",
+    "14",
+    "33",
+    "66",
+    "49",
+    "88",
+    "55",
+    "99",
+    "74",
+    "23",
+    "80",
+    "27"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "13",
+    "14",
+    "15",
+    "16",
+    "23",
+    "27",
+    "33",
+    "44",
+    "49",
+    "50",
+    "55",
+    "58",
+    "66",
+    "74",
+    "77",
+    "80",
+    "81",
+    "86",
+    "88",
+    "99"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "DF"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MA"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PB"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 318943.76
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 41,
+      "valorPremio": 6096.18
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 385,
+      "valorPremio": 649.21
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 3058,
+      "valorPremio": 40.87
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 14493,
+      "valorPremio": 8.62
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 41657.24
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "GUARAPARI, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 798,
+  "numeroConcursoAnterior": 797,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 799,
+  "numeroJogo": 16,
+  "observacao": "Ganhadores de 20 acertos: Brasília/DF, São Luís/MA e João Pessoa/PB. Ganhadores de zero acerto: Urucuca/BA, Brasília/DF e São Luís/MA.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

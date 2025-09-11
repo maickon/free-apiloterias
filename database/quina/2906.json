@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "25/05/2012",
+  "dataProximoConcurso": "26/05/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "75",
+    "66",
+    "65",
+    "05",
+    "68"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "65",
+    "66",
+    "68",
+    "75"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 90,
+      "valorPremio": 4200.68
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5583,
+      "valorPremio": 96.73
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PIRACICABA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2906,
+  "numeroConcursoAnterior": 2905,
+  "numeroConcursoFinal_0_5": 2915,
+  "numeroConcursoProximo": 2907,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4907745.75,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 69104420.8,
+  "valorAcumuladoProximoConcurso": 978482.15,
+  "valorEstimadoProximoConcurso": 1600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

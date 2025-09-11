@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "30/01/2009",
+  "dataProximoConcurso": "03/02/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "27",
+    "46",
+    "44",
+    "17",
+    "11",
+    "35",
+    "04",
+    "46",
+    "21",
+    "09",
+    "20",
+    "10"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "17",
+    "27",
+    "35",
+    "44",
+    "46"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "04",
+    "09",
+    "10",
+    "20",
+    "21",
+    "46"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 42,
+      "valorPremio": 3197.93
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2002,
+      "valorPremio": 67.09
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ARAPIRACA, AL",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 731,
+  "numeroConcursoAnterior": 730,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 732,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 2843155.02,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

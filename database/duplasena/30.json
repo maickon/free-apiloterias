@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "26/02/2002",
+  "dataProximoConcurso": "01/03/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "33",
+    "36",
+    "08",
+    "21",
+    "18",
+    "46",
+    "28",
+    "05",
+    "03",
+    "15",
+    "43",
+    "13"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "18",
+    "21",
+    "33",
+    "36",
+    "46"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "03",
+    "05",
+    "13",
+    "15",
+    "28",
+    "43"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 27,
+      "valorPremio": 2986.32
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1775,
+      "valorPremio": 45.26
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "São Lourenço do Sul, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 30,
+  "numeroConcursoAnterior": 29,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 31,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$1.800.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1616173.24,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "18/12/2001",
+  "dataProximoConcurso": "21/12/2001",
+  "dezenasSorteadasOrdemSorteio": [
+    "01",
+    "03",
+    "31",
+    "33",
+    "37",
+    "46",
+    "43",
+    "31",
+    "04",
+    "13",
+    "49",
+    "47"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "03",
+    "31",
+    "33",
+    "37",
+    "46"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "04",
+    "13",
+    "31",
+    "43",
+    "47",
+    "49"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 26,
+      "valorPremio": 3821.55
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1503,
+      "valorPremio": 65.86
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Indaiatuba, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 13,
+  "numeroConcursoAnterior": 12,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 14,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (1ºSORTEIO-SENA) próximo concurso: R$1.500.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1366579.16,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

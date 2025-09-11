@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "10/09/2008",
+  "dataProximoConcurso": "13/09/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "10",
+    "27",
+    "23",
+    "05",
+    "16",
+    "26"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "10",
+    "16",
+    "23",
+    "26",
+    "27"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PE"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1609524.9
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 86,
+      "valorPremio": 10159.79
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5694,
+      "valorPremio": 153.45
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "AMAMBAI, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1003,
+  "numeroConcursoAnterior": 1002,
+  "numeroConcursoFinal_0_5": 1005,
+  "numeroConcursoProximo": 1004,
+  "numeroJogo": 2,
+  "observacao": "GANHADOR DE 6 ACERTOS: CABO DE SANTO AGOSTINHO/PE.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 7723382.67,
+  "valorAcumuladoConcursoEspecial": 4385238.47,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 1500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,107 @@
+{
+  "acumulado": false,
+  "dataApuracao": "09/08/2013",
+  "dataProximoConcurso": "13/08/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "39",
+    "46",
+    "44",
+    "45",
+    "42",
+    "43",
+    "07",
+    "35",
+    "41",
+    "24",
+    "39",
+    "15"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "39",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "07",
+    "15",
+    "24",
+    "35",
+    "39",
+    "41"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "MANAUS",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "AM"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 595956.67
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 327,
+      "valorPremio": 512.41
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 2584,
+      "valorPremio": 43.23
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 44,
+      "valorPremio": 2665.72
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2262,
+      "valorPremio": 49.38
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ITABIRA, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1201,
+  "numeroConcursoAnterior": 1200,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1202,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2537682.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 156389.2,
+  "valorEstimadoProximoConcurso": 350000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

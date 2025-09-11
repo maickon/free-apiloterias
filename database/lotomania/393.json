@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "18/02/2004",
+  "dataProximoConcurso": "21/02/2004",
+  "dezenasSorteadasOrdemSorteio": [
+    "15",
+    "97",
+    "43",
+    "89",
+    "24",
+    "95",
+    "60",
+    "81",
+    "46",
+    "07",
+    "47",
+    "38",
+    "03",
+    "25",
+    "75",
+    "57",
+    "02",
+    "90",
+    "45",
+    "87"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "03",
+    "07",
+    "15",
+    "24",
+    "25",
+    "38",
+    "43",
+    "45",
+    "46",
+    "47",
+    "57",
+    "60",
+    "75",
+    "81",
+    "87",
+    "89",
+    "90",
+    "95",
+    "97"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "TO"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 198951.44
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 7,
+      "valorPremio": 37895.51
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 123,
+      "valorPremio": 2156.66
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1214,
+      "valorPremio": 108.84
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 8103,
+      "valorPremio": 16.31
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 132634.32
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "EMBU, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 393,
+  "numeroConcursoAnterior": 392,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 394,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 ACERTOS) próximo concurso: R$550.000,00. Ganhadores (zero acerto) por Estado: MG(1).",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

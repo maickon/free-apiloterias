@@ -1,0 +1,87 @@
+{
+  "acumulado": true,
+  "dataApuracao": "15/04/2017",
+  "dataProximoConcurso": "18/04/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "24",
+    "02",
+    "18",
+    "44",
+    "13",
+    "28",
+    "03"
+  ],
+  "exibirDetalhamentoPorCidade": false,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "03",
+    "13",
+    "18",
+    "24",
+    "28",
+    "44"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 8,
+      "valorPremio": 15364.08
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 334,
+      "valorPremio": 525.71
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 5632,
+      "valorPremio": 6.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 47857,
+      "valorPremio": 2.0
+    },
+    {
+      "descricaoFaixa": "Time do Coração",
+      "faixa": 6,
+      "numeroDeGanhadores": 8899,
+      "valorPremio": 5.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CANELA, RS",
+  "nomeTimeCoracaoMesSorte": "SÃO  CAETANO/SP",
+  "numero": 1019,
+  "numeroConcursoAnterior": 1018,
+  "numeroConcursoFinal_0_5": 1020,
+  "numeroConcursoProximo": 1020,
+  "numeroJogo": 20,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "TIMEMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2286844.0,
+  "valorAcumuladoConcurso_0_5": 12156193.66,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 12156193.66,
+  "valorEstimadoProximoConcurso": 12400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

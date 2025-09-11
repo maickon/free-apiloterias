@@ -1,0 +1,119 @@
+{
+  "acumulado": true,
+  "dataApuracao": "01/04/2017",
+  "dataProximoConcurso": "04/04/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "03",
+    "39",
+    "25",
+    "50",
+    "38",
+    "32",
+    "14",
+    "11",
+    "26",
+    "15",
+    "49",
+    "07"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "25",
+    "32",
+    "38",
+    "39",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "07",
+    "11",
+    "14",
+    "15",
+    "26",
+    "49"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "FUNDÃO",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "ES"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 13,
+      "valorPremio": 3871.35
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 718,
+      "valorPremio": 80.1
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 13003,
+      "valorPremio": 2.21
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 55360.38
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 10,
+      "valorPremio": 4529.49
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 754,
+      "valorPremio": 76.28
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 8,
+      "numeroDeGanhadores": 15218,
+      "valorPremio": 1.88
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SUZANO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1627,
+  "numeroConcursoAnterior": 1626,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1628,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1658542.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 15321125.93,
+  "valorAcumuladoProximoConcurso": 619364.36,
+  "valorEstimadoProximoConcurso": 800000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

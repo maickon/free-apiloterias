@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "11/06/2005",
+  "dataProximoConcurso": "15/06/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "73",
+    "93",
+    "49",
+    "27",
+    "88",
+    "64",
+    "68",
+    "67",
+    "08",
+    "00",
+    "76",
+    "97",
+    "84",
+    "33",
+    "57",
+    "70",
+    "36",
+    "31",
+    "58",
+    "95"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "00",
+    "08",
+    "27",
+    "31",
+    "33",
+    "36",
+    "49",
+    "57",
+    "58",
+    "64",
+    "67",
+    "68",
+    "70",
+    "73",
+    "76",
+    "84",
+    "88",
+    "93",
+    "95",
+    "97"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RS"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 577119.2
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 22,
+      "valorPremio": 13916.98
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 276,
+      "valorPremio": 1109.32
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2200,
+      "valorPremio": 69.32
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 11775,
+      "valorPremio": 12.96
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Ourinhos, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 526,
+  "numeroConcursoAnterior": 525,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 527,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 ACERTOS) próximo concurso, a ser realizado em 15/06: R$500.000,00. Acumulado de zero acerto para 20 acertos: R$153.086,75.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

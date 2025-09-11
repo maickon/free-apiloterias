@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "28/04/2007",
+  "dataProximoConcurso": "02/05/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "19",
+    "35",
+    "12",
+    "02",
+    "11",
+    "08"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "08",
+    "11",
+    "12",
+    "19",
+    "35"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RS"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1152211.3
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 99,
+      "valorPremio": 6650.57
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5632,
+      "valorPremio": 116.46
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ITAPETININGA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 862,
+  "numeroConcursoAnterior": 861,
+  "numeroConcursoFinal_0_5": 865,
+  "numeroConcursoProximo": 863,
+  "numeroJogo": 2,
+  "observacao": "Estimativa de prêmio (Sena) para o próximo concurso a ser realizado em 02/05/2007: R$1.000.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 3120685.64,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

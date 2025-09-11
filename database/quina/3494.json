@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "21/05/2014",
+  "dataProximoConcurso": "22/05/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "58",
+    "68",
+    "01",
+    "73",
+    "51"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "51",
+    "58",
+    "68",
+    "73"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 48,
+      "valorPremio": 14706.26
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5067,
+      "valorPremio": 199.01
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CAMPO GRANDE, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3494,
+  "numeroConcursoAnterior": 3493,
+  "numeroConcursoFinal_0_5": 3495,
+  "numeroConcursoProximo": 3495,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 9163550.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 76812843.26,
+  "valorAcumuladoProximoConcurso": 3746908.32,
+  "valorEstimadoProximoConcurso": 5000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

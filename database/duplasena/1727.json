@@ -1,0 +1,119 @@
+{
+  "acumulado": true,
+  "dataApuracao": "07/12/2017",
+  "dataProximoConcurso": "09/12/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "32",
+    "24",
+    "33",
+    "20",
+    "39",
+    "08",
+    "34",
+    "31",
+    "40",
+    "21",
+    "24",
+    "30"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "20",
+    "24",
+    "32",
+    "33",
+    "39"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "21",
+    "24",
+    "30",
+    "31",
+    "34",
+    "40"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "BARCARENA",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "PA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 35,
+      "valorPremio": 3137.5
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1414,
+      "valorPremio": 88.75
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 27333,
+      "valorPremio": 2.29
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 120793.47
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 17,
+      "valorPremio": 5813.59
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1125,
+      "valorPremio": 111.55
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 8,
+      "numeroDeGanhadores": 21903,
+      "valorPremio": 2.86
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TEIXEIRA DE FREITAS, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1727,
+  "numeroConcursoAnterior": 1726,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1728,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 3618852.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 10113803.28,
+  "valorAcumuladoProximoConcurso": 4955917.28,
+  "valorEstimadoProximoConcurso": 5300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

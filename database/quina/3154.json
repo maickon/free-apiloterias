@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "27/03/2013",
+  "dataProximoConcurso": "28/03/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "10",
+    "38",
+    "21",
+    "54",
+    "26"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "21",
+    "26",
+    "38",
+    "54"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 118,
+      "valorPremio": 3745.99
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7013,
+      "valorPremio": 90.04
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "BARRA MANSA, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3154,
+  "numeroConcursoAnterior": 3153,
+  "numeroConcursoFinal_0_5": 3155,
+  "numeroConcursoProximo": 3155,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5738117.25,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 58292945.53,
+  "valorAcumuladoProximoConcurso": 1582027.68,
+  "valorEstimadoProximoConcurso": 2200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "16/08/2014",
+  "dataProximoConcurso": "18/08/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "67",
+    "63",
+    "48",
+    "41",
+    "71"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "41",
+    "48",
+    "63",
+    "67",
+    "71"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 35,
+      "valorPremio": 11695.39
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3077,
+      "valorPremio": 190.04
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CRICIÚMA, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3563,
+  "numeroConcursoAnterior": 3562,
+  "numeroConcursoFinal_0_5": 3565,
+  "numeroConcursoProximo": 3564,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5313774.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 15209176.5,
+  "valorAcumuladoProximoConcurso": 573073.99,
+  "valorEstimadoProximoConcurso": 1200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

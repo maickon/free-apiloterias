@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "21/11/2012",
+  "dataProximoConcurso": "22/11/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "58",
+    "69",
+    "04",
+    "51",
+    "77"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "51",
+    "58",
+    "69",
+    "77"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 53,
+      "valorPremio": 6014.59
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4147,
+      "valorPremio": 109.81
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "QUATIS, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3050,
+  "numeroConcursoAnterior": 3049,
+  "numeroConcursoFinal_0_5": 3055,
+  "numeroConcursoProximo": 3051,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4138108.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 30999201.03,
+  "valorAcumuladoProximoConcurso": 446282.12,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

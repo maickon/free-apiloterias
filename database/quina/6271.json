@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "20/10/2023",
+  "dataProximoConcurso": "21/10/2023",
+  "dezenasSorteadasOrdemSorteio": [
+    "02",
+    "74",
+    "59",
+    "52",
+    "43"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "43",
+    "52",
+    "59",
+    "74"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 51,
+      "valorPremio": 8613.39
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3583,
+      "valorPremio": 116.76
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 94562,
+      "valorPremio": 4.42
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO DA SORTE",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "numero": 6271,
+  "numeroConcursoAnterior": 6270,
+  "numeroConcursoFinal_0_5": 6275,
+  "numeroConcursoProximo": 6272,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 9650850.0,
+  "valorAcumuladoConcurso_0_5": 2804526.73,
+  "valorAcumuladoConcursoEspecial": 48620008.83,
+  "valorAcumuladoProximoConcurso": 5016269.15,
+  "valorEstimadoProximoConcurso": 6100000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

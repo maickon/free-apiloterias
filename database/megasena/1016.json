@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "25/10/2008",
+  "dataProximoConcurso": "29/10/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "11",
+    "09",
+    "25",
+    "05",
+    "60",
+    "20"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "09",
+    "11",
+    "20",
+    "25",
+    "60"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PB"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 13814409.97
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 174,
+      "valorPremio": 8435.56
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 9476,
+      "valorPremio": 154.89
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SANTO ANTÔNIO DO MONTE, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1016,
+  "numeroConcursoAnterior": 1015,
+  "numeroConcursoFinal_0_5": 1020,
+  "numeroConcursoProximo": 1017,
+  "numeroJogo": 2,
+  "observacao": "GANHADOR DE 6 ACERTOS: JOÃO PESSOA/PB.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 3114798.3,
+  "valorAcumuladoConcursoEspecial": 8308269.91,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 1600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

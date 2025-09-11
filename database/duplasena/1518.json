@@ -1,0 +1,119 @@
+{
+  "acumulado": true,
+  "dataApuracao": "16/07/2016",
+  "dataProximoConcurso": "19/07/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "05",
+    "10",
+    "25",
+    "20",
+    "27",
+    "24",
+    "24",
+    "02",
+    "33",
+    "28",
+    "48",
+    "29"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "10",
+    "20",
+    "24",
+    "25",
+    "27"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "02",
+    "24",
+    "28",
+    "29",
+    "33",
+    "48"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "FORMIGA",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 22,
+      "valorPremio": 3151.78
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1154,
+      "valorPremio": 68.66
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 20807,
+      "valorPremio": 1.9
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 76273.16
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 20,
+      "valorPremio": 3120.27
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1055,
+      "valorPremio": 75.11
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 8,
+      "numeroDeGanhadores": 19865,
+      "valorPremio": 1.99
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "BARREIRAS, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1518,
+  "numeroConcursoAnterior": 1517,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1519,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2285068.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 4450945.15,
+  "valorAcumuladoProximoConcurso": 2557257.93,
+  "valorEstimadoProximoConcurso": 2800000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

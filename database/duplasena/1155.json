@@ -1,0 +1,98 @@
+{
+  "acumulado": true,
+  "dataApuracao": "01/03/2013",
+  "dataProximoConcurso": "05/03/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "19",
+    "15",
+    "09",
+    "26",
+    "44",
+    "47",
+    "09",
+    "37",
+    "33",
+    "15",
+    "20",
+    "18"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "15",
+    "19",
+    "26",
+    "44",
+    "47"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "09",
+    "15",
+    "18",
+    "20",
+    "33",
+    "37"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 44,
+      "valorPremio": 2705.36
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 2355,
+      "valorPremio": 48.13
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 44,
+      "valorPremio": 2705.36
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2598,
+      "valorPremio": 43.63
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PALMAS, TO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1155,
+  "numeroConcursoAnterior": 1154,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1156,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2575419.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1746666.56,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

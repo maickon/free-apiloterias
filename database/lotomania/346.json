@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "30/08/2003",
+  "dataProximoConcurso": "03/09/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "54",
+    "86",
+    "11",
+    "94",
+    "69",
+    "44",
+    "48",
+    "78",
+    "31",
+    "49",
+    "21",
+    "67",
+    "06",
+    "02",
+    "93",
+    "35",
+    "38",
+    "52",
+    "04",
+    "17"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "04",
+    "06",
+    "11",
+    "17",
+    "21",
+    "31",
+    "35",
+    "38",
+    "44",
+    "48",
+    "49",
+    "52",
+    "54",
+    "67",
+    "69",
+    "78",
+    "86",
+    "93",
+    "94"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "AM"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 605185.72
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 14,
+      "valorPremio": 32287.82
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 233,
+      "valorPremio": 1940.04
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2056,
+      "valorPremio": 109.52
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 13011,
+      "valorPremio": 17.31
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Barretos, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 346,
+  "numeroConcursoAnterior": 345,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 347,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios próximo concurso: (20 ACERTOS) R$550.000,00 - (ZERO ACERTO) R$400.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

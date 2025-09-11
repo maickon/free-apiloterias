@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "31/01/2019",
+  "dataProximoConcurso": "01/02/2019",
+  "dezenasSorteadasOrdemSorteio": [
+    "76",
+    "63",
+    "41",
+    "44",
+    "65"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "41",
+    "44",
+    "63",
+    "65",
+    "76"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 44,
+      "valorPremio": 7191.82
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3258,
+      "valorPremio": 146.05
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 84757,
+      "valorPremio": 3.08
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "GUARACIABA, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4890,
+  "numeroConcursoAnterior": 4889,
+  "numeroConcursoFinal_0_5": 4895,
+  "numeroConcursoProximo": 4891,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5488549.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 66467501.93,
+  "valorAcumuladoProximoConcurso": 582915.46,
+  "valorEstimadoProximoConcurso": 1200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

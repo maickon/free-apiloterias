@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "11/09/2007",
+  "dataProximoConcurso": "14/09/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "09",
+    "39",
+    "14",
+    "07",
+    "33",
+    "31",
+    "31",
+    "44",
+    "35",
+    "32",
+    "01",
+    "03"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "09",
+    "14",
+    "31",
+    "33",
+    "39"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "01",
+    "03",
+    "31",
+    "32",
+    "35",
+    "44"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 24,
+      "valorPremio": 4646.51
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1267,
+      "valorPremio": 87.69
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "RIO CLARO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 590,
+  "numeroConcursoAnterior": 589,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 591,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 2804370.58,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

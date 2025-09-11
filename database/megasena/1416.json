@@ -1,0 +1,84 @@
+{
+  "acumulado": false,
+  "dataApuracao": "15/08/2012",
+  "dataProximoConcurso": "18/08/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "49",
+    "03",
+    "19",
+    "35",
+    "22",
+    "24"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "19",
+    "22",
+    "24",
+    "35",
+    "49"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "BRASÍLIA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "DF"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "ESTRELA DO NORTE",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 14192091.49
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 206,
+      "valorPremio": 14477.96
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 14457,
+      "valorPremio": 294.71
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SOROCABA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1416,
+  "numeroConcursoAnterior": 1415,
+  "numeroConcursoFinal_0_5": 1420,
+  "numeroConcursoProximo": 1417,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 50942620.0,
+  "valorAcumuladoConcurso_0_5": 6211420.51,
+  "valorAcumuladoConcursoEspecial": 33902220.11,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

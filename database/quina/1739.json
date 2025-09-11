@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "14/04/2007",
+  "dataProximoConcurso": "17/04/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "38",
+    "16",
+    "44",
+    "76",
+    "78"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "16",
+    "38",
+    "44",
+    "76",
+    "78"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 689163.23
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 197,
+      "valorPremio": 1975.13
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8056,
+      "valorPremio": 64.16
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Londrina, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1739,
+  "numeroConcursoAnterior": 1738,
+  "numeroConcursoFinal_0_5": 1745,
+  "numeroConcursoProximo": 1740,
+  "numeroJogo": 3,
+  "observacao": "Estimativa de prêmio (Quina) para o próximo concurso, a ser realizado em 17/04/2007: R$300.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

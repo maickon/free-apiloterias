@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "29/09/2004",
+  "dataProximoConcurso": "02/10/2004",
+  "dezenasSorteadasOrdemSorteio": [
+    "60",
+    "76",
+    "75",
+    "63",
+    "99",
+    "40",
+    "43",
+    "70",
+    "06",
+    "91",
+    "10",
+    "49",
+    "95",
+    "80",
+    "03",
+    "44",
+    "09",
+    "08",
+    "17",
+    "97"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "06",
+    "08",
+    "09",
+    "10",
+    "17",
+    "40",
+    "43",
+    "44",
+    "49",
+    "60",
+    "63",
+    "70",
+    "75",
+    "76",
+    "80",
+    "91",
+    "95",
+    "97",
+    "99"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    },
+    {
+      "ganhadores": 2,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 617245.19
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 8,
+      "valorPremio": 33096.07
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 232,
+      "valorPremio": 1141.24
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2123,
+      "valorPremio": 62.13
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 10712,
+      "valorPremio": 12.32
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 44128.1
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CRUZ ALTA, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 456,
+  "numeroConcursoAnterior": 455,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 457,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 ACERTOS) próximo concurso: R$400.000,00. Os ganhadores de zero acerto são: SP-02. PB-01.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

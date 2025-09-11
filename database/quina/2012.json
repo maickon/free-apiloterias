@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "05/02/2009",
+  "dataProximoConcurso": "07/02/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "13",
+    "58",
+    "70",
+    "25",
+    "14"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "13",
+    "14",
+    "25",
+    "58",
+    "70"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 388119.69
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 100,
+      "valorPremio": 3881.2
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6105,
+      "valorPremio": 84.77
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ITABUNA, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2012,
+  "numeroConcursoAnterior": 2011,
+  "numeroConcursoFinal_0_5": 2015,
+  "numeroConcursoProximo": 2013,
+  "numeroJogo": 3,
+  "observacao": "GANHADOR DE 5 ACERTOS: BELO HORIZONTE/MG.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

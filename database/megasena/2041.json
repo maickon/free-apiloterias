@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "16/05/2018",
+  "dataProximoConcurso": "19/05/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "10",
+    "12",
+    "54",
+    "42",
+    "22",
+    "25"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "12",
+    "22",
+    "25",
+    "42",
+    "54"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "BRASÍLIA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "DF"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 58932070.38
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 120,
+      "valorPremio": 34570.08
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 9310,
+      "valorPremio": 636.55
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CAMPOS NOVOS, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2041,
+  "numeroConcursoAnterior": 2040,
+  "numeroConcursoFinal_0_5": 2045,
+  "numeroConcursoProximo": 2042,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 71952860.0,
+  "valorAcumuladoConcurso_0_5": 8891550.87,
+  "valorAcumuladoConcursoEspecial": 28038538.79,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "02/05/2013",
+  "dataProximoConcurso": "03/05/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "27",
+    "36",
+    "51",
+    "41",
+    "21"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "21",
+    "27",
+    "36",
+    "41",
+    "51"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 94,
+      "valorPremio": 4978.33
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6690,
+      "valorPremio": 99.92
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ANASTÁCIO, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3183,
+  "numeroConcursoAnterior": 3182,
+  "numeroConcursoFinal_0_5": 3185,
+  "numeroConcursoProximo": 3184,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6074804.25,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 66627369.51,
+  "valorAcumuladoProximoConcurso": 1715227.76,
+  "valorEstimadoProximoConcurso": 2400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

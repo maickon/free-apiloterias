@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "24/05/2014",
+  "dataProximoConcurso": "28/05/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "08",
+    "44",
+    "40",
+    "35",
+    "22",
+    "12"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "12",
+    "22",
+    "35",
+    "40",
+    "44"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "RIO DE JANEIRO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 7222388.9
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 69,
+      "valorPremio": 31977.36
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6039,
+      "valorPremio": 521.94
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CAMPO GRANDE, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1602,
+  "numeroConcursoAnterior": 1601,
+  "numeroConcursoFinal_0_5": 1605,
+  "numeroConcursoProximo": 1603,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 37687595.0,
+  "valorAcumuladoConcurso_0_5": 7870200.24,
+  "valorAcumuladoConcursoEspecial": 30557785.55,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

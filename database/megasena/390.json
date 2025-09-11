@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "24/08/2002",
+  "dataProximoConcurso": "28/08/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "07",
+    "22",
+    "34",
+    "12",
+    "38",
+    "53"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "12",
+    "22",
+    "34",
+    "38",
+    "53"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SC"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 17611429.97
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 171,
+      "valorPremio": 9094.15
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 10722,
+      "valorPremio": 144.49
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Anápolis, GO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 390,
+  "numeroConcursoAnterior": 389,
+  "numeroConcursoFinal_0_5": 395,
+  "numeroConcursoProximo": 391,
+  "numeroJogo": 2,
+  "observacao": "ESTIMATIVA DE PRÊMIO PARA O PRÓXIMO CONCURSO (SENA): R$ 600.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 1244079.7,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

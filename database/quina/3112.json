@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "04/02/2013",
+  "dataProximoConcurso": "05/02/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "38",
+    "24",
+    "25",
+    "31",
+    "20"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "20",
+    "24",
+    "25",
+    "31",
+    "38"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 67,
+      "valorPremio": 5239.88
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4782,
+      "valorPremio": 104.87
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "RIO BRANCO, AC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3112,
+  "numeroConcursoAnterior": 3111,
+  "numeroConcursoFinal_0_5": 3115,
+  "numeroConcursoProximo": 3113,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4557390.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 47088569.86,
+  "valorAcumuladoProximoConcurso": 491500.32,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

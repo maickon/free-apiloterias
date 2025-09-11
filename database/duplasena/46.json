@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "26/04/2002",
+  "dataProximoConcurso": "30/04/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "29",
+    "26",
+    "14",
+    "41",
+    "09",
+    "01",
+    "20",
+    "34",
+    "39",
+    "42",
+    "30",
+    "16"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "09",
+    "14",
+    "26",
+    "29",
+    "41"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "16",
+    "20",
+    "30",
+    "34",
+    "39",
+    "42"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 13,
+      "valorPremio": 4957.24
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 580,
+      "valorPremio": 110.69
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Itapetininga, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 46,
+  "numeroConcursoAnterior": 45,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 47,
+  "numeroJogo": 18,
+  "observacao": "Estimativa prêmio(SENA 1º SORTEIO)próximo concurso: R$600.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 480956.17,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

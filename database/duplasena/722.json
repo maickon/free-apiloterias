@@ -1,0 +1,103 @@
+{
+  "acumulado": false,
+  "dataApuracao": "30/12/2008",
+  "dataProximoConcurso": "02/01/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "24",
+    "32",
+    "25",
+    "39",
+    "27",
+    "06",
+    "50",
+    "04",
+    "33",
+    "05",
+    "23",
+    "30"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "24",
+    "25",
+    "27",
+    "32",
+    "39"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "04",
+    "05",
+    "23",
+    "30",
+    "33",
+    "50"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    },
+    {
+      "ganhadores": 2,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 166494.32
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 21,
+      "valorPremio": 4462.2
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1259,
+      "valorPremio": 74.43
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "NOVA ANDRADINA, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 722,
+  "numeroConcursoAnterior": 721,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 723,
+  "numeroJogo": 18,
+  "observacao": "Ganhadores da Sena do 1º Sorteio: Mogi das Cruzes/SP(2) e Teresópolis/RJ. Não houve ganhador da Sena do 2º Sorteio, portanto, acumulou para o 1º sorteio do próximo concurso: R$140.559,37.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 250000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

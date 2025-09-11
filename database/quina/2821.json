@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "10/02/2012",
+  "dataProximoConcurso": "11/02/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "68",
+    "78",
+    "79",
+    "24",
+    "01"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "24",
+    "68",
+    "78",
+    "79"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 65,
+      "valorPremio": 4901.54
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4188,
+      "valorPremio": 108.67
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TRAMANDAÍ, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2821,
+  "numeroConcursoAnterior": 2820,
+  "numeroConcursoFinal_0_5": 2825,
+  "numeroConcursoProximo": 2822,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4135866.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 48258540.69,
+  "valorAcumuladoProximoConcurso": 446040.27,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

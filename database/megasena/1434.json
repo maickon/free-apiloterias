@@ -1,0 +1,84 @@
+{
+  "acumulado": false,
+  "dataApuracao": "17/10/2012",
+  "dataProximoConcurso": "20/10/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "03",
+    "34",
+    "58",
+    "22",
+    "18",
+    "55"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "18",
+    "22",
+    "34",
+    "55",
+    "58"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "LUIZ ALVES",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SC"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "Ribeirão Preto",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 1352380.47
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 116,
+      "valorPremio": 12657.75
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6335,
+      "valorPremio": 331.1
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SANTA CRUZ DO SUL, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1434,
+  "numeroConcursoAnterior": 1433,
+  "numeroConcursoFinal_0_5": 1435,
+  "numeroConcursoProximo": 1435,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 25079638.0,
+  "valorAcumuladoConcurso_0_5": 15051615.79,
+  "valorAcumuladoConcursoEspecial": 43328456.82,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 19000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,84 @@
+{
+  "acumulado": false,
+  "dataApuracao": "08/03/2014",
+  "dataProximoConcurso": "12/03/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "01",
+    "06",
+    "14",
+    "17",
+    "33",
+    "36"
+  ],
+  "exibirDetalhamentoPorCidade": false,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "06",
+    "14",
+    "17",
+    "33",
+    "36"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "RIO DE JANEIRO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "SÃO PAULO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 16776243.36
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 378,
+      "valorPremio": 9474.63
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 20400,
+      "valorPremio": 250.79
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ARROIO DO SILVA, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1580,
+  "numeroConcursoAnterior": 1579,
+  "numeroConcursoFinal_0_5": 1585,
+  "numeroConcursoProximo": 1581,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 61173162.0,
+  "valorAcumuladoConcurso_0_5": 4146896.45,
+  "valorAcumuladoConcursoEspecial": 15937439.15,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "12/12/2007",
+  "dataProximoConcurso": "15/12/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "48",
+    "36",
+    "83",
+    "56",
+    "51",
+    "68",
+    "86",
+    "06",
+    "04",
+    "01",
+    "75",
+    "73",
+    "98",
+    "02",
+    "07",
+    "14",
+    "52",
+    "64",
+    "67",
+    "92"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "02",
+    "04",
+    "06",
+    "07",
+    "14",
+    "36",
+    "48",
+    "51",
+    "52",
+    "56",
+    "64",
+    "67",
+    "68",
+    "73",
+    "75",
+    "83",
+    "86",
+    "92",
+    "98"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "CE"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 257218.08
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 10,
+      "valorPremio": 25086.65
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 135,
+      "valorPremio": 1858.27
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1338,
+      "valorPremio": 93.4
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 8041,
+      "valorPremio": 15.55
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PICOS, PI",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 783,
+  "numeroConcursoAnterior": 782,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 784,
+  "numeroJogo": 16,
+  "observacao": "ACUMULADO DE ZERO PARA 20 ACERTOS: R$125.433,28. Ganhadores de 20 acertos: Fortaleza/CE e São Paulo/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 125433.28,
+  "valorEstimadoProximoConcurso": 500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

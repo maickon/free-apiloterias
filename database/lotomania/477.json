@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "11/12/2004",
+  "dataProximoConcurso": "15/12/2004",
+  "dezenasSorteadasOrdemSorteio": [
+    "05",
+    "68",
+    "43",
+    "44",
+    "32",
+    "72",
+    "95",
+    "67",
+    "71",
+    "87",
+    "96",
+    "46",
+    "20",
+    "55",
+    "56",
+    "97",
+    "14",
+    "25",
+    "03",
+    "21"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "05",
+    "14",
+    "20",
+    "21",
+    "25",
+    "32",
+    "43",
+    "44",
+    "46",
+    "55",
+    "56",
+    "67",
+    "68",
+    "71",
+    "72",
+    "87",
+    "95",
+    "96",
+    "97"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "GO"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 3175385.74
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 18,
+      "valorPremio": 20836.2
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 215,
+      "valorPremio": 1744.43
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2099,
+      "valorPremio": 89.01
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 12863,
+      "valorPremio": 14.53
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 187525.9
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SALVADOR, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 477,
+  "numeroConcursoAnterior": 476,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 478,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 ACERTOS) para o próximo concurso: R$350.000,00. O ganhador de zero acerto é do estado de Goiás.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

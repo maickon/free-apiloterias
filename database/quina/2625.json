@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "17/06/2011",
+  "dataProximoConcurso": "18/06/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "56",
+    "29",
+    "17",
+    "61",
+    "20"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "17",
+    "20",
+    "29",
+    "56",
+    "61"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 47,
+      "valorPremio": 9077.5
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5092,
+      "valorPremio": 119.69
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ITABAIANA, SE",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2625,
+  "numeroConcursoAnterior": 2624,
+  "numeroConcursoFinal_0_5": 2635,
+  "numeroConcursoProximo": 2626,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5538401.25,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 54391473.84,
+  "valorAcumuladoProximoConcurso": 2462389.49,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

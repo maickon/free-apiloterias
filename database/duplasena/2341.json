@@ -1,0 +1,110 @@
+{
+  "acumulado": true,
+  "dataApuracao": "03/03/2022",
+  "dataProximoConcurso": "05/03/2022",
+  "dezenasSorteadasOrdemSorteio": [
+    "42",
+    "08",
+    "45",
+    "20",
+    "12",
+    "05",
+    "45",
+    "21",
+    "20",
+    "17",
+    "23",
+    "49"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "08",
+    "12",
+    "20",
+    "42",
+    "45"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "17",
+    "20",
+    "21",
+    "23",
+    "45",
+    "49"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 41,
+      "valorPremio": 3729.81
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1870,
+      "valorPremio": 93.45
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 34356,
+      "valorPremio": 2.54
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 45,
+      "valorPremio": 3058.44
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2113,
+      "valorPremio": 82.71
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 8,
+      "numeroDeGanhadores": 35679,
+      "valorPremio": 2.44
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO DA SORTE",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "numero": 2341,
+  "numeroConcursoAnterior": 2340,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 2342,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5039455.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 16123184.4,
+  "valorAcumuladoProximoConcurso": 9681302.46,
+  "valorEstimadoProximoConcurso": 10300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

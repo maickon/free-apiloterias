@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "17/12/2002",
+  "dataProximoConcurso": "20/12/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "21",
+    "50",
+    "42",
+    "30",
+    "45",
+    "31",
+    "16",
+    "46",
+    "07",
+    "14",
+    "13",
+    "21"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "21",
+    "30",
+    "31",
+    "42",
+    "45",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "07",
+    "13",
+    "14",
+    "16",
+    "21",
+    "46"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 40,
+      "valorPremio": 3136.54
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2145,
+      "valorPremio": 58.27
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Ribeirão Preto, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 113,
+  "numeroConcursoAnterior": 112,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 114,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA - 1º SORTEIO) próximo concurso:R$4.600.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 4394888.41,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

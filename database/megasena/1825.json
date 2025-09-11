@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "07/06/2016",
+  "dataProximoConcurso": "09/06/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "21",
+    "54",
+    "10",
+    "50",
+    "51",
+    "11"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "11",
+    "21",
+    "50",
+    "51",
+    "54"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "FORTALEZA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "CE"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 27333858.49
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 41,
+      "valorPremio": 43198.01
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3176,
+      "valorPremio": 796.65
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "IGUATU, CE",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1825,
+  "numeroConcursoAnterior": 1824,
+  "numeroConcursoFinal_0_5": 1830,
+  "numeroConcursoProximo": 1826,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 30719489.5,
+  "valorAcumuladoConcurso_0_5": 2050768.44,
+  "valorAcumuladoConcursoEspecial": 29583323.4,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

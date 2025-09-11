@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "23/03/2005",
+  "dataProximoConcurso": "26/03/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "47",
+    "52",
+    "82",
+    "64",
+    "89",
+    "58",
+    "05",
+    "88",
+    "03",
+    "38",
+    "83",
+    "72",
+    "79",
+    "71",
+    "29",
+    "06",
+    "70",
+    "62",
+    "91",
+    "54"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "05",
+    "06",
+    "29",
+    "38",
+    "47",
+    "52",
+    "54",
+    "58",
+    "62",
+    "64",
+    "70",
+    "71",
+    "72",
+    "79",
+    "82",
+    "83",
+    "88",
+    "89",
+    "91"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 5872574.72
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 22,
+      "valorPremio": 21644.85
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 243,
+      "valorPremio": 1959.62
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2329,
+      "valorPremio": 101.85
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 14394,
+      "valorPremio": 16.49
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 238093.39
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Limeira, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 503,
+  "numeroConcursoAnterior": 502,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 504,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 ACERTOS) próximo concurso: R$400.000,00 (QUATROCENTOS MIL REAIS). Ganhador de zero acerto: RJ.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

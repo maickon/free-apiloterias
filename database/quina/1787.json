@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "11/08/2007",
+  "dataProximoConcurso": "14/08/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "39",
+    "56",
+    "72",
+    "33",
+    "51"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "33",
+    "39",
+    "51",
+    "56",
+    "72"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 155,
+      "valorPremio": 2316.11
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7550,
+      "valorPremio": 63.16
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ANÁPOLIS, GO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1787,
+  "numeroConcursoAnterior": 1786,
+  "numeroConcursoFinal_0_5": 1795,
+  "numeroConcursoProximo": 1788,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 358996.18,
+  "valorEstimadoProximoConcurso": 750000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

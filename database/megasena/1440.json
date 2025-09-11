@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "07/11/2012",
+  "dataProximoConcurso": "10/11/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "06",
+    "28",
+    "56",
+    "02",
+    "36",
+    "51"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "06",
+    "28",
+    "36",
+    "51",
+    "56"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "RIALMA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "GO"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 24405605.1
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 148,
+      "valorPremio": 19463.78
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 11068,
+      "valorPremio": 371.81
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "REALEZA, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1440,
+  "numeroConcursoAnterior": 1439,
+  "numeroConcursoFinal_0_5": 1445,
+  "numeroConcursoProximo": 1441,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 49203458.0,
+  "valorAcumuladoConcurso_0_5": 3335476.51,
+  "valorAcumuladoConcursoEspecial": 47817072.71,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

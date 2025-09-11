@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "29/06/2007",
+  "dataProximoConcurso": "03/07/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "20",
+    "30",
+    "26",
+    "10",
+    "01",
+    "19",
+    "30",
+    "20",
+    "44",
+    "40",
+    "46",
+    "50"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "10",
+    "19",
+    "20",
+    "26",
+    "30"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "20",
+    "30",
+    "40",
+    "44",
+    "46",
+    "50"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 22,
+      "valorPremio": 3205.41
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1079,
+      "valorPremio": 65.12
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "LAGES, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 569,
+  "numeroConcursoAnterior": 568,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 570,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 318003.46,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

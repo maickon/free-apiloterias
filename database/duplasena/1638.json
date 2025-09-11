@@ -1,0 +1,119 @@
+{
+  "acumulado": false,
+  "dataApuracao": "04/05/2017",
+  "dataProximoConcurso": "06/05/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "27",
+    "44",
+    "03",
+    "28",
+    "19",
+    "11",
+    "09",
+    "06",
+    "48",
+    "43",
+    "11",
+    "08"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "11",
+    "19",
+    "27",
+    "28",
+    "44"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "06",
+    "08",
+    "09",
+    "11",
+    "43",
+    "48"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "JEQUIÉ",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1476271.16
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 19,
+      "valorPremio": 3219.23
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1036,
+      "valorPremio": 67.47
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 18484,
+      "valorPremio": 1.89
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 26,
+      "valorPremio": 2117.27
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 930,
+      "valorPremio": 75.16
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 8,
+      "numeroDeGanhadores": 17745,
+      "valorPremio": 1.96
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "ANASTÁCIO, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1638,
+  "numeroConcursoAnterior": 1637,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1639,
+  "numeroJogo": 18,
+  "observacao": "O PRÊMIO DA SENA DO SEGUNDO SORTEIO (R$ 67.281,94) FICA ACUMULADO PARA SENA DO PRIMEIRO SORTEIO DO PRÓXIMO CONCURSO",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2015700.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 602362.46,
+  "valorAcumuladoProximoConcurso": 67281.94,
+  "valorEstimadoProximoConcurso": 200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

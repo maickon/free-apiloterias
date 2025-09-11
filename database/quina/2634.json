@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "02/07/2011",
+  "dataProximoConcurso": "04/07/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "10",
+    "44",
+    "56",
+    "71",
+    "23"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "23",
+    "44",
+    "56",
+    "71"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 77,
+      "valorPremio": 4353.72
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5524,
+      "valorPremio": 86.69
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "UBÁ, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2634,
+  "numeroConcursoAnterior": 2633,
+  "numeroConcursoFinal_0_5": 2635,
+  "numeroConcursoProximo": 2635,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4351830.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 1462796.07,
+  "valorAcumuladoProximoConcurso": 469331.31,
+  "valorEstimadoProximoConcurso": 900000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

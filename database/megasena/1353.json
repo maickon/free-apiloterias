@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "11/01/2012",
+  "dataProximoConcurso": "14/01/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "47",
+    "11",
+    "03",
+    "27",
+    "32",
+    "13"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "11",
+    "13",
+    "27",
+    "32",
+    "47"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SÃO LEOPOLDO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RS"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 8311160.99
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 161,
+      "valorPremio": 10586.03
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 10308,
+      "valorPremio": 236.2
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Paraíba do Sul, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1353,
+  "numeroConcursoAnterior": 1352,
+  "numeroConcursoFinal_0_5": 1355,
+  "numeroConcursoProximo": 1354,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 29111596.0,
+  "valorAcumuladoConcurso_0_5": 5224158.33,
+  "valorAcumuladoConcursoEspecial": 1187308.75,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,107 @@
+{
+  "acumulado": false,
+  "dataApuracao": "28/12/2010",
+  "dataProximoConcurso": "31/12/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "22",
+    "46",
+    "16",
+    "09",
+    "05",
+    "04",
+    "04",
+    "45",
+    "40",
+    "47",
+    "19",
+    "36"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "05",
+    "09",
+    "16",
+    "22",
+    "46"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "04",
+    "19",
+    "36",
+    "40",
+    "45",
+    "47"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "RECIFE",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PE"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 558384.08
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 30,
+      "valorPremio": 2719.6
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1769,
+      "valorPremio": 43.92
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 17,
+      "valorPremio": 4799.3
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1449,
+      "valorPremio": 53.62
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ANGRA DOS REIS, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 928,
+  "numeroConcursoAnterior": 927,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 929,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1765208.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 108784.1,
+  "valorEstimadoProximoConcurso": 200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

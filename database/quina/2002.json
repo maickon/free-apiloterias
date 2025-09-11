@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "13/01/2009",
+  "dataProximoConcurso": "15/01/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "15",
+    "08",
+    "19",
+    "44",
+    "56"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "15",
+    "19",
+    "44",
+    "56"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1455410.31
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 269,
+      "valorPremio": 2013.39
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 13248,
+      "valorPremio": 54.51
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "POÇO VERDE, SE",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2002,
+  "numeroConcursoAnterior": 2001,
+  "numeroConcursoFinal_0_5": 2005,
+  "numeroConcursoProximo": 2003,
+  "numeroJogo": 3,
+  "observacao": "GANHADOR DE 5 ACERTOS: VOLTA REDONDA/RJ.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

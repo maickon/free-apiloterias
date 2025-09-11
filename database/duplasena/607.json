@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "09/11/2007",
+  "dataProximoConcurso": "13/11/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "47",
+    "06",
+    "20",
+    "11",
+    "16",
+    "46",
+    "10",
+    "08",
+    "05",
+    "41",
+    "21",
+    "24"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "11",
+    "16",
+    "20",
+    "46",
+    "47"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "05",
+    "08",
+    "10",
+    "21",
+    "24",
+    "41"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 38,
+      "valorPremio": 3193.83
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1631,
+      "valorPremio": 74.13
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PARANAGUÁ, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 607,
+  "numeroConcursoAnterior": 606,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 608,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 2601840.42,
+  "valorEstimadoProximoConcurso": 2900000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

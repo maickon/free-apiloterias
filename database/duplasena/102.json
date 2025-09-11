@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "08/11/2002",
+  "dataProximoConcurso": "12/11/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "30",
+    "35",
+    "40",
+    "05",
+    "26",
+    "19",
+    "25",
+    "35",
+    "32",
+    "27",
+    "13",
+    "38"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "19",
+    "26",
+    "30",
+    "35",
+    "40"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "13",
+    "25",
+    "27",
+    "32",
+    "35",
+    "38"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 30,
+      "valorPremio": 2757.61
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1636,
+      "valorPremio": 50.38
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Porto Alegre, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 102,
+  "numeroConcursoAnterior": 101,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 103,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$1.000.000,00 (HUM MILHÃO!!!).",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 903557.54,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

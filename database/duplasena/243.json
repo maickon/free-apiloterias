@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "30/03/2004",
+  "dataProximoConcurso": "02/04/2004",
+  "dezenasSorteadasOrdemSorteio": [
+    "40",
+    "16",
+    "39",
+    "17",
+    "31",
+    "03",
+    "13",
+    "19",
+    "06",
+    "32",
+    "12",
+    "20"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "16",
+    "17",
+    "31",
+    "39",
+    "40"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "06",
+    "12",
+    "13",
+    "19",
+    "20",
+    "32"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1021865.61
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 20,
+      "valorPremio": 3350.79
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1191,
+      "valorPremio": 56.06
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TIETÊ, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 243,
+  "numeroConcursoAnterior": 242,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 244,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$200.000,00. Valor acumulado da sena 2º sorteio: R$100.523,80.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

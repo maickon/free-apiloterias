@@ -1,0 +1,82 @@
+{
+  "acumulado": false,
+  "dataApuracao": "26/02/2009",
+  "dataProximoConcurso": "28/02/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "12",
+    "19",
+    "20",
+    "34",
+    "10"
+  ],
+  "exibirDetalhamentoPorCidade": false,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "12",
+    "19",
+    "20",
+    "34"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "GO"
+    },
+    {
+      "ganhadores": 2,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 850659.93
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 353,
+      "valorPremio": 1695.6
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 16456,
+      "valorPremio": 48.5
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SÃO JOÃO DA BARRA, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2020,
+  "numeroConcursoAnterior": 2019,
+  "numeroConcursoFinal_0_5": 2025,
+  "numeroConcursoProximo": 2021,
+  "numeroJogo": 3,
+  "observacao": "GANHADORES DE 5 ACERTOS: CAVALCANTE/GO, SÃO BERNARDO DO CAMPO/SP E SÃO PAULO/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

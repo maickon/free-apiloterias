@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "13/06/2012",
+  "dataProximoConcurso": "14/06/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "33",
+    "30",
+    "18",
+    "03",
+    "69"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "18",
+    "30",
+    "33",
+    "69"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 91,
+      "valorPremio": 3631.28
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6288,
+      "valorPremio": 75.07
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "REDENÇÃO, PA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2921,
+  "numeroConcursoAnterior": 2920,
+  "numeroConcursoFinal_0_5": 2925,
+  "numeroConcursoProximo": 2922,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4289652.75,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 72741021.42,
+  "valorAcumuladoProximoConcurso": 462625.69,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

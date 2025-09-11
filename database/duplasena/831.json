@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "22/01/2010",
+  "dataProximoConcurso": "26/01/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "20",
+    "46",
+    "12",
+    "27",
+    "01",
+    "08",
+    "35",
+    "50",
+    "38",
+    "25",
+    "09",
+    "36"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "08",
+    "12",
+    "20",
+    "27",
+    "46"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "09",
+    "25",
+    "35",
+    "36",
+    "38",
+    "50"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 12,
+      "valorPremio": 7714.29
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1126,
+      "valorPremio": 117.44
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "MACEIÓ, AL",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 831,
+  "numeroConcursoAnterior": 830,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 832,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1502130.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 794958.67,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

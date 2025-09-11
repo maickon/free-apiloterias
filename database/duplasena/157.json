@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "30/05/2003",
+  "dataProximoConcurso": "03/06/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "22",
+    "27",
+    "36",
+    "45",
+    "35",
+    "09",
+    "12",
+    "26",
+    "16",
+    "07",
+    "01",
+    "23"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "22",
+    "27",
+    "35",
+    "36",
+    "45"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "01",
+    "07",
+    "12",
+    "16",
+    "23",
+    "26"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 31,
+      "valorPremio": 2907.99
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1505,
+      "valorPremio": 59.68
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Juiz de Fora, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 157,
+  "numeroConcursoAnterior": 156,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 158,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA - 1ºSORTEIO) próximo concurso: R$1.400.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1256934.42,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

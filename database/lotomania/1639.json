@@ -1,0 +1,122 @@
+{
+  "acumulado": true,
+  "dataApuracao": "05/03/2016",
+  "dataProximoConcurso": "09/03/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "86",
+    "42",
+    "88",
+    "02",
+    "38",
+    "05",
+    "22",
+    "63",
+    "03",
+    "76",
+    "10",
+    "54",
+    "23",
+    "33",
+    "98",
+    "75",
+    "28",
+    "77",
+    "78",
+    "60"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "03",
+    "05",
+    "10",
+    "22",
+    "23",
+    "28",
+    "33",
+    "38",
+    "42",
+    "54",
+    "60",
+    "63",
+    "75",
+    "76",
+    "77",
+    "78",
+    "86",
+    "88",
+    "98"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SÃO PAULO",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 71,
+      "valorPremio": 4858.06
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 190,
+      "valorPremio": 1815.38
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1626,
+      "valorPremio": 132.58
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 9990,
+      "valorPremio": 21.57
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 172461.09
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CAXIAS DO SUL, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1639,
+  "numeroConcursoAnterior": 1638,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1640,
+  "numeroJogo": 16,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7104298.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 26351925.45,
+  "valorAcumuladoProximoConcurso": 6726404.69,
+  "valorEstimadoProximoConcurso": 7500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

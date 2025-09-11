@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "06/07/2002",
+  "dataProximoConcurso": "10/07/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "92",
+    "04",
+    "40",
+    "81",
+    "59",
+    "84",
+    "49",
+    "94",
+    "33",
+    "78",
+    "98",
+    "85",
+    "91",
+    "56",
+    "52",
+    "66",
+    "01",
+    "75",
+    "20",
+    "64"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "04",
+    "20",
+    "33",
+    "40",
+    "49",
+    "52",
+    "56",
+    "59",
+    "64",
+    "66",
+    "75",
+    "78",
+    "81",
+    "84",
+    "85",
+    "91",
+    "92",
+    "94",
+    "98"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1824848.27
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 15,
+      "valorPremio": 31895.12
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 220,
+      "valorPremio": 2174.67
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2048,
+      "valorPremio": 116.37
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 12231,
+      "valorPremio": 19.49
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 608282.8
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Paranaíba, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 229,
+  "numeroConcursoAnterior": 228,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 230,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios próximo concurso: (20 ACERTOS) R$500.000,00 - (ZERO ACERTO) R$150.000,00. Os ganhadores das faixas (20 acertos) e (zero acerto) são de Salvador/BA.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

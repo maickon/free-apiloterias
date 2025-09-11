@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "31/07/2013",
+  "dataProximoConcurso": "03/08/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "34",
+    "60",
+    "18",
+    "45",
+    "04",
+    "20"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "18",
+    "20",
+    "34",
+    "45",
+    "60"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "NOVO PROGRESSO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2581185.45
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 56,
+      "valorPremio": 25021.69
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3946,
+      "valorPremio": 507.28
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Auditório",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1516,
+  "numeroConcursoAnterior": 1515,
+  "numeroConcursoFinal_0_5": 1520,
+  "numeroConcursoProximo": 1517,
+  "numeroJogo": 2,
+  "observacao": "Sorteio realizado em estúdio de TV.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 23933796.0,
+  "valorAcumuladoConcurso_0_5": 3901521.31,
+  "valorAcumuladoConcursoEspecial": 34820586.59,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

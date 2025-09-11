@@ -1,0 +1,107 @@
+{
+  "acumulado": false,
+  "dataApuracao": "15/02/2011",
+  "dataProximoConcurso": "18/02/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "02",
+    "15",
+    "47",
+    "20",
+    "39",
+    "29",
+    "08",
+    "22",
+    "02",
+    "37",
+    "46",
+    "04"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "15",
+    "20",
+    "29",
+    "39",
+    "47"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "02",
+    "04",
+    "08",
+    "22",
+    "37",
+    "46"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "DUERÉ",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "TO"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 791158.95
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 42,
+      "valorPremio": 2321.52
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1794,
+      "valorPremio": 51.76
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 37,
+      "valorPremio": 2635.24
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1959,
+      "valorPremio": 47.4
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CAPÃO DA CANOA, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 942,
+  "numeroConcursoAnterior": 941,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 943,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2109556.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 130005.17,
+  "valorEstimadoProximoConcurso": 250000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

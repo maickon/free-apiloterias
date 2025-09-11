@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "12/07/2003",
+  "dataProximoConcurso": "16/07/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "97",
+    "29",
+    "82",
+    "42",
+    "25",
+    "58",
+    "39",
+    "18",
+    "94",
+    "26",
+    "16",
+    "48",
+    "50",
+    "30",
+    "27",
+    "62",
+    "98",
+    "06",
+    "44",
+    "89"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "16",
+    "18",
+    "25",
+    "26",
+    "27",
+    "29",
+    "30",
+    "39",
+    "42",
+    "44",
+    "48",
+    "50",
+    "58",
+    "62",
+    "82",
+    "89",
+    "94",
+    "97",
+    "98"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 2,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 597223.66
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 12,
+      "valorPremio": 37880.39
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 267,
+      "valorPremio": 1702.49
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2432,
+      "valorPremio": 93.1
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 14890,
+      "valorPremio": 15.21
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Araçatuba, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 332,
+  "numeroConcursoAnterior": 331,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 333,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios próximo concurso: (20 ACERTOS) R$650.000,00 - (ZERO ACERTO) R$1.100.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

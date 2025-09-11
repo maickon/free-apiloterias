@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "04/02/2015",
+  "dataProximoConcurso": "07/02/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "23",
+    "01",
+    "04",
+    "93",
+    "81",
+    "40",
+    "37",
+    "96",
+    "89",
+    "72",
+    "10",
+    "26",
+    "84",
+    "24",
+    "08",
+    "47",
+    "39",
+    "18",
+    "94",
+    "99"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "04",
+    "08",
+    "10",
+    "18",
+    "23",
+    "24",
+    "26",
+    "37",
+    "39",
+    "40",
+    "47",
+    "72",
+    "81",
+    "84",
+    "89",
+    "93",
+    "94",
+    "96",
+    "99"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "PETRÓPOLIS",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "PETRÓPOLIS",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 4740595.27
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 4,
+      "valorPremio": 79406.25
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 126,
+      "valorPremio": 2520.84
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1187,
+      "valorPremio": 167.24
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 7707,
+      "valorPremio": 25.75
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 158812.5
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "VALENÇA, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1527,
+  "numeroConcursoAnterior": 1526,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1528,
+  "numeroJogo": 16,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6442510.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 23347884.8,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

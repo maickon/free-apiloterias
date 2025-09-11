@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "23/01/2019",
+  "dataProximoConcurso": "26/01/2019",
+  "dezenasSorteadasOrdemSorteio": [
+    "41",
+    "11",
+    "12",
+    "46",
+    "20",
+    "40"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "12",
+    "20",
+    "40",
+    "41",
+    "46"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "TERESÓPOLIS",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 37902607.11
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 58,
+      "valorPremio": 53100.77
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4135,
+      "valorPremio": 1064.03
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "QUIRINÓPOLIS, GO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2118,
+  "numeroConcursoAnterior": 2117,
+  "numeroConcursoFinal_0_5": 2120,
+  "numeroConcursoProximo": 2119,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 53418935.5,
+  "valorAcumuladoConcurso_0_5": 11304654.7,
+  "valorAcumuladoConcursoEspecial": 4316426.59,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

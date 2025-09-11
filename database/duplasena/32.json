@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "05/03/2002",
+  "dataProximoConcurso": "08/03/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "30",
+    "47",
+    "18",
+    "39",
+    "20",
+    "24",
+    "14",
+    "06",
+    "12",
+    "39",
+    "26",
+    "25"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "18",
+    "20",
+    "24",
+    "30",
+    "39",
+    "47"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "06",
+    "12",
+    "14",
+    "25",
+    "26",
+    "39"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 27,
+      "valorPremio": 3174.29
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1416,
+      "valorPremio": 60.3
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "São João Del Rey, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 32,
+  "numeroConcursoAnterior": 31,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 33,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA) próximo concurso: R$ 2.300.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 2135511.41,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

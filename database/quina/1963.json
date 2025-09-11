@@ -1,0 +1,82 @@
+{
+  "acumulado": false,
+  "dataApuracao": "09/10/2008",
+  "dataProximoConcurso": "11/10/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "52",
+    "36",
+    "07",
+    "11",
+    "30"
+  ],
+  "exibirDetalhamentoPorCidade": false,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "11",
+    "30",
+    "36",
+    "52"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SE"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 940570.34
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 175,
+      "valorPremio": 3143.27
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 10200,
+      "valorPremio": 71.91
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "VENDA NOVA DO IMIGRANTE, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1963,
+  "numeroConcursoAnterior": 1962,
+  "numeroConcursoFinal_0_5": 1965,
+  "numeroConcursoProximo": 1964,
+  "numeroJogo": 3,
+  "observacao": "GANHADORES DE 5 ACERTOS: ARACAJÚ/SE E CARAPICUÍBA/SP",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

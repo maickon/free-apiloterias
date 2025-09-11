@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "13/09/2001",
+  "dataProximoConcurso": "13/09/2001",
+  "dezenasSorteadasOrdemSorteio": [
+    "10",
+    "50",
+    "38",
+    "36",
+    "13"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "13",
+    "36",
+    "38",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 330,
+      "valorPremio": 844.95
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 13494,
+      "valorPremio": 27.45
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Presidente Prudente, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 894,
+  "numeroConcursoAnterior": 893,
+  "numeroConcursoFinal_0_5": 895,
+  "numeroConcursoProximo": 895,
+  "numeroJogo": 3,
+  "observacao": "Estimativa prêmio (QUINA) próximo concurso: R$800 MIL.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 278831.33,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

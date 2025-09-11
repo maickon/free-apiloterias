@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "18/10/2002",
+  "dataProximoConcurso": "22/10/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "09",
+    "07",
+    "13",
+    "22",
+    "11",
+    "50",
+    "01",
+    "37",
+    "31",
+    "19",
+    "07",
+    "42"
+  ],
+  "exibirDetalhamentoPorCidade": false,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "09",
+    "11",
+    "13",
+    "22",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "01",
+    "07",
+    "19",
+    "31",
+    "37",
+    "42"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 434535.34
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 18,
+      "valorPremio": 5002.83
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1300,
+      "valorPremio": 69.01
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Francisco Beltrão, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 96,
+  "numeroConcursoAnterior": 95,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 97,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA - 1º SORTEIO) próximo concurso: R$280.000,00. SENA - 2º SORTEIO acumulou R$135.076,55 para a SENA - 1º SORTEIO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

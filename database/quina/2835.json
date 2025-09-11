@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "01/03/2012",
+  "dataProximoConcurso": "01/03/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "77",
+    "38",
+    "14",
+    "58",
+    "15"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "14",
+    "15",
+    "38",
+    "58",
+    "77"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 66,
+      "valorPremio": 3965.74
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3709,
+      "valorPremio": 100.81
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "IGARAPÉ, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2835,
+  "numeroConcursoAnterior": 2834,
+  "numeroConcursoFinal_0_5": 2845,
+  "numeroConcursoProximo": 2836,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 3397731.75,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 51085220.86,
+  "valorAcumuladoProximoConcurso": 1225893.04,
+  "valorEstimadoProximoConcurso": 1500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

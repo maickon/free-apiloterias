@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "03/08/2018",
+  "dataProximoConcurso": "04/08/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "03",
+    "11",
+    "31",
+    "17",
+    "56"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "11",
+    "17",
+    "31",
+    "56"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 203,
+      "valorPremio": 3754.06
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 15268,
+      "valorPremio": 75.05
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 302020,
+      "valorPremio": 2.08
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CATALÃO, GO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4741,
+  "numeroConcursoAnterior": 4740,
+  "numeroConcursoFinal_0_5": 4745,
+  "numeroConcursoProximo": 4742,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 13217919.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 11687868.86,
+  "valorAcumuladoProximoConcurso": 9123661.57,
+  "valorEstimadoProximoConcurso": 10500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

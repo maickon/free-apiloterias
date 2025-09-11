@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "09/05/2008",
+  "dataProximoConcurso": "13/05/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "04",
+    "08",
+    "01",
+    "02",
+    "16",
+    "33",
+    "50",
+    "45",
+    "04",
+    "14",
+    "39",
+    "25"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "02",
+    "04",
+    "08",
+    "16",
+    "33"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "04",
+    "14",
+    "25",
+    "39",
+    "45",
+    "50"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 21,
+      "valorPremio": 3912.98
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1061,
+      "valorPremio": 77.45
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "COLATINA, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 655,
+  "numeroConcursoAnterior": 654,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 656,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 366008.19,
+  "valorEstimadoProximoConcurso": 500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

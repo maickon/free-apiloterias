@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "10/03/2006",
+  "dataProximoConcurso": "14/03/2006",
+  "dezenasSorteadasOrdemSorteio": [
+    "29",
+    "50",
+    "25",
+    "05",
+    "30",
+    "13",
+    "21",
+    "15",
+    "13",
+    "30",
+    "20",
+    "09"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "13",
+    "25",
+    "29",
+    "30",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "09",
+    "13",
+    "15",
+    "20",
+    "21",
+    "30"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 42,
+      "valorPremio": 5150.17
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2742,
+      "valorPremio": 78.6
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Diadema, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 436,
+  "numeroConcursoAnterior": 435,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 437,
+  "numeroJogo": 18,
+  "observacao": "Acumulou!!! Estimativa de prêmio (SENA 1º SORTEIO) para o próximo concurso a ser realizado em 14/03: R$8.700.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 8442040.99,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

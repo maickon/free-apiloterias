@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "05/10/2012",
+  "dataProximoConcurso": "06/10/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "58",
+    "77",
+    "74",
+    "71",
+    "73"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "58",
+    "71",
+    "73",
+    "74",
+    "77"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 177,
+      "valorPremio": 1950.09
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6926,
+      "valorPremio": 71.19
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SÃO MARCOS, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3013,
+  "numeroConcursoAnterior": 3012,
+  "numeroConcursoFinal_0_5": 3015,
+  "numeroConcursoProximo": 3014,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4480728.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 21449669.71,
+  "valorAcumuladoProximoConcurso": 483232.57,
+  "valorEstimadoProximoConcurso": 1100000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "01/12/2017",
+  "dataProximoConcurso": "02/12/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "37",
+    "31",
+    "38",
+    "58",
+    "55"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "31",
+    "37",
+    "38",
+    "55",
+    "58"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 83,
+      "valorPremio": 5960.43
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5528,
+      "valorPremio": 134.57
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 145568,
+      "valorPremio": 2.81
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "CARDOSO MOREIRA, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4545,
+  "numeroConcursoAnterior": 4544,
+  "numeroConcursoFinal_0_5": 4555,
+  "numeroConcursoProximo": 4546,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 8580693.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 48550929.17,
+  "valorAcumuladoProximoConcurso": 3703781.93,
+  "valorEstimadoProximoConcurso": 4700000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

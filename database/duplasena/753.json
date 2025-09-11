@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "24/04/2009",
+  "dataProximoConcurso": "28/04/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "29",
+    "07",
+    "50",
+    "27",
+    "20",
+    "12",
+    "08",
+    "10",
+    "35",
+    "42",
+    "37",
+    "25"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "12",
+    "20",
+    "27",
+    "29",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "08",
+    "10",
+    "25",
+    "35",
+    "37",
+    "42"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2207529.29
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 18,
+      "valorPremio": 5767.63
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1473,
+      "valorPremio": 100.68
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "RANCHARIA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 753,
+  "numeroConcursoAnterior": 752,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 754,
+  "numeroJogo": 18,
+  "observacao": "A APOSTA GANHADORA DA SENA DO 1º SORTEIO FOI REALIZADA EM SÃO PAULO/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

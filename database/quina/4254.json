@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "09/12/2016",
+  "dataProximoConcurso": "10/12/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "58",
+    "24",
+    "74",
+    "56",
+    "12"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "12",
+    "24",
+    "56",
+    "58",
+    "74"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 130,
+      "valorPremio": 4759.06
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 9251,
+      "valorPremio": 100.56
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 213873,
+      "valorPremio": 2.39
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "VILHENA, RO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4254,
+  "numeroConcursoAnterior": 4253,
+  "numeroConcursoFinal_0_5": 4255,
+  "numeroConcursoProximo": 4255,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 10730763.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 53026577.59,
+  "valorAcumuladoProximoConcurso": 5382368.81,
+  "valorEstimadoProximoConcurso": 6500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

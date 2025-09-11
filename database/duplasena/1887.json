@@ -1,0 +1,119 @@
+{
+  "acumulado": true,
+  "dataApuracao": "10/01/2019",
+  "dataProximoConcurso": "12/01/2019",
+  "dezenasSorteadasOrdemSorteio": [
+    "10",
+    "45",
+    "07",
+    "27",
+    "17",
+    "42",
+    "48",
+    "04",
+    "21",
+    "14",
+    "41",
+    "40"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "10",
+    "17",
+    "27",
+    "42",
+    "45"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "04",
+    "14",
+    "21",
+    "40",
+    "41",
+    "48"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "VIRADOURO",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 39,
+      "valorPremio": 3736.56
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 2723,
+      "valorPremio": 61.16
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 46251,
+      "valorPremio": 1.8
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 160298.52
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 38,
+      "valorPremio": 3451.4
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1917,
+      "valorPremio": 86.87
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 8,
+      "numeroDeGanhadores": 35247,
+      "valorPremio": 2.36
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Espaço Loterias Caixa",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1887,
+  "numeroConcursoAnterior": 1886,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1888,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4802384.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 11590633.76,
+  "valorAcumuladoProximoConcurso": 8401792.53,
+  "valorEstimadoProximoConcurso": 8800000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

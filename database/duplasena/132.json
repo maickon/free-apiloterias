@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "28/02/2003",
+  "dataProximoConcurso": "07/03/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "46",
+    "04",
+    "07",
+    "37",
+    "19",
+    "44",
+    "09",
+    "47",
+    "16",
+    "12",
+    "21",
+    "23"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "07",
+    "19",
+    "37",
+    "44",
+    "46"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "09",
+    "12",
+    "16",
+    "21",
+    "23",
+    "47"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2345136.62
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 174487.51
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 40,
+      "valorPremio": 2908.13
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1841,
+      "valorPremio": 62.95
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Corumbá, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 132,
+  "numeroConcursoAnterior": 131,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 133,
+  "numeroJogo": 18,
+  "observacao": "Estimativa prêmio (SENA-1ºSORTEIO) próximo concurso: R$100.000,00. O acertador da (sena-2ºsorteio) é de MG. O próximo concurso (133) será 07/03/2003.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

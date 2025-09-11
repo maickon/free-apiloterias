@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "18/10/2003",
+  "dataProximoConcurso": "22/10/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "55",
+    "76",
+    "04",
+    "98",
+    "81",
+    "59",
+    "67",
+    "57",
+    "46",
+    "96",
+    "23",
+    "80",
+    "64",
+    "02",
+    "06",
+    "51",
+    "93",
+    "50",
+    "41",
+    "88"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "04",
+    "06",
+    "23",
+    "41",
+    "46",
+    "50",
+    "51",
+    "55",
+    "57",
+    "59",
+    "64",
+    "67",
+    "76",
+    "80",
+    "81",
+    "88",
+    "93",
+    "96",
+    "98"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 556398.89
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 18,
+      "valorPremio": 20607.37
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 247,
+      "valorPremio": 1501.75
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2155,
+      "valorPremio": 85.74
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 12982,
+      "valorPremio": 14.23
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "BLUMENAU, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 360,
+  "numeroConcursoAnterior": 359,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 361,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio próximo concurso: (20 ACERTOS)R$550.000,00; (0 ACERTO)R$900.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

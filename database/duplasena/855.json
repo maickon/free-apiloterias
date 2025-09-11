@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "16/04/2010",
+  "dataProximoConcurso": "20/04/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "05",
+    "17",
+    "29",
+    "50",
+    "31",
+    "10",
+    "04",
+    "21",
+    "11",
+    "01",
+    "50",
+    "15"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "10",
+    "17",
+    "29",
+    "31",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "01",
+    "04",
+    "11",
+    "15",
+    "21",
+    "50"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "DIVINÓPOLIS",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 3623426.67
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 55,
+      "valorPremio": 2854.86
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2628,
+      "valorPremio": 85.35
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TRÊS LAGOAS, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 855,
+  "numeroConcursoAnterior": 854,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 856,
+  "numeroJogo": 18,
+  "observacao": "ATENÇÃO! NESTE CONCURSO NÃO TEVE GANHADOR DE 6 ACERTOS NO 2º SORTEIO. PORTANTO, O PRÊMIO FICA ACUMULADO PARA 6 ACERTOS NO 1º SORTEIO DO PRÓXIMO CONCURSO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2547875.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 235526.04,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

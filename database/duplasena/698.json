@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "07/10/2008",
+  "dataProximoConcurso": "10/10/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "46",
+    "15",
+    "07",
+    "02",
+    "49",
+    "27",
+    "17",
+    "22",
+    "40",
+    "11",
+    "19",
+    "06"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "07",
+    "15",
+    "27",
+    "46",
+    "49"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "06",
+    "11",
+    "17",
+    "19",
+    "22",
+    "40"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 8417995.8
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 62,
+      "valorPremio": 4010.77
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 3864,
+      "valorPremio": 64.36
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "VENDA NOVA DO IMIGRANTE, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 698,
+  "numeroConcursoAnterior": 697,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 699,
+  "numeroJogo": 18,
+  "observacao": "GANHADOR DE 6 ACERTOS NO 1º SORTEIO: SÃO JOÃO DA BOA VISTA/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "19/11/2002",
+  "dataProximoConcurso": "22/11/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "02",
+    "50",
+    "43",
+    "23",
+    "06",
+    "27",
+    "42",
+    "01",
+    "36",
+    "02",
+    "16",
+    "29"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "06",
+    "23",
+    "27",
+    "43",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "01",
+    "02",
+    "16",
+    "29",
+    "36",
+    "42"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 16,
+      "valorPremio": 5998.66
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1013,
+      "valorPremio": 94.39
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Aracaju, SE",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 105,
+  "numeroConcursoAnterior": 104,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 106,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA - 1º SORTEIO) próximo concurso: R$1.800.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1617972.22,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

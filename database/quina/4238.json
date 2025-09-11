@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "21/11/2016",
+  "dataProximoConcurso": "22/11/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "04",
+    "10",
+    "44",
+    "08",
+    "70"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "08",
+    "10",
+    "44",
+    "70"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 101,
+      "valorPremio": 3756.72
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7763,
+      "valorPremio": 73.49
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 155250,
+      "valorPremio": 2.02
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "BAIXO GUANDU, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4238,
+  "numeroConcursoAnterior": 4237,
+  "numeroConcursoFinal_0_5": 4245,
+  "numeroConcursoProximo": 4239,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6581065.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 46017378.68,
+  "valorAcumuladoProximoConcurso": 1315004.79,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "05/09/2012",
+  "dataProximoConcurso": "08/09/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "17",
+    "44",
+    "02",
+    "05",
+    "13",
+    "39"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "05",
+    "13",
+    "17",
+    "39",
+    "44"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "CAÇAPAVA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2662243.82
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 250,
+      "valorPremio": 5780.87
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 12007,
+      "valorPremio": 171.94
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SÃO LUÍS, MA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1422,
+  "numeroConcursoAnterior": 1421,
+  "numeroConcursoFinal_0_5": 1425,
+  "numeroConcursoProximo": 1423,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 24685402.0,
+  "valorAcumuladoConcurso_0_5": 7850910.01,
+  "valorAcumuladoConcursoEspecial": 36980998.47,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "14/04/2009",
+  "dataProximoConcurso": "16/04/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "17",
+    "10",
+    "27",
+    "25",
+    "31"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "17",
+    "25",
+    "27",
+    "31"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 378283.46
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 173,
+      "valorPremio": 2186.61
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8780,
+      "valorPremio": 57.45
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "IVAIPORÃ, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2040,
+  "numeroConcursoAnterior": 2039,
+  "numeroConcursoFinal_0_5": 2045,
+  "numeroConcursoProximo": 2041,
+  "numeroJogo": 3,
+  "observacao": "GANHADOR DE 5 ACERTOS É DE SÃO PAULO/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

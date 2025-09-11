@@ -1,0 +1,67 @@
+{
+  "acumulado": true,
+  "dataApuracao": "23/01/2020",
+  "dataProximoConcurso": "25/01/2020",
+  "dezenasSorteadasOrdemSorteio": [
+    "09",
+    "06",
+    "27",
+    "32",
+    "12",
+    "57"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "09",
+    "12",
+    "27",
+    "32",
+    "57"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 92,
+      "valorPremio": 27202.9
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5732,
+      "valorPremio": 623.73
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "numero": 2227,
+  "numeroConcursoAnterior": 2226,
+  "numeroConcursoFinal_0_5": 2230,
+  "numeroConcursoProximo": 2228,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 43407252.0,
+  "valorAcumuladoConcurso_0_5": 8397537.89,
+  "valorAcumuladoConcursoEspecial": 3862605.89,
+  "valorAcumuladoProximoConcurso": 35636168.29,
+  "valorEstimadoProximoConcurso": 40000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

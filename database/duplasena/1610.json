@@ -1,0 +1,119 @@
+{
+  "acumulado": true,
+  "dataApuracao": "18/02/2017",
+  "dataProximoConcurso": "21/02/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "50",
+    "08",
+    "12",
+    "41",
+    "11",
+    "27",
+    "26",
+    "32",
+    "02",
+    "08",
+    "30",
+    "03"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "11",
+    "12",
+    "27",
+    "41",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "02",
+    "03",
+    "08",
+    "26",
+    "30",
+    "32"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "DOM EXPEDITO LOPES",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "PI"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 16,
+      "valorPremio": 4266.11
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 977,
+      "valorPremio": 79.84
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 19568,
+      "valorPremio": 1.99
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 75083.47
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 21,
+      "valorPremio": 2925.33
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1044,
+      "valorPremio": 74.72
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 8,
+      "numeroDeGanhadores": 19577,
+      "valorPremio": 1.99
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "LAGOA DA PRATA, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1610,
+  "numeroConcursoAnterior": 1609,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1611,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2249426.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 13683847.42,
+  "valorAcumuladoProximoConcurso": 2350820.9,
+  "valorEstimadoProximoConcurso": 2600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

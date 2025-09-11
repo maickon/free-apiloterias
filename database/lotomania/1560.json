@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "03/06/2015",
+  "dataProximoConcurso": "06/06/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "35",
+    "56",
+    "61",
+    "94",
+    "30",
+    "52",
+    "23",
+    "37",
+    "77",
+    "74",
+    "47",
+    "04",
+    "75",
+    "49",
+    "17",
+    "06",
+    "65",
+    "08",
+    "53",
+    "26"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "06",
+    "08",
+    "17",
+    "23",
+    "26",
+    "30",
+    "35",
+    "37",
+    "47",
+    "49",
+    "52",
+    "53",
+    "56",
+    "61",
+    "65",
+    "74",
+    "75",
+    "77",
+    "94"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "ANANINDEUA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PA"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "SANTOS",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 3315842.88
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 14,
+      "valorPremio": 26873.06
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 344,
+      "valorPremio": 1562.38
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2702,
+      "valorPremio": 87.02
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 14942,
+      "valorPremio": 15.73
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "PIQUEROBI, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1560,
+  "numeroConcursoAnterior": 1559,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1561,
+  "numeroJogo": 16,
+  "observacao": "O PRÊMIO DE ZERO ACERTO (R$ 188.111,42) FICA ACUMULADO PARA O PRÊMIO DE VINTE ACERTOS DO PRÓXIMO CONCURSO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7631073.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 5601740.67,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

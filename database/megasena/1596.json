@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "03/05/2014",
+  "dataProximoConcurso": "07/05/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "05",
+    "12",
+    "01",
+    "07",
+    "45",
+    "10"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "05",
+    "07",
+    "10",
+    "12",
+    "45"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "Curitiba",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2826993.1
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 380,
+      "valorPremio": 4038.56
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 16970,
+      "valorPremio": 129.19
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Pedro Leopoldo, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1596,
+  "numeroConcursoAnterior": 1595,
+  "numeroConcursoFinal_0_5": 1600,
+  "numeroConcursoProximo": 1597,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 26213024.0,
+  "valorAcumuladoConcurso_0_5": 4984563.36,
+  "valorAcumuladoConcursoEspecial": 27071607.95,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

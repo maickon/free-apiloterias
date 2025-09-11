@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "18/03/2014",
+  "dataProximoConcurso": "19/03/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "08",
+    "25",
+    "47",
+    "06",
+    "22"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "08",
+    "22",
+    "25",
+    "47"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 216,
+      "valorPremio": 2296.19
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 10809,
+      "valorPremio": 65.55
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "INDAIAL, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3442,
+  "numeroConcursoAnterior": 3441,
+  "numeroConcursoFinal_0_5": 3445,
+  "numeroConcursoProximo": 3443,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6438474.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 62620819.15,
+  "valorAcumuladoProximoConcurso": 1827282.26,
+  "valorEstimadoProximoConcurso": 2600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "25/01/2005",
+  "dataProximoConcurso": "28/01/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "05",
+    "48",
+    "25",
+    "40",
+    "27",
+    "45",
+    "49",
+    "35",
+    "12",
+    "08",
+    "02",
+    "42"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "25",
+    "27",
+    "40",
+    "45",
+    "48"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "02",
+    "08",
+    "12",
+    "35",
+    "42",
+    "49"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 12,
+      "valorPremio": 4031.88
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 830,
+      "valorPremio": 58.07
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "RIO DE JANEIRO, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 323,
+  "numeroConcursoAnterior": 322,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 324,
+  "numeroJogo": 18,
+  "observacao": "ACUMULOU!!Estimativa de prêmio (SENA) primeiro sorteio próximo concurso: R$350.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 258304.19,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

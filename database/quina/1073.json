@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "19/11/2002",
+  "dataProximoConcurso": "21/11/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "23",
+    "42",
+    "57",
+    "58",
+    "78"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "23",
+    "42",
+    "57",
+    "58",
+    "78"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RS"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 278238.79
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 214,
+      "valorPremio": 1300.18
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 9887,
+      "valorPremio": 37.38
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Aracaju, SE",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1073,
+  "numeroConcursoAnterior": 1072,
+  "numeroConcursoFinal_0_5": 1075,
+  "numeroConcursoProximo": 1074,
+  "numeroJogo": 3,
+  "observacao": "Estimativa de prêmio (QUINA)próximo sorteio: R$280.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

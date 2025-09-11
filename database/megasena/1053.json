@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "04/03/2009",
+  "dataProximoConcurso": "07/03/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "15",
+    "42",
+    "27",
+    "53",
+    "34",
+    "49"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "15",
+    "27",
+    "34",
+    "42",
+    "49",
+    "53"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RS"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1629650.34
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 112,
+      "valorPremio": 7898.82
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4385,
+      "valorPremio": 201.75
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PETRÓPOLIS, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1053,
+  "numeroConcursoAnterior": 1052,
+  "numeroConcursoFinal_0_5": 1055,
+  "numeroConcursoProximo": 1054,
+  "numeroJogo": 2,
+  "observacao": "GANHADOR DE 6 ACERTOS: CANOAS/RS.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 5187437.88,
+  "valorAcumuladoConcursoEspecial": 8272730.82,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 1500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

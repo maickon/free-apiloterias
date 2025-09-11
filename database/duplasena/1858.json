@@ -1,0 +1,119 @@
+{
+  "acumulado": false,
+  "dataApuracao": "27/10/2018",
+  "dataProximoConcurso": "30/10/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "26",
+    "14",
+    "22",
+    "46",
+    "11",
+    "04",
+    "14",
+    "50",
+    "45",
+    "47",
+    "11",
+    "23"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "11",
+    "14",
+    "22",
+    "26",
+    "46"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "11",
+    "14",
+    "23",
+    "45",
+    "47",
+    "50"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SÃO RAIMUNDO DAS MANGABEIRAS",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1642352.85
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 16,
+      "valorPremio": 3584.85
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 780,
+      "valorPremio": 84.04
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 15946,
+      "valorPremio": 2.05
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 22,
+      "valorPremio": 2346.45
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 833,
+      "valorPremio": 78.69
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 8,
+      "numeroDeGanhadores": 16571,
+      "valorPremio": 1.97
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "JEQUIÉ, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1858,
+  "numeroConcursoAnterior": 1857,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1859,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1890214.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 8237715.88,
+  "valorAcumuladoProximoConcurso": 63093.35,
+  "valorEstimadoProximoConcurso": 250000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

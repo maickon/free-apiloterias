@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "30/04/2008",
+  "dataProximoConcurso": "03/05/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "06",
+    "93",
+    "32",
+    "18",
+    "67",
+    "46",
+    "27",
+    "44",
+    "59",
+    "57",
+    "66",
+    "00",
+    "83",
+    "17",
+    "38",
+    "47",
+    "33",
+    "97",
+    "25",
+    "58"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "00",
+    "06",
+    "17",
+    "18",
+    "25",
+    "27",
+    "32",
+    "33",
+    "38",
+    "44",
+    "46",
+    "47",
+    "57",
+    "58",
+    "59",
+    "66",
+    "67",
+    "83",
+    "93",
+    "97"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "AM"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RN"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 160085.1
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 21,
+      "valorPremio": 10164.14
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 246,
+      "valorPremio": 867.67
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1814,
+      "valorPremio": 58.83
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 10312,
+      "valorPremio": 10.35
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 106723.43
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "MONTE SIÃO, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 823,
+  "numeroConcursoAnterior": 822,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 824,
+  "numeroJogo": 16,
+  "observacao": "Ganhador de 0 (ZERO) acerto: MANAUS/AM.\r\nGanhadores de 20 acertos: MANAUS/AM e NATAL/RN.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 350000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "31/12/2013",
+  "dataProximoConcurso": "02/01/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "72",
+    "45",
+    "54",
+    "17",
+    "14"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "14",
+    "17",
+    "45",
+    "54",
+    "72"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 107,
+      "valorPremio": 2684.15
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5896,
+      "valorPremio": 69.58
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "LEME, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3379,
+  "numeroConcursoAnterior": 3378,
+  "numeroConcursoFinal_0_5": 3385,
+  "numeroConcursoProximo": 3380,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 3728294.25,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 45771663.86,
+  "valorAcumuladoProximoConcurso": 1481621.04,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

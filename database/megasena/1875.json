@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "10/11/2016",
+  "dataProximoConcurso": "12/11/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "53",
+    "45",
+    "47",
+    "01",
+    "52",
+    "55"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "45",
+    "47",
+    "52",
+    "53",
+    "55"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "APARECIDA DE GOIÂNIA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "GO"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 29697112.87
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 45,
+      "valorPremio": 51595.3
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 2828,
+      "valorPremio": 1172.85
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "POÇOS DE CALDAS, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1875,
+  "numeroConcursoAnterior": 1874,
+  "numeroConcursoFinal_0_5": 1880,
+  "numeroConcursoProximo": 1876,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 40270688.5,
+  "valorAcumuladoConcurso_0_5": 2688386.38,
+  "valorAcumuladoConcursoEspecial": 58834231.63,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

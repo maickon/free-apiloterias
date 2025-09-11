@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "18/04/2015",
+  "dataProximoConcurso": "22/04/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "12",
+    "01",
+    "31",
+    "37",
+    "17",
+    "46"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "12",
+    "17",
+    "31",
+    "37",
+    "46"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "DIAMANTINA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 32909935.88
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 135,
+      "valorPremio": 27832.74
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 9824,
+      "valorPremio": 546.39
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "MARÍLIA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1696,
+  "numeroConcursoAnterior": 1695,
+  "numeroConcursoFinal_0_5": 1700,
+  "numeroConcursoProximo": 1697,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 64179532.5,
+  "valorAcumuladoConcurso_0_5": 7641256.73,
+  "valorAcumuladoConcursoEspecial": 20438754.61,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

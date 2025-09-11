@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "11/04/2015",
+  "dataProximoConcurso": "15/04/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "34",
+    "29",
+    "20",
+    "37",
+    "57",
+    "45"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "20",
+    "29",
+    "34",
+    "37",
+    "45",
+    "57"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "TOLEDO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 46904093.93
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 348,
+      "valorPremio": 14457.94
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 10854,
+      "valorPremio": 662.21
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da sorte",
+  "nomeMunicipioUFSorteio": "SÃO LOURENÇO DO SUL, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1694,
+  "numeroConcursoAnterior": 1693,
+  "numeroConcursoFinal_0_5": 1695,
+  "numeroConcursoProximo": 1695,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 85939430.0,
+  "valorAcumuladoConcurso_0_5": 20753391.07,
+  "valorAcumuladoConcursoEspecial": 18702105.32,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 25000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

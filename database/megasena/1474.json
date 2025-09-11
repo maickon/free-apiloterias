@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "06/03/2013",
+  "dataProximoConcurso": "09/03/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "02",
+    "43",
+    "11",
+    "01",
+    "03",
+    "28"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "02",
+    "03",
+    "11",
+    "28",
+    "43"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "ALTO PARNAÍBA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 14742572.93
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 158,
+      "valorPremio": 15031.99
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 11838,
+      "valorPremio": 286.61
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CUIABÁ, MT",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1474,
+  "numeroConcursoAnterior": 1473,
+  "numeroConcursoFinal_0_5": 1475,
+  "numeroConcursoProximo": 1475,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 40567716.0,
+  "valorAcumuladoConcurso_0_5": 12033058.85,
+  "valorAcumuladoConcursoEspecial": 10165069.53,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 16000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

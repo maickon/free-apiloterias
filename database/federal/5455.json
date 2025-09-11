@@ -1,0 +1,118 @@
+{
+  "acumulado": false,
+  "dataApuracao": "02/01/2020",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "057364",
+    "045209",
+    "019070",
+    "031638",
+    "048306"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "057364",
+    "045209",
+    "019070",
+    "031638",
+    "048306"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 0,
+      "municipio": "BRASILIA",
+      "nomeFatansiaUL": "SUPER LOTERIAS",
+      "posicao": 1,
+      "serie": "A",
+      "uf": "DF"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "PATOS DE MINAS",
+      "nomeFatansiaUL": "MEGA SORTE",
+      "posicao": 5,
+      "serie": "A",
+      "uf": "MG"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "BIRIGUI",
+      "nomeFatansiaUL": "LOTERICA CALESTINE",
+      "posicao": 2,
+      "serie": "A",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "SERTAOZINHO",
+      "nomeFatansiaUL": "LOTERICA SHANGRILA",
+      "posicao": 4,
+      "serie": "A",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "SOCORRO",
+      "nomeFatansiaUL": "ARLEMCAR CASA LOTERICA",
+      "posicao": 3,
+      "serie": "A",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "1 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 500000.0
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 27000.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 24000.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 19000.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 18329.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO LOTERIAS CAIXA",
+  "nomeMunicipioUFSorteio": "SAO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": null,
+  "numero": 5455,
+  "numeroConcursoAnterior": 5454,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 5456,
+  "numeroJogo": 10,
+  "observacao": null,
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTERIA_FEDERAL",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

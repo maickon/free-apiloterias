@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "23/12/2016",
+  "dataProximoConcurso": "24/12/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "35",
+    "38",
+    "50",
+    "10",
+    "15"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "15",
+    "35",
+    "38",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 98,
+      "valorPremio": 4485.23
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6685,
+      "valorPremio": 98.87
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 156830,
+      "valorPremio": 2.31
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "JI-PARANÁ, RO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4266,
+  "numeroConcursoAnterior": 4265,
+  "numeroConcursoFinal_0_5": 4275,
+  "numeroConcursoProximo": 4267,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7623889.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 57381812.64,
+  "valorAcumuladoProximoConcurso": 2198515.04,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

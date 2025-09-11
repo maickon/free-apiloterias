@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "25/01/2008",
+  "dataProximoConcurso": "29/01/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "06",
+    "33",
+    "13",
+    "05",
+    "20",
+    "11",
+    "34",
+    "27",
+    "44",
+    "38",
+    "18",
+    "02"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "06",
+    "11",
+    "13",
+    "20",
+    "33"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "02",
+    "18",
+    "27",
+    "34",
+    "38",
+    "44"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 2,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 143392.1
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 128636.25
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 18,
+      "valorPremio": 4764.31
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 997,
+      "valorPremio": 86.01
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "São João da Barra, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 627,
+  "numeroConcursoAnterior": 626,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 628,
+  "numeroJogo": 18,
+  "observacao": "Ganhadores da Sena 1º Sorteio: Campinas/SP e Itanhaém/SP. Ganhador da Sena 2º Sorteio: Campos dos Goytacazes/RJ.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 120000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

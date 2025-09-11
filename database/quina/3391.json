@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "15/01/2014",
+  "dataProximoConcurso": "16/01/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "35",
+    "80",
+    "40",
+    "39",
+    "79"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "35",
+    "39",
+    "40",
+    "79",
+    "80"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 128,
+      "valorPremio": 3092.91
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5227,
+      "valorPremio": 108.19
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PORTEIRINHA, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3391,
+  "numeroConcursoAnterior": 3390,
+  "numeroConcursoFinal_0_5": 3395,
+  "numeroConcursoProximo": 3392,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5139212.25,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 49104634.48,
+  "valorAcumuladoProximoConcurso": 554248.04,
+  "valorEstimadoProximoConcurso": 1100000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

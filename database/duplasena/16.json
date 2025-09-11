@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "04/01/2002",
+  "dataProximoConcurso": "01/01/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "25",
+    "21",
+    "46",
+    "26",
+    "19",
+    "41",
+    "22",
+    "06",
+    "05",
+    "31",
+    "38",
+    "27"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "19",
+    "21",
+    "25",
+    "26",
+    "41",
+    "46"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "05",
+    "06",
+    "22",
+    "27",
+    "31",
+    "38"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 236934.09
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 28,
+      "valorPremio": 5641.29
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1927,
+      "valorPremio": 81.66
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Guaratuba, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 16,
+  "numeroConcursoAnterior": 15,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 17,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$2.500.000,00. O ganhador da SENA-2ºSORTEIO é de Barueri/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 2319056.08,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

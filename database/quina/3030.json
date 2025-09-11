@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "26/10/2012",
+  "dataProximoConcurso": "27/10/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "52",
+    "64",
+    "25",
+    "39",
+    "79"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "25",
+    "39",
+    "52",
+    "64",
+    "79"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 73,
+      "valorPremio": 4592.91
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4711,
+      "valorPremio": 101.67
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "VITÓRIA, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3030,
+  "numeroConcursoAnterior": 3029,
+  "numeroConcursoFinal_0_5": 3035,
+  "numeroConcursoProximo": 3031,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4352419.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 26426956.41,
+  "valorAcumuladoProximoConcurso": 469394.9,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

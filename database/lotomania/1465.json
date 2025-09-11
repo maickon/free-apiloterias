@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "02/07/2014",
+  "dataProximoConcurso": "05/07/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "54",
+    "18",
+    "01",
+    "40",
+    "93",
+    "15",
+    "92",
+    "37",
+    "10",
+    "62",
+    "44",
+    "46",
+    "11",
+    "79",
+    "42",
+    "83",
+    "34",
+    "32",
+    "91",
+    "61"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "10",
+    "11",
+    "15",
+    "18",
+    "32",
+    "34",
+    "37",
+    "40",
+    "42",
+    "44",
+    "46",
+    "54",
+    "61",
+    "62",
+    "79",
+    "83",
+    "91",
+    "92",
+    "93"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "BARBALHA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "CE"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 334380.3
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 95537.23
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 63,
+      "valorPremio": 3032.93
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 615,
+      "valorPremio": 194.18
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 4073,
+      "valorPremio": 29.32
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "EUNÁPOLIS, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1465,
+  "numeroConcursoAnterior": 1464,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1466,
+  "numeroJogo": 16,
+  "observacao": "O PRÊMIO DE ZERO ACERTO (R$ 95.537,23) FICA ACUMULADO PARA O PRÊMIO DE VINTE ACERTOS DO PRÓXIMO CONCURSO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 3875637.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 5341912.83,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

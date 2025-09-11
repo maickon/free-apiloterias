@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "31/05/2006",
+  "dataProximoConcurso": "03/06/2006",
+  "dezenasSorteadasOrdemSorteio": [
+    "23",
+    "47",
+    "21",
+    "49",
+    "74",
+    "52",
+    "09",
+    "62",
+    "93",
+    "10",
+    "56",
+    "41",
+    "66",
+    "77",
+    "22",
+    "64",
+    "08",
+    "96",
+    "60",
+    "45"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "09",
+    "10",
+    "21",
+    "22",
+    "23",
+    "41",
+    "45",
+    "47",
+    "49",
+    "52",
+    "56",
+    "60",
+    "62",
+    "64",
+    "66",
+    "74",
+    "77",
+    "93",
+    "96"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2373904.68
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 6,
+      "valorPremio": 48306.75
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 164,
+      "valorPremio": 1767.32
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1612,
+      "valorPremio": 89.56
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 9362,
+      "valorPremio": 15.43
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Gama, DF",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 624,
+  "numeroConcursoAnterior": 623,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 625,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 ACERTOS) para o próximo concurso, a ser realizado em 03/06/2006: R$500.000,00. Acumulado de zero para 20 acertos: R$144.920,26.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

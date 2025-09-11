@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "04/10/2013",
+  "dataProximoConcurso": "05/10/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "71",
+    "32",
+    "15",
+    "45",
+    "17"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "15",
+    "17",
+    "32",
+    "45",
+    "71"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 108,
+      "valorPremio": 3530.15
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6732,
+      "valorPremio": 80.9
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "BARRA DE SÃO FRANCISCO, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3308,
+  "numeroConcursoAnterior": 3307,
+  "numeroConcursoFinal_0_5": 3315,
+  "numeroConcursoProximo": 3309,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4949221.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 25285630.22,
+  "valorAcumuladoProximoConcurso": 533758.13,
+  "valorEstimadoProximoConcurso": 1200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

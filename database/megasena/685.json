@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "27/07/2005",
+  "dataProximoConcurso": "30/07/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "33",
+    "27",
+    "05",
+    "56",
+    "12",
+    "43"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "12",
+    "27",
+    "33",
+    "43",
+    "56"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 44331219.78
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 347,
+      "valorPremio": 6029.62
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 15404,
+      "valorPremio": 135.32
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PASSA QUATRO, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 685,
+  "numeroConcursoAnterior": 684,
+  "numeroConcursoFinal_0_5": 690,
+  "numeroConcursoProximo": 686,
+  "numeroJogo": 2,
+  "observacao": "Estimativa de prêmio (sena) para o próximo concurso, a ser realizado em 30/07/2005: R$1.000.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 2615347.48,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

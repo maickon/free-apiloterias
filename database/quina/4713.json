@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "02/07/2018",
+  "dataProximoConcurso": "03/07/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "46",
+    "12",
+    "51",
+    "31",
+    "44"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "12",
+    "31",
+    "44",
+    "46",
+    "51"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 50,
+      "valorPremio": 5129.06
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3089,
+      "valorPremio": 124.84
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 79323,
+      "valorPremio": 2.67
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "RIO GRANDE, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4713,
+  "numeroConcursoAnterior": 4712,
+  "numeroConcursoFinal_0_5": 4715,
+  "numeroConcursoProximo": 4714,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4448097.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 1812524.62,
+  "valorAcumuladoProximoConcurso": 472413.43,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "15/03/2003",
+  "dataProximoConcurso": "19/03/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "14",
+    "41",
+    "69",
+    "96",
+    "59",
+    "61",
+    "03",
+    "47",
+    "62",
+    "16",
+    "46",
+    "17",
+    "18",
+    "30",
+    "52",
+    "84",
+    "79",
+    "75",
+    "68",
+    "99"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "14",
+    "16",
+    "17",
+    "18",
+    "30",
+    "41",
+    "46",
+    "47",
+    "52",
+    "59",
+    "61",
+    "62",
+    "68",
+    "69",
+    "75",
+    "79",
+    "84",
+    "96",
+    "99"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1207429.72
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 11,
+      "valorPremio": 41068.97
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 172,
+      "valorPremio": 2626.5
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1966,
+      "valorPremio": 114.47
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 11805,
+      "valorPremio": 19.07
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 634890.86
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Itumbiara, GO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 298,
+  "numeroConcursoAnterior": 297,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 299,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios próximo concurso - (20 ACERTOS): R$550.000,00 - (ZERO ACERTO): R$200.000,00. O ganhador com ZERO ACERTO é de MG.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

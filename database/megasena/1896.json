@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "21/01/2017",
+  "dataProximoConcurso": "25/01/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "25",
+    "06",
+    "14",
+    "21",
+    "03",
+    "15"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "06",
+    "14",
+    "15",
+    "21",
+    "25"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "ITANHAÉM",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 28783383.17
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 133,
+      "valorPremio": 19529.58
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7692,
+      "valorPremio": 482.4
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "TEÓFILO OTONI, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1896,
+  "numeroConcursoAnterior": 1895,
+  "numeroConcursoFinal_0_5": 1900,
+  "numeroConcursoProximo": 1897,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 45051695.5,
+  "valorAcumuladoConcurso_0_5": 5703309.78,
+  "valorAcumuladoConcursoEspecial": 3025148.59,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "09/07/2008",
+  "dataProximoConcurso": "12/07/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "32",
+    "19",
+    "59",
+    "14",
+    "90",
+    "07",
+    "71",
+    "47",
+    "31",
+    "01",
+    "57",
+    "41",
+    "98",
+    "25",
+    "11",
+    "92",
+    "42",
+    "33",
+    "37",
+    "17"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "07",
+    "11",
+    "14",
+    "17",
+    "19",
+    "25",
+    "31",
+    "32",
+    "33",
+    "37",
+    "41",
+    "42",
+    "47",
+    "57",
+    "59",
+    "71",
+    "90",
+    "92",
+    "98"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1426901.08
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 18,
+      "valorPremio": 14729.4
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 197,
+      "valorPremio": 1345.83
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1859,
+      "valorPremio": 71.31
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 11319,
+      "valorPremio": 11.72
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "IPAMERI, GO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 843,
+  "numeroConcursoAnterior": 842,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 844,
+  "numeroJogo": 16,
+  "observacao": "Ganhador de 20 acertos: Ponta Grossa/PR. Não houve ganhador de ZERO ACERTO, portanto, o prêmio fica acumulado para 20 acertos do concurso seguinte.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 132564.58,
+  "valorEstimadoProximoConcurso": 500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

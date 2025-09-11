@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "15/06/2015",
+  "dataProximoConcurso": "24/06/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "04",
+    "35",
+    "02",
+    "11",
+    "28"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "04",
+    "11",
+    "28",
+    "35"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 119,
+      "valorPremio": 5457.81
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7877,
+      "valorPremio": 117.78
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da sorte",
+  "nomeMunicipioUFSorteio": "SÃO MANUEL, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3813,
+  "numeroConcursoAnterior": 3812,
+  "numeroConcursoFinal_0_5": 3815,
+  "numeroConcursoProximo": 3814,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 8431132.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 103375866.98,
+  "valorAcumuladoProximoConcurso": 103375866.98,
+  "valorEstimadoProximoConcurso": 120000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

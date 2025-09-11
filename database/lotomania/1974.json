@@ -1,0 +1,128 @@
+{
+  "acumulado": false,
+  "dataApuracao": "31/05/2019",
+  "dataProximoConcurso": "04/06/2019",
+  "dezenasSorteadasOrdemSorteio": [
+    "92",
+    "52",
+    "96",
+    "06",
+    "72",
+    "11",
+    "18",
+    "53",
+    "69",
+    "93",
+    "34",
+    "90",
+    "35",
+    "19",
+    "76",
+    "97",
+    "31",
+    "77",
+    "57",
+    "82"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "11",
+    "18",
+    "19",
+    "31",
+    "34",
+    "35",
+    "52",
+    "53",
+    "57",
+    "69",
+    "72",
+    "76",
+    "77",
+    "82",
+    "90",
+    "92",
+    "93",
+    "96",
+    "97"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SÃO PAULO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1345311.22
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 120,
+      "valorPremio": 1604.13
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 810,
+      "valorPremio": 166.35
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 6603,
+      "valorPremio": 20.4
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "0 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 21738,
+      "valorPremio": 6.19
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SALVADOR, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1974,
+  "numeroConcursoAnterior": 1973,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1975,
+  "numeroJogo": 16,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4440594.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

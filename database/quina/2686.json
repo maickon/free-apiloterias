@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "01/09/2011",
+  "dataProximoConcurso": "02/09/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "04",
+    "78",
+    "20",
+    "28",
+    "60"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "20",
+    "28",
+    "60",
+    "78"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 44,
+      "valorPremio": 7139.79
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4155,
+      "valorPremio": 108.01
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "VIRGÍNIA, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2686,
+  "numeroConcursoAnterior": 2685,
+  "numeroConcursoFinal_0_5": 2695,
+  "numeroConcursoProximo": 2687,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4078108.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 13269099.02,
+  "valorAcumuladoProximoConcurso": 872405.14,
+  "valorEstimadoProximoConcurso": 1300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

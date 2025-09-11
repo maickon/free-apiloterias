@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "10/10/2012",
+  "dataProximoConcurso": "11/10/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "53",
+    "46",
+    "48",
+    "59",
+    "45"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "45",
+    "46",
+    "48",
+    "53",
+    "59"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 72,
+      "valorPremio": 4777.99
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5217,
+      "valorPremio": 94.2
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TOLEDO, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3017,
+  "numeroConcursoAnterior": 3016,
+  "numeroConcursoFinal_0_5": 3025,
+  "numeroConcursoProximo": 3018,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4465788.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 22465078.55,
+  "valorAcumuladoProximoConcurso": 481621.33,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

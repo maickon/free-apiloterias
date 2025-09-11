@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "08/11/2003",
+  "dataProximoConcurso": "12/11/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "16",
+    "04",
+    "49",
+    "29",
+    "44",
+    "22",
+    "71",
+    "55",
+    "42",
+    "75",
+    "69",
+    "93",
+    "09",
+    "24",
+    "51",
+    "21",
+    "11",
+    "65",
+    "82",
+    "67"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "09",
+    "11",
+    "16",
+    "21",
+    "22",
+    "24",
+    "29",
+    "42",
+    "44",
+    "49",
+    "51",
+    "55",
+    "65",
+    "67",
+    "69",
+    "71",
+    "75",
+    "82",
+    "93"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 1203653.32
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 47,
+      "valorPremio": 8919.66
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 764,
+      "valorPremio": 546.64
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 4607,
+      "valorPremio": 45.33
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 21464,
+      "valorPremio": 9.74
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "POÇOS DE CALDAS, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 366,
+  "numeroConcursoAnterior": 365,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 367,
+  "numeroJogo": 16,
+  "observacao": "(Acumulado da Faixa de Zero Acerto para 20 ACERTOS, R$209.612,16). Estimativa de prêmio próximo concurso (20 ACERTOS) R$700.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

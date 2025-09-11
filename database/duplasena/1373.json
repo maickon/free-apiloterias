@@ -1,0 +1,107 @@
+{
+  "acumulado": true,
+  "dataApuracao": "02/04/2015",
+  "dataProximoConcurso": "07/04/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "47",
+    "50",
+    "42",
+    "40",
+    "05",
+    "15",
+    "33",
+    "39",
+    "13",
+    "46",
+    "06",
+    "26"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "15",
+    "40",
+    "42",
+    "47",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "06",
+    "13",
+    "26",
+    "33",
+    "39",
+    "46"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "BETIM",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 22,
+      "valorPremio": 3351.84
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1151,
+      "valorPremio": 61.01
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 98320.74
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 36,
+      "valorPremio": 2048.35
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1660,
+      "valorPremio": 42.3
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CABREÚVA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1373,
+  "numeroConcursoAnterior": 1372,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1374,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1595422.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1085916.41,
+  "valorEstimadoProximoConcurso": 1300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

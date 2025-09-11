@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "18/04/2012",
+  "dataProximoConcurso": "20/04/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "44",
+    "30",
+    "27",
+    "11",
+    "40",
+    "57"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "27",
+    "30",
+    "40",
+    "44",
+    "57"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SÃO PAULO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 22817234.34
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 109,
+      "valorPremio": 23177.49
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7087,
+      "valorPremio": 509.25
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ITAPEMA, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1381,
+  "numeroConcursoAnterior": 1380,
+  "numeroConcursoFinal_0_5": 1385,
+  "numeroConcursoProximo": 1382,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 43151892.0,
+  "valorAcumuladoConcurso_0_5": 5637588.18,
+  "valorAcumuladoConcursoEspecial": 14319426.39,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

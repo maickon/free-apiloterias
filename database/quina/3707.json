@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "04/02/2015",
+  "dataProximoConcurso": "05/02/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "34",
+    "72",
+    "05",
+    "19",
+    "70"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "19",
+    "34",
+    "70",
+    "72"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 290,
+      "valorPremio": 3165.15
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 10275,
+      "valorPremio": 127.61
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "VALENÇA, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3707,
+  "numeroConcursoAnterior": 3706,
+  "numeroConcursoFinal_0_5": 3715,
+  "numeroConcursoProximo": 3708,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 11915484.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 60926548.23,
+  "valorAcumuladoProximoConcurso": 7006189.78,
+  "valorEstimadoProximoConcurso": 8400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

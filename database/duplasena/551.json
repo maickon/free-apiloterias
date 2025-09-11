@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "27/04/2007",
+  "dataProximoConcurso": "02/05/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "49",
+    "50",
+    "37",
+    "36",
+    "11",
+    "42",
+    "09",
+    "14",
+    "25",
+    "16",
+    "13",
+    "50"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "36",
+    "37",
+    "42",
+    "49",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "09",
+    "13",
+    "14",
+    "16",
+    "25",
+    "50"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 6320890.03
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 36,
+      "valorPremio": 5045.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2656,
+      "valorPremio": 68.13
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ITAPETININGA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 551,
+  "numeroConcursoAnterior": 550,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 552,
+  "numeroJogo": 18,
+  "observacao": "Estim. de prêmio (Sena 1º Sorteio) para o próx. concurso a ser realizado em 02/05/2007: R$400.000,00. Acumulado do 2º para o 1º Sorteio: R$272.429,92.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

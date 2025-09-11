@@ -1,0 +1,118 @@
+{
+  "acumulado": false,
+  "dataApuracao": "16/09/2023",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "077550",
+    "079920",
+    "032923",
+    "086991",
+    "082423"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "077550",
+    "079920",
+    "032923",
+    "086991",
+    "082423"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 0,
+      "municipio": "BARRA DE SAO MIGUEL",
+      "nomeFatansiaUL": "LOTERIA BARRA DE OURO",
+      "posicao": 5,
+      "serie": "A",
+      "uf": "AL"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "LAGES",
+      "nomeFatansiaUL": "LOTERICA KLOPPEL",
+      "posicao": 3,
+      "serie": "A",
+      "uf": "SC"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "ARARAQUARA",
+      "nomeFatansiaUL": "LOTERICA DO CARMO",
+      "posicao": 4,
+      "serie": "A",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "SANTANA DE PARNAIBA",
+      "nomeFatansiaUL": "LOTERICA FAZENDINHA DA SORTE",
+      "posicao": 1,
+      "serie": "A",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "URU",
+      "nomeFatansiaUL": "LOTERICA URU",
+      "posicao": 2,
+      "serie": "A",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "1 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1350000.0
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 15500.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 14000.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 13000.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 12227.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO DA SORTE",
+  "nomeMunicipioUFSorteio": "SAO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": null,
+  "numero": 5800,
+  "numeroConcursoAnterior": 5799,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 5801,
+  "numeroJogo": 10,
+  "observacao": null,
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTERIA_FEDERAL",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

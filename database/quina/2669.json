@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "12/08/2011",
+  "dataProximoConcurso": "13/08/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "61",
+    "22",
+    "19",
+    "26",
+    "20"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "19",
+    "20",
+    "22",
+    "26",
+    "61"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 64,
+      "valorPremio": 5942.35
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5569,
+      "valorPremio": 97.55
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ALFENAS, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2669,
+  "numeroConcursoAnterior": 2668,
+  "numeroConcursoFinal_0_5": 2675,
+  "numeroConcursoProximo": 2670,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4936945.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 9574212.85,
+  "valorAcumuladoProximoConcurso": 1433826.4,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

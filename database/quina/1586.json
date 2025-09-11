@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "11/04/2006",
+  "dataProximoConcurso": "13/04/2006",
+  "dezenasSorteadasOrdemSorteio": [
+    "13",
+    "28",
+    "72",
+    "04",
+    "17"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "13",
+    "17",
+    "28",
+    "72"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 235,
+      "valorPremio": 1280.11
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 10317,
+      "valorPremio": 38.74
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Dracena, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1586,
+  "numeroConcursoAnterior": 1585,
+  "numeroConcursoFinal_0_5": 1595,
+  "numeroConcursoProximo": 1587,
+  "numeroJogo": 3,
+  "observacao": "ACUMULOU!!! Estimativa de prêmio (quina) para o próximo concurso, a ser realizado em 13/04/2006: R$650.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 300825.42,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

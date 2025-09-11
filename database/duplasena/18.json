@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "11/01/2002",
+  "dataProximoConcurso": "08/01/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "28",
+    "35",
+    "50",
+    "41",
+    "15",
+    "27",
+    "01",
+    "13",
+    "23",
+    "14",
+    "22",
+    "38"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "15",
+    "27",
+    "28",
+    "35",
+    "41",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "01",
+    "13",
+    "14",
+    "22",
+    "23",
+    "38"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 17,
+      "valorPremio": 7600.88
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1485,
+      "valorPremio": 86.68
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Caldas Novas, GO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 18,
+  "numeroConcursoAnterior": 17,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 19,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$3.300.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 3060908.89,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

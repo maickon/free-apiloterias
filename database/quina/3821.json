@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "02/07/2015",
+  "dataProximoConcurso": "03/07/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "11",
+    "15",
+    "24",
+    "44",
+    "16"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "15",
+    "16",
+    "24",
+    "44"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 136,
+      "valorPremio": 5530.91
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8544,
+      "valorPremio": 125.76
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "GARÇA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3821,
+  "numeroConcursoAnterior": 3820,
+  "numeroConcursoFinal_0_5": 3825,
+  "numeroConcursoProximo": 3822,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 9764639.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 2447575.84,
+  "valorAcumuladoProximoConcurso": 5711010.13,
+  "valorEstimadoProximoConcurso": 6800000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

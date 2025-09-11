@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "19/05/2009",
+  "dataProximoConcurso": "22/05/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "25",
+    "48",
+    "36",
+    "15",
+    "21",
+    "09",
+    "32",
+    "07",
+    "33",
+    "45",
+    "27",
+    "05"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "15",
+    "21",
+    "25",
+    "36",
+    "48"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "05",
+    "07",
+    "27",
+    "32",
+    "33",
+    "45"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 36,
+      "valorPremio": 2577.28
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1801,
+      "valorPremio": 73.59
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PATOS DE MINAS, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 760,
+  "numeroConcursoAnterior": 759,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 761,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1371475.52,
+  "valorEstimadoProximoConcurso": 1500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

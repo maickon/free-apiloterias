@@ -1,0 +1,118 @@
+{
+  "acumulado": false,
+  "dataApuracao": "11/01/2020",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "073440",
+    "069992",
+    "019085",
+    "042112",
+    "070448"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "073440",
+    "069992",
+    "019085",
+    "042112",
+    "070448"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 0,
+      "municipio": "JECEABA",
+      "nomeFatansiaUL": "JECEABA LOTERICA",
+      "posicao": 4,
+      "serie": "A",
+      "uf": "MG"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "MARILIA",
+      "nomeFatansiaUL": "CASA DA SORTE",
+      "posicao": 5,
+      "serie": "A",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "PIRASSUNUNGA",
+      "nomeFatansiaUL": "LOTERICA SANTO ANTONIO",
+      "posicao": 1,
+      "serie": "A",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "SAO JOSE DO RIO PRETO",
+      "nomeFatansiaUL": "LOTERICA MENIS",
+      "posicao": 2,
+      "serie": "A",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "SAO PAULO",
+      "nomeFatansiaUL": "PARADA FEDERAL LOTERIAS LTDA",
+      "posicao": 3,
+      "serie": "A",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "1 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1350000.0
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 15500.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 14000.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 13000.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 12227.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO LOTERIAS CAIXA",
+  "nomeMunicipioUFSorteio": "SAO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": null,
+  "numero": 5458,
+  "numeroConcursoAnterior": 5457,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 5459,
+  "numeroJogo": 10,
+  "observacao": null,
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTERIA_FEDERAL",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

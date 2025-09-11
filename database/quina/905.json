@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "10/10/2001",
+  "dataProximoConcurso": "09/10/2001",
+  "dezenasSorteadasOrdemSorteio": [
+    "49",
+    "61",
+    "55",
+    "42",
+    "69"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "42",
+    "49",
+    "55",
+    "61",
+    "69"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 226,
+      "valorPremio": 1275.68
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8683,
+      "valorPremio": 44.11
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Auditório",
+  "nomeMunicipioUFSorteio": "Brasília, DF",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 905,
+  "numeroConcursoAnterior": 904,
+  "numeroConcursoFinal_0_5": 915,
+  "numeroConcursoProximo": 906,
+  "numeroJogo": 3,
+  "observacao": "Estimativa prêmio próximo concurso: R$ 750 MIL. O sorteio foi realizado na quarta-feira dia 10/10/2001 por problemas técnicos que impediram sua realização na terça-feira dia 09/10/2001.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 288304.42,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

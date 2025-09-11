@@ -1,0 +1,84 @@
+{
+  "acumulado": false,
+  "dataApuracao": "29/11/2017",
+  "dataProximoConcurso": "02/12/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "21",
+    "11",
+    "13",
+    "53",
+    "54",
+    "05"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "11",
+    "13",
+    "21",
+    "53",
+    "54"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "CAMPOS BELOS",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "GO"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "ARAGUARI",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 32953918.65
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 142,
+      "valorPremio": 28999.41
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 11405,
+      "valorPremio": 515.8
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CARDOSO MOREIRA, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1992,
+  "numeroConcursoAnterior": 1991,
+  "numeroConcursoFinal_0_5": 1995,
+  "numeroConcursoProximo": 1993,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 71423961.0,
+  "valorAcumuladoConcurso_0_5": 12979586.83,
+  "valorAcumuladoConcursoEspecial": 70519003.07,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

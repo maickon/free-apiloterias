@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "13/04/2010",
+  "dataProximoConcurso": "16/04/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "04",
+    "25",
+    "47",
+    "11",
+    "30",
+    "12",
+    "31",
+    "19",
+    "17",
+    "37",
+    "39",
+    "14"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "11",
+    "12",
+    "25",
+    "30",
+    "47"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "14",
+    "17",
+    "19",
+    "31",
+    "37",
+    "39"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 49,
+      "valorPremio": 2694.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1879,
+      "valorPremio": 100.36
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TRÊS LAGOAS, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 854,
+  "numeroConcursoAnterior": 853,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 855,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2142026.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 3387900.64,
+  "valorEstimadoProximoConcurso": 3600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

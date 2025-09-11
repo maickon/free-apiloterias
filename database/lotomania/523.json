@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "01/06/2005",
+  "dataProximoConcurso": "04/06/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "43",
+    "58",
+    "51",
+    "10",
+    "13",
+    "78",
+    "63",
+    "38",
+    "11",
+    "88",
+    "94",
+    "76",
+    "70",
+    "17",
+    "21",
+    "18",
+    "61",
+    "75",
+    "19",
+    "49"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "11",
+    "13",
+    "17",
+    "18",
+    "19",
+    "21",
+    "38",
+    "43",
+    "49",
+    "51",
+    "58",
+    "61",
+    "63",
+    "70",
+    "75",
+    "76",
+    "78",
+    "88",
+    "94"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 390879.73
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 10,
+      "valorPremio": 26058.65
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 110,
+      "valorPremio": 2368.97
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1119,
+      "valorPremio": 116.0
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 7218,
+      "valorPremio": 17.99
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Francisco Morato, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 523,
+  "numeroConcursoAnterior": 522,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 524,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 ACERTOS) próximo concurso, a ser realizado em 04/06/2005: R$500.000,00. Valor acumulado de zero acerto para 20 acertos: R$130.293,27.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

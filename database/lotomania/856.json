@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "23/08/2008",
+  "dataProximoConcurso": "27/08/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "65",
+    "13",
+    "31",
+    "47",
+    "06",
+    "57",
+    "45",
+    "27",
+    "10",
+    "64",
+    "96",
+    "04",
+    "62",
+    "22",
+    "44",
+    "55",
+    "78",
+    "17",
+    "24",
+    "05"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "05",
+    "06",
+    "10",
+    "13",
+    "17",
+    "22",
+    "24",
+    "27",
+    "31",
+    "44",
+    "45",
+    "47",
+    "55",
+    "57",
+    "62",
+    "64",
+    "65",
+    "78",
+    "96"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PE"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 635521.72
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 11,
+      "valorPremio": 24404.6
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 241,
+      "valorPremio": 1113.9
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2277,
+      "valorPremio": 58.95
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 12897,
+      "valorPremio": 10.41
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 134225.33
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PONTE NOVA, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 856,
+  "numeroConcursoAnterior": 855,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 857,
+  "numeroJogo": 16,
+  "observacao": "GANHADORES DE 20 ACERTOS: SALGUEIRO/PE E SÃO PAULO/SP. GANHADOR DE ZERO ACERTO: PORTO BELO/SC.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 350000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

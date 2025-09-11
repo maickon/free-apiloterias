@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "26/11/2012",
+  "dataProximoConcurso": "27/11/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "55",
+    "50",
+    "65",
+    "77",
+    "18"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "18",
+    "50",
+    "55",
+    "65",
+    "77"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 34,
+      "valorPremio": 9383.08
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3710,
+      "valorPremio": 122.84
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "JAGUAPITÃ, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3054,
+  "numeroConcursoAnterior": 3053,
+  "numeroConcursoFinal_0_5": 3055,
+  "numeroConcursoProximo": 3055,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4141376.25,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 31907411.41,
+  "valorAcumuladoProximoConcurso": 446634.53,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "18/01/2008",
+  "dataProximoConcurso": "22/01/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "03",
+    "42",
+    "21",
+    "38",
+    "22",
+    "43",
+    "34",
+    "18",
+    "40",
+    "37",
+    "05",
+    "01"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "21",
+    "22",
+    "38",
+    "42",
+    "43"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "01",
+    "05",
+    "18",
+    "34",
+    "37",
+    "40"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 167476.19
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 24,
+      "valorPremio": 4652.12
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1339,
+      "valorPremio": 83.38
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Aracaju, SE",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 625,
+  "numeroConcursoAnterior": 624,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 626,
+  "numeroJogo": 18,
+  "observacao": "Ganhador de 6 acertos no 2º sorteio: Piumhi/MG.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1214143.12,
+  "valorEstimadoProximoConcurso": 1400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

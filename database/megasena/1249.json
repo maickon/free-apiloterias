@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "15/01/2011",
+  "dataProximoConcurso": "19/01/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "03",
+    "40",
+    "08",
+    "53",
+    "51",
+    "36"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "08",
+    "36",
+    "40",
+    "51",
+    "53"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SÃO PAULO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 11177972.67
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 103,
+      "valorPremio": 17808.9
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5887,
+      "valorPremio": 445.12
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ILHABELA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1249,
+  "numeroConcursoAnterior": 1248,
+  "numeroConcursoFinal_0_5": 1250,
+  "numeroConcursoProximo": 1250,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 31331494.0,
+  "valorAcumuladoConcurso_0_5": 7026154.24,
+  "valorAcumuladoConcursoEspecial": 1596853.29,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 9000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

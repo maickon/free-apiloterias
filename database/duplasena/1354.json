@@ -1,0 +1,107 @@
+{
+  "acumulado": true,
+  "dataApuracao": "27/01/2015",
+  "dataProximoConcurso": "30/01/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "44",
+    "22",
+    "25",
+    "12",
+    "41",
+    "30",
+    "42",
+    "07",
+    "37",
+    "31",
+    "45",
+    "30"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "12",
+    "22",
+    "25",
+    "30",
+    "41",
+    "44"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "07",
+    "30",
+    "31",
+    "37",
+    "42",
+    "45"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "FEIRA DE SANTANA",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "BA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 45,
+      "valorPremio": 4041.99
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3048,
+      "valorPremio": 56.83
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 242519.42
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 52,
+      "valorPremio": 3497.88
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 3043,
+      "valorPremio": 56.92
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "RIO DAS OSTRAS, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1354,
+  "numeroConcursoAnterior": 1353,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1355,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 3935292.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 3409031.12,
+  "valorEstimadoProximoConcurso": 3800000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,67 @@
+{
+  "acumulado": true,
+  "dataApuracao": "28/10/2015",
+  "dataProximoConcurso": "31/10/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "48",
+    "05",
+    "30",
+    "18",
+    "08",
+    "02"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "05",
+    "08",
+    "18",
+    "30",
+    "48"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 123,
+      "valorPremio": 23130.69
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8784,
+      "valorPremio": 462.7
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "UBATUBA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1755,
+  "numeroConcursoAnterior": 1754,
+  "numeroConcursoFinal_0_5": 1760,
+  "numeroConcursoProximo": 1756,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 48595981.0,
+  "valorAcumuladoConcurso_0_5": 3294295.97,
+  "valorAcumuladoConcursoEspecial": 62065273.25,
+  "valorAcumuladoProximoConcurso": 24144408.92,
+  "valorEstimadoProximoConcurso": 30000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

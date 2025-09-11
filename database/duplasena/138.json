@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "25/03/2003",
+  "dataProximoConcurso": "28/03/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "24",
+    "42",
+    "11",
+    "02",
+    "03",
+    "01",
+    "16",
+    "35",
+    "40",
+    "05",
+    "36",
+    "21"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "02",
+    "03",
+    "11",
+    "24",
+    "42"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "05",
+    "16",
+    "21",
+    "35",
+    "36",
+    "40"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 150133.3
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 23,
+      "valorPremio": 4351.69
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1232,
+      "valorPremio": 80.94
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Siqueira Campos, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 138,
+  "numeroConcursoAnterior": 137,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 139,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$1.700.000,00. O acertador da (sena-2ºsorteio) é do Estado do Rio de Janeiro.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1504001.29,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

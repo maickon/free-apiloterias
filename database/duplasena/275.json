@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "23/07/2004",
+  "dataProximoConcurso": "27/07/2004",
+  "dezenasSorteadasOrdemSorteio": [
+    "05",
+    "12",
+    "31",
+    "42",
+    "45",
+    "20",
+    "30",
+    "14",
+    "28",
+    "45",
+    "01",
+    "12"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "12",
+    "20",
+    "31",
+    "42",
+    "45"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "01",
+    "12",
+    "14",
+    "28",
+    "30",
+    "45"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 16,
+      "valorPremio": 4574.64
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 911,
+      "valorPremio": 80.04
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "IPAMERI, GO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 275,
+  "numeroConcursoAnterior": 274,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 276,
+  "numeroJogo": 18,
+  "observacao": "ACUMULOU!!! Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$800.000,00 (OITOCENTOS MIL REAIS).",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 706514.44,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

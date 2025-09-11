@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "19/11/2011",
+  "dataProximoConcurso": "23/11/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "19",
+    "33",
+    "18",
+    "43",
+    "60",
+    "01"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "18",
+    "19",
+    "33",
+    "43",
+    "60"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SALVADOR",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 5448452.03
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 102,
+      "valorPremio": 17484.4
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6329,
+      "valorPremio": 402.54
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CAMPO BOM, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1338,
+  "numeroConcursoAnterior": 1337,
+  "numeroConcursoFinal_0_5": 1340,
+  "numeroConcursoProximo": 1339,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 30461948.0,
+  "valorAcumuladoConcurso_0_5": 8214734.48,
+  "valorAcumuladoConcursoEspecial": 56613446.19,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

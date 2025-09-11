@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "28/08/2007",
+  "dataProximoConcurso": "30/08/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "23",
+    "01",
+    "41",
+    "10",
+    "76"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "10",
+    "23",
+    "41",
+    "76"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 316243.89
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 165,
+      "valorPremio": 1916.63
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8211,
+      "valorPremio": 51.17
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "GUARAMIRIM, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1794,
+  "numeroConcursoAnterior": 1793,
+  "numeroConcursoFinal_0_5": 1795,
+  "numeroConcursoProximo": 1795,
+  "numeroJogo": 3,
+  "observacao": "GANHADOR DE 5 ACERTOS: SÃO JOSÉ DO RIO PRETO/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

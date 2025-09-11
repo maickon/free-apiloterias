@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "24/01/2015",
+  "dataProximoConcurso": "28/01/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "20",
+    "10",
+    "01",
+    "05",
+    "42",
+    "03"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "03",
+    "05",
+    "10",
+    "20",
+    "42"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SOROCABA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 33471002.88
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 566,
+      "valorPremio": 6389.44
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 28440,
+      "valorPremio": 181.65
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "GURUPI, TO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1672,
+  "numeroConcursoAnterior": 1671,
+  "numeroConcursoFinal_0_5": 1675,
+  "numeroConcursoProximo": 1673,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 61771235.0,
+  "valorAcumuladoConcurso_0_5": 11187993.0,
+  "valorAcumuladoConcursoEspecial": 4431734.33,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

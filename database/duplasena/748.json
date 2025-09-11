@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "03/04/2009",
+  "dataProximoConcurso": "07/04/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "06",
+    "21",
+    "14",
+    "46",
+    "42",
+    "40",
+    "03",
+    "23",
+    "29",
+    "09",
+    "32",
+    "50"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "14",
+    "21",
+    "40",
+    "42",
+    "46"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "03",
+    "09",
+    "23",
+    "29",
+    "32",
+    "50"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 32,
+      "valorPremio": 3218.48
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1666,
+      "valorPremio": 61.82
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "NAVIRAÍ, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 748,
+  "numeroConcursoAnterior": 747,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 749,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1048239.11,
+  "valorEstimadoProximoConcurso": 1200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

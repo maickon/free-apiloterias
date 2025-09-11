@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "04/04/2003",
+  "dataProximoConcurso": "08/04/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "15",
+    "32",
+    "33",
+    "42",
+    "27",
+    "43",
+    "09",
+    "42",
+    "19",
+    "39",
+    "36",
+    "15"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "15",
+    "27",
+    "32",
+    "33",
+    "42",
+    "43"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "09",
+    "15",
+    "19",
+    "36",
+    "39",
+    "42"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 46,
+      "valorPremio": 2390.34
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1900,
+      "valorPremio": 57.66
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Jaguariaíva, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 141,
+  "numeroConcursoAnterior": 140,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 142,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$2.600.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 2443233.1,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

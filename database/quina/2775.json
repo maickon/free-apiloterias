@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "19/12/2011",
+  "dataProximoConcurso": "20/12/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "61",
+    "56",
+    "10",
+    "36",
+    "74"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "36",
+    "56",
+    "61",
+    "74"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 125,
+      "valorPremio": 7137.97
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 9832,
+      "valorPremio": 129.64
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "JANAÚBA, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2775,
+  "numeroConcursoAnterior": 2774,
+  "numeroConcursoFinal_0_5": 2785,
+  "numeroConcursoProximo": 2776,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 11582574.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 35606503.9,
+  "valorAcumuladoProximoConcurso": 9653744.73,
+  "valorEstimadoProximoConcurso": 11000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

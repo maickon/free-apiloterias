@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "05/11/2014",
+  "dataProximoConcurso": "06/11/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "38",
+    "69",
+    "55",
+    "06",
+    "14"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "14",
+    "38",
+    "55",
+    "69"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 179,
+      "valorPremio": 4611.06
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 9334,
+      "valorPremio": 126.32
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "SOROCABA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3632,
+  "numeroConcursoAnterior": 3631,
+  "numeroConcursoFinal_0_5": 3635,
+  "numeroConcursoProximo": 3633,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 10714547.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 37242546.19,
+  "valorAcumuladoProximoConcurso": 5726143.22,
+  "valorEstimadoProximoConcurso": 7000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

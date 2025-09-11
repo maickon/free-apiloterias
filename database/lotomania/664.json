@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "18/10/2006",
+  "dataProximoConcurso": "21/10/2006",
+  "dezenasSorteadasOrdemSorteio": [
+    "30",
+    "20",
+    "44",
+    "57",
+    "00",
+    "60",
+    "54",
+    "46",
+    "35",
+    "51",
+    "03",
+    "91",
+    "11",
+    "55",
+    "32",
+    "53",
+    "70",
+    "50",
+    "93",
+    "64"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "00",
+    "03",
+    "11",
+    "20",
+    "30",
+    "32",
+    "35",
+    "44",
+    "46",
+    "50",
+    "51",
+    "53",
+    "54",
+    "55",
+    "57",
+    "60",
+    "64",
+    "70",
+    "91",
+    "93"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PI"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 3839315.11
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 22,
+      "valorPremio": 14086.37
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 299,
+      "valorPremio": 1036.46
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2484,
+      "valorPremio": 62.15
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 13567,
+      "valorPremio": 11.38
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ARIQUEMES, RO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 664,
+  "numeroConcursoAnterior": 663,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 665,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 acertos) para o próximo concurso, a ser realizado em 21/10/2006: R$500.000,00. Acumulado de zero acerto para vinte acertos: R$154.950,07.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

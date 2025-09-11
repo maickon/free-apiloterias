@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "02/06/2001",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "41",
+    "55",
+    "05",
+    "03",
+    "38",
+    "08",
+    "87",
+    "36",
+    "69",
+    "25",
+    "29",
+    "82",
+    "81",
+    "79",
+    "45",
+    "50",
+    "64",
+    "73",
+    "52",
+    "02"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "03",
+    "05",
+    "08",
+    "25",
+    "29",
+    "36",
+    "38",
+    "41",
+    "45",
+    "50",
+    "52",
+    "55",
+    "64",
+    "69",
+    "73",
+    "79",
+    "81",
+    "82",
+    "87"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "GO"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 702548.12
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 15,
+      "valorPremio": 31224.36
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 256,
+      "valorPremio": 1829.55
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2153,
+      "valorPremio": 108.36
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 13445,
+      "valorPremio": 17.36
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Araras, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 119,
+  "numeroConcursoAnterior": 118,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 120,
+  "numeroJogo": 16,
+  "observacao": "Estimativa prêmio próximo concurso: 20 acertos-R$500MIL e nenhum acerto-R$1MILHÃO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

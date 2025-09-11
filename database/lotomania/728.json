@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "02/06/2007",
+  "dataProximoConcurso": "06/06/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "26",
+    "09",
+    "63",
+    "44",
+    "66",
+    "35",
+    "87",
+    "20",
+    "50",
+    "65",
+    "48",
+    "00",
+    "01",
+    "51",
+    "27",
+    "07",
+    "15",
+    "04",
+    "55",
+    "46"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "00",
+    "01",
+    "04",
+    "07",
+    "09",
+    "15",
+    "20",
+    "26",
+    "27",
+    "35",
+    "44",
+    "46",
+    "48",
+    "50",
+    "51",
+    "55",
+    "63",
+    "65",
+    "66",
+    "87"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "GO"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 4438450.07
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 36,
+      "valorPremio": 9840.35
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 420,
+      "valorPremio": 843.46
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 3323,
+      "valorPremio": 53.1
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 16996,
+      "valorPremio": 10.39
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 177126.19
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ANANINDEUA, PA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 728,
+  "numeroConcursoAnterior": 727,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 729,
+  "numeroJogo": 16,
+  "observacao": "Ganhador de zero acerto: GO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 350000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

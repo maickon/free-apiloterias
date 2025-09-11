@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "29/07/2017",
+  "dataProximoConcurso": "02/08/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "45",
+    "29",
+    "42",
+    "09",
+    "43",
+    "26"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "26",
+    "29",
+    "42",
+    "43",
+    "45"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "RIO DE JANEIRO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 107956102.12
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 237,
+      "valorPremio": 37495.41
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 16988,
+      "valorPremio": 747.28
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "RIO BRANCO, AC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1953,
+  "numeroConcursoAnterior": 1952,
+  "numeroConcursoFinal_0_5": 1955,
+  "numeroConcursoProximo": 1954,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 154132051.5,
+  "valorAcumuladoConcurso_0_5": 30187103.56,
+  "valorAcumuladoConcursoEspecial": 45226024.24,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

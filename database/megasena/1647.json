@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "25/10/2014",
+  "dataProximoConcurso": "29/10/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "38",
+    "54",
+    "23",
+    "12",
+    "17",
+    "53"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "12",
+    "17",
+    "23",
+    "38",
+    "53",
+    "54"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "TOBIAS BARRETO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SE"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 61050152.43
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 259,
+      "valorPremio": 24371.32
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 20655,
+      "valorPremio": 436.57
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "NOVA VENÉCIA, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1647,
+  "numeroConcursoAnterior": 1646,
+  "numeroConcursoFinal_0_5": 1650,
+  "numeroConcursoProximo": 1648,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 107816610.0,
+  "valorAcumuladoConcurso_0_5": 17734688.56,
+  "valorAcumuladoConcursoEspecial": 65849559.29,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

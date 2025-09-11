@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "04/12/2002",
+  "dataProximoConcurso": "07/12/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "22",
+    "23",
+    "06",
+    "15",
+    "63",
+    "93",
+    "69",
+    "99",
+    "03",
+    "44",
+    "90",
+    "94",
+    "95",
+    "51",
+    "70",
+    "42",
+    "55",
+    "97",
+    "50",
+    "65"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "06",
+    "15",
+    "22",
+    "23",
+    "42",
+    "44",
+    "50",
+    "51",
+    "55",
+    "63",
+    "65",
+    "69",
+    "70",
+    "90",
+    "93",
+    "94",
+    "95",
+    "97",
+    "99"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SC"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 972649.25
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 21,
+      "valorPremio": 22025.87
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 266,
+      "valorPremio": 1738.89
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2658,
+      "valorPremio": 86.68
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 16353,
+      "valorPremio": 14.09
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Avaré, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 272,
+  "numeroConcursoAnterior": 271,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 273,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios próximo concurso: (20 ACERTOS) R$650.000,00 - (ZERO ACERTO) R$1.800.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

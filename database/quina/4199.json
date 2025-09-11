@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "03/10/2016",
+  "dataProximoConcurso": "04/10/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "42",
+    "38",
+    "52",
+    "57",
+    "45"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "38",
+    "42",
+    "45",
+    "52",
+    "57"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 65,
+      "valorPremio": 6841.49
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5527,
+      "valorPremio": 120.99
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 137561,
+      "valorPremio": 2.67
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SANTA BÁRBARA, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4199,
+  "numeroConcursoAnterior": 4198,
+  "numeroConcursoFinal_0_5": 4205,
+  "numeroConcursoProximo": 4200,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7713126.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 33037718.23,
+  "valorAcumuladoProximoConcurso": 2912352.22,
+  "valorEstimadoProximoConcurso": 4000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

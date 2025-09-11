@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "17/10/2018",
+  "dataProximoConcurso": "20/10/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "24",
+    "03",
+    "27",
+    "38",
+    "14",
+    "56"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "14",
+    "24",
+    "27",
+    "38",
+    "56"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "CASTRO ALVES",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2526635.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 56,
+      "valorPremio": 24492.89
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3262,
+      "valorPremio": 600.68
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SANTA HELENA DE GOIÁS, GO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2088,
+  "numeroConcursoAnterior": 2087,
+  "numeroConcursoFinal_0_5": 2090,
+  "numeroConcursoProximo": 2089,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 23790004.0,
+  "valorAcumuladoConcurso_0_5": 9402926.96,
+  "valorAcumuladoConcursoEspecial": 54633537.21,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

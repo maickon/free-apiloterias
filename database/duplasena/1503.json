@@ -1,0 +1,107 @@
+{
+  "acumulado": false,
+  "dataApuracao": "11/06/2016",
+  "dataProximoConcurso": "14/06/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "30",
+    "24",
+    "13",
+    "01",
+    "23",
+    "06",
+    "38",
+    "35",
+    "01",
+    "44",
+    "24",
+    "41"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "06",
+    "13",
+    "23",
+    "24",
+    "30"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "01",
+    "24",
+    "35",
+    "38",
+    "41",
+    "44"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "ENTRE FOLHAS",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 9417392.79
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 40,
+      "valorPremio": 3654.26
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 2053,
+      "valorPremio": 81.36
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 16,
+      "valorPremio": 9135.66
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1746,
+      "valorPremio": 95.67
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "IGUATU, CE",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1503,
+  "numeroConcursoAnterior": 1502,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1504,
+  "numeroJogo": 18,
+  "observacao": "O VALOR DA SENA DO 2º SORTEIO FICA ACUMULADO PARA A SENA DO 1º SORTEIO DO PRÓXIMO CONCURSO",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4817038.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 2978717.52,
+  "valorAcumuladoProximoConcurso": 263107.07,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

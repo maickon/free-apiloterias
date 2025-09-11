@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "20/04/2010",
+  "dataProximoConcurso": "23/04/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "21",
+    "28",
+    "39",
+    "32",
+    "03",
+    "22",
+    "18",
+    "04",
+    "33",
+    "07",
+    "25",
+    "28"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "21",
+    "22",
+    "28",
+    "32",
+    "39"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "04",
+    "07",
+    "18",
+    "25",
+    "28",
+    "33"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 42,
+      "valorPremio": 1961.79
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1555,
+      "valorPremio": 75.69
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "JACIARA, MT",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 856,
+  "numeroConcursoAnterior": 855,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 857,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1337004.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 482711.81,
+  "valorEstimadoProximoConcurso": 600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

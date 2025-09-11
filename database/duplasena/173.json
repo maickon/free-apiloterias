@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "25/07/2003",
+  "dataProximoConcurso": "29/07/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "14",
+    "25",
+    "44",
+    "27",
+    "03",
+    "22",
+    "16",
+    "49",
+    "35",
+    "15",
+    "44",
+    "26"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "14",
+    "22",
+    "25",
+    "27",
+    "44"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "15",
+    "16",
+    "26",
+    "35",
+    "44",
+    "49"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 13,
+      "valorPremio": 7365.63
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1395,
+      "valorPremio": 68.38
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Cianorte, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 173,
+  "numeroConcursoAnterior": 172,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 174,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSorteio) próximo concurso: R$1.400.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1215303.66,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

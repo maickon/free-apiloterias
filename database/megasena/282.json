@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "28/07/2001",
+  "dataProximoConcurso": "01/08/2001",
+  "dezenasSorteadasOrdemSorteio": [
+    "33",
+    "24",
+    "36",
+    "09",
+    "14",
+    "23"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "14",
+    "23",
+    "24",
+    "33",
+    "36"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 958878.82
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 76,
+      "valorPremio": 10514.03
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6064,
+      "valorPremio": 131.27
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Porto Ferreira, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 282,
+  "numeroConcursoAnterior": 281,
+  "numeroConcursoFinal_0_5": 285,
+  "numeroConcursoProximo": 283,
+  "numeroJogo": 2,
+  "observacao": "Estimativa prêmio próximo concurso (sena): R$ 800 MIL.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 4401048.5,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

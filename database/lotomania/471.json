@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "20/11/2004",
+  "dataProximoConcurso": "24/11/2004",
+  "dezenasSorteadasOrdemSorteio": [
+    "11",
+    "44",
+    "66",
+    "28",
+    "07",
+    "15",
+    "69",
+    "21",
+    "35",
+    "31",
+    "12",
+    "86",
+    "05",
+    "18",
+    "32",
+    "95",
+    "20",
+    "00",
+    "23",
+    "90"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "00",
+    "05",
+    "07",
+    "11",
+    "12",
+    "15",
+    "18",
+    "20",
+    "21",
+    "23",
+    "28",
+    "31",
+    "32",
+    "35",
+    "44",
+    "66",
+    "69",
+    "86",
+    "90",
+    "95"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1629657.57
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 11,
+      "valorPremio": 28492.3
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 225,
+      "valorPremio": 1392.96
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2003,
+      "valorPremio": 77.95
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 11608,
+      "valorPremio": 13.45
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 156707.68
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "MACEIÓ, AL",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 471,
+  "numeroConcursoAnterior": 470,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 472,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 acertos) para o próximo concurso: R$400.000,00. Ganhador da Zero Acerto: SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

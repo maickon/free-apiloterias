@@ -1,0 +1,98 @@
+{
+  "acumulado": true,
+  "dataApuracao": "20/01/2012",
+  "dataProximoConcurso": "24/01/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "03",
+    "07",
+    "10",
+    "23",
+    "13",
+    "08",
+    "02",
+    "41",
+    "14",
+    "19",
+    "45",
+    "16"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "07",
+    "08",
+    "10",
+    "13",
+    "23"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "02",
+    "14",
+    "16",
+    "19",
+    "41",
+    "45"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 98,
+      "valorPremio": 2187.46
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5495,
+      "valorPremio": 37.15
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 84,
+      "valorPremio": 2552.04
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 4343,
+      "valorPremio": 47.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PRAIA GRANDE, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1039,
+  "numeroConcursoAnterior": 1038,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1040,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4638056.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 5524980.32,
+  "valorEstimadoProximoConcurso": 6000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

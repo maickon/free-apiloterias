@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "06/07/2011",
+  "dataProximoConcurso": "07/07/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "27",
+    "46",
+    "26",
+    "75",
+    "51"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "26",
+    "27",
+    "46",
+    "51",
+    "75"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 81,
+      "valorPremio": 5719.31
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5259,
+      "valorPremio": 125.84
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "GUARATINGUETÁ, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2637,
+  "numeroConcursoAnterior": 2636,
+  "numeroConcursoFinal_0_5": 2645,
+  "numeroConcursoProximo": 2638,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6013798.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 2182944.11,
+  "valorAcumuladoProximoConcurso": 2149676.69,
+  "valorEstimadoProximoConcurso": 2800000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

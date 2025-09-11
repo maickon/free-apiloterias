@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "08/07/2000",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "98",
+    "50",
+    "37",
+    "33",
+    "47",
+    "04",
+    "86",
+    "64",
+    "26",
+    "82",
+    "29",
+    "58",
+    "11",
+    "09",
+    "71",
+    "77",
+    "22",
+    "41",
+    "52",
+    "65"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "09",
+    "11",
+    "22",
+    "26",
+    "29",
+    "33",
+    "37",
+    "41",
+    "47",
+    "50",
+    "52",
+    "58",
+    "64",
+    "65",
+    "71",
+    "77",
+    "82",
+    "86",
+    "98"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 850388.26
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 22,
+      "valorPremio": 25769.34
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 368,
+      "valorPremio": 1540.56
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2936,
+      "valorPremio": 96.27
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 17267,
+      "valorPremio": 16.38
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 141731.38
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Montes Claros, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 41,
+  "numeroConcursoAnterior": 40,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 42,
+  "numeroJogo": 16,
+  "observacao": "Previsão de prêmio p/ próx. conc. 1ªFaixa: R$900 MIL.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

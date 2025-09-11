@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "08/10/2015",
+  "dataProximoConcurso": "09/10/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "34",
+    "35",
+    "36",
+    "55",
+    "50"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "34",
+    "35",
+    "36",
+    "50",
+    "55"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 103,
+      "valorPremio": 6590.32
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5742,
+      "valorPremio": 168.88
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Auditorio",
+  "nomeMunicipioUFSorteio": "BRASILIA, DF",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3904,
+  "numeroConcursoAnterior": 3903,
+  "numeroConcursoFinal_0_5": 3905,
+  "numeroConcursoProximo": 3905,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 8811783.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 32320384.23,
+  "valorAcumuladoProximoConcurso": 4012810.93,
+  "valorEstimadoProximoConcurso": 5000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

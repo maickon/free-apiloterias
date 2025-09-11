@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "09/01/2010",
+  "dataProximoConcurso": "13/01/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "49",
+    "03",
+    "63",
+    "43",
+    "95",
+    "30",
+    "41",
+    "53",
+    "37",
+    "40",
+    "25",
+    "50",
+    "70",
+    "64",
+    "62",
+    "15",
+    "34",
+    "38",
+    "26",
+    "12"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "12",
+    "15",
+    "25",
+    "26",
+    "30",
+    "34",
+    "37",
+    "38",
+    "40",
+    "41",
+    "43",
+    "49",
+    "50",
+    "53",
+    "62",
+    "63",
+    "64",
+    "70",
+    "95"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "BRASÍLIA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "DF"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 622765.11
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 8,
+      "valorPremio": 35783.51
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 151,
+      "valorPremio": 1895.81
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1488,
+      "valorPremio": 137.41
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 10092,
+      "valorPremio": 20.26
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TORRES, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1000,
+  "numeroConcursoAnterior": 999,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1001,
+  "numeroJogo": 16,
+  "observacao": "SORTEIO REALIZADO EM 11/01/2010.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4645188.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

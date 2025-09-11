@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "05/12/2007",
+  "dataProximoConcurso": "08/12/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "52",
+    "37",
+    "46",
+    "08",
+    "22",
+    "36"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "22",
+    "36",
+    "37",
+    "46",
+    "52"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 40628613.64
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 132,
+      "valorPremio": 21261.85
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 10214,
+      "valorPremio": 273.74
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "GUARULHOS, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 925,
+  "numeroConcursoAnterior": 924,
+  "numeroConcursoFinal_0_5": 930,
+  "numeroConcursoProximo": 926,
+  "numeroJogo": 2,
+  "observacao": "GANHADOR DA MEGA SENA: SÃO PAULO/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 3508204.52,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 1200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

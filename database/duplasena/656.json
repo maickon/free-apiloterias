@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "13/05/2008",
+  "dataProximoConcurso": "16/05/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "06",
+    "43",
+    "28",
+    "34",
+    "15",
+    "47",
+    "45",
+    "12",
+    "17",
+    "32",
+    "22",
+    "24"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "15",
+    "28",
+    "34",
+    "43",
+    "47"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "12",
+    "17",
+    "22",
+    "24",
+    "32",
+    "45"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 480294.85
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 16,
+      "valorPremio": 4761.94
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1315,
+      "valorPremio": 57.94
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "DUQUE DE CAXIAS, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 656,
+  "numeroConcursoAnterior": 655,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 657,
+  "numeroJogo": 18,
+  "observacao": "GANHADOR DA SENA 1º SORTEIO: CANTAGALO/RJ.\r\nACUMULADO DO 2º PARA O 1º SORTEIO: R$114.286,67.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 230000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "30/04/2003",
+  "dataProximoConcurso": "03/05/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "89",
+    "96",
+    "25",
+    "55",
+    "88",
+    "13",
+    "70",
+    "41",
+    "36",
+    "83",
+    "72",
+    "79",
+    "52",
+    "32",
+    "48",
+    "73",
+    "31",
+    "05",
+    "19",
+    "76"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "13",
+    "19",
+    "25",
+    "31",
+    "32",
+    "36",
+    "41",
+    "48",
+    "52",
+    "55",
+    "70",
+    "72",
+    "73",
+    "76",
+    "79",
+    "83",
+    "88",
+    "89",
+    "96"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2382382.97
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 18,
+      "valorPremio": 23619.8
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 239,
+      "valorPremio": 1778.9
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2255,
+      "valorPremio": 93.92
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 13342,
+      "valorPremio": 15.88
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Morretes, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 311,
+  "numeroConcursoAnterior": 310,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 312,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios próximo concurso - (VINTE ACERTOS): R$550.000,00 - (ZERO ACERTOS): R$400.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

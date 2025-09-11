@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "13/11/2018",
+  "dataProximoConcurso": "14/11/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "42",
+    "29",
+    "45",
+    "59",
+    "32"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "29",
+    "32",
+    "42",
+    "45",
+    "59"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 56,
+      "valorPremio": 5836.58
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3996,
+      "valorPremio": 122.99
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 98391,
+      "valorPremio": 2.74
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "NAZARÉ PAULISTA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4825,
+  "numeroConcursoAnterior": 4824,
+  "numeroConcursoFinal_0_5": 4835,
+  "numeroConcursoProximo": 4826,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5669080.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 43723982.52,
+  "valorAcumuladoProximoConcurso": 602088.88,
+  "valorEstimadoProximoConcurso": 1300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

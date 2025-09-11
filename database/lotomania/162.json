@@ -1,0 +1,138 @@
+{
+  "acumulado": false,
+  "dataApuracao": "31/10/2001",
+  "dataProximoConcurso": "03/11/2001",
+  "dezenasSorteadasOrdemSorteio": [
+    "25",
+    "98",
+    "91",
+    "01",
+    "08",
+    "18",
+    "49",
+    "29",
+    "83",
+    "81",
+    "61",
+    "80",
+    "70",
+    "12",
+    "95",
+    "62",
+    "74",
+    "86",
+    "27",
+    "41"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "08",
+    "12",
+    "18",
+    "25",
+    "27",
+    "29",
+    "41",
+    "49",
+    "61",
+    "62",
+    "70",
+    "74",
+    "80",
+    "81",
+    "83",
+    "86",
+    "91",
+    "95",
+    "98"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 393106.25
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 11,
+      "valorPremio": 32915.24
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 189,
+      "valorPremio": 1915.7
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1662,
+      "valorPremio": 108.51
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 9889,
+      "valorPremio": 18.25
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 196553.14
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Juazeiro do Norte, CE",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 162,
+  "numeroConcursoAnterior": 161,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 163,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio próximo concurso: (20 acertos) R$ 500.000,00 - (ZERO acerto) R$ 200.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

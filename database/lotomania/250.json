@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "18/09/2002",
+  "dataProximoConcurso": "21/09/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "14",
+    "50",
+    "95",
+    "57",
+    "25",
+    "92",
+    "97",
+    "38",
+    "64",
+    "85",
+    "09",
+    "07",
+    "42",
+    "91",
+    "99",
+    "65",
+    "48",
+    "55",
+    "67",
+    "59"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "09",
+    "14",
+    "25",
+    "38",
+    "42",
+    "48",
+    "50",
+    "55",
+    "57",
+    "59",
+    "64",
+    "65",
+    "67",
+    "85",
+    "91",
+    "92",
+    "95",
+    "97",
+    "99"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "AM"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 660255.35
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 27,
+      "valorPremio": 15306.63
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 369,
+      "valorPremio": 1120.0
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 3010,
+      "valorPremio": 68.39
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 17641,
+      "valorPremio": 11.68
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1273297.62
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Assis, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 250,
+  "numeroConcursoAnterior": 249,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 251,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios para o próximo concurso ( 20 ACERTOS ): R$600.000,00 - (ZERO ACERTO): R$200.000,00. O ganhador da faixa ZERO ACERTO é de SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

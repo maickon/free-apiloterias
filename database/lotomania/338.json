@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "02/08/2003",
+  "dataProximoConcurso": "06/08/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "04",
+    "06",
+    "73",
+    "45",
+    "89",
+    "27",
+    "43",
+    "93",
+    "97",
+    "69",
+    "44",
+    "18",
+    "70",
+    "56",
+    "26",
+    "54",
+    "08",
+    "62",
+    "57",
+    "74"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "06",
+    "08",
+    "18",
+    "26",
+    "27",
+    "43",
+    "44",
+    "45",
+    "54",
+    "56",
+    "57",
+    "62",
+    "69",
+    "70",
+    "73",
+    "74",
+    "89",
+    "93",
+    "97"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    },
+    {
+      "ganhadores": 2,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 212102.05
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 16,
+      "valorPremio": 26512.76
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 237,
+      "valorPremio": 1789.89
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2314,
+      "valorPremio": 91.32
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 13244,
+      "valorPremio": 15.95
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 399771.75
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Salvador, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 338,
+  "numeroConcursoAnterior": 337,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 339,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de Prêmios próximo concurso: (20 ACERTOS) R$550.000,00 - (ZERO ACERTO) R$200.000,00. Ganhadores (zero acerto) por Estado: SP(1).",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

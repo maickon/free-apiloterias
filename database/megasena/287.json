@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "15/08/2001",
+  "dataProximoConcurso": "18/08/2001",
+  "dezenasSorteadasOrdemSorteio": [
+    "60",
+    "47",
+    "03",
+    "33",
+    "25",
+    "13"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "13",
+    "25",
+    "33",
+    "47",
+    "60"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "TO"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1931474.8
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 110,
+      "valorPremio": 4034.34
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5633,
+      "valorPremio": 78.49
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Maringá, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 287,
+  "numeroConcursoAnterior": 286,
+  "numeroConcursoFinal_0_5": 290,
+  "numeroConcursoProximo": 288,
+  "numeroJogo": 2,
+  "observacao": "Estimativa prêmio próximo concurso (sena): R$ 1 MILHÃO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 6534736.88,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

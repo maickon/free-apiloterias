@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "22/04/2008",
+  "dataProximoConcurso": "25/04/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "07",
+    "20",
+    "12",
+    "43",
+    "16",
+    "40",
+    "17",
+    "44",
+    "37",
+    "23",
+    "38",
+    "09"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "12",
+    "16",
+    "20",
+    "40",
+    "43"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "09",
+    "17",
+    "23",
+    "37",
+    "38",
+    "44"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 38,
+      "valorPremio": 2157.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1456,
+      "valorPremio": 56.3
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "NOVA VENÉCIA, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 650,
+  "numeroConcursoAnterior": 649,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 651,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1988482.87,
+  "valorEstimadoProximoConcurso": 2150000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

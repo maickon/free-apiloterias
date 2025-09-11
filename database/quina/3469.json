@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "19/04/2014",
+  "dataProximoConcurso": "22/04/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "15",
+    "36",
+    "63",
+    "52",
+    "51"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "15",
+    "36",
+    "51",
+    "52",
+    "63"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 80,
+      "valorPremio": 4327.85
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4471,
+      "valorPremio": 110.62
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PINHEIRAL, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3469,
+  "numeroConcursoAnterior": 3468,
+  "numeroConcursoFinal_0_5": 3475,
+  "numeroConcursoProximo": 3470,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4494507.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 69947405.96,
+  "valorAcumuladoProximoConcurso": 972617.82,
+  "valorEstimadoProximoConcurso": 1500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

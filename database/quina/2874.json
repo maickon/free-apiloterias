@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "16/04/2012",
+  "dataProximoConcurso": "17/04/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "23",
+    "48",
+    "53",
+    "71",
+    "16"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "16",
+    "23",
+    "48",
+    "53",
+    "71"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 82,
+      "valorPremio": 4410.4
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6011,
+      "valorPremio": 85.95
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ITAPEMA, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2874,
+  "numeroConcursoAnterior": 2873,
+  "numeroConcursoFinal_0_5": 2875,
+  "numeroConcursoProximo": 2875,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4694751.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 60997590.67,
+  "valorAcumuladoProximoConcurso": 987961.32,
+  "valorEstimadoProximoConcurso": 1500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

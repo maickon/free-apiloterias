@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "27/06/2012",
+  "dataProximoConcurso": "30/06/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "12",
+    "11",
+    "54",
+    "33",
+    "48",
+    "25"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "12",
+    "25",
+    "33",
+    "48",
+    "54"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "NAVIRAÍ",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MS"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 25157779.26
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 233,
+      "valorPremio": 10387.41
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 11965,
+      "valorPremio": 288.96
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PARAUAPEBAS, PA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1401,
+  "numeroConcursoAnterior": 1400,
+  "numeroConcursoFinal_0_5": 1405,
+  "numeroConcursoProximo": 1402,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 41339942.0,
+  "valorAcumuladoConcurso_0_5": 5339735.47,
+  "valorAcumuladoConcursoEspecial": 24851466.86,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

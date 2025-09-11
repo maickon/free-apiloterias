@@ -1,0 +1,98 @@
+{
+  "acumulado": true,
+  "dataApuracao": "05/10/2012",
+  "dataProximoConcurso": "09/10/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "01",
+    "22",
+    "34",
+    "24",
+    "31",
+    "39",
+    "48",
+    "47",
+    "29",
+    "08",
+    "18",
+    "06"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "22",
+    "24",
+    "31",
+    "34",
+    "39"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "06",
+    "08",
+    "18",
+    "29",
+    "47",
+    "48"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 22,
+      "valorPremio": 5959.92
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1531,
+      "valorPremio": 81.56
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 40,
+      "valorPremio": 3277.96
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2323,
+      "valorPremio": 53.75
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SÃO MARCOS, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1113,
+  "numeroConcursoAnterior": 1112,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1114,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2836821.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1633827.23,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

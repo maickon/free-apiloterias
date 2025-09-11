@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "15/10/2012",
+  "dataProximoConcurso": "16/10/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "49",
+    "59",
+    "79",
+    "27",
+    "12"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "12",
+    "27",
+    "49",
+    "59",
+    "79"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 104,
+      "valorPremio": 4489.71
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7325,
+      "valorPremio": 91.06
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SANTA CRUZ DO SUL, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3020,
+  "numeroConcursoAnterior": 3019,
+  "numeroConcursoFinal_0_5": 3025,
+  "numeroConcursoProximo": 3021,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6061383.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 23273081.12,
+  "valorAcumuladoProximoConcurso": 2366960.61,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

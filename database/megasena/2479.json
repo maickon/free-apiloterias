@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "07/05/2022",
+  "dataProximoConcurso": "11/05/2022",
+  "dezenasSorteadasOrdemSorteio": [
+    "21",
+    "10",
+    "35",
+    "20",
+    "17",
+    "15"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "15",
+    "17",
+    "20",
+    "21",
+    "35"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "VASSOURAS",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 4456908.1
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 90,
+      "valorPremio": 26882.94
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5989,
+      "valorPremio": 577.12
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO DA SORTE",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "numero": 2479,
+  "numeroConcursoAnterior": 2478,
+  "numeroConcursoFinal_0_5": 2480,
+  "numeroConcursoProximo": 2480,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 41964156.0,
+  "valorAcumuladoConcurso_0_5": 20612617.77,
+  "valorAcumuladoConcursoEspecial": 47057376.54,
+  "valorAcumuladoProximoConcurso": 20612617.77,
+  "valorEstimadoProximoConcurso": 27000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

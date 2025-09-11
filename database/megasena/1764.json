@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "25/11/2015",
+  "dataProximoConcurso": "28/11/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "06",
+    "07",
+    "41",
+    "39",
+    "29",
+    "55"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "07",
+    "29",
+    "39",
+    "41",
+    "55"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "BRASÍLIA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "DF"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 205329753.89
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 401,
+      "valorPremio": 58622.54
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 33850,
+      "valorPremio": 992.09
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CANDIDO MOTA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1764,
+  "numeroConcursoAnterior": 1763,
+  "numeroConcursoFinal_0_5": 1765,
+  "numeroConcursoProximo": 1765,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 401527962.5,
+  "valorAcumuladoConcurso_0_5": 82827022.59,
+  "valorAcumuladoConcursoEspecial": 84935279.66,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 100000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

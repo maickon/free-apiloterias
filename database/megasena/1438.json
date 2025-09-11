@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "31/10/2012",
+  "dataProximoConcurso": "03/11/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "49",
+    "07",
+    "33",
+    "31",
+    "36",
+    "14"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "14",
+    "31",
+    "33",
+    "36",
+    "49"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 2,
+      "municipio": "SÃO PAULO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 19240377.33
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 712,
+      "valorPremio": 5654.86
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 19524,
+      "valorPremio": 294.6
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "MORUNGABA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1438,
+  "numeroConcursoAnterior": 1437,
+  "numeroConcursoFinal_0_5": 1440,
+  "numeroConcursoProximo": 1439,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 68771562.0,
+  "valorAcumuladoConcurso_0_5": 14726887.28,
+  "valorAcumuladoConcursoEspecial": 46675476.71,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

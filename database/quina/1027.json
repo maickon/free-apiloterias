@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "03/08/2002",
+  "dataProximoConcurso": "06/08/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "64",
+    "48",
+    "50",
+    "38",
+    "30"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "30",
+    "38",
+    "48",
+    "50",
+    "64"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 711821.96
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 217,
+      "valorPremio": 2003.52
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 11482,
+      "valorPremio": 50.3
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Salvador, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1027,
+  "numeroConcursoAnterior": 1026,
+  "numeroConcursoFinal_0_5": 1035,
+  "numeroConcursoProximo": 1028,
+  "numeroJogo": 3,
+  "observacao": "Estimativa de prêmio para o próximo concurso (quina): R$ 300 MIL. o ganhador da quina é de Suzano/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "20/08/2024",
+  "dataProximoConcurso": "22/08/2024",
+  "dezenasSorteadasOrdemSorteio": [
+    "51",
+    "31",
+    "20",
+    "38",
+    "34",
+    "42"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "20",
+    "31",
+    "34",
+    "38",
+    "42",
+    "51"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "VARZEA PAULISTA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 62156999.34
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 62,
+      "valorPremio": 58041.07
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3343,
+      "valorPremio": 1537.77
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO DA SORTE",
+  "nomeMunicipioUFSorteio": "SÃO PAULO,  SP",
+  "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "numero": 2764,
+  "numeroConcursoAnterior": 2763,
+  "numeroConcursoFinal_0_5": 2765,
+  "numeroConcursoProximo": 2765,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 62414625.0,
+  "valorAcumuladoConcurso_0_5": 19725936.28,
+  "valorAcumuladoConcursoEspecial": 91398374.21,
+  "valorAcumuladoProximoConcurso": 19725936.28,
+  "valorEstimadoProximoConcurso": 30000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

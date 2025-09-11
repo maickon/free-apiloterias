@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "04/10/2006",
+  "dataProximoConcurso": "07/10/2006",
+  "dezenasSorteadasOrdemSorteio": [
+    "13",
+    "59",
+    "37",
+    "56",
+    "03",
+    "47"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "13",
+    "37",
+    "47",
+    "56",
+    "59"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 34172202.25
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 134,
+      "valorPremio": 13835.88
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 9937,
+      "valorPremio": 185.88
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PORTO VELHO, RO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 804,
+  "numeroConcursoAnterior": 803,
+  "numeroConcursoFinal_0_5": 805,
+  "numeroConcursoProximo": 805,
+  "numeroJogo": 2,
+  "observacao": "Estimativa de prêmio (sena) para o próximo concurso, a ser realizado em 07/10/2006: R$11.000.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 9507695.19,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

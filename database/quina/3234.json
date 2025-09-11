@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "09/07/2013",
+  "dataProximoConcurso": "10/07/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "59",
+    "14",
+    "48",
+    "60",
+    "68"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "14",
+    "48",
+    "59",
+    "60",
+    "68"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 42,
+      "valorPremio": 6352.16
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3067,
+      "valorPremio": 124.26
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ARAGARÇAS, GO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3234,
+  "numeroConcursoAnterior": 3233,
+  "numeroConcursoFinal_0_5": 3235,
+  "numeroConcursoProximo": 3235,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 3463310.25,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 2993114.24,
+  "valorAcumuladoProximoConcurso": 373507.22,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

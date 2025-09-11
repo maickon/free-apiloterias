@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "30/03/2002",
+  "dataProximoConcurso": "03/04/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "39",
+    "26",
+    "61",
+    "07",
+    "81",
+    "82",
+    "45",
+    "96",
+    "73",
+    "11",
+    "85",
+    "56",
+    "70",
+    "80",
+    "64",
+    "09",
+    "62",
+    "60",
+    "05",
+    "15"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "07",
+    "09",
+    "11",
+    "15",
+    "26",
+    "39",
+    "45",
+    "56",
+    "60",
+    "61",
+    "62",
+    "64",
+    "70",
+    "73",
+    "80",
+    "81",
+    "82",
+    "85",
+    "96"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1017320.74
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 8,
+      "valorPremio": 43647.74
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 195,
+      "valorPremio": 1790.67
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1650,
+      "valorPremio": 105.42
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 10176,
+      "valorPremio": 17.1
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 339106.95
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Santo Antônio da Platina, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 202,
+  "numeroConcursoAnterior": 201,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 203,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios próximo concurso: (20 ACERTOS) R$550.000,00 - (ZERO ACERTO) R$200.000,00. Ganhador da faixa (zero acerto) é de SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

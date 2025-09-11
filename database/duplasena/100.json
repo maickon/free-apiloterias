@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "01/11/2002",
+  "dataProximoConcurso": "05/11/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "09",
+    "22",
+    "11",
+    "26",
+    "47",
+    "33",
+    "04",
+    "39",
+    "33",
+    "26",
+    "12",
+    "02"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "11",
+    "22",
+    "26",
+    "33",
+    "47"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "02",
+    "04",
+    "12",
+    "26",
+    "33",
+    "39"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 25,
+      "valorPremio": 3127.28
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1292,
+      "valorPremio": 60.29
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Juazeiro do Norte, CE",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 100,
+  "numeroConcursoAnterior": 99,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 101,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$700.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 555696.93,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

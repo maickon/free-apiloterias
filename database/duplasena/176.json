@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "05/08/2003",
+  "dataProximoConcurso": "08/08/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "46",
+    "21",
+    "22",
+    "09",
+    "29",
+    "19",
+    "39",
+    "31",
+    "10",
+    "48",
+    "06",
+    "27"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "19",
+    "21",
+    "22",
+    "29",
+    "46"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "06",
+    "10",
+    "27",
+    "31",
+    "39",
+    "48"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 21,
+      "valorPremio": 4517.99
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1064,
+      "valorPremio": 88.84
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Senhor do Bonfim, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 176,
+  "numeroConcursoAnterior": 175,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 177,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$2.100.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1921864.16,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

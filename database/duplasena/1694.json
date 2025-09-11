@@ -1,0 +1,119 @@
+{
+  "acumulado": true,
+  "dataApuracao": "16/09/2017",
+  "dataProximoConcurso": "19/09/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "41",
+    "10",
+    "20",
+    "44",
+    "09",
+    "01",
+    "31",
+    "32",
+    "08",
+    "20",
+    "12",
+    "15"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "09",
+    "10",
+    "20",
+    "41",
+    "44"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "08",
+    "12",
+    "15",
+    "20",
+    "31",
+    "32"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "CANOAS",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "RS"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 10,
+      "valorPremio": 6681.64
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 873,
+      "valorPremio": 87.47
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 17899,
+      "valorPremio": 2.13
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 73497.97
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 21,
+      "valorPremio": 2863.56
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 864,
+      "valorPremio": 88.38
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 8,
+      "numeroDeGanhadores": 16849,
+      "valorPremio": 2.26
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "ITUIUTABA, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1694,
+  "numeroConcursoAnterior": 1693,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1695,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2201926.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 6004331.11,
+  "valorAcumuladoProximoConcurso": 2277141.56,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "14/11/2012",
+  "dataProximoConcurso": "16/11/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "43",
+    "26",
+    "50",
+    "19",
+    "42"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "19",
+    "26",
+    "42",
+    "43",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 149,
+      "valorPremio": 2414.23
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5472,
+      "valorPremio": 93.91
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CASCAVEL, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3045,
+  "numeroConcursoAnterior": 3044,
+  "numeroConcursoFinal_0_5": 3055,
+  "numeroConcursoProximo": 3046,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4669671.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 29854809.51,
+  "valorAcumuladoProximoConcurso": 503609.48,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

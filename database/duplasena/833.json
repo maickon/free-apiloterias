@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "29/01/2010",
+  "dataProximoConcurso": "02/02/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "17",
+    "08",
+    "40",
+    "24",
+    "30",
+    "34",
+    "19",
+    "18",
+    "32",
+    "41",
+    "37",
+    "50"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "17",
+    "24",
+    "30",
+    "34",
+    "40"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "18",
+    "19",
+    "32",
+    "37",
+    "41",
+    "50"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 20,
+      "valorPremio": 5154.24
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1296,
+      "valorPremio": 113.62
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CERQUEIRA CÉSAR, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 833,
+  "numeroConcursoAnterior": 832,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 834,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1672726.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1373793.75,
+  "valorEstimadoProximoConcurso": 1500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

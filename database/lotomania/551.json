@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "10/09/2005",
+  "dataProximoConcurso": "14/09/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "38",
+    "57",
+    "44",
+    "54",
+    "10",
+    "52",
+    "51",
+    "19",
+    "48",
+    "61",
+    "84",
+    "11",
+    "94",
+    "87",
+    "47",
+    "55",
+    "17",
+    "79",
+    "42",
+    "39"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "11",
+    "17",
+    "19",
+    "38",
+    "39",
+    "42",
+    "44",
+    "47",
+    "48",
+    "51",
+    "52",
+    "54",
+    "55",
+    "57",
+    "61",
+    "79",
+    "84",
+    "87",
+    "94"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2378071.14
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 14,
+      "valorPremio": 29281.34
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 263,
+      "valorPremio": 1558.7
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2166,
+      "valorPremio": 94.28
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 13505,
+      "valorPremio": 15.13
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 204969.38
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SÃO LUIS, MA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 551,
+  "numeroConcursoAnterior": 550,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 552,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 acertos) para o próximo concurso, a ser realizado em 14/09/2005: R$400.000,00. Ganhador de zero acerto: PI.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

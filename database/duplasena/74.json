@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "02/08/2002",
+  "dataProximoConcurso": "06/08/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "16",
+    "28",
+    "07",
+    "12",
+    "46",
+    "15",
+    "13",
+    "04",
+    "15",
+    "39",
+    "27",
+    "24"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "12",
+    "15",
+    "16",
+    "28",
+    "46"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "04",
+    "13",
+    "15",
+    "24",
+    "27",
+    "39"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 23,
+      "valorPremio": 3860.5
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1813,
+      "valorPremio": 48.8
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Salvador, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 74,
+  "numeroConcursoAnterior": 73,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 75,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$1.600.000,00",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1471464.41,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

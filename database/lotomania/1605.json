@@ -1,0 +1,138 @@
+{
+  "acumulado": false,
+  "dataApuracao": "07/11/2015",
+  "dataProximoConcurso": "11/11/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "24",
+    "45",
+    "32",
+    "52",
+    "39",
+    "57",
+    "35",
+    "18",
+    "54",
+    "96",
+    "40",
+    "15",
+    "60",
+    "58",
+    "03",
+    "48",
+    "31",
+    "37",
+    "55",
+    "59"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "15",
+    "18",
+    "24",
+    "31",
+    "32",
+    "35",
+    "37",
+    "39",
+    "40",
+    "45",
+    "48",
+    "52",
+    "54",
+    "55",
+    "57",
+    "58",
+    "59",
+    "60",
+    "96"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "BELO HORIZONTE",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "MG"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "ANANINDEUA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PA"
+    },
+    {
+      "ganhadores": 2,
+      "municipio": "VOLTA REDONDA",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1354420.97
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 49,
+      "valorPremio": 4961.07
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1108,
+      "valorPremio": 313.42
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2780,
+      "valorPremio": 54.65
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 13535,
+      "valorPremio": 11.22
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 40515.4
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PRESIDENTE FIGUEIREDO, AM",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1605,
+  "numeroConcursoAnterior": 1604,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1606,
+  "numeroJogo": 16,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4930737.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 17611351.85,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

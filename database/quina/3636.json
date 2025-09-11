@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "10/11/2014",
+  "dataProximoConcurso": "11/11/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "59",
+    "09",
+    "72",
+    "42",
+    "12"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "12",
+    "42",
+    "59",
+    "72"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 85,
+      "valorPremio": 5496.07
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5446,
+      "valorPremio": 122.54
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "REALEZA, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3636,
+  "numeroConcursoAnterior": 3635,
+  "numeroConcursoFinal_0_5": 3645,
+  "numeroConcursoProximo": 3637,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6064452.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 38831387.21,
+  "valorAcumuladoProximoConcurso": 1249228.99,
+  "valorEstimadoProximoConcurso": 1900000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

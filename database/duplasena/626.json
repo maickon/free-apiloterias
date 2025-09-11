@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "22/01/2008",
+  "dataProximoConcurso": "25/01/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "19",
+    "04",
+    "45",
+    "14",
+    "08",
+    "15",
+    "21",
+    "11",
+    "44",
+    "19",
+    "05",
+    "42"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "08",
+    "14",
+    "15",
+    "19",
+    "45"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "05",
+    "11",
+    "19",
+    "21",
+    "42",
+    "44"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 2,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PE"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 686145.53
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 53,
+      "valorPremio": 1989.29
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1898,
+      "valorPremio": 55.55
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "São João da Barra, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 626,
+  "numeroConcursoAnterior": 625,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 627,
+  "numeroJogo": 18,
+  "observacao": "Ganhadores da sena do 1º sorteio: Jaqueira/PE e Quipapá/PE.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

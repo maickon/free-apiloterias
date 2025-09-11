@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "15/09/2012",
+  "dataProximoConcurso": "17/09/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "32",
+    "39",
+    "72",
+    "17",
+    "55"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "17",
+    "32",
+    "39",
+    "55",
+    "72"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 86,
+      "valorPremio": 4009.98
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5571,
+      "valorPremio": 88.43
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "DIAMANTINA, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2996,
+  "numeroConcursoAnterior": 2995,
+  "numeroConcursoFinal_0_5": 3005,
+  "numeroConcursoProximo": 2997,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4476736.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 16868068.58,
+  "valorAcumuladoProximoConcurso": 482802.09,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

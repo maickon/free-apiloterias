@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "16/08/2002",
+  "dataProximoConcurso": "20/08/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "06",
+    "42",
+    "21",
+    "41",
+    "45",
+    "08",
+    "33",
+    "43",
+    "12",
+    "49",
+    "36",
+    "19"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "08",
+    "21",
+    "41",
+    "42",
+    "45"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "12",
+    "19",
+    "33",
+    "36",
+    "43",
+    "49"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 37,
+      "valorPremio": 2670.86
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1652,
+      "valorPremio": 59.6
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Olimpia, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 78,
+  "numeroConcursoAnterior": 77,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 79,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$2.500.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 2337253.41,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

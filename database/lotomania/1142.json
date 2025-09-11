@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "21/05/2011",
+  "dataProximoConcurso": "25/05/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "51",
+    "63",
+    "91",
+    "86",
+    "23",
+    "49",
+    "15",
+    "45",
+    "83",
+    "71",
+    "31",
+    "70",
+    "50",
+    "09",
+    "94",
+    "01",
+    "75",
+    "79",
+    "44",
+    "37"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "09",
+    "15",
+    "23",
+    "31",
+    "37",
+    "44",
+    "45",
+    "49",
+    "50",
+    "51",
+    "63",
+    "70",
+    "71",
+    "75",
+    "79",
+    "83",
+    "86",
+    "91",
+    "94"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SANTANA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1084044.08
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 22,
+      "valorPremio": 15165.3
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 218,
+      "valorPremio": 1530.44
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1620,
+      "valorPremio": 147.1
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 8700,
+      "valorPremio": 27.39
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "VITÓRIA DA CONQUISTA, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1142,
+  "numeroConcursoAnterior": 1141,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1143,
+  "numeroJogo": 16,
+  "observacao": "NESTE CONCURSO NÃO TEVE GANHADOR DE ZERO ACERTO. PORTANTO, O VALOR FICOU ACUMULADO PARA PRÊMIO DE 20 ACERTOS DO PRÓXIMO CONCURSO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5413824.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "20/02/2009",
+  "dataProximoConcurso": "27/02/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "11",
+    "50",
+    "22",
+    "14",
+    "39",
+    "27",
+    "44",
+    "48",
+    "33",
+    "03",
+    "41",
+    "49"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "14",
+    "22",
+    "27",
+    "39",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "03",
+    "33",
+    "41",
+    "44",
+    "48",
+    "49"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 531459.86
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 31,
+      "valorPremio": 3035.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1738,
+      "valorPremio": 54.14
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ARACATI, CE",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 737,
+  "numeroConcursoAnterior": 736,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 738,
+  "numeroJogo": 18,
+  "observacao": "Ganhador da Sena do 1º Sorteio: Marília/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 250000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

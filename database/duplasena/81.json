@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "27/08/2002",
+  "dataProximoConcurso": "30/08/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "39",
+    "04",
+    "31",
+    "32",
+    "38",
+    "16",
+    "26",
+    "32",
+    "19",
+    "35",
+    "15",
+    "12"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "16",
+    "31",
+    "32",
+    "38",
+    "39"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "12",
+    "15",
+    "19",
+    "26",
+    "32",
+    "35"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 163808.81
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 31,
+      "valorPremio": 3522.77
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1651,
+      "valorPremio": 65.9
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Curitiba, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 81,
+  "numeroConcursoAnterior": 80,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 82,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$3.300.000,00. O ganhador da sena-2ºsorteio é de SE.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 3072038.96,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

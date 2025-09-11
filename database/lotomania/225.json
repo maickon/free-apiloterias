@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "22/06/2002",
+  "dataProximoConcurso": "26/06/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "41",
+    "34",
+    "15",
+    "64",
+    "78",
+    "14",
+    "44",
+    "54",
+    "23",
+    "49",
+    "36",
+    "33",
+    "32",
+    "03",
+    "66",
+    "65",
+    "60",
+    "29",
+    "16",
+    "99"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "14",
+    "15",
+    "16",
+    "23",
+    "29",
+    "32",
+    "33",
+    "34",
+    "36",
+    "41",
+    "44",
+    "49",
+    "54",
+    "60",
+    "64",
+    "65",
+    "66",
+    "78",
+    "99"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1083209.79
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 25,
+      "valorPremio": 16284.41
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 338,
+      "valorPremio": 1204.47
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 3145,
+      "valorPremio": 64.49
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 18440,
+      "valorPremio": 11.0
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Caruaru, PE",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 225,
+  "numeroConcursoAnterior": 224,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 226,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios próximo concurso (VINTE ACERTOS): R$500.000,00 - (ZERO ACERTO): R$500.000,00. O ganhador com VINTE ACERTOS é de ANTONINA/PR.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

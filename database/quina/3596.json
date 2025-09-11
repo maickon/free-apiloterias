@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "24/09/2014",
+  "dataProximoConcurso": "25/09/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "30",
+    "50",
+    "13",
+    "47",
+    "78"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "13",
+    "30",
+    "47",
+    "50",
+    "78"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 75,
+      "valorPremio": 6566.6
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4902,
+      "valorPremio": 143.52
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PINHEIROS, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3596,
+  "numeroConcursoAnterior": 3595,
+  "numeroConcursoFinal_0_5": 3605,
+  "numeroConcursoProximo": 3597,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6393260.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 26266866.95,
+  "valorAcumuladoProximoConcurso": 1237502.26,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "13/11/2002",
+  "dataProximoConcurso": "16/11/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "69",
+    "93",
+    "17",
+    "36",
+    "83",
+    "78",
+    "38",
+    "19",
+    "13",
+    "20",
+    "12",
+    "99",
+    "62",
+    "48",
+    "29",
+    "97",
+    "80",
+    "74",
+    "76",
+    "14"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "12",
+    "13",
+    "14",
+    "17",
+    "19",
+    "20",
+    "29",
+    "36",
+    "38",
+    "48",
+    "62",
+    "69",
+    "74",
+    "76",
+    "78",
+    "80",
+    "83",
+    "93",
+    "97",
+    "99"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 7210352.79
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 38,
+      "valorPremio": 15658.04
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 415,
+      "valorPremio": 1433.75
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 3838,
+      "valorPremio": 77.23
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 21658,
+      "valorPremio": 13.69
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Pato Branco, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 266,
+  "numeroConcursoAnterior": 265,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 267,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios próximo concurso - (20 ACERTOS):550.000,00 - (ZERO ACERTO):R$500.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "15/01/2008",
+  "dataProximoConcurso": "18/01/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "37",
+    "24",
+    "30",
+    "33",
+    "06",
+    "41",
+    "10",
+    "38",
+    "19",
+    "50",
+    "49",
+    "20"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "24",
+    "30",
+    "33",
+    "37",
+    "41"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "10",
+    "19",
+    "20",
+    "38",
+    "49",
+    "50"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 43,
+      "valorPremio": 2216.76
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1422,
+      "valorPremio": 67.04
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Aracaju, SE",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 624,
+  "numeroConcursoAnterior": 623,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 625,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1046666.93,
+  "valorEstimadoProximoConcurso": 1200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

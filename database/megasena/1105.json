@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "02/09/2009",
+  "dataProximoConcurso": "05/09/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "43",
+    "01",
+    "50",
+    "28",
+    "57",
+    "15"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "15",
+    "28",
+    "43",
+    "50",
+    "57"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "TERRA ROXA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 21878202.24
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 135,
+      "valorPremio": 15350.38
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7144,
+      "valorPremio": 414.39
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "NOVO HAMBURGO, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1105,
+  "numeroConcursoAnterior": 1104,
+  "numeroConcursoFinal_0_5": 1110,
+  "numeroConcursoProximo": 1106,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 35396452.0,
+  "valorAcumuladoConcurso_0_5": 2399506.84,
+  "valorAcumuladoConcursoEspecial": 34770242.31,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

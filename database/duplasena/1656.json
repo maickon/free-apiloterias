@@ -1,0 +1,119 @@
+{
+  "acumulado": true,
+  "dataApuracao": "17/06/2017",
+  "dataProximoConcurso": "20/06/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "42",
+    "07",
+    "20",
+    "24",
+    "47",
+    "29",
+    "50",
+    "40",
+    "18",
+    "25",
+    "05",
+    "04"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "20",
+    "24",
+    "29",
+    "42",
+    "47"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "04",
+    "05",
+    "18",
+    "25",
+    "40",
+    "50"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "LUCAS DO RIO VERDE",
+      "nomeFatansiaUL": "",
+      "posicao": 2,
+      "serie": "",
+      "uf": "MT"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 46,
+      "valorPremio": 1391.61
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1229,
+      "valorPremio": 59.52
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 17794,
+      "valorPremio": 2.05
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 70415.42
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 21,
+      "valorPremio": 2743.46
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 994,
+      "valorPremio": 73.6
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 8,
+      "numeroDeGanhadores": 19155,
+      "valorPremio": 1.9
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "CONCEIÇÃO DO MATO DENTRO, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1656,
+  "numeroConcursoAnterior": 1655,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1657,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2109576.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 2154895.15,
+  "valorAcumuladoProximoConcurso": 1083046.88,
+  "valorEstimadoProximoConcurso": 1300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "26/05/2014",
+  "dataProximoConcurso": "27/05/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "51",
+    "36",
+    "41",
+    "66",
+    "77"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "36",
+    "41",
+    "51",
+    "66",
+    "77"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 49,
+      "valorPremio": 10584.27
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4255,
+      "valorPremio": 174.12
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "DOURADOS, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3498,
+  "numeroConcursoAnterior": 3497,
+  "numeroConcursoFinal_0_5": 3505,
+  "numeroConcursoProximo": 3499,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6732516.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 78092400.65,
+  "valorAcumuladoProximoConcurso": 1896356.57,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

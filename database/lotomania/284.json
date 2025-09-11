@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "22/01/2003",
+  "dataProximoConcurso": "25/01/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "71",
+    "31",
+    "35",
+    "33",
+    "47",
+    "81",
+    "82",
+    "14",
+    "61",
+    "01",
+    "51",
+    "69",
+    "07",
+    "29",
+    "91",
+    "17",
+    "26",
+    "36",
+    "48",
+    "23"
+  ],
+  "exibirDetalhamentoPorCidade": false,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "07",
+    "14",
+    "17",
+    "23",
+    "26",
+    "29",
+    "31",
+    "33",
+    "35",
+    "36",
+    "47",
+    "48",
+    "51",
+    "61",
+    "69",
+    "71",
+    "81",
+    "82",
+    "91"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 1604645.58
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 33,
+      "valorPremio": 13304.11
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 492,
+      "valorPremio": 892.35
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 4112,
+      "valorPremio": 53.19
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 22697,
+      "valorPremio": 9.64
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 891423.84
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Caldas Novas, GO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 284,
+  "numeroConcursoAnterior": 283,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 285,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios (VINTE ACERTOS): R$600.000,00 -(ZERO ACERTO): R$200.000,00. O ganhador com ZERO ACERTO deste concurso é de São Paulo.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

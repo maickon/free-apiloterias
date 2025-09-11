@@ -1,0 +1,107 @@
+{
+  "acumulado": false,
+  "dataApuracao": "16/09/2011",
+  "dataProximoConcurso": "20/09/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "06",
+    "30",
+    "18",
+    "19",
+    "48",
+    "37",
+    "19",
+    "33",
+    "27",
+    "35",
+    "18",
+    "43"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "18",
+    "19",
+    "30",
+    "37",
+    "48"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "18",
+    "19",
+    "27",
+    "33",
+    "35",
+    "43"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SUZANO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2539188.93
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 35,
+      "valorPremio": 3711.21
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 2035,
+      "valorPremio": 60.78
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 44,
+      "valorPremio": 2952.1
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2600,
+      "valorPremio": 47.57
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ALEGRETE, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1003,
+  "numeroConcursoAnterior": 1002,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1004,
+  "numeroJogo": 18,
+  "observacao": "O PRÊMIO DO 2º SORTEIO FICA ACUMULADO PARA A SENA DO 1º SORTEIO DO PRÓXIMO CONCURSO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2810300.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 173189.77,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

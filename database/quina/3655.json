@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "03/12/2014",
+  "dataProximoConcurso": "04/12/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "22",
+    "29",
+    "02",
+    "11",
+    "13"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "11",
+    "13",
+    "22",
+    "29"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 297,
+      "valorPremio": 1780.67
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 11966,
+      "valorPremio": 63.13
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "BARREIRINHAS, MA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3655,
+  "numeroConcursoAnterior": 3654,
+  "numeroConcursoFinal_0_5": 3665,
+  "numeroConcursoProximo": 3656,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6865306.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 44822091.02,
+  "valorAcumuladoProximoConcurso": 1331697.89,
+  "valorEstimadoProximoConcurso": 2200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

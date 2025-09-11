@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "20/08/2005",
+  "dataProximoConcurso": "24/08/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "83",
+    "94",
+    "18",
+    "57",
+    "00",
+    "34",
+    "35",
+    "47",
+    "12",
+    "45",
+    "07",
+    "84",
+    "58",
+    "37",
+    "24",
+    "46",
+    "89",
+    "85",
+    "68",
+    "44"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "00",
+    "07",
+    "12",
+    "18",
+    "24",
+    "34",
+    "35",
+    "37",
+    "44",
+    "45",
+    "46",
+    "47",
+    "57",
+    "58",
+    "68",
+    "83",
+    "84",
+    "85",
+    "89",
+    "94"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MA"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 196446.68
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 13,
+      "valorPremio": 20148.38
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 190,
+      "valorPremio": 1378.58
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1700,
+      "valorPremio": 76.75
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 10523,
+      "valorPremio": 12.4
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Auditório",
+  "nomeMunicipioUFSorteio": "Brasília, DF",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 546,
+  "numeroConcursoAnterior": 545,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 547,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 acertos) para o próximo concurso, a ser realizado em 24/08/2005: R$500.000,00. Acumulado de zero acerto para vinte acertos: R$130.964,47.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

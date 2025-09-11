@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "13/02/2007",
+  "dataProximoConcurso": "16/02/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "02",
+    "45",
+    "17",
+    "21",
+    "18",
+    "30",
+    "46",
+    "09",
+    "03",
+    "26",
+    "39",
+    "12"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "17",
+    "18",
+    "21",
+    "30",
+    "45"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "03",
+    "09",
+    "12",
+    "26",
+    "39",
+    "46"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 3677913.99
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 32,
+      "valorPremio": 3599.02
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1998,
+      "valorPremio": 57.43
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PORTO SEGURO, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 531,
+  "numeroConcursoAnterior": 530,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 532,
+  "numeroJogo": 18,
+  "observacao": "Estimativa prêmio (sena 1º sorteio) próximo concurso, a ser realizado em 16/02/2007: R$300.000,00. Acumulado do 2º para o 1º sorteio: R$172.753,05.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

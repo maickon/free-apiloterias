@@ -1,0 +1,107 @@
+{
+  "acumulado": false,
+  "dataApuracao": "31/05/2011",
+  "dataProximoConcurso": "03/06/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "45",
+    "04",
+    "19",
+    "47",
+    "34",
+    "11",
+    "17",
+    "49",
+    "27",
+    "26",
+    "08",
+    "03"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "11",
+    "19",
+    "34",
+    "45",
+    "47"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "03",
+    "08",
+    "17",
+    "26",
+    "27",
+    "49"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "BARUERI",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 3652332.64
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 88,
+      "valorPremio": 1744.49
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3796,
+      "valorPremio": 38.51
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 55,
+      "valorPremio": 2791.18
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 3398,
+      "valorPremio": 43.02
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "OEIRAS, PI",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 972,
+  "numeroConcursoAnterior": 971,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 973,
+  "numeroJogo": 18,
+  "observacao": "NESTE CONCURSO NÃO TEVE GANHADOR DO PRÊMIO DE 6 ACERTOS NO 2º SORTEIO. PORTANTO, O VALOR FICA ACUMULADO PARA O PRÓXIMO CONCURSO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 3321388.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 204686.49,
+  "valorEstimadoProximoConcurso": 400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

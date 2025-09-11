@@ -1,0 +1,87 @@
+{
+  "acumulado": true,
+  "dataApuracao": "15/10/2015",
+  "dataProximoConcurso": "17/10/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "04",
+    "27",
+    "31",
+    "50",
+    "08",
+    "12",
+    "02"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "04",
+    "08",
+    "12",
+    "27",
+    "31",
+    "50"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 20,
+      "valorPremio": 11211.57
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 639,
+      "valorPremio": 501.29
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 10016,
+      "valorPremio": 6.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 82411,
+      "valorPremio": 2.0
+    },
+    {
+      "descricaoFaixa": "Time do Coração",
+      "faixa": 6,
+      "numeroDeGanhadores": 15179,
+      "valorPremio": 5.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da sorte",
+  "nomeMunicipioUFSorteio": "MAIRINQUE, SP",
+  "nomeTimeCoracaoMesSorte": "TUNA LUSO/PA",
+  "numero": 790,
+  "numeroConcursoAnterior": 789,
+  "numeroConcursoFinal_0_5": 795,
+  "numeroConcursoProximo": 791,
+  "numeroJogo": 20,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "TIMEMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4135794.0,
+  "valorAcumuladoConcurso_0_5": 112115.67,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 16638142.43,
+  "valorEstimadoProximoConcurso": 17000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

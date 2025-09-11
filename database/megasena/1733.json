@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "15/08/2015",
+  "dataProximoConcurso": "19/08/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "05",
+    "09",
+    "41",
+    "14",
+    "03",
+    "46"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "05",
+    "09",
+    "14",
+    "41",
+    "46"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "BAIXO GUANDÚ",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "ES"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 3330428.53
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 63,
+      "valorPremio": 28697.57
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4818,
+      "valorPremio": 536.06
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "ARACRUZ, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1733,
+  "numeroConcursoAnterior": 1732,
+  "numeroConcursoFinal_0_5": 1735,
+  "numeroConcursoProximo": 1734,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 30881081.0,
+  "valorAcumuladoConcurso_0_5": 9452659.77,
+  "valorAcumuladoConcursoEspecial": 46144725.52,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

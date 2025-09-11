@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "21/12/2013",
+  "dataProximoConcurso": "31/12/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "37",
+    "58",
+    "12",
+    "29",
+    "08",
+    "16"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "12",
+    "16",
+    "29",
+    "37",
+    "58"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "OLÍMPIA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 51491466.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 317,
+      "valorPremio": 11729.76
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 16431,
+      "valorPremio": 323.28
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SIQUEIRA CAMPOS, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1559,
+  "numeroConcursoAnterior": 1558,
+  "numeroConcursoFinal_0_5": 1560,
+  "numeroConcursoProximo": 1560,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 63511922.0,
+  "valorAcumuladoConcurso_0_5": 79825384.73,
+  "valorAcumuladoConcursoEspecial": 79825384.73,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 200000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

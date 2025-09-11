@@ -1,0 +1,107 @@
+{
+  "acumulado": false,
+  "dataApuracao": "24/03/2015",
+  "dataProximoConcurso": "27/03/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "28",
+    "38",
+    "43",
+    "15",
+    "45",
+    "49",
+    "29",
+    "43",
+    "05",
+    "21",
+    "40",
+    "18"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "15",
+    "28",
+    "38",
+    "43",
+    "45",
+    "49"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "05",
+    "18",
+    "21",
+    "29",
+    "40",
+    "43"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SÃO PAULO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 3257802.35
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 65,
+      "valorPremio": 2616.08
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3576,
+      "valorPremio": 45.28
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 53,
+      "valorPremio": 3208.4
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 3056,
+      "valorPremio": 52.99
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PIRAJUÍ, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1370,
+  "numeroConcursoAnterior": 1369,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1371,
+  "numeroJogo": 18,
+  "observacao": "O ACUMULADO DA SENA DO 2ºSORTEIO (R$ 226.726,94) FICA ACUMULADO PARA SENA DO 1º SORTEIO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 3679032.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 226726.94,
+  "valorEstimadoProximoConcurso": 500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

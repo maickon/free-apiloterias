@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "15/11/2003",
+  "dataProximoConcurso": "19/11/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "79",
+    "46",
+    "23",
+    "21",
+    "14",
+    "37",
+    "52",
+    "17",
+    "91",
+    "28",
+    "81",
+    "49",
+    "45",
+    "56",
+    "12",
+    "89",
+    "73",
+    "09",
+    "03",
+    "63"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "09",
+    "12",
+    "14",
+    "17",
+    "21",
+    "23",
+    "28",
+    "37",
+    "45",
+    "46",
+    "49",
+    "52",
+    "56",
+    "63",
+    "73",
+    "79",
+    "81",
+    "89",
+    "91"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RS"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 619039.73
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 24,
+      "valorPremio": 12214.59
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 270,
+      "valorPremio": 1085.74
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2534,
+      "valorPremio": 57.64
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 13204,
+      "valorPremio": 11.06
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 146575.08
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SANTO ÂNGELO, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 368,
+  "numeroConcursoAnterior": 367,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 369,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 ACERTOS) próximo concurso: R$500.000,00. Ganhadores (zero acerto) por Estado: RJ(1).",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

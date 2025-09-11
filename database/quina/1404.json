@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "29/01/2005",
+  "dataProximoConcurso": "01/02/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "05",
+    "66",
+    "70",
+    "52",
+    "63"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "52",
+    "63",
+    "66",
+    "70"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 99,
+      "valorPremio": 3187.95
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4941,
+      "valorPremio": 84.85
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "RIO DE JANEIRO, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1404,
+  "numeroConcursoAnterior": 1403,
+  "numeroConcursoFinal_0_5": 1405,
+  "numeroConcursoProximo": 1405,
+  "numeroJogo": 3,
+  "observacao": "ACUMULOU!!! Estimativa de prêmio (quina) para o próximo concurso: R$700.000,00 (SETECENTOS MIL REAIS).",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 315607.25,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

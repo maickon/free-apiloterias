@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "19/04/2002",
+  "dataProximoConcurso": "23/04/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "28",
+    "09",
+    "35",
+    "45",
+    "03",
+    "15",
+    "03",
+    "42",
+    "33",
+    "04",
+    "45",
+    "30"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "09",
+    "15",
+    "28",
+    "35",
+    "45"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "03",
+    "04",
+    "30",
+    "33",
+    "42",
+    "45"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 420070.34
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 14,
+      "valorPremio": 5200.68
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 892,
+      "valorPremio": 81.31
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "JALES, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 44,
+  "numeroConcursoAnterior": 43,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 45,
+  "numeroJogo": 18,
+  "observacao": "Acumulado para SENA 1º SORTEIO: R$109.214,24. Estimativa de prêmio próximo concurso: R$220.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

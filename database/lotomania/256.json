@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "09/10/2002",
+  "dataProximoConcurso": "12/10/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "07",
+    "99",
+    "37",
+    "36",
+    "12",
+    "02",
+    "92",
+    "34",
+    "98",
+    "58",
+    "32",
+    "28",
+    "73",
+    "90",
+    "39",
+    "54",
+    "65",
+    "48",
+    "77",
+    "20"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "07",
+    "12",
+    "20",
+    "28",
+    "32",
+    "34",
+    "36",
+    "37",
+    "39",
+    "48",
+    "54",
+    "58",
+    "65",
+    "73",
+    "77",
+    "90",
+    "92",
+    "98",
+    "99"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 902760.25
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 31,
+      "valorPremio": 12840.32
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 378,
+      "valorPremio": 1053.04
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2762,
+      "valorPremio": 71.79
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 14518,
+      "valorPremio": 13.66
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 6,
+      "valorPremio": 33170.83
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Itabira, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 256,
+  "numeroConcursoAnterior": 255,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 257,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios próximo concurso: (20 ACERTOS) R$550.000,00 - (ZERO ACERTO) R$200.000,00. Os ganhadores da faixa (zero acerto) são de SP(2), MG, BA, RS e RJ.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

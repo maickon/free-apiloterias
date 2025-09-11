@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "23/11/2001",
+  "dataProximoConcurso": "27/11/2001",
+  "dezenasSorteadasOrdemSorteio": [
+    "16",
+    "14",
+    "31",
+    "13",
+    "41",
+    "09",
+    "02",
+    "31",
+    "42",
+    "35",
+    "36",
+    "47"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "13",
+    "14",
+    "16",
+    "31",
+    "41"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "02",
+    "31",
+    "35",
+    "36",
+    "42",
+    "47"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 16,
+      "valorPremio": 7283.67
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1160,
+      "valorPremio": 100.09
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "DOIS VIZINHOS, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 6,
+  "numeroConcursoAnterior": 5,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 7,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºsorteio) próximo concurso: R$ 2.200.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 2070565.76,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

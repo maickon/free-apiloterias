@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "12/05/2005",
+  "dataProximoConcurso": "14/05/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "10",
+    "52",
+    "73",
+    "02",
+    "27"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "10",
+    "27",
+    "52",
+    "73"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 117,
+      "valorPremio": 2587.95
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6762,
+      "valorPremio": 59.49
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Passos, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1446,
+  "numeroConcursoAnterior": 1445,
+  "numeroConcursoFinal_0_5": 1455,
+  "numeroConcursoProximo": 1447,
+  "numeroJogo": 3,
+  "observacao": "ACUMULOU!!! Estimativa de prêmio (QUINA) próximo concurso, a ser realizado em 14/05/2005: R$700.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 302789.41,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

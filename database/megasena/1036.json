@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "03/01/2009",
+  "dataProximoConcurso": "07/01/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "27",
+    "39",
+    "36",
+    "10",
+    "41",
+    "52"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "27",
+    "36",
+    "39",
+    "41",
+    "52"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 44550370.27
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 177,
+      "valorPremio": 23079.89
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 11703,
+      "valorPremio": 349.07
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "NOVA ANDRADINA, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1036,
+  "numeroConcursoAnterior": 1035,
+  "numeroConcursoFinal_0_5": 1040,
+  "numeroConcursoProximo": 1037,
+  "numeroJogo": 2,
+  "observacao": "GANHADOR DE 6 ACERTOS: SÃO JOÃO DEL REI/MG.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 9424387.17,
+  "valorAcumuladoConcursoEspecial": 2141906.21,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

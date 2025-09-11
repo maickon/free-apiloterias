@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "13/10/2009",
+  "dataProximoConcurso": "16/10/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "48",
+    "06",
+    "10",
+    "35",
+    "44",
+    "37",
+    "17",
+    "18",
+    "05",
+    "03",
+    "48",
+    "31"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "10",
+    "35",
+    "37",
+    "44",
+    "48"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "03",
+    "05",
+    "17",
+    "18",
+    "31",
+    "48"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 29,
+      "valorPremio": 3047.32
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1389,
+      "valorPremio": 90.89
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CHAPECÓ, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 802,
+  "numeroConcursoAnterior": 801,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 803,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1433993.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 2485911.68,
+  "valorEstimadoProximoConcurso": 2700000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

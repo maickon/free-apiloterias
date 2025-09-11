@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "07/01/2015",
+  "dataProximoConcurso": "10/01/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "84",
+    "06",
+    "45",
+    "75",
+    "73",
+    "51",
+    "03",
+    "42",
+    "70",
+    "44",
+    "99",
+    "32",
+    "64",
+    "37",
+    "69",
+    "13",
+    "82",
+    "19",
+    "56",
+    "50"
+  ],
+  "exibirDetalhamentoPorCidade": false,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "06",
+    "13",
+    "19",
+    "32",
+    "37",
+    "42",
+    "44",
+    "45",
+    "50",
+    "51",
+    "56",
+    "64",
+    "69",
+    "70",
+    "73",
+    "75",
+    "82",
+    "84",
+    "99"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "CUIABÁ",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MT"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "RIO DE JANEIRO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 447158.38
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 7,
+      "valorPremio": 32038.28
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 151,
+      "valorPremio": 1485.22
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1251,
+      "valorPremio": 112.04
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 7468,
+      "valorPremio": 18.76
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SANTA FÉ DO SUL, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1519,
+  "numeroConcursoAnterior": 1518,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1520,
+  "numeroJogo": 16,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4548913.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 20954247.71,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

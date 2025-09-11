@@ -1,0 +1,82 @@
+{
+  "acumulado": false,
+  "dataApuracao": "22/06/2002",
+  "dataProximoConcurso": "25/06/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "75",
+    "18",
+    "55",
+    "43",
+    "08"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "18",
+    "43",
+    "55",
+    "75"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MA"
+    },
+    {
+      "ganhadores": 2,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 107041.04
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 320,
+      "valorPremio": 1003.51
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 13513,
+      "valorPremio": 31.57
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Caruaru, PE",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1009,
+  "numeroConcursoAnterior": 1008,
+  "numeroConcursoFinal_0_5": 1015,
+  "numeroConcursoProximo": 1010,
+  "numeroJogo": 3,
+  "observacao": "Estimativa de prêmio ( QUINA ) próximo concurso: R$300.000,00. Os ganhadores da QUINA são de Amarante do Maranhão/MA, São Paulo/SP e Mauá/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

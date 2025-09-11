@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "09/01/2017",
+  "dataProximoConcurso": "10/01/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "18",
+    "14",
+    "17",
+    "30",
+    "40"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "14",
+    "17",
+    "18",
+    "30",
+    "40"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 88,
+      "valorPremio": 4698.57
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5736,
+      "valorPremio": 108.39
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 142529,
+      "valorPremio": 2.39
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "BELÉM, PA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4280,
+  "numeroConcursoAnterior": 4279,
+  "numeroConcursoFinal_0_5": 4285,
+  "numeroConcursoProximo": 4281,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7171582.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 62156402.26,
+  "valorAcumuladoProximoConcurso": 2149665.28,
+  "valorEstimadoProximoConcurso": 2900000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

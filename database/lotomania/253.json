@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "28/09/2002",
+  "dataProximoConcurso": "02/10/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "10",
+    "99",
+    "24",
+    "48",
+    "76",
+    "17",
+    "22",
+    "54",
+    "21",
+    "95",
+    "66",
+    "62",
+    "77",
+    "02",
+    "04",
+    "12",
+    "06",
+    "72",
+    "52",
+    "01"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "02",
+    "04",
+    "06",
+    "10",
+    "12",
+    "17",
+    "21",
+    "22",
+    "24",
+    "48",
+    "52",
+    "54",
+    "62",
+    "66",
+    "72",
+    "76",
+    "77",
+    "95",
+    "99"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 615993.78
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 18,
+      "valorPremio": 22814.59
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 341,
+      "valorPremio": 1204.29
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 3081,
+      "valorPremio": 66.39
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 17792,
+      "valorPremio": 11.5
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Santa Rita do Passa Quatro, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 253,
+  "numeroConcursoAnterior": 252,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 254,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios próximo concurso - (20 ACERTOS): R$600.000,00 - (ZERO ACERTO): R$400.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

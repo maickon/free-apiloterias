@@ -1,0 +1,119 @@
+{
+  "acumulado": false,
+  "dataApuracao": "28/01/2017",
+  "dataProximoConcurso": "31/01/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "09",
+    "10",
+    "12",
+    "01",
+    "11",
+    "29",
+    "08",
+    "10",
+    "26",
+    "18",
+    "15",
+    "30"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "09",
+    "10",
+    "11",
+    "12",
+    "29"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "08",
+    "10",
+    "15",
+    "18",
+    "26",
+    "30"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "FEIRA DE SANTANA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 5875809.58
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 68,
+      "valorPremio": 1820.35
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 2266,
+      "valorPremio": 62.43
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 36567,
+      "valorPremio": 1.93
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 21,
+      "valorPremio": 5305.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1607,
+      "valorPremio": 88.03
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 8,
+      "numeroDeGanhadores": 32049,
+      "valorPremio": 2.2
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SANTARÉM, PA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1601,
+  "numeroConcursoAnterior": 1600,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1602,
+  "numeroJogo": 18,
+  "observacao": "O ACUMULADO DA SENA DO 2º SORTEIO (R$ 136.161,80) FICA ACUMULADO PARA A SENA DO 1º SORTEIO DO PRÓXIMO CONCURSO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4079272.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 12790289.08,
+  "valorAcumuladoProximoConcurso": 136161.8,
+  "valorEstimadoProximoConcurso": 300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

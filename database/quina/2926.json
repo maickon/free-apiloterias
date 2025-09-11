@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "25/06/2012",
+  "dataProximoConcurso": "26/06/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "62",
+    "42",
+    "36",
+    "75",
+    "24"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "24",
+    "36",
+    "42",
+    "62",
+    "75"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 58,
+      "valorPremio": 5159.84
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4926,
+      "valorPremio": 86.79
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PARAUAPEBAS, PA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2926,
+  "numeroConcursoAnterior": 2925,
+  "numeroConcursoFinal_0_5": 2935,
+  "numeroConcursoProximo": 2927,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 3884944.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 179562.51,
+  "valorAcumuladoProximoConcurso": 418979.17,
+  "valorEstimadoProximoConcurso": 900000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,107 @@
+{
+  "acumulado": false,
+  "dataApuracao": "21/05/2013",
+  "dataProximoConcurso": "24/05/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "11",
+    "25",
+    "39",
+    "17",
+    "33",
+    "46",
+    "06",
+    "15",
+    "34",
+    "10",
+    "03",
+    "22"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "17",
+    "25",
+    "33",
+    "39",
+    "46"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "03",
+    "06",
+    "10",
+    "15",
+    "22",
+    "34"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SÃO PAULO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 6914398.73
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 224,
+      "valorPremio": 1508.91
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6279,
+      "valorPremio": 35.88
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 112,
+      "valorPremio": 2112.49
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 4932,
+      "valorPremio": 45.68
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "VILA VELHA, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1178,
+  "numeroConcursoAnterior": 1177,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1179,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5118942.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 315463.98,
+  "valorEstimadoProximoConcurso": 500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

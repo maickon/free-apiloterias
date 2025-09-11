@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "14/06/2014",
+  "dataProximoConcurso": "16/06/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "01",
+    "60",
+    "73",
+    "61",
+    "66"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "60",
+    "61",
+    "66",
+    "73"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 54,
+      "valorPremio": 7430.2
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3139,
+      "valorPremio": 182.6
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "FOZ DO IGUAÇU, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3515,
+  "numeroConcursoAnterior": 3514,
+  "numeroConcursoFinal_0_5": 3525,
+  "numeroConcursoProximo": 3516,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5208522.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 82698473.04,
+  "valorAcumuladoProximoConcurso": 561722.89,
+  "valorEstimadoProximoConcurso": 1100000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

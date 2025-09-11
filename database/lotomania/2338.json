@@ -1,0 +1,128 @@
+{
+  "acumulado": false,
+  "dataApuracao": "13/07/2022",
+  "dataProximoConcurso": "15/07/2022",
+  "dezenasSorteadasOrdemSorteio": [
+    "22",
+    "33",
+    "95",
+    "60",
+    "46",
+    "11",
+    "72",
+    "36",
+    "99",
+    "08",
+    "39",
+    "78",
+    "61",
+    "69",
+    "83",
+    "04",
+    "45",
+    "43",
+    "50",
+    "52"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "08",
+    "11",
+    "22",
+    "33",
+    "36",
+    "39",
+    "43",
+    "45",
+    "46",
+    "50",
+    "52",
+    "60",
+    "61",
+    "69",
+    "72",
+    "78",
+    "83",
+    "95",
+    "99"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SAO PAULO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 7691955.25
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 10,
+      "valorPremio": 29304.38
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 89,
+      "valorPremio": 2057.89
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 774,
+      "valorPremio": 236.63
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 4503,
+      "valorPremio": 40.67
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 19042,
+      "valorPremio": 9.61
+    },
+    {
+      "descricaoFaixa": "0 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO DA SORTE",
+  "nomeMunicipioUFSorteio": "SÃO PAULO,   SP",
+  "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "numero": 2338,
+  "numeroConcursoAnterior": 2337,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 2339,
+  "numeroJogo": 16,
+  "observacao": "Ordem sorteio          22  33  95  60  46  11  72  36  99  08\n                       39  78  61  69  83  04  45  43  50  52",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6035670.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 2206778.54,
+  "valorAcumuladoProximoConcurso": 146521.95,
+  "valorEstimadoProximoConcurso": 600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "22/09/2001",
+  "dataProximoConcurso": "26/09/2001",
+  "dezenasSorteadasOrdemSorteio": [
+    "34",
+    "11",
+    "48",
+    "73",
+    "85",
+    "25",
+    "33",
+    "39",
+    "84",
+    "56",
+    "78",
+    "12",
+    "45",
+    "04",
+    "94",
+    "07",
+    "51",
+    "81",
+    "90",
+    "50"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "07",
+    "11",
+    "12",
+    "25",
+    "33",
+    "34",
+    "39",
+    "45",
+    "48",
+    "50",
+    "51",
+    "56",
+    "73",
+    "78",
+    "81",
+    "84",
+    "85",
+    "90",
+    "94"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 679457.3
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 11,
+      "valorPremio": 41179.23
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 238,
+      "valorPremio": 1903.24
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2262,
+      "valorPremio": 99.75
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 14170,
+      "valorPremio": 15.93
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Porto Alegre, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 151,
+  "numeroConcursoAnterior": 150,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 152,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio próximo concurso: faixa vinte acertos-R$500.000,00 e faixa zero acerto-R$600.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

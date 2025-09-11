@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "04/08/2010",
+  "dataProximoConcurso": "05/08/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "11",
+    "73",
+    "58",
+    "79",
+    "49"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "49",
+    "58",
+    "73",
+    "79"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 159,
+      "valorPremio": 4801.82
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 12864,
+      "valorPremio": 84.78
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PATROCÍNIO, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2363,
+  "numeroConcursoAnterior": 2362,
+  "numeroConcursoFinal_0_5": 2365,
+  "numeroConcursoProximo": 2364,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 9911133.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 8013767.27,
+  "valorEstimadoProximoConcurso": 9200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

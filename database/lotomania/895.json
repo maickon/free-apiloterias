@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "07/01/2009",
+  "dataProximoConcurso": "10/01/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "89",
+    "14",
+    "17",
+    "44",
+    "23",
+    "81",
+    "21",
+    "49",
+    "74",
+    "28",
+    "61",
+    "85",
+    "59",
+    "26",
+    "45",
+    "02",
+    "88",
+    "04",
+    "58",
+    "11"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "04",
+    "11",
+    "14",
+    "17",
+    "21",
+    "23",
+    "26",
+    "28",
+    "44",
+    "45",
+    "49",
+    "58",
+    "59",
+    "61",
+    "74",
+    "81",
+    "85",
+    "88",
+    "89"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 3776756.13
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 10,
+      "valorPremio": 39196.46
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 208,
+      "valorPremio": 1884.45
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1991,
+      "valorPremio": 98.44
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 12255,
+      "valorPremio": 15.99
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Auditório",
+  "nomeMunicipioUFSorteio": "BRASÍLIA, DF",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 895,
+  "numeroConcursoAnterior": 894,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 896,
+  "numeroJogo": 16,
+  "observacao": "Ganhador de 20 acertos: Belo Horizonte/MG. Não houve ganhador de zero acerto, portanto, o prêmio acumulou para 20 acertos do próximo concurso.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 195982.29,
+  "valorEstimadoProximoConcurso": 600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

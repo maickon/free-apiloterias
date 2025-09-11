@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "07/04/2004",
+  "dataProximoConcurso": "10/04/2004",
+  "dezenasSorteadasOrdemSorteio": [
+    "51",
+    "37",
+    "84",
+    "80",
+    "47",
+    "07",
+    "38",
+    "01",
+    "81",
+    "17",
+    "97",
+    "67",
+    "90",
+    "22",
+    "61",
+    "93",
+    "40",
+    "43",
+    "49",
+    "99"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "07",
+    "17",
+    "22",
+    "37",
+    "38",
+    "40",
+    "43",
+    "47",
+    "49",
+    "51",
+    "61",
+    "67",
+    "80",
+    "81",
+    "84",
+    "90",
+    "93",
+    "97",
+    "99"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1169076.51
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 9,
+      "valorPremio": 32240.91
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 170,
+      "valorPremio": 1706.87
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1607,
+      "valorPremio": 89.94
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 9298,
+      "valorPremio": 15.56
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TORRES, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 406,
+  "numeroConcursoAnterior": 405,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 407,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 ACERTOS) próximo concurso: R$500.000,00. Valor acumulado para 20 acertos: R$145.084,10.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

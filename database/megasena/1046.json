@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "07/02/2009",
+  "dataProximoConcurso": "11/02/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "57",
+    "40",
+    "28",
+    "42",
+    "54",
+    "55"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "28",
+    "40",
+    "42",
+    "54",
+    "55",
+    "57"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SC"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 23031543.81
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 49,
+      "valorPremio": 41992.34
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4875,
+      "valorPremio": 422.08
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ITABUNA, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1046,
+  "numeroConcursoAnterior": 1045,
+  "numeroConcursoFinal_0_5": 1050,
+  "numeroConcursoProximo": 1047,
+  "numeroJogo": 2,
+  "observacao": "GANHADOR DE 6 ACERTOS: ITAPOÁ/SC.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 35145764.5,
+  "valorAcumuladoConcurso_0_5": 4454285.85,
+  "valorAcumuladoConcursoEspecial": 6302747.62,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 1500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

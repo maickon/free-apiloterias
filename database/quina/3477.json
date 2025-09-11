@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "30/04/2014",
+  "dataProximoConcurso": "02/05/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "56",
+    "60",
+    "19",
+    "70",
+    "51"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "19",
+    "51",
+    "56",
+    "60",
+    "70"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 43,
+      "valorPremio": 8733.41
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3996,
+      "valorPremio": 134.25
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PEDRO LEOPOLDO, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3477,
+  "numeroConcursoAnterior": 3476,
+  "numeroConcursoFinal_0_5": 3485,
+  "numeroConcursoProximo": 3478,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4874976.75,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 71854569.75,
+  "valorAcumuladoProximoConcurso": 525751.06,
+  "valorEstimadoProximoConcurso": 1100000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

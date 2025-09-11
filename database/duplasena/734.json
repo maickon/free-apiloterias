@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "10/02/2009",
+  "dataProximoConcurso": "13/02/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "49",
+    "21",
+    "19",
+    "08",
+    "15",
+    "04",
+    "45",
+    "01",
+    "11",
+    "24",
+    "31",
+    "08"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "08",
+    "15",
+    "19",
+    "21",
+    "49"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "01",
+    "08",
+    "11",
+    "24",
+    "31",
+    "45"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 19,
+      "valorPremio": 4550.24
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1110,
+      "valorPremio": 77.89
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ILHÉUS, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 734,
+  "numeroConcursoAnterior": 733,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 735,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 484756.4,
+  "valorEstimadoProximoConcurso": 700000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "16/09/2014",
+  "dataProximoConcurso": "17/09/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "64",
+    "30",
+    "02",
+    "17",
+    "41"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "17",
+    "30",
+    "41",
+    "64"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 75,
+      "valorPremio": 7309.61
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5083,
+      "valorPremio": 154.07
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "CARMO, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3589,
+  "numeroConcursoAnterior": 3588,
+  "numeroConcursoFinal_0_5": 3595,
+  "numeroConcursoProximo": 3590,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7116658.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 24139952.17,
+  "valorAcumuladoProximoConcurso": 2033291.08,
+  "valorEstimadoProximoConcurso": 2800000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

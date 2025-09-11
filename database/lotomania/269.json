@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "23/11/2002",
+  "dataProximoConcurso": "27/11/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "54",
+    "33",
+    "59",
+    "23",
+    "69",
+    "35",
+    "38",
+    "67",
+    "48",
+    "28",
+    "95",
+    "57",
+    "32",
+    "91",
+    "27",
+    "40",
+    "10",
+    "56",
+    "83",
+    "03"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "10",
+    "23",
+    "27",
+    "28",
+    "32",
+    "33",
+    "35",
+    "38",
+    "40",
+    "48",
+    "54",
+    "56",
+    "57",
+    "59",
+    "67",
+    "69",
+    "83",
+    "91",
+    "95"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "GO"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 969689.31
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 16,
+      "valorPremio": 31085.69
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 334,
+      "valorPremio": 1489.14
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2852,
+      "valorPremio": 86.87
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 18068,
+      "valorPremio": 13.72
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Aracaju, SE",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 269,
+  "numeroConcursoAnterior": 268,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 270,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios próximo concurso - (20 ACERTOS): R$550.000,00 - (ZERO ACERTO):R$1.150.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

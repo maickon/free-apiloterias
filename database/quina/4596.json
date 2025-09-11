@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "01/02/2018",
+  "dataProximoConcurso": "02/02/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "29",
+    "26",
+    "52",
+    "57",
+    "13"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "13",
+    "26",
+    "29",
+    "52",
+    "57"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 166,
+      "valorPremio": 2665.42
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8796,
+      "valorPremio": 75.64
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 173812,
+      "valorPremio": 2.1
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "MACAPÁ, AP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4596,
+  "numeroConcursoAnterior": 4595,
+  "numeroConcursoFinal_0_5": 4605,
+  "numeroConcursoProximo": 4597,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7674325.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 66847880.05,
+  "valorAcumuladoProximoConcurso": 2152955.79,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

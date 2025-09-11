@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "01/08/2015",
+  "dataProximoConcurso": "03/08/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "10",
+    "70",
+    "50",
+    "57",
+    "67"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "50",
+    "57",
+    "67",
+    "70"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 41,
+      "valorPremio": 16712.44
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4201,
+      "valorPremio": 233.0
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "IPANEMA, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3847,
+  "numeroConcursoAnterior": 3846,
+  "numeroConcursoFinal_0_5": 3855,
+  "numeroConcursoProximo": 3848,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 8894963.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 12445993.65,
+  "valorAcumuladoProximoConcurso": 3885576.52,
+  "valorEstimadoProximoConcurso": 4800000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

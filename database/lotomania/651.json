@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "02/09/2006",
+  "dataProximoConcurso": "06/09/2006",
+  "dezenasSorteadasOrdemSorteio": [
+    "56",
+    "77",
+    "55",
+    "25",
+    "10",
+    "60",
+    "43",
+    "59",
+    "01",
+    "39",
+    "37",
+    "93",
+    "74",
+    "78",
+    "63",
+    "53",
+    "30",
+    "51",
+    "00",
+    "45"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "00",
+    "01",
+    "10",
+    "25",
+    "30",
+    "37",
+    "39",
+    "43",
+    "45",
+    "51",
+    "53",
+    "55",
+    "56",
+    "59",
+    "60",
+    "63",
+    "74",
+    "77",
+    "78",
+    "93"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 5054622.57
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 21,
+      "valorPremio": 18537.08
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 391,
+      "valorPremio": 995.6
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 3164,
+      "valorPremio": 61.29
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 16846,
+      "valorPremio": 11.51
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TAGUATINGA, DF",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 651,
+  "numeroConcursoAnterior": 650,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 652,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 ACERTOS) para o próximo concurso, a ser realizado em 06/09/2006: R$600.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

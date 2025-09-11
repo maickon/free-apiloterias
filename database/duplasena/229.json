@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "06/02/2004",
+  "dataProximoConcurso": "10/02/2004",
+  "dezenasSorteadasOrdemSorteio": [
+    "05",
+    "28",
+    "48",
+    "08",
+    "30",
+    "19",
+    "46",
+    "09",
+    "10",
+    "06",
+    "23",
+    "37"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "08",
+    "19",
+    "28",
+    "30",
+    "48"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "06",
+    "09",
+    "10",
+    "23",
+    "37",
+    "46"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 35,
+      "valorPremio": 2604.43
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1637,
+      "valorPremio": 55.47
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "VACARIA, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 229,
+  "numeroConcursoAnterior": 228,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 230,
+  "numeroJogo": 18,
+  "observacao": "ACUMULOU!!! Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$1.500.000,00 (HUM MILHÃO E QUINHENTOS MIL REAIS).",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1354542.4,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

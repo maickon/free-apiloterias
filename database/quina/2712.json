@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "03/10/2011",
+  "dataProximoConcurso": "04/10/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "70",
+    "08",
+    "41",
+    "40",
+    "80"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "40",
+    "41",
+    "70",
+    "80"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 76,
+      "valorPremio": 4327.83
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5144,
+      "valorPremio": 91.34
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "JARAGUÁ DO SUL, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2712,
+  "numeroConcursoAnterior": 2711,
+  "numeroConcursoFinal_0_5": 2715,
+  "numeroConcursoProximo": 2713,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4269768.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 19272992.76,
+  "valorAcumuladoProximoConcurso": 920843.87,
+  "valorEstimadoProximoConcurso": 1400000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

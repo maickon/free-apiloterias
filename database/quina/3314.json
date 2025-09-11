@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "11/10/2013",
+  "dataProximoConcurso": "14/10/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "25",
+    "14",
+    "56",
+    "21",
+    "10"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "14",
+    "21",
+    "25",
+    "56"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 233,
+      "valorPremio": 3081.89
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 13450,
+      "valorPremio": 76.26
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "APARECIDA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3314,
+  "numeroConcursoAnterior": 3313,
+  "numeroConcursoFinal_0_5": 3315,
+  "numeroConcursoProximo": 3315,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 9321677.25,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 27080823.96,
+  "valorAcumuladoProximoConcurso": 3578605.36,
+  "valorEstimadoProximoConcurso": 4600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

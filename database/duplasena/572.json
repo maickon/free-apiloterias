@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "10/07/2007",
+  "dataProximoConcurso": "13/07/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "35",
+    "02",
+    "33",
+    "15",
+    "37",
+    "01",
+    "17",
+    "38",
+    "48",
+    "32",
+    "25",
+    "33"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "02",
+    "15",
+    "33",
+    "35",
+    "37"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "17",
+    "25",
+    "32",
+    "33",
+    "38",
+    "48"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 110550.32
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 24,
+      "valorPremio": 3070.84
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1334,
+      "valorPremio": 55.05
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SALINAS, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 572,
+  "numeroConcursoAnterior": 571,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 573,
+  "numeroJogo": 18,
+  "observacao": "1 GANHADOR DA SENA DO 2º SORTEIO: PR.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 768121.86,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "05/08/2005",
+  "dataProximoConcurso": "09/08/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "34",
+    "29",
+    "43",
+    "17",
+    "15",
+    "32",
+    "48",
+    "49",
+    "06",
+    "17",
+    "38",
+    "47"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "15",
+    "17",
+    "29",
+    "32",
+    "34",
+    "43"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "06",
+    "17",
+    "38",
+    "47",
+    "48",
+    "49"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 6629189.45
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 326934.69
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 119,
+      "valorPremio": 1831.57
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 3796,
+      "valorPremio": 57.21
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Bom Jesus dos Perdões, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 376,
+  "numeroConcursoAnterior": 375,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 377,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA) do 1º sorteio do próximo concurso, a ser realizado em 09/08/05: R$100.000,00. O ganhador da SENA 2º sorteio é de São Paulo/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

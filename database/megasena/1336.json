@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "12/11/2011",
+  "dataProximoConcurso": "16/11/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "51",
+    "54",
+    "32",
+    "01",
+    "38",
+    "47"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "32",
+    "38",
+    "47",
+    "51",
+    "54"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "BARBALHA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "CE"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 3086420.09
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 38,
+      "valorPremio": 44091.72
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3539,
+      "valorPremio": 676.33
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CATANDUVAS, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1336,
+  "numeroConcursoAnterior": 1335,
+  "numeroConcursoFinal_0_5": 1340,
+  "numeroConcursoProximo": 1337,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 28618536.0,
+  "valorAcumuladoConcurso_0_5": 4789993.21,
+  "valorAcumuladoConcursoEspecial": 55835095.87,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

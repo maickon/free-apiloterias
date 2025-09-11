@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "31/08/2013",
+  "dataProximoConcurso": "02/09/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "36",
+    "70",
+    "38",
+    "65",
+    "24"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "24",
+    "36",
+    "38",
+    "65",
+    "70"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 123,
+      "valorPremio": 5053.96
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7825,
+      "valorPremio": 113.48
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PRESIDENTE VENCESLAU, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3280,
+  "numeroConcursoAnterior": 3279,
+  "numeroConcursoFinal_0_5": 3285,
+  "numeroConcursoProximo": 3281,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 8069700.75,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 17625315.94,
+  "valorAcumuladoProximoConcurso": 4132385.8,
+  "valorEstimadoProximoConcurso": 5200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

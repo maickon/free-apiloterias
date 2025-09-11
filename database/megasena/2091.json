@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "25/10/2018",
+  "dataProximoConcurso": "27/10/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "12",
+    "11",
+    "10",
+    "59",
+    "38",
+    "37"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "11",
+    "12",
+    "37",
+    "38",
+    "59"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "Curitiba",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 20024894.84
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 75,
+      "valorPremio": 25054.96
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3855,
+      "valorPremio": 696.35
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "JEQUIÉ, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2091,
+  "numeroConcursoAnterior": 2090,
+  "numeroConcursoFinal_0_5": 2095,
+  "numeroConcursoProximo": 2092,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 32592784.0,
+  "valorAcumuladoConcurso_0_5": 3770462.31,
+  "valorAcumuladoConcursoEspecial": 55896031.13,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

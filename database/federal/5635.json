@@ -1,0 +1,118 @@
+{
+  "acumulado": false,
+  "dataApuracao": "02/02/2022",
+  "dataProximoConcurso": "",
+  "dezenasSorteadasOrdemSorteio": [
+    "059260",
+    "036120",
+    "025950",
+    "080892",
+    "086307"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "059260",
+    "036120",
+    "025950",
+    "080892",
+    "086307"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 0,
+      "municipio": "BETIM",
+      "nomeFatansiaUL": "DIAMANTINA LOTERIAS",
+      "posicao": 5,
+      "serie": "A",
+      "uf": "MG"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "NOBRES",
+      "nomeFatansiaUL": "LOTERICA RAPIDINHA DA SORTE",
+      "posicao": 3,
+      "serie": "A",
+      "uf": "MT"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "PORTO ALEGRE",
+      "nomeFatansiaUL": "PRACA 15 LOTERIAS",
+      "posicao": 1,
+      "serie": "A",
+      "uf": "RS"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "PORTO ALEGRE",
+      "nomeFatansiaUL": "SORTE LOTERIAS",
+      "posicao": 4,
+      "serie": "A",
+      "uf": "RS"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "SAO PAULO",
+      "nomeFatansiaUL": "NOVA CHANCE LOTERIAS",
+      "posicao": 2,
+      "serie": "A",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "1 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 500000.0
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 27000.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 24000.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 19000.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 18329.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Espaço Loterias Caixa",
+  "nomeMunicipioUFSorteio": "SAO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": null,
+  "numero": 5635,
+  "numeroConcursoAnterior": 5634,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 5636,
+  "numeroJogo": 10,
+  "observacao": null,
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTERIA_FEDERAL",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

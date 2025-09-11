@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "04/10/2014",
+  "dataProximoConcurso": "06/10/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "44",
+    "78",
+    "34",
+    "12",
+    "24"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "12",
+    "24",
+    "34",
+    "44",
+    "78"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 111,
+      "valorPremio": 4871.58
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7575,
+      "valorPremio": 101.97
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "BOA ESPERANÇA, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3605,
+  "numeroConcursoAnterior": 3604,
+  "numeroConcursoFinal_0_5": 3615,
+  "numeroConcursoProximo": 3606,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7019605.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 29041109.77,
+  "valorAcumuladoProximoConcurso": 2037171.39,
+  "valorEstimadoProximoConcurso": 2800000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

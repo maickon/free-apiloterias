@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "20/04/2016",
+  "dataProximoConcurso": "23/04/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "56",
+    "10",
+    "43",
+    "50",
+    "01",
+    "25"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "10",
+    "25",
+    "43",
+    "50",
+    "56"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "CABROBÓ",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PE"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 92303225.84
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 266,
+      "valorPremio": 22369.76
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 14324,
+      "valorPremio": 593.44
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "UMUARAMA, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1810,
+  "numeroConcursoAnterior": 1809,
+  "numeroConcursoFinal_0_5": 1815,
+  "numeroConcursoProximo": 1811,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 103207069.0,
+  "valorAcumuladoConcurso_0_5": 6889886.64,
+  "valorAcumuladoConcursoEspecial": 21269659.63,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

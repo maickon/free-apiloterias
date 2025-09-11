@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "08/02/2014",
+  "dataProximoConcurso": "10/02/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "36",
+    "59",
+    "15",
+    "40",
+    "29"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "15",
+    "29",
+    "36",
+    "40",
+    "59"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 85,
+      "valorPremio": 5092.74
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5932,
+      "valorPremio": 104.24
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SENHOR DO BONFIM, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3412,
+  "numeroConcursoAnterior": 3411,
+  "numeroConcursoFinal_0_5": 3415,
+  "numeroConcursoProximo": 3413,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5619413.25,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 54672778.91,
+  "valorAcumuladoProximoConcurso": 1137485.0,
+  "valorEstimadoProximoConcurso": 1800000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

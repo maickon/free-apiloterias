@@ -1,0 +1,107 @@
+{
+  "acumulado": false,
+  "dataApuracao": "04/09/2012",
+  "dataProximoConcurso": "06/09/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "13",
+    "31",
+    "25",
+    "45",
+    "36",
+    "10",
+    "34",
+    "17",
+    "08",
+    "36",
+    "48",
+    "14"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "13",
+    "25",
+    "31",
+    "36",
+    "45"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "08",
+    "14",
+    "17",
+    "34",
+    "36",
+    "48"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "OSASCO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 9508694.5
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 131,
+      "valorPremio": 2171.1
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6162,
+      "valorPremio": 43.95
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 379218.68
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 161,
+      "valorPremio": 1766.55
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 6772,
+      "valorPremio": 39.99
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Auditório",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1104,
+  "numeroConcursoAnterior": 1103,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1105,
+  "numeroJogo": 18,
+  "observacao": "SORTEIO REALIZADO EM ESTÚDIO DE TV.  A APOSTA GANHADORA DO PRÊMIO DE 6 ACERTOS DO 2º SORTEIO FOI REALIZADA EM SÃO PAULO/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6153471.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 150000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

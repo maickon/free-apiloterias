@@ -1,0 +1,110 @@
+{
+  "acumulado": true,
+  "dataApuracao": "12/01/2017",
+  "dataProximoConcurso": "14/01/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "08",
+    "23",
+    "01",
+    "02",
+    "49",
+    "26",
+    "29",
+    "16",
+    "09",
+    "05",
+    "20",
+    "30"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "02",
+    "08",
+    "23",
+    "26",
+    "49"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "05",
+    "09",
+    "16",
+    "20",
+    "29",
+    "30"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 30,
+      "valorPremio": 2475.28
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1170,
+      "valorPremio": 72.53
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 21963,
+      "valorPremio": 1.93
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 17,
+      "valorPremio": 3931.33
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1008,
+      "valorPremio": 84.19
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 8,
+      "numeroDeGanhadores": 19077,
+      "valorPremio": 2.22
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "BELÉM, PA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1594,
+  "numeroConcursoAnterior": 1593,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1595,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2447178.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 11737186.58,
+  "valorAcumuladoProximoConcurso": 3313396.82,
+  "valorEstimadoProximoConcurso": 3500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

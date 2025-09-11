@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "13/02/2004",
+  "dataProximoConcurso": "17/02/2004",
+  "dezenasSorteadasOrdemSorteio": [
+    "12",
+    "41",
+    "26",
+    "36",
+    "04",
+    "05",
+    "15",
+    "25",
+    "46",
+    "22",
+    "18",
+    "06"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "05",
+    "12",
+    "26",
+    "36",
+    "41"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "06",
+    "15",
+    "18",
+    "22",
+    "25",
+    "46"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 49,
+      "valorPremio": 2200.06
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1981,
+      "valorPremio": 54.22
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "LONDRINA, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 231,
+  "numeroConcursoAnterior": 230,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 232,
+  "numeroJogo": 18,
+  "observacao": "ACUMULOU!!! Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$2.100.000,00 (DOIS MILHÕES E CEM MIL REAIS).",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1928932.59,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "16/03/2005",
+  "dataProximoConcurso": "19/03/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "56",
+    "19",
+    "11",
+    "14",
+    "12",
+    "54"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "12",
+    "14",
+    "19",
+    "54",
+    "56"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 17603353.15
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 50,
+      "valorPremio": 25009.18
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5432,
+      "valorPremio": 229.34
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PARANAVAÍ, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 647,
+  "numeroConcursoAnterior": 646,
+  "numeroConcursoFinal_0_5": 650,
+  "numeroConcursoProximo": 648,
+  "numeroJogo": 2,
+  "observacao": "Estimativa de prêmio (SENA) para o próximo concurso: R$1.000.000,00 (HUM MILHÃO DE REAIS).",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 4482283.22,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

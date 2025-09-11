@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "27/06/2008",
+  "dataProximoConcurso": "01/07/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "16",
+    "42",
+    "30",
+    "43",
+    "33",
+    "23",
+    "34",
+    "37",
+    "47",
+    "36",
+    "22",
+    "02"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "16",
+    "23",
+    "30",
+    "33",
+    "42",
+    "43"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "02",
+    "22",
+    "34",
+    "36",
+    "37",
+    "47"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 3803972.63
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 22,
+      "valorPremio": 6669.79
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1877,
+      "valorPremio": 78.17
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "BARREIRAS, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 669,
+  "numeroConcursoAnterior": 668,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 670,
+  "numeroJogo": 18,
+  "observacao": "Ganhador da sena do 1º sorteio: Itaperuna/RJ. Acumulado do 2º para o 1º Sorteio: R$220.102,85.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 350000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

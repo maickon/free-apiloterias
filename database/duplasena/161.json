@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "13/06/2003",
+  "dataProximoConcurso": "17/06/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "24",
+    "29",
+    "44",
+    "09",
+    "26",
+    "35",
+    "07",
+    "11",
+    "25",
+    "36",
+    "30",
+    "49"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "24",
+    "26",
+    "29",
+    "35",
+    "44"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "07",
+    "11",
+    "25",
+    "30",
+    "36",
+    "49"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 17,
+      "valorPremio": 4728.62
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1105,
+      "valorPremio": 72.48
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Pelotas, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 161,
+  "numeroConcursoAnterior": 160,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 162,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$700.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 603939.98,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

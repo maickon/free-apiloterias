@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "13/04/2011",
+  "dataProximoConcurso": "16/04/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "19",
+    "64",
+    "90",
+    "81",
+    "31",
+    "86",
+    "13",
+    "70",
+    "55",
+    "66",
+    "82",
+    "41",
+    "34",
+    "02",
+    "57",
+    "44",
+    "54",
+    "39",
+    "95",
+    "28"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "13",
+    "19",
+    "28",
+    "31",
+    "34",
+    "39",
+    "41",
+    "44",
+    "54",
+    "55",
+    "57",
+    "64",
+    "66",
+    "70",
+    "81",
+    "82",
+    "86",
+    "90",
+    "95"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SALINAS",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1808286.25
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 7,
+      "valorPremio": 49205.83
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 135,
+      "valorPremio": 2551.41
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1305,
+      "valorPremio": 188.52
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 13901,
+      "valorPremio": 17.69
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "BARRA DO BUGRES, MT",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1131,
+  "numeroConcursoAnterior": 1130,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1132,
+  "numeroJogo": 16,
+  "observacao": "NESTE CONCURSO NÃO TEVE GANHADOR DO PRÊMIO DE ZERO ACERTO, QUE FICA ACUMULADO PARA O PRÓXIMO CONCURSO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5589141.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

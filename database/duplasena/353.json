@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "17/05/2005",
+  "dataProximoConcurso": "20/05/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "18",
+    "31",
+    "26",
+    "40",
+    "24",
+    "04",
+    "23",
+    "25",
+    "19",
+    "06",
+    "29",
+    "43"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "18",
+    "24",
+    "26",
+    "31",
+    "40"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "06",
+    "19",
+    "23",
+    "25",
+    "29",
+    "43"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 5605395.22
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 34,
+      "valorPremio": 3800.41
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2141,
+      "valorPremio": 60.13
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Pitangueiras, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 353,
+  "numeroConcursoAnterior": 352,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 354,
+  "numeroJogo": 18,
+  "observacao": "Estimativa prêmio (sena 1º sorteio) para próximo concurso, a ser realizado 20/05/2005: R$300.000,00. Acumulado do 2º para 1º sorteio: R$193.820,91.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

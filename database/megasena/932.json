@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "05/01/2008",
+  "dataProximoConcurso": "09/01/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "02",
+    "21",
+    "42",
+    "53",
+    "36",
+    "17"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "17",
+    "21",
+    "36",
+    "42",
+    "53"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RN"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 19685655.01
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 196,
+      "valorPremio": 11370.01
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 10515,
+      "valorPremio": 211.94
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Macaé, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 932,
+  "numeroConcursoAnterior": 931,
+  "numeroConcursoFinal_0_5": 935,
+  "numeroConcursoProximo": 933,
+  "numeroJogo": 2,
+  "observacao": "GANHADOR DE 6 ACERTOS: Tenente Ananias/RN.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 7336525.72,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 1300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

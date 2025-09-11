@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "16/07/2016",
+  "dataProximoConcurso": "20/07/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "59",
+    "24",
+    "30",
+    "08",
+    "57",
+    "05"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "08",
+    "24",
+    "30",
+    "57",
+    "59"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SALVADOR",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 25207139.21
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 115,
+      "valorPremio": 20709.91
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5293,
+      "valorPremio": 642.8
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "BARREIRAS, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1838,
+  "numeroConcursoAnterior": 1837,
+  "numeroConcursoFinal_0_5": 1840,
+  "numeroConcursoProximo": 1839,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 41308785.0,
+  "valorAcumuladoConcurso_0_5": 9413149.03,
+  "valorAcumuladoConcursoEspecial": 35883190.85,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

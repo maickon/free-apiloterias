@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "14/02/2003",
+  "dataProximoConcurso": "18/02/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "21",
+    "28",
+    "04",
+    "12",
+    "22",
+    "42",
+    "49",
+    "04",
+    "44",
+    "27",
+    "03",
+    "35"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "12",
+    "21",
+    "22",
+    "28",
+    "42"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "03",
+    "04",
+    "27",
+    "35",
+    "44",
+    "49"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 36,
+      "valorPremio": 3021.67
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1717,
+      "valorPremio": 63.11
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "cajuru, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 128,
+  "numeroConcursoAnterior": 127,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 129,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA - 1º SORTEIO) próximo concurso: R$1.500.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1378724.54,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "11/03/2009",
+  "dataProximoConcurso": "14/03/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "27",
+    "32",
+    "15",
+    "12",
+    "20",
+    "16"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "12",
+    "15",
+    "16",
+    "20",
+    "27",
+    "32"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 2,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 5273833.35
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 86,
+      "valorPremio": 15552.99
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6311,
+      "valorPremio": 211.94
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PARANAVAÍ, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1055,
+  "numeroConcursoAnterior": 1054,
+  "numeroConcursoFinal_0_5": 1060,
+  "numeroConcursoProximo": 1056,
+  "numeroJogo": 2,
+  "observacao": "GANHADORES DE 6 ACERTOS: TAUBATÉ/SP E CAPIVARI/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 1548749.96,
+  "valorAcumuladoConcursoEspecial": 8878781.62,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 1500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

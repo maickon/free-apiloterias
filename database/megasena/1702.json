@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "07/05/2015",
+  "dataProximoConcurso": "09/05/2015",
+  "dezenasSorteadasOrdemSorteio": [
+    "39",
+    "52",
+    "17",
+    "35",
+    "19",
+    "33"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "17",
+    "19",
+    "33",
+    "35",
+    "39",
+    "52"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "ARAPIRACA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "AL"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2757367.25
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 139,
+      "valorPremio": 10768.76
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5963,
+      "valorPremio": 358.6
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "APARECIDA DE GOIÂNIA, GO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1702,
+  "numeroConcursoAnterior": 1701,
+  "numeroConcursoFinal_0_5": 1705,
+  "numeroConcursoProximo": 1703,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 25567425.0,
+  "valorAcumuladoConcurso_0_5": 6426956.08,
+  "valorAcumuladoConcursoEspecial": 23513801.04,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

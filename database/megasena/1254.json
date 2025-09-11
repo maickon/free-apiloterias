@@ -1,0 +1,67 @@
+{
+  "acumulado": true,
+  "dataApuracao": "02/02/2011",
+  "dataProximoConcurso": "05/02/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "09",
+    "29",
+    "18",
+    "07",
+    "14",
+    "39"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "09",
+    "14",
+    "18",
+    "29",
+    "39"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 142,
+      "valorPremio": 15443.85
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 9454,
+      "valorPremio": 331.38
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "FLORIANÓPOLIS, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1254,
+  "numeroConcursoAnterior": 1253,
+  "numeroConcursoFinal_0_5": 1255,
+  "numeroConcursoProximo": 1255,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 37458520.0,
+  "valorAcumuladoConcurso_0_5": 34384817.93,
+  "valorAcumuladoConcursoEspecial": 3996736.15,
+  "valorAcumuladoProximoConcurso": 34384817.93,
+  "valorEstimadoProximoConcurso": 40000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

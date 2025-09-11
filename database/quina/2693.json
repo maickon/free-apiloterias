@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "10/09/2011",
+  "dataProximoConcurso": "12/09/2011",
+  "dezenasSorteadasOrdemSorteio": [
+    "34",
+    "43",
+    "04",
+    "06",
+    "22"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "06",
+    "22",
+    "34",
+    "43"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 224,
+      "valorPremio": 1930.71
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8874,
+      "valorPremio": 69.62
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "DESCALVADO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2693,
+  "numeroConcursoAnterior": 2692,
+  "numeroConcursoFinal_0_5": 2695,
+  "numeroConcursoProximo": 2694,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5614173.75,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 14927578.61,
+  "valorAcumuladoProximoConcurso": 2097430.94,
+  "valorEstimadoProximoConcurso": 2700000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

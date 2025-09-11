@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "07/05/2002",
+  "dataProximoConcurso": "10/05/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "41",
+    "33",
+    "21",
+    "45",
+    "02",
+    "15",
+    "32",
+    "45",
+    "49",
+    "41",
+    "29",
+    "35"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "15",
+    "21",
+    "33",
+    "41",
+    "45"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "29",
+    "32",
+    "35",
+    "41",
+    "45",
+    "49"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 10,
+      "valorPremio": 6909.98
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 652,
+      "valorPremio": 105.58
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Descalvado, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 49,
+  "numeroConcursoAnterior": 48,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 50,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$1.200.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1084543.56,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

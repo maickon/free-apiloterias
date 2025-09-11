@@ -1,0 +1,107 @@
+{
+  "acumulado": false,
+  "dataApuracao": "31/12/2012",
+  "dataProximoConcurso": "04/01/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "04",
+    "05",
+    "32",
+    "14",
+    "23",
+    "41",
+    "37",
+    "21",
+    "17",
+    "20",
+    "04",
+    "06"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "05",
+    "14",
+    "23",
+    "32",
+    "41"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "04",
+    "06",
+    "17",
+    "20",
+    "21",
+    "37"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 3,
+      "municipio": "ITUVERAVA - OLÍMPIA - SÃO CARLOS",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 1152144.84
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 164,
+      "valorPremio": 556.12
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1255,
+      "valorPremio": 48.44
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 8,
+      "valorPremio": 7980.35
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 897,
+      "valorPremio": 67.78
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SÃO VICENTE, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1138,
+  "numeroConcursoAnterior": 1137,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1139,
+  "numeroJogo": 18,
+  "observacao": "O PRÊMIO DA SENA DO 2º SORTEIO (R$ 85.123,67) FICA ACUMULADO PARA A SENA DO 1º SORTEIO DO PRÓXIMO CONCURSO.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1381277.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 85123.67,
+  "valorEstimadoProximoConcurso": 200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

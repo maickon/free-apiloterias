@@ -1,0 +1,119 @@
+{
+  "acumulado": false,
+  "dataApuracao": "15/03/2018",
+  "dataProximoConcurso": "17/03/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "31",
+    "14",
+    "11",
+    "12",
+    "44",
+    "27",
+    "27",
+    "02",
+    "25",
+    "40",
+    "12",
+    "31"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "12",
+    "14",
+    "27",
+    "31",
+    "44"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "02",
+    "12",
+    "25",
+    "27",
+    "31",
+    "40"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "MANDAGUARI",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 193015.55
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 14,
+      "valorPremio": 3226.54
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 649,
+      "valorPremio": 79.54
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 12188,
+      "valorPremio": 2.11
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 11,
+      "valorPremio": 3695.85
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 595,
+      "valorPremio": 86.76
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 8,
+      "numeroDeGanhadores": 10705,
+      "valorPremio": 2.41
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "MANHUAÇU, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1768,
+  "numeroConcursoAnterior": 1767,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1769,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1488622.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 13910565.81,
+  "valorAcumuladoProximoConcurso": 49688.63,
+  "valorEstimadoProximoConcurso": 180000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

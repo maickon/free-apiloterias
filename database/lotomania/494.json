@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "19/02/2005",
+  "dataProximoConcurso": "23/02/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "54",
+    "79",
+    "76",
+    "27",
+    "19",
+    "47",
+    "57",
+    "25",
+    "35",
+    "91",
+    "13",
+    "41",
+    "86",
+    "61",
+    "50",
+    "51",
+    "63",
+    "62",
+    "74",
+    "73"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "13",
+    "19",
+    "25",
+    "27",
+    "35",
+    "41",
+    "47",
+    "50",
+    "51",
+    "54",
+    "57",
+    "61",
+    "62",
+    "63",
+    "73",
+    "74",
+    "76",
+    "79",
+    "86",
+    "91"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 3906566.92
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 15,
+      "valorPremio": 25425.68
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 189,
+      "valorPremio": 2017.92
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1973,
+      "valorPremio": 96.29
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 11940,
+      "valorPremio": 15.91
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TERESINA, PI",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 494,
+  "numeroConcursoAnterior": 493,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 495,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 ACERTOS) para o próximo concurso: R$500.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

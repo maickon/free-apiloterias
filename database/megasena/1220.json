@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "06/10/2010",
+  "dataProximoConcurso": "09/10/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "48",
+    "55",
+    "52",
+    "43",
+    "05",
+    "15"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "15",
+    "43",
+    "48",
+    "52",
+    "55"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "FONTOURA XAVIER",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RS"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 119142144.27
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 377,
+      "valorPremio": 28258.54
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 30478,
+      "valorPremio": 499.35
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CATALÃO, GO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1220,
+  "numeroConcursoAnterior": 1219,
+  "numeroConcursoFinal_0_5": 1225,
+  "numeroConcursoProximo": 1221,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 181969176.0,
+  "valorAcumuladoConcurso_0_5": 12335594.66,
+  "valorAcumuladoConcursoEspecial": 48783616.75,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

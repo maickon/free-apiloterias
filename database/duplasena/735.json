@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "13/02/2009",
+  "dataProximoConcurso": "17/02/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "39",
+    "07",
+    "49",
+    "10",
+    "36",
+    "29",
+    "49",
+    "48",
+    "44",
+    "05",
+    "35",
+    "43"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "10",
+    "29",
+    "36",
+    "39",
+    "49"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "05",
+    "35",
+    "43",
+    "44",
+    "48",
+    "49"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "DF"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 644087.31
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 22,
+      "valorPremio": 4828.21
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1337,
+      "valorPremio": 79.45
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "ILHÉUS, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 735,
+  "numeroConcursoAnterior": 734,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 736,
+  "numeroJogo": 18,
+  "observacao": "Ganhador da Sena do 1º Sorteio: Brasília/DF.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 250000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

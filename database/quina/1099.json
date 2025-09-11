@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "23/01/2003",
+  "dataProximoConcurso": "25/01/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "50",
+    "57",
+    "27",
+    "09",
+    "30"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "27",
+    "30",
+    "50",
+    "57"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 287,
+      "valorPremio": 1033.14
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 11424,
+      "valorPremio": 34.48
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Caldas Novas, GO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1099,
+  "numeroConcursoAnterior": 1098,
+  "numeroConcursoFinal_0_5": 1105,
+  "numeroConcursoProximo": 1100,
+  "numeroJogo": 3,
+  "observacao": "Estimativa de prêmio ( QUINA ) próximo concurso: R$700.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 296511.86,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

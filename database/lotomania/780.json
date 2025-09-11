@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "01/12/2007",
+  "dataProximoConcurso": "05/12/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "39",
+    "35",
+    "84",
+    "73",
+    "03",
+    "99",
+    "07",
+    "59",
+    "78",
+    "46",
+    "48",
+    "25",
+    "41",
+    "76",
+    "27",
+    "71",
+    "00",
+    "93",
+    "68",
+    "34"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "00",
+    "03",
+    "07",
+    "25",
+    "27",
+    "34",
+    "35",
+    "39",
+    "41",
+    "46",
+    "48",
+    "59",
+    "68",
+    "71",
+    "73",
+    "76",
+    "78",
+    "84",
+    "93",
+    "99"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 492131.76
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 10,
+      "valorPremio": 24963.4
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 252,
+      "valorPremio": 990.61
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1967,
+      "valorPremio": 63.22
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 10160,
+      "valorPremio": 12.25
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TERESÓPOLIS, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 780,
+  "numeroConcursoAnterior": 779,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 781,
+  "numeroJogo": 16,
+  "observacao": "Ganhador de 20 acertos: Salvador/BA. O prêmio para ZERO ACERTO acumulou para 20 acertos do próximo concurso.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 124817.04,
+  "valorEstimadoProximoConcurso": 500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

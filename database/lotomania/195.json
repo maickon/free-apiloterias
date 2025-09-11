@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "06/03/2002",
+  "dataProximoConcurso": "09/03/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "45",
+    "28",
+    "51",
+    "42",
+    "12",
+    "16",
+    "48",
+    "25",
+    "61",
+    "08",
+    "92",
+    "14",
+    "49",
+    "66",
+    "81",
+    "04",
+    "52",
+    "36",
+    "53",
+    "54"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "08",
+    "12",
+    "14",
+    "16",
+    "25",
+    "28",
+    "36",
+    "42",
+    "45",
+    "48",
+    "49",
+    "51",
+    "52",
+    "53",
+    "54",
+    "61",
+    "66",
+    "81",
+    "92"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2519374.52
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 14,
+      "valorPremio": 29412.99
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 359,
+      "valorPremio": 1147.02
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 3028,
+      "valorPremio": 67.75
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 18890,
+      "valorPremio": 10.86
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 205890.95
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "São João Del Rey, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 195,
+  "numeroConcursoAnterior": 194,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 196,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios próximo concurso: (20 ACERTOS) R$600.000,00 - (ZERO ACERTO) R$200.000,00. Ganhador da Faixa ZERO ACERTO é de MG.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

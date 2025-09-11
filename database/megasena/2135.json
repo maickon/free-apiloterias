@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "20/03/2019",
+  "dataProximoConcurso": "23/03/2019",
+  "dezenasSorteadasOrdemSorteio": [
+    "23",
+    "48",
+    "59",
+    "28",
+    "40",
+    "09"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "23",
+    "28",
+    "40",
+    "48",
+    "59"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "SALVADOR",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 32689083.52
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 50,
+      "valorPremio": 58359.12
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4546,
+      "valorPremio": 916.96
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CRAVINHOS, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2135,
+  "numeroConcursoAnterior": 2134,
+  "numeroConcursoFinal_0_5": 2140,
+  "numeroConcursoProximo": 2136,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 50611032.5,
+  "valorAcumuladoConcurso_0_5": 3378685.97,
+  "valorAcumuladoConcursoEspecial": 15576778.59,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

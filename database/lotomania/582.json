@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "04/01/2006",
+  "dataProximoConcurso": "07/01/2006",
+  "dezenasSorteadasOrdemSorteio": [
+    "22",
+    "27",
+    "16",
+    "78",
+    "40",
+    "93",
+    "70",
+    "47",
+    "20",
+    "00",
+    "25",
+    "97",
+    "18",
+    "03",
+    "85",
+    "56",
+    "06",
+    "32",
+    "19",
+    "94"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "00",
+    "03",
+    "06",
+    "16",
+    "18",
+    "19",
+    "20",
+    "22",
+    "25",
+    "27",
+    "32",
+    "40",
+    "47",
+    "56",
+    "70",
+    "78",
+    "85",
+    "93",
+    "94",
+    "97"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 1978562.18
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 12,
+      "valorPremio": 26280.13
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 192,
+      "valorPremio": 1642.51
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1634,
+      "valorPremio": 96.14
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 9920,
+      "valorPremio": 15.83
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "NOVA FRIBURGO, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 582,
+  "numeroConcursoAnterior": 581,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 583,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 acertos) próximo concurso, a ser realizado em 07/01/2006: R$600.000,00. Acumulado de Zero acerto para 20 acertos: R$157.680,82.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

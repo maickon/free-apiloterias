@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "14/04/2010",
+  "dataProximoConcurso": "17/04/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "46",
+    "11",
+    "27",
+    "34",
+    "49",
+    "13"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "11",
+    "13",
+    "27",
+    "34",
+    "46",
+    "49"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "RIO DE JANEIRO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 19095125.12
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 228,
+      "valorPremio": 7995.63
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 10746,
+      "valorPremio": 242.34
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TRÊS LAGOAS, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1170,
+  "numeroConcursoAnterior": 1169,
+  "numeroConcursoFinal_0_5": 1175,
+  "numeroConcursoProximo": 1171,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 31138258.0,
+  "valorAcumuladoConcurso_0_5": 2110846.11,
+  "valorAcumuladoConcursoEspecial": 16215397.51,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

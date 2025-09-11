@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "02/03/2013",
+  "dataProximoConcurso": "04/03/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "14",
+    "74",
+    "07",
+    "49",
+    "56"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "14",
+    "49",
+    "56",
+    "74"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 162,
+      "valorPremio": 3057.39
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8857,
+      "valorPremio": 79.88
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PALMAS, TO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3133,
+  "numeroConcursoAnterior": 3132,
+  "numeroConcursoFinal_0_5": 3135,
+  "numeroConcursoProximo": 3134,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 6429633.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 53023429.26,
+  "valorAcumuladoProximoConcurso": 1822398.34,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

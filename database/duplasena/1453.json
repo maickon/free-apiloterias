@@ -1,0 +1,98 @@
+{
+  "acumulado": true,
+  "dataApuracao": "09/01/2016",
+  "dataProximoConcurso": "12/01/2016",
+  "dezenasSorteadasOrdemSorteio": [
+    "14",
+    "23",
+    "20",
+    "26",
+    "08",
+    "45",
+    "35",
+    "39",
+    "41",
+    "43",
+    "36",
+    "34"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "14",
+    "20",
+    "23",
+    "26",
+    "45"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "34",
+    "35",
+    "36",
+    "39",
+    "41",
+    "43"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 39,
+      "valorPremio": 3262.23
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1325,
+      "valorPremio": 91.44
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 25,
+      "valorPremio": 5089.07
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1141,
+      "valorPremio": 106.19
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAMINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "CONCEIÇÃO DA BARRA, ES",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1453,
+  "numeroConcursoAnterior": 1452,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1454,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2795166.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 572660.9,
+  "valorEstimadoProximoConcurso": 800000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

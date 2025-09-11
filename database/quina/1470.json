@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "09/07/2005",
+  "dataProximoConcurso": "12/07/2005",
+  "dezenasSorteadasOrdemSorteio": [
+    "70",
+    "40",
+    "44",
+    "04",
+    "67"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "40",
+    "44",
+    "67",
+    "70"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 152,
+      "valorPremio": 2179.17
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6843,
+      "valorPremio": 64.3
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PARÁ DE MINAS, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1470,
+  "numeroConcursoAnterior": 1469,
+  "numeroConcursoFinal_0_5": 1475,
+  "numeroConcursoProximo": 1471,
+  "numeroJogo": 3,
+  "observacao": "ACUMULOU. Estimativa de prêmio (quina) para o próximo concurso, a ser realizado em 12/07/2005: R$650.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 331234.13,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

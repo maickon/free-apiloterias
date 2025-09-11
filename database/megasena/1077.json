@@ -1,0 +1,84 @@
+{
+  "acumulado": false,
+  "dataApuracao": "27/05/2009",
+  "dataProximoConcurso": "30/05/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "11",
+    "06",
+    "18",
+    "05",
+    "37",
+    "09"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "06",
+    "09",
+    "11",
+    "18",
+    "37"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "BELO HORIZONTE",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "SÃO PAULO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 14486088.42
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 300,
+      "valorPremio": 8129.73
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 19219,
+      "valorPremio": 181.28
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SÃO SIMÃO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1077,
+  "numeroConcursoAnterior": 1076,
+  "numeroConcursoFinal_0_5": 1080,
+  "numeroConcursoProximo": 1078,
+  "numeroJogo": 2,
+  "observacao": "AS APOSTAS GANHADORAS DE 6 ACERTOS FORAM REALIZADAS EM BELO HORIZONTE/MG E SÃO PAULO/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 41658547.0,
+  "valorAcumuladoConcurso_0_5": 7539844.22,
+  "valorAcumuladoConcursoEspecial": 17917160.64,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

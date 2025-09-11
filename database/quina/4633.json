@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "19/03/2018",
+  "dataProximoConcurso": "20/03/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "03",
+    "71",
+    "61",
+    "60",
+    "25"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "25",
+    "60",
+    "61",
+    "71"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 29,
+      "valorPremio": 10735.7
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 2900,
+      "valorPremio": 161.43
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 86287,
+      "valorPremio": 2.98
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "QUINA",
+  "nomeMunicipioUFSorteio": "CAMPO LIMPO PAULISTA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4633,
+  "numeroConcursoAnterior": 4632,
+  "numeroConcursoFinal_0_5": 4635,
+  "numeroConcursoProximo": 4634,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 5400013.5,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 79474453.48,
+  "valorAcumuladoProximoConcurso": 573512.43,
+  "valorEstimadoProximoConcurso": 1200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

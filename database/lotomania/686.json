@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "06/01/2007",
+  "dataProximoConcurso": "10/01/2007",
+  "dezenasSorteadasOrdemSorteio": [
+    "24",
+    "47",
+    "70",
+    "27",
+    "82",
+    "19",
+    "68",
+    "07",
+    "11",
+    "44",
+    "03",
+    "61",
+    "65",
+    "41",
+    "86",
+    "83",
+    "39",
+    "02",
+    "21",
+    "20"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "03",
+    "07",
+    "11",
+    "19",
+    "20",
+    "21",
+    "24",
+    "27",
+    "39",
+    "41",
+    "44",
+    "47",
+    "61",
+    "65",
+    "68",
+    "70",
+    "82",
+    "83",
+    "86"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 2332289.22
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 19,
+      "valorPremio": 19437.87
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 191,
+      "valorPremio": 1933.61
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2091,
+      "valorPremio": 87.98
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 15597,
+      "valorPremio": 11.8
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 92329.89
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SÃO FRANCISCO DE ITABAPOANA, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 686,
+  "numeroConcursoAnterior": 685,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 687,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 ACERTOS) para o próximo concurso, a ser realizado em 10/01/2007: R$350.000,00. Ganhadores de zero acerto: MG e SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

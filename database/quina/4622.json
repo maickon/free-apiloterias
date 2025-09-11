@@ -1,0 +1,71 @@
+{
+  "acumulado": true,
+  "dataApuracao": "06/03/2018",
+  "dataProximoConcurso": "07/03/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "33",
+    "42",
+    "68",
+    "74",
+    "23"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "23",
+    "33",
+    "42",
+    "68",
+    "74"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 93,
+      "valorPremio": 6098.25
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6847,
+      "valorPremio": 124.55
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 176671,
+      "valorPremio": 2.65
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PALMEIRA DOS ÍNDIOS, AL",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 4622,
+  "numeroConcursoAnterior": 4621,
+  "numeroConcursoFinal_0_5": 4625,
+  "numeroConcursoProximo": 4623,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 9836820.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 75631636.11,
+  "valorAcumuladoProximoConcurso": 5870792.42,
+  "valorEstimadoProximoConcurso": 7000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

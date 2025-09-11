@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "29/04/2009",
+  "dataProximoConcurso": "02/05/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "28",
+    "17",
+    "49",
+    "53",
+    "45",
+    "09"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "17",
+    "28",
+    "45",
+    "49",
+    "53"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "RJ"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 36400425.15
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 275,
+      "valorPremio": 11807.55
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 16287,
+      "valorPremio": 284.8
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "IMBITUVA, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1069,
+  "numeroConcursoAnterior": 1068,
+  "numeroConcursoFinal_0_5": 1070,
+  "numeroConcursoProximo": 1070,
+  "numeroJogo": 2,
+  "observacao": "GANHADOR DE 6 ACERTOS: NILÓPOLIS/RJ.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 13750399.77,
+  "valorAcumuladoConcursoEspecial": 14495810.71,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 17000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

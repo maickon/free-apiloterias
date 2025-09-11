@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "06/09/2008",
+  "dataProximoConcurso": "10/09/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "03",
+    "31",
+    "07",
+    "25",
+    "40",
+    "58"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "07",
+    "25",
+    "31",
+    "40",
+    "58"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 24880988.57
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 174,
+      "valorPremio": 12267.86
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 10015,
+      "valorPremio": 213.14
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TABOÃO DA SERRA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1002,
+  "numeroConcursoAnterior": 1001,
+  "numeroConcursoFinal_0_5": 1005,
+  "numeroConcursoProximo": 1003,
+  "numeroJogo": 2,
+  "observacao": "GANHADOR DE 6 ACERTOS: LAVRAS/MG.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 6711681.31,
+  "valorAcumuladoConcursoEspecial": 4155306.33,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 1500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

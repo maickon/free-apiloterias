@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "02/01/2010",
+  "dataProximoConcurso": "05/01/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "34",
+    "19",
+    "36",
+    "13",
+    "17",
+    "20",
+    "06",
+    "17",
+    "43",
+    "05",
+    "35",
+    "45"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "13",
+    "17",
+    "19",
+    "20",
+    "34",
+    "36"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "05",
+    "06",
+    "17",
+    "35",
+    "43",
+    "45"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 9,
+      "valorPremio": 4146.43
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 562,
+      "valorPremio": 94.85
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TRAMANDAÍ, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 825,
+  "numeroConcursoAnterior": 824,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 826,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 605547.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 4641521.01,
+  "valorEstimadoProximoConcurso": 4800000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

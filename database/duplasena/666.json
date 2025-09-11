@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "17/06/2008",
+  "dataProximoConcurso": "20/06/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "04",
+    "47",
+    "29",
+    "13",
+    "28",
+    "10",
+    "31",
+    "38",
+    "45",
+    "13",
+    "36",
+    "02"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "10",
+    "13",
+    "28",
+    "29",
+    "47"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "02",
+    "13",
+    "31",
+    "36",
+    "38",
+    "45"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 44,
+      "valorPremio": 2888.36
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1897,
+      "valorPremio": 66.99
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "IGUAPE, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 666,
+  "numeroConcursoAnterior": 665,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 667,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 2812244.76,
+  "valorEstimadoProximoConcurso": 3000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "01/03/2003",
+  "dataProximoConcurso": "08/03/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "95",
+    "36",
+    "18",
+    "12",
+    "61",
+    "78",
+    "37",
+    "35",
+    "23",
+    "26",
+    "65",
+    "86",
+    "63",
+    "25",
+    "73",
+    "27",
+    "79",
+    "96",
+    "34",
+    "82"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "12",
+    "18",
+    "23",
+    "25",
+    "26",
+    "27",
+    "34",
+    "35",
+    "36",
+    "37",
+    "61",
+    "63",
+    "65",
+    "73",
+    "78",
+    "79",
+    "82",
+    "86",
+    "95",
+    "96"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 289366.31
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 45,
+      "valorPremio": 8573.81
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 351,
+      "valorPremio": 1099.21
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 3076,
+      "valorPremio": 62.49
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 17129,
+      "valorPremio": 11.22
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 363327.36
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Corumbá, MS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 295,
+  "numeroConcursoAnterior": 294,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 296,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmios próximo concurso: (20 ACERTOS) R$700.000,00 - (ZERO ACERTO) R$250.000,00. O acertador da faixa zero acerto é de Manaus/AM. A CAIXA informa que o concurso 296 da Lotomania acontecerá em 08/03/2003.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

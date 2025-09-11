@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "28/03/2009",
+  "dataProximoConcurso": "01/04/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "01",
+    "41",
+    "03",
+    "18",
+    "16",
+    "42"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "03",
+    "16",
+    "18",
+    "41",
+    "42"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 8287163.48
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 60,
+      "valorPremio": 20333.07
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 5220,
+      "valorPremio": 233.71
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "CAMPOS DOS GOYTACAZES, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1060,
+  "numeroConcursoAnterior": 1059,
+  "numeroConcursoFinal_0_5": 1065,
+  "numeroConcursoProximo": 1061,
+  "numeroJogo": 2,
+  "observacao": "GANHADOR DE 6 ACERTOS: CURITIBA/PR.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 1412613.23,
+  "valorAcumuladoConcursoEspecial": 10220528.85,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 1500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

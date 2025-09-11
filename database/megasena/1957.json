@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "10/08/2017",
+  "dataProximoConcurso": "12/08/2017",
+  "dezenasSorteadasOrdemSorteio": [
+    "23",
+    "47",
+    "29",
+    "02",
+    "14",
+    "22"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "02",
+    "14",
+    "22",
+    "23",
+    "29",
+    "47"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "CURITIBA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 51557331.87
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 98,
+      "valorPremio": 34841.2
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8329,
+      "valorPremio": 585.63
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "FEIJÓ, AC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1957,
+  "numeroConcursoAnterior": 1956,
+  "numeroConcursoFinal_0_5": 1960,
+  "numeroConcursoProximo": 1958,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 59222338.0,
+  "valorAcumuladoConcurso_0_5": 10507307.64,
+  "valorAcumuladoConcursoEspecial": 48022299.37,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

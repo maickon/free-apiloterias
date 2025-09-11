@@ -1,0 +1,67 @@
+{
+  "acumulado": true,
+  "dataApuracao": "30/10/2013",
+  "dataProximoConcurso": "01/11/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "30",
+    "07",
+    "23",
+    "20",
+    "15",
+    "41"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "15",
+    "20",
+    "23",
+    "30",
+    "41"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 182,
+      "valorPremio": 21370.06
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 13138,
+      "valorPremio": 422.91
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Auditório",
+  "nomeMunicipioUFSorteio": "OSASCO, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1543,
+  "numeroConcursoAnterior": 1542,
+  "numeroConcursoFinal_0_5": 1545,
+  "numeroConcursoProximo": 1544,
+  "numeroJogo": 2,
+  "observacao": "SORTEIO REALIZADO EM ESTÚDIO DE TV",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 66433014.0,
+  "valorAcumuladoConcurso_0_5": 14234718.21,
+  "valorAcumuladoConcursoEspecial": 49281253.4,
+  "valorAcumuladoProximoConcurso": 36779781.7,
+  "valorEstimadoProximoConcurso": 45000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

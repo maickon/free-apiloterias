@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "22/09/2018",
+  "dataProximoConcurso": "26/09/2018",
+  "dezenasSorteadasOrdemSorteio": [
+    "40",
+    "42",
+    "13",
+    "18",
+    "35",
+    "41"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "13",
+    "18",
+    "35",
+    "40",
+    "41",
+    "42"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "ITAGUARA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 21763750.54
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 128,
+      "valorPremio": 15918.03
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4287,
+      "valorPremio": 678.96
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "CAINHÃO DA SORTE",
+  "nomeMunicipioUFSorteio": "OLIVEIRA, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2081,
+  "numeroConcursoAnterior": 2080,
+  "numeroConcursoFinal_0_5": 2085,
+  "numeroConcursoProximo": 2082,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 35339930.5,
+  "valorAcumuladoConcurso_0_5": 4265539.52,
+  "valorAcumuladoConcursoEspecial": 51348493.85,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2500000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

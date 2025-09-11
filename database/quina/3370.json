@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "19/12/2013",
+  "dataProximoConcurso": "20/12/2013",
+  "dezenasSorteadasOrdemSorteio": [
+    "67",
+    "06",
+    "43",
+    "36",
+    "63"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "36",
+    "43",
+    "63",
+    "67"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 149,
+      "valorPremio": 3932.44
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 8477,
+      "valorPremio": 98.74
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SIQUEIRA CAMPOS, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3370,
+  "numeroConcursoAnterior": 3369,
+  "numeroConcursoFinal_0_5": 3375,
+  "numeroConcursoProximo": 3371,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 7606227.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 43549532.81,
+  "valorAcumuladoProximoConcurso": 3424133.37,
+  "valorEstimadoProximoConcurso": 4200000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

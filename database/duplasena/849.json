@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "26/03/2010",
+  "dataProximoConcurso": "30/03/2010",
+  "dezenasSorteadasOrdemSorteio": [
+    "36",
+    "15",
+    "23",
+    "42",
+    "10",
+    "37",
+    "44",
+    "05",
+    "34",
+    "17",
+    "02",
+    "06"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "15",
+    "23",
+    "36",
+    "37",
+    "42"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "02",
+    "05",
+    "06",
+    "17",
+    "34",
+    "44"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 28,
+      "valorPremio": 3845.1
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1433,
+      "valorPremio": 107.33
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "UNIÃO DA VITÓRIA, PR",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 849,
+  "numeroConcursoAnterior": 848,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 850,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 1747016.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1910925.99,
+  "valorEstimadoProximoConcurso": 2100000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

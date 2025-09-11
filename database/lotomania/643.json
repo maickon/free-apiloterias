@@ -1,0 +1,130 @@
+{
+  "acumulado": false,
+  "dataApuracao": "05/08/2006",
+  "dataProximoConcurso": "09/08/2006",
+  "dezenasSorteadasOrdemSorteio": [
+    "54",
+    "57",
+    "52",
+    "64",
+    "10",
+    "45",
+    "15",
+    "03",
+    "91",
+    "74",
+    "85",
+    "66",
+    "30",
+    "14",
+    "38",
+    "39",
+    "69",
+    "96",
+    "19",
+    "75"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "10",
+    "14",
+    "15",
+    "19",
+    "30",
+    "38",
+    "39",
+    "45",
+    "52",
+    "54",
+    "57",
+    "64",
+    "66",
+    "69",
+    "74",
+    "75",
+    "85",
+    "91",
+    "96"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "BA"
+    },
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 1995092.19
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 18,
+      "valorPremio": 21387.41
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 226,
+      "valorPremio": 1703.43
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 2107,
+      "valorPremio": 91.01
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 12566,
+      "valorPremio": 15.27
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "TAGUATINGA, DF",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 643,
+  "numeroConcursoAnterior": 642,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 644,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prêmio (20 acertos) para o próximo concurso, a ser realizado em 09/08/2006: R$500.000,00. Acumulado de zero acerto para vinte acertos: R$192.486,76.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

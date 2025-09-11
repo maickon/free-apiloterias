@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "04/09/2009",
+  "dataProximoConcurso": "08/09/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "24",
+    "06",
+    "14",
+    "29",
+    "21",
+    "04",
+    "42",
+    "35",
+    "43",
+    "24",
+    "03",
+    "32"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "04",
+    "06",
+    "14",
+    "21",
+    "24",
+    "29"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "03",
+    "24",
+    "32",
+    "35",
+    "42",
+    "43"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 17,
+      "valorPremio": 8217.61
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1762,
+      "valorPremio": 113.26
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "NOVO HAMBURGO, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 791,
+  "numeroConcursoAnterior": 790,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 792,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2266860.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 2452510.69,
+  "valorEstimadoProximoConcurso": 2600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

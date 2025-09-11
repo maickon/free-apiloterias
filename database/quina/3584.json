@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "10/09/2014",
+  "dataProximoConcurso": "11/09/2014",
+  "dezenasSorteadasOrdemSorteio": [
+    "09",
+    "50",
+    "74",
+    "58",
+    "51"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "09",
+    "50",
+    "51",
+    "58",
+    "74"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 90,
+      "valorPremio": 8158.88
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6335,
+      "valorPremio": 165.58
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "VALENÇA, RJ",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 3584,
+  "numeroConcursoAnterior": 3583,
+  "numeroConcursoFinal_0_5": 3585,
+  "numeroConcursoProximo": 3585,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 9532207.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 22524881.0,
+  "valorAcumuladoProximoConcurso": 4601335.13,
+  "valorEstimadoProximoConcurso": 5700000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

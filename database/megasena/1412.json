@@ -1,0 +1,76 @@
+{
+  "acumulado": false,
+  "dataApuracao": "04/08/2012",
+  "dataProximoConcurso": "07/08/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "06",
+    "08",
+    "37",
+    "24",
+    "45",
+    "41"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "08",
+    "24",
+    "37",
+    "41",
+    "45"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "COLATINA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "ES"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 3288513.09
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 103,
+      "valorPremio": 17331.97
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6893,
+      "valorPremio": 369.98
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "GUANAMBI, BA",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1412,
+  "numeroConcursoAnterior": 1411,
+  "numeroConcursoFinal_0_5": 1415,
+  "numeroConcursoProximo": 1413,
+  "numeroJogo": 2,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MEGA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 30492424.0,
+  "valorAcumuladoConcurso_0_5": 11321454.76,
+  "valorAcumuladoConcursoEspecial": 31860628.06,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 2000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,65 @@
+{
+  "acumulado": true,
+  "dataApuracao": "09/05/2012",
+  "dataProximoConcurso": "10/05/2012",
+  "dezenasSorteadasOrdemSorteio": [
+    "10",
+    "50",
+    "37",
+    "59",
+    "61"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "37",
+    "50",
+    "59",
+    "61"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 58,
+      "valorPremio": 5915.9
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 4485,
+      "valorPremio": 109.29
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "MINAÇU, GO",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 2892,
+  "numeroConcursoAnterior": 2891,
+  "numeroConcursoFinal_0_5": 2895,
+  "numeroConcursoProximo": 2893,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 4454193.75,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 65775736.14,
+  "valorAcumuladoProximoConcurso": 480370.93,
+  "valorEstimadoProximoConcurso": 1000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

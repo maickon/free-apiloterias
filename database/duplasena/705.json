@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "31/10/2008",
+  "dataProximoConcurso": "04/11/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "30",
+    "07",
+    "32",
+    "05",
+    "31",
+    "03",
+    "05",
+    "38",
+    "27",
+    "11",
+    "15",
+    "48"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "03",
+    "05",
+    "07",
+    "30",
+    "31",
+    "32"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "05",
+    "11",
+    "15",
+    "27",
+    "38",
+    "48"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 39,
+      "valorPremio": 2962.64
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1775,
+      "valorPremio": 65.1
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "PIUMHI, MG",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 705,
+  "numeroConcursoAnterior": 704,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 706,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1456767.21,
+  "valorEstimadoProximoConcurso": 1700000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

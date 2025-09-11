@@ -1,0 +1,95 @@
+{
+  "acumulado": false,
+  "dataApuracao": "15/09/2009",
+  "dataProximoConcurso": "18/09/2009",
+  "dezenasSorteadasOrdemSorteio": [
+    "38",
+    "11",
+    "35",
+    "06",
+    "47",
+    "18",
+    "48",
+    "10",
+    "46",
+    "16",
+    "45",
+    "34"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "06",
+    "11",
+    "18",
+    "35",
+    "38",
+    "47"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "10",
+    "16",
+    "34",
+    "45",
+    "46",
+    "48"
+  ],
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "BAIXO    GUANDU",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "ES"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 3379536.24
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 35,
+      "valorPremio": 3796.86
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1772,
+      "valorPremio": 107.13
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "IGREJINHA, RS",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 794,
+  "numeroConcursoAnterior": 793,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 795,
+  "numeroJogo": 18,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2156369.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 199335.15,
+  "valorEstimadoProximoConcurso": 300000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

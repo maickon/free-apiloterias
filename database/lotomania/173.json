@@ -1,0 +1,122 @@
+{
+  "acumulado": false,
+  "dataApuracao": "08/12/2001",
+  "dataProximoConcurso": "12/12/2001",
+  "dezenasSorteadasOrdemSorteio": [
+    "21",
+    "32",
+    "57",
+    "47",
+    "43",
+    "88",
+    "44",
+    "52",
+    "06",
+    "22",
+    "11",
+    "04",
+    "03",
+    "84",
+    "15",
+    "51",
+    "63",
+    "73",
+    "28",
+    "01"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "03",
+    "04",
+    "06",
+    "11",
+    "15",
+    "21",
+    "22",
+    "28",
+    "32",
+    "43",
+    "44",
+    "47",
+    "51",
+    "52",
+    "57",
+    "63",
+    "73",
+    "84",
+    "88"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "20 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 2471773.2
+    },
+    {
+      "descricaoFaixa": "19 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 23,
+      "valorPremio": 22139.14
+    },
+    {
+      "descricaoFaixa": "18 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 351,
+      "valorPremio": 1450.71
+    },
+    {
+      "descricaoFaixa": "17 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 3213,
+      "valorPremio": 78.94
+    },
+    {
+      "descricaoFaixa": "16 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 19403,
+      "valorPremio": 13.08
+    },
+    {
+      "descricaoFaixa": "15 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 2,
+      "valorPremio": 127300.08
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Sertãozinho, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 173,
+  "numeroConcursoAnterior": 172,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 174,
+  "numeroJogo": 16,
+  "observacao": "Estimativa de prèmios próximo concurso (20 ACERTOS): 550.000,00 (ZER0 ACERTO): R$ 200.000,00. 02 ganhadores com ZERO ACERTO: Campo Grande/MS (01) Diadema/SP (01).",
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTOMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

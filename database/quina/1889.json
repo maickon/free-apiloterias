@@ -1,0 +1,74 @@
+{
+  "acumulado": false,
+  "dataApuracao": "15/04/2008",
+  "dataProximoConcurso": "17/04/2008",
+  "dezenasSorteadasOrdemSorteio": [
+    "58",
+    "23",
+    "54",
+    "80",
+    "14"
+  ],
+  "exibirDetalhamentoPorCidade": false,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "14",
+    "23",
+    "54",
+    "58",
+    "80"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 334384.91
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 157,
+      "valorPremio": 2129.84
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 7885,
+      "valorPremio": 56.54
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "SÃO FRANCISCO DO SUL, SC",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 1889,
+  "numeroConcursoAnterior": 1888,
+  "numeroConcursoFinal_0_5": 1895,
+  "numeroConcursoProximo": 1890,
+  "numeroJogo": 3,
+  "observacao": "GANHADOR DE 5 ACERTOS: OSASCO/SP.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 380000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

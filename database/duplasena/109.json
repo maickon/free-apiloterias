@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "03/12/2002",
+  "dataProximoConcurso": "06/12/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "45",
+    "41",
+    "32",
+    "46",
+    "26",
+    "44",
+    "43",
+    "44",
+    "33",
+    "46",
+    "49",
+    "28"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "26",
+    "32",
+    "41",
+    "44",
+    "45",
+    "46"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "28",
+    "33",
+    "43",
+    "44",
+    "46",
+    "49"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 50,
+      "valorPremio": 2380.18
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1643,
+      "valorPremio": 72.16
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Avaré, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 109,
+  "numeroConcursoAnterior": 108,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 110,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$3.100.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 2898668.82,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

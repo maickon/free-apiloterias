@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "15/02/2002",
+  "dataProximoConcurso": "08/02/2002",
+  "dezenasSorteadasOrdemSorteio": [
+    "32",
+    "29",
+    "19",
+    "35",
+    "07",
+    "05",
+    "42",
+    "47",
+    "03",
+    "37",
+    "28",
+    "44"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "05",
+    "07",
+    "19",
+    "29",
+    "32",
+    "35"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "03",
+    "28",
+    "37",
+    "42",
+    "44",
+    "47"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 20,
+      "valorPremio": 4849.09
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1344,
+      "valorPremio": 71.89
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "Vargem Grande do Sul, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 27,
+  "numeroConcursoAnterior": 26,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 28,
+  "numeroJogo": 18,
+  "observacao": "Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$1.000.000,00 (HUM MILHÃO!!!).",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 889266.76,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

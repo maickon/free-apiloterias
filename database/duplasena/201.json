@@ -1,0 +1,86 @@
+{
+  "acumulado": true,
+  "dataApuracao": "31/10/2003",
+  "dataProximoConcurso": "04/11/2003",
+  "dezenasSorteadasOrdemSorteio": [
+    "49",
+    "43",
+    "31",
+    "44",
+    "08",
+    "32",
+    "13",
+    "41",
+    "42",
+    "20",
+    "49",
+    "44"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "08",
+    "31",
+    "32",
+    "43",
+    "44",
+    "49"
+  ],
+  "listaDezenasSegundoSorteio": [
+    "13",
+    "20",
+    "41",
+    "42",
+    "44",
+    "49"
+  ],
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 6,
+      "numeroDeGanhadores": 14,
+      "valorPremio": 5991.36
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 7,
+      "numeroDeGanhadores": 1124,
+      "valorPremio": 74.34
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Caminhão da Sorte",
+  "nomeMunicipioUFSorteio": "BERTIOGA, SP",
+  "nomeTimeCoracaoMesSorte": "",
+  "numero": 201,
+  "numeroConcursoAnterior": 200,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 202,
+  "numeroJogo": 18,
+  "observacao": "ACUMULOU!!! Estimativa de prêmio (SENA-1ºSORTEIO) próximo concurso: R$1.400.000,00.",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DUPLA_SENA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 1234376.25,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}
