@@ -10,13 +10,17 @@ Esta versão **gratuita** é hospedada via **GitHub Pages** e fornece acesso lim
 
 A versão gratuita fornece resultados para **todos os jogos de loteria**, incluindo:
 
-- Mega-Sena  
-- Lotofácil  
-- Lotomania  
-- Federal  
-- Timemania  
-- Loteca  
-- E outros que forem adicionados futuramente
+- Dia de Sorte
+- Duplasena
+- Federal
+- Loteca
+- Lotofácil
+- Lotomania
+- Mais Milionaria
+- Mega-Sena
+- Quina
+- Supersete
+- Timemania
 
 ---
 
