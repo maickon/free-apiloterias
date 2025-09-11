@@ -60,7 +60,7 @@ O **projeto principal**, disponível em [apiloterias.com](https://apiloterias.co
 | Acesso a concursos | ✅ Todos os jogos | ✅ Todos os jogos |
 | Último concurso | ✅ | ✅ |
 | Concurso específico | ✅ | ✅ |
-| Todos os concursos | ✅ | ✅ (com paginação) |
+| Todos os concursos | ❌ | ✅ (com paginação) |
 | Frequência de números | ❌ | ✅ (quentes, frios, atrasados) |
 | Sequências comuns | ❌ | ✅ |
 | Pares e ímpares | ❌ | ✅ |
@@ -76,10 +76,10 @@ Você pode consumir os arquivos JSON diretamente via GitHub Pages. Exemplos:
 
 ```bash
 # Último concurso da Mega-Sena
-curl https://usuario.github.io/free-api/megasena/concurso/ultimo.json
+curl https://maickon.github.io/free-apiloterias/database/megasena/ultimo.json
 
 # Concurso número 1 da Lotofácil
-curl https://usuario.github.io/free-api/lotofacil/concurso/1.json
+curl https://maickon.github.io/free-apiloterias/database/lotofacil/1.json
 
 # Todos os concursos da Lotomania
-curl https://usuario.github.io/free-api/lotomania/concurso/todos.json
+curl https://maickon.github.io/free-apiloterias/database/lotomania/todos.json

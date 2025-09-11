@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width,initial-scale=1" />
         <title>Loterias — Free API</title>
         <script src="https://cdn.tailwindcss.com"></script>
-        <link rel="icon" type="image/png" href="/img/icon.png">
+        <link rel="icon" type="image/png" href="/free-apiloterias/img/icon.png">
     </head>
     <body class="bg-gray-50 text-gray-800 overflow-y-hidden h-screen">
         <!-- Header -->
@@ -13,7 +13,7 @@
           <div class="flex items-center justify-between  py-4 max-w-7xl mx-auto">
             <!-- Lado esquerdo: logo + título -->
             <div class="flex items-center gap-3">
-              <img src="/img/icon.png" class="w-8 h-8">
+              <img src="/free-apiloterias/img/icon.png" class="w-8 h-8">
               <h1 class="text-xl font-bold text-gray-900">Loterias — Free API</h1>
             </div>
 
@@ -50,9 +50,14 @@
         </div>
         <script>
             // Loterias disponíveis
-            const LOTTERIES = ["megasena", "federal", "lotofacil", "lotomania", "timemania"];
-            const DATABASE_PATH = "/database";
+            const LOTTERIES = ["diadesorte", "duplasena", "federal", "loteca", "lotofacil", "lotomania", "maismilionaria", "megasena", "quina", "supersete", "timemania"];
             
+            // Detecta se está rodando no GitHub Pages
+            const isGithubPages = window.location.hostname.includes("github.io");
+
+            // Define o caminho do banco de dados
+            const DATABASE_PATH = isGithubPages ? "/free-apiloterias/database" : "/database";
+
             const el = (id) => document.getElementById(id);
             const safeJSON = (obj) => JSON.stringify(obj, null, 2);
             
