@@ -1,6 +1,8 @@
 # API Loterias - Versão Gratuita
 
-Bem-vindo ao **API Loterias - Free Version**, a versão gratuita do site [apiloterias.com](https://apiloterias.com), que fornece resultados de loterias com filtros avançados.  
+Bem-vindo ao **API Loterias - Free Version**, a versão gratuita do site [apiloterias](http://apiloterias.mksoft.com.br/), que fornece resultados de loterias com filtros avançados.
+
+No momento o projeto está eu atualização, mas em breve o site principal ([apiloterias](http://apiloterias.mksoft.com.br/)) será atualizado.
 
 Esta versão **gratuita** é hospedada via **GitHub Pages** e fornece acesso limitado a alguns endpoints de consulta para cada loteria, permitindo que você acesse resultados de concursos de forma rápida e prática.  
 
@@ -40,7 +42,7 @@ Na versão gratuita, você possui **consultas básicas** de concursos de cada lo
 
 ## 🔹 Projeto Pago (API Oficial)
 
-O **projeto principal**, disponível em [apiloterias.com](https://apiloterias.com), oferece uma **API completa e sofisticada** para assinantes, com **endpoints avançados** para consultas detalhadas, estatísticas e análises históricas, incluindo:
+O **projeto principal**, disponível em [apiloterias.com](http://apiloterias.mksoft.com.br/), oferece uma **API completa e sofisticada** para assinantes, com **endpoints avançados** para consultas detalhadas, estatísticas e análises históricas, incluindo:
 
 - Concurso específico pelo número  
 - Último concurso  
