@@ -1,0 +1,115 @@
+{
+  "trevosSorteados": [
+    "1",
+    "3"
+  ],
+  "acumulado": true,
+  "dataApuracao": "16/07/2025",
+  "dataProximoConcurso": "19/07/2025",
+  "dezenasSorteadasOrdemSorteio": [
+    "01",
+    "36",
+    "04",
+    "05",
+    "16",
+    "41",
+    "03",
+    "01"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "04",
+    "05",
+    "16",
+    "36",
+    "41"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "6 acertos + 2 trevos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos + 1 ou nenhum trevo",
+      "faixa": 2,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "5 acertos + 2 trevos",
+      "faixa": 3,
+      "numeroDeGanhadores": 6,
+      "valorPremio": 94888.64
+    },
+    {
+      "descricaoFaixa": "5 acertos + 1 ou nenhum trevo",
+      "faixa": 4,
+      "numeroDeGanhadores": 18,
+      "valorPremio": 14057.58
+    },
+    {
+      "descricaoFaixa": "4 acertos + 2 trevos",
+      "faixa": 5,
+      "numeroDeGanhadores": 131,
+      "valorPremio": 2069.54
+    },
+    {
+      "descricaoFaixa": "4 acertos + 1 ou nenhum trevo",
+      "faixa": 6,
+      "numeroDeGanhadores": 1532,
+      "valorPremio": 176.96
+    },
+    {
+      "descricaoFaixa": "3 acertos + 2 trevos",
+      "faixa": 7,
+      "numeroDeGanhadores": 2451,
+      "valorPremio": 50.0
+    },
+    {
+      "descricaoFaixa": "3 acertos + 1 trevo",
+      "faixa": 8,
+      "numeroDeGanhadores": 20454,
+      "valorPremio": 24.0
+    },
+    {
+      "descricaoFaixa": "2 acertos + 2 trevos",
+      "faixa": 9,
+      "numeroDeGanhadores": 20133,
+      "valorPremio": 12.0
+    },
+    {
+      "descricaoFaixa": "2 acertos + 1 trevo",
+      "faixa": 10,
+      "numeroDeGanhadores": 171503,
+      "valorPremio": 6.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "Espaço da Sorte",
+  "nomeMunicipioUFSorteio": "SAO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": null,
+  "numero": 268,
+  "numeroConcursoAnterior": 267,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 269,
+  "numeroJogo": 9,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "MAIS_MILIONARIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 15390600.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 127433132.96,
+  "valorEstimadoProximoConcurso": 129000000.0,
+  "valorSaldoReservaGarantidora": 3031867.3,
+  "valorTotalPremioFaixaUm": 1961037.73
+}

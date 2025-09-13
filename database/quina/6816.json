@@ -1,0 +1,80 @@
+{
+  "acumulado": false,
+  "dataApuracao": "02/09/2025",
+  "dataProximoConcurso": "03/09/2025",
+  "dezenasSorteadasOrdemSorteio": [
+    "27",
+    "01",
+    "71",
+    "50",
+    "72"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "01",
+    "27",
+    "50",
+    "71",
+    "72"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "CURVELO",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "MG"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 10451964.1
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 58,
+      "valorPremio": 9628.24
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 3936,
+      "valorPremio": 135.12
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 101867,
+      "valorPremio": 5.22
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO DA SORTE",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "numero": 6816,
+  "numeroConcursoAnterior": 6815,
+  "numeroConcursoFinal_0_5": 6825,
+  "numeroConcursoProximo": 6817,
+  "numeroJogo": 3,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "QUINA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 12145365.0,
+  "valorAcumuladoConcurso_0_5": 1090344.11,
+  "valorAcumuladoConcursoEspecial": 22082539.15,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 600000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

@@ -1,0 +1,90 @@
+{
+  "acumulado": false,
+  "dataApuracao": "02/08/2025",
+  "dataProximoConcurso": "05/08/2025",
+  "dezenasSorteadasOrdemSorteio": [
+    "17",
+    "07",
+    "14",
+    "16",
+    "30",
+    "27",
+    "29"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "07",
+    "14",
+    "16",
+    "17",
+    "27",
+    "29",
+    "30"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 1,
+      "municipio": "GUARAPUAVA",
+      "nomeFatansiaUL": "",
+      "posicao": 1,
+      "serie": "",
+      "uf": "PR"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 836396.99
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 84,
+      "valorPremio": 1846.58
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 2380,
+      "valorPremio": 25.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 25688,
+      "valorPremio": 5.0
+    },
+    {
+      "descricaoFaixa": "Mês da Sorte",
+      "faixa": 5,
+      "numeroDeGanhadores": 75607,
+      "valorPremio": 2.5
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO DA SORTE",
+  "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": "Outubro",
+  "numero": 1097,
+  "numeroConcursoAnterior": 1096,
+  "numeroConcursoFinal_0_5": 0,
+  "numeroConcursoProximo": 1098,
+  "numeroJogo": 11,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "DIA_DE_SORTE",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 2041565.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 150000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}

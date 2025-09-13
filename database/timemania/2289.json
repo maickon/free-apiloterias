@@ -1,0 +1,87 @@
+{
+  "acumulado": true,
+  "dataApuracao": "02/09/2025",
+  "dataProximoConcurso": "04/09/2025",
+  "dezenasSorteadasOrdemSorteio": [
+    "47",
+    "14",
+    "52",
+    "21",
+    "10",
+    "18",
+    "61"
+  ],
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "10",
+    "14",
+    "18",
+    "21",
+    "47",
+    "52",
+    "61"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "7 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 0,
+      "valorPremio": 0.0
+    },
+    {
+      "descricaoFaixa": "6 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 3,
+      "valorPremio": 79623.42
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 212,
+      "valorPremio": 1609.63
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 4116,
+      "valorPremio": 10.5
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 39115,
+      "valorPremio": 3.5
+    },
+    {
+      "descricaoFaixa": "Time do Coração",
+      "faixa": 6,
+      "numeroDeGanhadores": 10014,
+      "valorPremio": 8.5
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO DA SORTE",
+  "nomeMunicipioUFSorteio": "SÃO PAULO,  SP",
+  "nomeTimeCoracaoMesSorte": "MIRASSOL         /SP",
+  "numero": 2289,
+  "numeroConcursoAnterior": 2288,
+  "numeroConcursoFinal_0_5": 2290,
+  "numeroConcursoProximo": 2290,
+  "numeroJogo": 20,
+  "observacao": "",
+  "premiacaoContingencia": null,
+  "tipoJogo": "TIMEMANIA",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 3942911.0,
+  "valorAcumuladoConcurso_0_5": 20404625.69,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 20404625.69,
+  "valorEstimadoProximoConcurso": 21000000.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}
