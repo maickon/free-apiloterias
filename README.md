@@ -2,9 +2,9 @@
 
 Bem-vindo ao **API Loterias - Free Version**, a versão gratuita do site [apiloterias](http://apiloterias.com/), que fornece resultados de loterias com filtros avançados.
 
-No momento o projeto está eu atualização, mas em breve o site principal ([apiloterias](http://apiloterias.com/)) será atualizado.
-
 Esta versão **gratuita** é hospedada via **GitHub Pages** e fornece acesso limitado a alguns endpoints de consulta para cada loteria, permitindo que você acesse resultados de concursos de forma rápida e prática.  
+
+Este projeto é atualiazdo junto com a base de dados oficial do site. Porém, servido apenas 3 endpoins básicos que são: Jogos por seu número de concurso, jogo mais recente e todos os jogos.
 
 ---
 
@@ -32,9 +32,9 @@ Na versão gratuita, você possui **consultas básicas** de concursos de cada lo
 
 | Endpoint | Descrição | Exemplo |
 |----------|-----------|---------|
-| `/NOME-LOTERIA/concurso/NUMERO` | Retorna os detalhes de um concurso específico pelo número. | `/megasena/concurso/1` |
-| `/NOME-LOTERIA/concurso/ultimo` | Retorna o concurso mais recente da loteria. | `/lotofacil/concurso/ultimo` |
-| `/NOME-LOTERIA/concurso/todos` | Retorna todos os concursos disponíveis da loteria. | `/lotomania/concurso/todos` |
+| `/NOME-LOTERIA/NUMERO.json` | Retorna os detalhes de um concurso específico pelo número. | `/megasena/1.json` |
+| `/NOME-LOTERIA/_ultimo.json` | Retorna o concurso mais recente da loteria. | `/lotofacil/_ultimo.json` |
+| `/NOME-LOTERIA/_todos.json` | Retorna todos os concursos disponíveis da loteria. | `/lotomania/_todos.json` |
 
 > Todos os concursos são retornados como arquivos JSON individuais ou completos, sem paginação.  
 
@@ -78,14 +78,19 @@ O **projeto principal**, disponível em [apiloterias.com](http://apiloterias.com
 
 ## 🔹 Como Utilizar a Versão Gratuita
 
-Você pode consumir os arquivos JSON diretamente via GitHub Pages. Exemplos:
+Você pode consumir os arquivos JSON diretamente pelas URLs abaixo. Basta mudar apenas o nome do concurso. Exemplos:
 
-```bash
-# Último concurso da Mega-Sena
-curl https://raw.githubusercontent.com/maickon/free-apiloterias/refs/heads/master/database/megasena/ultimo.json
+- **Último concurso da Mega-Sena**  
+	```bash
+	curl https://raw.githubusercontent.com/maickon/free-apiloterias/refs/heads/master/database/megasena/ultimo.json
+	```
 
-# Concurso número 1 da Lotofácil
-curl https://raw.githubusercontent.com/maickon/free-apiloterias/refs/heads/master/database/lotofacil/1.json
+- **Concurso número 1 da Lotofácil**
+	```bash
+	curl https://raw.githubusercontent.com/maickon/free-apiloterias/refs/heads/master/database/lotofacil/1.json
+	```
 
-# Todos os concursos da Lotomania
-curl https://raw.githubusercontent.com/maickon/free-apiloterias/refs/heads/master/database/lotomania/todos.json
+- **Todos os concursos da Lotomania**
+	```bash
+	curl https://raw.githubusercontent.com/maickon/free-apiloterias/refs/heads/master/database/lotomania/todos.json
+	```
