@@ -105,9 +105,9 @@
             async function fetchData(lottery, param) {
               let url;
               if (param === "todos") {
-                url = `${DATABASE_PATH}/${lottery}/todos.json`;
+                url = `${DATABASE_PATH}/${lottery}/_todos.json`;
               } else if (param === "ultimo") {
-                url = `${DATABASE_PATH}/${lottery}/ultimo.json`;
+                url = `${DATABASE_PATH}/${lottery}/_ultimo.json`;
               } else {
                 url = `${DATABASE_PATH}/${lottery}/${param}.json`;
               }
