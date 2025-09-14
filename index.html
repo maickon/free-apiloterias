@@ -28,26 +28,27 @@
 
 
         <!-- Container principal -->
-        <div class="flex" style="height: calc(100vh - 64px);">
-            <!-- 64px = altura do header -->
+        <div class="flex h-[calc(100vh-64px)]">
             <!-- Sidebar -->
-            <aside class="w-72 bg-white border-r p-6 overflow-y-auto">
+            <aside class="w-72 min-w-[18rem] bg-white border-r p-6 overflow-y-auto">
                 <h2 class="text-lg font-semibold mb-4">Endpoints</h2>
                 <ul id="lotteries-list" class="space-y-6">
                     <!-- JS vai popular aqui -->
                 </ul>
             </aside>
+
             <!-- Main content -->
-            <main class="flex-1 p-6 flex flex-col">
+            <main class="flex-1 min-w-0 p-6 flex flex-col">
                 <div class="bg-white shadow rounded-xl p-6 flex-1 overflow-y-auto">
                     <h2 class="text-lg font-semibold text-gray-900 mb-2">Resposta</h2>
                     <p id="meta" class="text-sm text-gray-500 mb-4">Selecione um endpoint para visualizar os dados.</p>
                     <pre id="output" class="bg-gray-900 text-green-300 text-sm p-4 rounded-lg overflow-auto">{
-  "message": "Use /concurso/megasena/1 ou outros endpoints"
-}</pre>
+          "message": "Use /concurso/megasena/1 ou outros endpoints"
+        }</pre>
                 </div>
             </main>
         </div>
+
 
         <script>
             // Loterias disponíveis
