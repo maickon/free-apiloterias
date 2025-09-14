@@ -82,10 +82,10 @@ Você pode consumir os arquivos JSON diretamente via GitHub Pages. Exemplos:
 
 ```bash
 # Último concurso da Mega-Sena
-curl https://maickon.github.io/free-apiloterias/database/megasena/ultimo.json
+curl https://raw.githubusercontent.com/maickon/free-apiloterias/refs/heads/master/database/megasena/ultimo.json
 
 # Concurso número 1 da Lotofácil
-curl https://maickon.github.io/free-apiloterias/database/lotofacil/1.json
+curl https://raw.githubusercontent.com/maickon/free-apiloterias/refs/heads/master/database/lotofacil/1.json
 
 # Todos os concursos da Lotomania
-curl https://maickon.github.io/free-apiloterias/database/lotomania/todos.json
+curl https://raw.githubusercontent.com/maickon/free-apiloterias/refs/heads/master/database/lotomania/todos.json
