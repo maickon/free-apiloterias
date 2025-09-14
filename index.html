@@ -48,40 +48,31 @@
                 </div>
             </main>
         </div>
+
         <script>
             // Loterias disponíveis
             const LOTTERIES = ["diadesorte", "duplasena", "federal", "loteca", "lotofacil", "lotomania", "maismilionaria", "megasena", "quina", "supersete", "timemania"];
-            
-            // Detecta se está rodando no GitHub Pages
-            const isGithubPages = window.location.hostname.includes("github.io");
 
-            // Define o caminho do banco de dados
-            const DATABASE_PATH = isGithubPages ? "/free-apiloterias/database" : "/database";
+            // Caminho fixo para raw.githubusercontent
+            const DATABASE_PATH = "https://raw.githubusercontent.com/maickon/free-apiloterias/refs/heads/master/database";
 
             const el = (id) => document.getElementById(id);
             const safeJSON = (obj) => JSON.stringify(obj, null, 2);
-            
+
             function showOutput(text, metaText) {
               const outputEl = el("output");
               const metaEl = el("meta");
 
-              // Mostra o JSON formatado
               outputEl.textContent = text;
 
               if (metaText) {
-                // metaText esperado no formato: "Fonte: /database/megasena/1.json"
-                const [label, path] = metaText.split(": ");
-                const linkUrl = `${window.location.origin}${path}`;
-
-                // Mostra "Fonte: " seguido de link clicável
-                metaEl.innerHTML = `${label}: <a href="${linkUrl}" target="_blank" class="blank text-blue-600 hover:underline">${path}</a>`;
-  
+                // metaText já traz a URL completa
+                metaEl.innerHTML = `Fonte: <a href="${metaText}" target="_blank" class="blank text-blue-600 hover:underline">${metaText}</a>`;
               } else {
                 metaEl.textContent = "";
               }
             }
 
-            
             // Renderiza links no sidebar
             function renderLotteriesList() {
               const list = el("lotteries-list");
@@ -100,7 +91,7 @@
                 list.appendChild(li);
               }
             }
-            
+
             // Busca um endpoint
             async function fetchData(lottery, param) {
               let url;
@@ -111,26 +102,27 @@
               } else {
                 url = `${DATABASE_PATH}/${lottery}/${param}.json`;
               }
-              console.log(url)
+
+              console.log("Fetching:", url);
               const res = await fetch(url);
               if (!res.ok) throw new Error(`Erro ao buscar ${url}`);
               return { source: url, data: await res.json() };
             }
-            
+
             // Router
             async function handleRoute() {
               const path = window.location.pathname.split("/").filter(Boolean);
               if (path.length < 3) return;
               const [, lottery, param] = path;
-            
+
               try {
                 const result = await fetchData(lottery, param);
-                showOutput(safeJSON(result.data), `Fonte: ${result.source}`);
+                showOutput(safeJSON(result.data), result.source);
               } catch (e) {
-                showOutput(`Erro: ${e.message}`, "Erro");
+                showOutput(`Erro: ${e.message}`, "");
               }
             }
-            
+
             // Navegação tipo SPA
             function enableRouterLinks() {
               document.addEventListener("click", (ev) => {
@@ -148,11 +140,11 @@
               window.addEventListener("popstate", handleRoute);
             }
 
-            
             // Init
             renderLotteriesList();
             enableRouterLinks();
             handleRoute();
+
         </script>
     </body>
 </html>
