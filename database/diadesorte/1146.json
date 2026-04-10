@@ -1,0 +1,90 @@
+{
+    "acumulado": false,
+    "dataApuracao": "29\/11\/2025",
+    "dataProximoConcurso": "02\/12\/2025",
+    "dezenasSorteadasOrdemSorteio": [
+        "06",
+        "18",
+        "08",
+        "04",
+        "02",
+        "31",
+        "29"
+    ],
+    "exibirDetalhamentoPorCidade": false,
+    "id": null,
+    "indicadorConcursoEspecial": 1,
+    "listaDezenas": [
+        "02",
+        "04",
+        "06",
+        "08",
+        "18",
+        "29",
+        "31"
+    ],
+    "listaDezenasSegundoSorteio": null,
+    "listaMunicipioUFGanhadores": [
+        {
+            "ganhadores": 1,
+            "municipio": "MURIAE",
+            "nomeFatansiaUL": "",
+            "posicao": 1,
+            "serie": "",
+            "uf": "MG"
+        }
+    ],
+    "listaRateioPremio": [
+        {
+            "descricaoFaixa": "7 acertos",
+            "faixa": 1,
+            "numeroDeGanhadores": 1,
+            "valorPremio": 603177.19999999995343387126922607421875
+        },
+        {
+            "descricaoFaixa": "6 acertos",
+            "faixa": 2,
+            "numeroDeGanhadores": 41,
+            "valorPremio": 2538.1199999999998908606357872486114501953125
+        },
+        {
+            "descricaoFaixa": "5 acertos",
+            "faixa": 3,
+            "numeroDeGanhadores": 1535,
+            "valorPremio": 25
+        },
+        {
+            "descricaoFaixa": "4 acertos",
+            "faixa": 4,
+            "numeroDeGanhadores": 18692,
+            "valorPremio": 5
+        },
+        {
+            "descricaoFaixa": "Mês da Sorte",
+            "faixa": 5,
+            "numeroDeGanhadores": 55239,
+            "valorPremio": 2.5
+        }
+    ],
+    "listaResultadoEquipeEsportiva": null,
+    "localSorteio": "ESPAÇO DA SORTE",
+    "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+    "nomeTimeCoracaoMesSorte": "Maio",
+    "numero": 1146,
+    "numeroConcursoAnterior": 1145,
+    "numeroConcursoFinal_0_5": 0,
+    "numeroConcursoProximo": 1147,
+    "numeroJogo": 11,
+    "observacao": "",
+    "premiacaoContingencia": null,
+    "tipoJogo": "DIA_DE_SORTE",
+    "tipoPublicacao": 3,
+    "ultimoConcurso": true,
+    "valorArrecadado": 1748047.5,
+    "valorAcumuladoConcurso_0_5": 0,
+    "valorAcumuladoConcursoEspecial": 0,
+    "valorAcumuladoProximoConcurso": 0,
+    "valorEstimadoProximoConcurso": 150000,
+    "valorSaldoReservaGarantidora": 0,
+    "valorTotalPremioFaixaUm": 0
+}

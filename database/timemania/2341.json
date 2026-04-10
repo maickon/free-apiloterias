@@ -1,0 +1,87 @@
+{
+    "acumulado": true,
+    "dataApuracao": "10\/01\/2026",
+    "dataProximoConcurso": "13\/01\/2026",
+    "dezenasSorteadasOrdemSorteio": [
+        "42",
+        "36",
+        "35",
+        "65",
+        "71",
+        "58",
+        "21"
+    ],
+    "exibirDetalhamentoPorCidade": false,
+    "id": null,
+    "indicadorConcursoEspecial": 1,
+    "listaDezenas": [
+        "21",
+        "35",
+        "36",
+        "42",
+        "58",
+        "65",
+        "71"
+    ],
+    "listaDezenasSegundoSorteio": null,
+    "listaMunicipioUFGanhadores": [],
+    "listaRateioPremio": [
+        {
+            "descricaoFaixa": "7 acertos",
+            "faixa": 1,
+            "numeroDeGanhadores": 0,
+            "valorPremio": 0
+        },
+        {
+            "descricaoFaixa": "6 acertos",
+            "faixa": 2,
+            "numeroDeGanhadores": 0,
+            "valorPremio": 0
+        },
+        {
+            "descricaoFaixa": "5 acertos",
+            "faixa": 3,
+            "numeroDeGanhadores": 76,
+            "valorPremio": 1708.6300000000001091393642127513885498046875
+        },
+        {
+            "descricaoFaixa": "4 acertos",
+            "faixa": 4,
+            "numeroDeGanhadores": 1387,
+            "valorPremio": 10.5
+        },
+        {
+            "descricaoFaixa": "3 acertos",
+            "faixa": 5,
+            "numeroDeGanhadores": 13970,
+            "valorPremio": 3.5
+        },
+        {
+            "descricaoFaixa": "Time do Coração",
+            "faixa": 6,
+            "numeroDeGanhadores": 5085,
+            "valorPremio": 8.5
+        }
+    ],
+    "listaResultadoEquipeEsportiva": null,
+    "localSorteio": "ESPAÇO DA SORTE",
+    "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+    "nomeTimeCoracaoMesSorte": "REMO             \/PA",
+    "numero": 2341,
+    "numeroConcursoAnterior": 2340,
+    "numeroConcursoFinal_0_5": 2345,
+    "numeroConcursoProximo": 2342,
+    "numeroJogo": 20,
+    "observacao": "",
+    "premiacaoContingencia": null,
+    "tipoJogo": "TIMEMANIA",
+    "tipoPublicacao": 3,
+    "ultimoConcurso": true,
+    "valorArrecadado": 1511923,
+    "valorAcumuladoConcurso_0_5": 91173.800000000002910383045673370361328125,
+    "valorAcumuladoConcursoEspecial": 0,
+    "valorAcumuladoProximoConcurso": 1925593.15999999991618096828460693359375,
+    "valorEstimadoProximoConcurso": 2100000,
+    "valorSaldoReservaGarantidora": 0,
+    "valorTotalPremioFaixaUm": 0
+}

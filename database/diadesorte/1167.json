@@ -1,0 +1,98 @@
+{
+    "acumulado": false,
+    "dataApuracao": "22\/01\/2026",
+    "dataProximoConcurso": "24\/01\/2026",
+    "dezenasSorteadasOrdemSorteio": [
+        "06",
+        "31",
+        "13",
+        "27",
+        "29",
+        "12",
+        "30"
+    ],
+    "exibirDetalhamentoPorCidade": false,
+    "id": null,
+    "indicadorConcursoEspecial": 1,
+    "listaDezenas": [
+        "06",
+        "12",
+        "13",
+        "27",
+        "29",
+        "30",
+        "31"
+    ],
+    "listaDezenasSegundoSorteio": null,
+    "listaMunicipioUFGanhadores": [
+        {
+            "ganhadores": 1,
+            "municipio": "CANAL ELETRONICO",
+            "nomeFatansiaUL": "",
+            "posicao": 1,
+            "serie": "",
+            "uf": "--"
+        },
+        {
+            "ganhadores": 1,
+            "municipio": "SAO PAULO",
+            "nomeFatansiaUL": "",
+            "posicao": 1,
+            "serie": "",
+            "uf": "SP"
+        }
+    ],
+    "listaRateioPremio": [
+        {
+            "descricaoFaixa": "7 acertos",
+            "faixa": 1,
+            "numeroDeGanhadores": 2,
+            "valorPremio": 1131758.90999999991618096828460693359375
+        },
+        {
+            "descricaoFaixa": "6 acertos",
+            "faixa": 2,
+            "numeroDeGanhadores": 128,
+            "valorPremio": 2012.890000000000100044417195022106170654296875
+        },
+        {
+            "descricaoFaixa": "5 acertos",
+            "faixa": 3,
+            "numeroDeGanhadores": 3407,
+            "valorPremio": 25
+        },
+        {
+            "descricaoFaixa": "4 acertos",
+            "faixa": 4,
+            "numeroDeGanhadores": 39249,
+            "valorPremio": 5
+        },
+        {
+            "descricaoFaixa": "Mês da Sorte",
+            "faixa": 5,
+            "numeroDeGanhadores": 122073,
+            "valorPremio": 2.5
+        }
+    ],
+    "listaResultadoEquipeEsportiva": null,
+    "localSorteio": "ESPAÇO DA SORTE",
+    "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+    "nomeTimeCoracaoMesSorte": "Março",
+    "numero": 1167,
+    "numeroConcursoAnterior": 1166,
+    "numeroConcursoFinal_0_5": 0,
+    "numeroConcursoProximo": 1168,
+    "numeroJogo": 11,
+    "observacao": "",
+    "premiacaoContingencia": null,
+    "tipoJogo": "DIA_DE_SORTE",
+    "tipoPublicacao": 3,
+    "ultimoConcurso": true,
+    "valorArrecadado": 3300837.5,
+    "valorAcumuladoConcurso_0_5": 0,
+    "valorAcumuladoConcursoEspecial": 0,
+    "valorAcumuladoProximoConcurso": 0,
+    "valorEstimadoProximoConcurso": 150000,
+    "valorSaldoReservaGarantidora": 0,
+    "valorTotalPremioFaixaUm": 0
+}

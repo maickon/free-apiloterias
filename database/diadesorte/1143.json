@@ -1,0 +1,98 @@
+{
+    "acumulado": false,
+    "dataApuracao": "22\/11\/2025",
+    "dataProximoConcurso": "25\/11\/2025",
+    "dezenasSorteadasOrdemSorteio": [
+        "20",
+        "13",
+        "07",
+        "16",
+        "31",
+        "08",
+        "11"
+    ],
+    "exibirDetalhamentoPorCidade": false,
+    "id": null,
+    "indicadorConcursoEspecial": 1,
+    "listaDezenas": [
+        "07",
+        "08",
+        "11",
+        "13",
+        "16",
+        "20",
+        "31"
+    ],
+    "listaDezenasSegundoSorteio": null,
+    "listaMunicipioUFGanhadores": [
+        {
+            "ganhadores": 1,
+            "municipio": "ARAUCARIA",
+            "nomeFatansiaUL": "",
+            "posicao": 1,
+            "serie": "",
+            "uf": "PR"
+        },
+        {
+            "ganhadores": 1,
+            "municipio": "MATO QUEIMADO",
+            "nomeFatansiaUL": "",
+            "posicao": 1,
+            "serie": "",
+            "uf": "RS"
+        }
+    ],
+    "listaRateioPremio": [
+        {
+            "descricaoFaixa": "7 acertos",
+            "faixa": 1,
+            "numeroDeGanhadores": 2,
+            "valorPremio": 113912.10000000000582076609134674072265625
+        },
+        {
+            "descricaoFaixa": "6 acertos",
+            "faixa": 2,
+            "numeroDeGanhadores": 34,
+            "valorPremio": 2871.73000000000001818989403545856475830078125
+        },
+        {
+            "descricaoFaixa": "5 acertos",
+            "faixa": 3,
+            "numeroDeGanhadores": 1425,
+            "valorPremio": 25
+        },
+        {
+            "descricaoFaixa": "4 acertos",
+            "faixa": 4,
+            "numeroDeGanhadores": 17463,
+            "valorPremio": 5
+        },
+        {
+            "descricaoFaixa": "Mês da Sorte",
+            "faixa": 5,
+            "numeroDeGanhadores": 53447,
+            "valorPremio": 2.5
+        }
+    ],
+    "listaResultadoEquipeEsportiva": null,
+    "localSorteio": "ESPAÇO DA SORTE",
+    "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+    "nomeTimeCoracaoMesSorte": "Dezembro",
+    "numero": 1143,
+    "numeroConcursoAnterior": 1142,
+    "numeroConcursoFinal_0_5": 0,
+    "numeroConcursoProximo": 1144,
+    "numeroJogo": 11,
+    "observacao": "",
+    "premiacaoContingencia": null,
+    "tipoJogo": "DIA_DE_SORTE",
+    "tipoPublicacao": 3,
+    "ultimoConcurso": true,
+    "valorArrecadado": 1647647.5,
+    "valorAcumuladoConcurso_0_5": 0,
+    "valorAcumuladoConcursoEspecial": 0,
+    "valorAcumuladoProximoConcurso": 0,
+    "valorEstimadoProximoConcurso": 150000,
+    "valorSaldoReservaGarantidora": 0,
+    "valorTotalPremioFaixaUm": 0
+}

@@ -1,0 +1,80 @@
+{
+    "acumulado": false,
+    "dataApuracao": "12\/11\/2025",
+    "dataProximoConcurso": "13\/11\/2025",
+    "dezenasSorteadasOrdemSorteio": [
+        "41",
+        "26",
+        "36",
+        "80",
+        "27"
+    ],
+    "exibirDetalhamentoPorCidade": false,
+    "id": null,
+    "indicadorConcursoEspecial": 1,
+    "listaDezenas": [
+        "26",
+        "27",
+        "36",
+        "41",
+        "80"
+    ],
+    "listaDezenasSegundoSorteio": null,
+    "listaMunicipioUFGanhadores": [
+        {
+            "ganhadores": 1,
+            "municipio": "SAO PAULO",
+            "nomeFatansiaUL": "",
+            "posicao": 1,
+            "serie": "",
+            "uf": "SP"
+        }
+    ],
+    "listaRateioPremio": [
+        {
+            "descricaoFaixa": "5 acertos",
+            "faixa": 1,
+            "numeroDeGanhadores": 1,
+            "valorPremio": 9699196.429999999701976776123046875
+        },
+        {
+            "descricaoFaixa": "4 acertos",
+            "faixa": 2,
+            "numeroDeGanhadores": 44,
+            "valorPremio": 12133.139999999999417923390865325927734375
+        },
+        {
+            "descricaoFaixa": "3 acertos",
+            "faixa": 3,
+            "numeroDeGanhadores": 3147,
+            "valorPremio": 161.56000000000000227373675443232059478759765625
+        },
+        {
+            "descricaoFaixa": "2 acertos",
+            "faixa": 4,
+            "numeroDeGanhadores": 93072,
+            "valorPremio": 5.45999999999999996447286321199499070644378662109375
+        }
+    ],
+    "listaResultadoEquipeEsportiva": null,
+    "localSorteio": "ESPAÇO DA SORTE",
+    "nomeMunicipioUFSorteio": "SÃO PAULO, SP",
+    "nomeTimeCoracaoMesSorte": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "numero": 6877,
+    "numeroConcursoAnterior": 6876,
+    "numeroConcursoFinal_0_5": 6885,
+    "numeroConcursoProximo": 6878,
+    "numeroJogo": 3,
+    "observacao": "",
+    "premiacaoContingencia": null,
+    "tipoJogo": "QUINA",
+    "tipoPublicacao": 3,
+    "ultimoConcurso": true,
+    "valorArrecadado": 11610786,
+    "valorAcumuladoConcurso_0_5": 1523436.370000000111758708953857421875,
+    "valorAcumuladoConcursoEspecial": 54268797.850000001490116119384765625,
+    "valorAcumuladoProximoConcurso": 0,
+    "valorEstimadoProximoConcurso": 600000,
+    "valorSaldoReservaGarantidora": 0,
+    "valorTotalPremioFaixaUm": 0
+}
