@@ -1,150 +1,671 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width,initial-scale=1" />
-        <title>Loterias — Free API</title>
-        <script src="https://cdn.tailwindcss.com"></script>
-        <link rel="icon" type="image/png" href="/free-apiloterias/img/icon.png">
-    </head>
-    <body class="bg-gray-50 text-gray-800 overflow-y-hidden h-screen">
-        <!-- Header -->
-        <header class="bg-white shadow-sm border-b sticky top-0 z-10 w-full">
-          <div class="flex items-center justify-between  py-4 max-w-7xl mx-auto">
-            <!-- Lado esquerdo: logo + título -->
-            <div class="flex items-center gap-3">
-              <img src="/free-apiloterias/img/icon.png" class="w-8 h-8">
-              <h1 class="text-xl font-bold text-gray-900">Loterias — Free API</h1>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>free-apiloterias — API Gratuita de Loterias Brasileiras</title>
+    <meta name="description" content="API gratuita e open source de loterias brasileiras via GitHub. Acesse resultados da Mega-Sena, Quina, Lotofácil e mais 8 jogos sem chave de API.">
+    <meta property="og:title" content="free-apiloterias — API Gratuita de Loterias">
+    <meta property="og:description" content="11 jogos, JSON estático via GitHub, atualização automática, sem cadastro.">
+    <meta property="og:url" content="https://github.com/maickon/free-apiloterias">
+    <meta property="og:type" content="website">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+
+        .emerald-glow {
+            box-shadow: 0 0 20px rgba(16, 185, 129, 0.15);
+        }
+
+        .terminal-bg {
+            background: #0d1117;
+            border: 1px solid #30363d;
+        }
+
+        .copy-btn-success {
+            background-color: #059669 !important;
+        }
+
+        .url-box {
+            background: #161b22;
+            border: 1px solid #30363d;
+            font-family: 'Courier New', monospace;
+        }
+
+        .badge-green {
+            background: rgba(16, 185, 129, 0.15);
+            border: 1px solid rgba(16, 185, 129, 0.3);
+            color: #34d399;
+        }
+
+        .badge-gray {
+            background: rgba(107, 114, 128, 0.15);
+            border: 1px solid rgba(107, 114, 128, 0.3);
+            color: #9ca3af;
+        }
+
+        .card-dark {
+            background: #161b22;
+            border: 1px solid #30363d;
+        }
+
+        .card-dark:hover {
+            border-color: #10b981;
+        }
+
+        .hero-gradient {
+            background: linear-gradient(135deg, #0f172a 0%, #1a2744 50%, #0f2a1a 100%);
+        }
+
+        .section-border {
+            border-top: 1px solid #30363d;
+        }
+
+        /* Syntax highlight */
+        .json-key   { color: #79c0ff; }
+        .json-str   { color: #a5d6ff; }
+        .json-num   { color: #f2cc60; }
+        .json-bool  { color: #ff7b72; }
+        .json-null  { color: #ff7b72; }
+        .json-punct { color: #8b949e; }
+
+        .preview-container {
+            max-height: 320px;
+            overflow-y: auto;
+        }
+
+        .preview-container::-webkit-scrollbar { width: 6px; }
+        .preview-container::-webkit-scrollbar-track { background: #0d1117; }
+        .preview-container::-webkit-scrollbar-thumb { background: #30363d; border-radius: 3px; }
+
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+        .fade-in { animation: fadeIn 0.3s ease forwards; }
+
+        @keyframes pulse-green {
+            0%, 100% { box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.4); }
+            50% { box-shadow: 0 0 0 8px rgba(16, 185, 129, 0); }
+        }
+        .pulse-green { animation: pulse-green 2s infinite; }
+    </style>
+</head>
+<body class="bg-gray-950 text-gray-100 min-h-screen">
+
+    <!-- ===== HEADER ===== -->
+    <header class="bg-gray-900 border-b border-gray-800 sticky top-0 z-50 backdrop-blur-sm bg-gray-900/95">
+        <div class="max-w-5xl mx-auto px-4 sm:px-6">
+            <div class="flex items-center justify-between py-3 sm:py-4">
+                <!-- Logo -->
+                <div class="flex items-center gap-2 sm:gap-3">
+                    <div class="w-8 h-8 sm:w-9 sm:h-9 bg-emerald-500 rounded-lg flex items-center justify-center shrink-0">
+                        <i class="fa-solid fa-leaf text-white text-sm sm:text-base"></i>
+                    </div>
+                    <div class="flex items-center gap-2">
+                        <span class="font-bold text-base sm:text-lg text-white">free-apiloterias</span>
+                        <span class="hidden sm:inline-flex items-center gap-1 text-xs px-2 py-0.5 rounded-full badge-green font-medium">
+                            <i class="fa-brands fa-github text-xs"></i> Open Source
+                        </span>
+                    </div>
+                </div>
+
+                <!-- Actions -->
+                <div class="flex items-center gap-2 sm:gap-3">
+                    <a href="https://github.com/maickon/free-apiloterias"
+                       target="_blank" rel="noopener"
+                       class="flex items-center gap-1.5 text-gray-400 hover:text-white transition text-sm font-medium px-2 py-1.5 rounded-lg hover:bg-gray-800">
+                        <i class="fa-brands fa-github text-base"></i>
+                        <span class="hidden sm:inline">GitHub</span>
+                    </a>
+                    <a href="https://apiloterias.com"
+                       target="_blank" rel="noopener"
+                       class="flex items-center gap-1.5 bg-emerald-600 hover:bg-emerald-500 text-white text-sm font-semibold px-3 sm:px-4 py-2 rounded-lg transition pulse-green">
+                        API Completa
+                        <i class="fa fa-arrow-right text-xs"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- ===== HERO ===== -->
+    <section class="hero-gradient py-12 sm:py-16 lg:py-20 px-4">
+        <div class="max-w-5xl mx-auto text-center">
+            <div class="flex items-center justify-center gap-2 mb-4 sm:mb-5">
+                <span class="badge-green text-xs sm:text-sm px-3 py-1 rounded-full font-medium">
+                    <i class="fa fa-circle text-emerald-400 text-xs mr-1"></i> 11 jogos disponíveis
+                </span>
+                <span class="badge-gray text-xs sm:text-sm px-3 py-1 rounded-full font-medium">
+                    <i class="fa fa-rotate text-gray-400 text-xs mr-1"></i> Atualizado automaticamente
+                </span>
             </div>
 
-            <!-- Lado direito: link -->
-            <nav>
-              <a href="https://apiloterias.mksoft.com.br" target="_blank" class="text-sm text-blue-600 hover:text-blue-800 font-semibold">
-                Site Oficial
-              </a>
-            </nav>
-          </div>
-        </header>
+            <h1 class="text-3xl sm:text-4xl lg:text-5xl font-black text-white leading-tight mb-4 sm:mb-5">
+                Resultados de loterias<br>
+                <span class="text-emerald-400">via JSON estático</span>
+            </h1>
 
+            <p class="text-gray-400 text-base sm:text-lg max-w-2xl mx-auto mb-6 sm:mb-8 leading-relaxed">
+                Arquivos JSON servidos diretamente pelo GitHub. Sem chave de API, sem cadastro, sem custo.
+                Mega-Sena, Quina, Lotofácil e mais 8 jogos da Caixa Econômica Federal.
+            </p>
 
-        <div class="flex h-[calc(100vh-64px)]">
-            <!-- Sidebar fixo -->
-            <aside class="w-72 flex-none bg-white border-r p-6 overflow-y-auto">
-                <h2 class="text-lg font-semibold mb-4">Endpoints</h2>
-                <ul id="lotteries-list" class="space-y-6">
-                    <!-- JS vai popular aqui -->
-                </ul>
-            </aside>
-
-            <!-- Main content ocupa o restante -->
-            <main class="flex-1 p-6 flex flex-col min-w-0">
-                <div class="bg-white shadow rounded-xl p-6 flex-1 overflow-y-auto">
-                    <h2 class="text-lg font-semibold text-gray-900 mb-2">Resposta</h2>
-                    <p id="meta" class="text-sm text-gray-500 mb-4">Selecione um endpoint para visualizar os dados.</p>
-                    <pre id="output" class="bg-gray-900 text-green-300 text-sm p-4 rounded-lg overflow-auto">{
-          "message": "Use /concurso/megasena/1 ou outros endpoints"
-        }</pre>
+            <!-- Mini terminal demo -->
+            <div class="terminal-bg rounded-xl p-4 sm:p-5 max-w-2xl mx-auto text-left text-sm sm:text-base mb-6 sm:mb-8">
+                <div class="flex items-center gap-2 mb-3">
+                    <div class="w-3 h-3 bg-red-500 rounded-full"></div>
+                    <div class="w-3 h-3 bg-yellow-500 rounded-full"></div>
+                    <div class="w-3 h-3 bg-green-500 rounded-full"></div>
+                    <span class="text-gray-500 text-xs ml-2">bash</span>
                 </div>
-            </main>
+                <p class="font-mono text-xs sm:text-sm break-all">
+                    <span class="text-gray-500">$</span>
+                    <span class="text-emerald-400"> curl </span>
+                    <span class="text-yellow-300 break-all">https://raw.githubusercontent.com/maickon/free-apiloterias/refs/heads/master/database/megasena/_ultimo.json</span>
+                </p>
+                <p class="font-mono text-xs text-gray-400 mt-2">
+                    <span class="json-punct">{"</span><span class="json-key">numero</span><span class="json-punct">": </span><span class="json-num">2800</span><span class="json-punct">, "</span><span class="json-key">listaDezenas</span><span class="json-punct">": [</span><span class="json-str">"01","13","19","46","50","57"</span><span class="json-punct">], ...</span>
+                </p>
+            </div>
+
+            <div class="flex flex-col sm:flex-row items-center justify-center gap-3">
+                <a href="#endpoints"
+                   class="w-full sm:w-auto flex items-center justify-center gap-2 bg-emerald-600 hover:bg-emerald-500 text-white font-semibold px-6 py-3 rounded-xl transition text-sm sm:text-base">
+                    <i class="fa fa-code"></i> Explorar Endpoints
+                </a>
+                <a href="https://github.com/maickon/free-apiloterias"
+                   target="_blank" rel="noopener"
+                   class="w-full sm:w-auto flex items-center justify-center gap-2 bg-gray-800 hover:bg-gray-700 text-gray-200 font-semibold px-6 py-3 rounded-xl transition text-sm sm:text-base border border-gray-700">
+                    <i class="fa-brands fa-github"></i> Ver no GitHub
+                </a>
+            </div>
         </div>
+    </section>
 
+    <!-- ===== ENDPOINTS INTERATIVOS ===== -->
+    <section id="endpoints" class="py-10 sm:py-14 px-4 section-border">
+        <div class="max-w-5xl mx-auto">
 
-        <script>
-            // Loterias disponíveis
-            const LOTTERIES = ["diadesorte", "duplasena", "federal", "loteca", "lotofacil", "lotomania", "maismilionaria", "megasena", "quina", "supersete", "timemania"];
+            <div class="text-center mb-8 sm:mb-10">
+                <h2 class="text-2xl sm:text-3xl font-bold text-white mb-2">Explore os Endpoints</h2>
+                <p class="text-gray-400 text-sm sm:text-base">Selecione o jogo e veja as URLs geradas em tempo real</p>
+            </div>
 
-            // Caminho fixo para raw.githubusercontent
-            const DATABASE_PATH = "https://raw.githubusercontent.com/maickon/free-apiloterias/refs/heads/master/database";
+            <!-- Controles -->
+            <div class="card-dark rounded-xl p-4 sm:p-5 mb-5 sm:mb-6">
+                <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
+                    <!-- Select jogo -->
+                    <div class="flex-1">
+                        <label class="block text-xs font-medium text-gray-400 uppercase tracking-wide mb-1.5">Jogo</label>
+                        <select id="gameSelect"
+                                onchange="updateUrls()"
+                                class="w-full bg-gray-900 border border-gray-700 text-gray-100 rounded-lg px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-transparent cursor-pointer">
+                            <option value="megasena">Mega-Sena</option>
+                            <option value="quina">Quina</option>
+                            <option value="lotofacil">Lotofácil</option>
+                            <option value="lotomania">Lotomania</option>
+                            <option value="duplasena">Dupla Sena</option>
+                            <option value="diadesorte">Dia de Sorte</option>
+                            <option value="supersete">Super Sete</option>
+                            <option value="timemania">Timemania</option>
+                            <option value="federal">Federal</option>
+                            <option value="loteca">Loteca</option>
+                            <option value="maismilionaria">Mais Milionária</option>
+                        </select>
+                    </div>
 
-            const el = (id) => document.getElementById(id);
-            const safeJSON = (obj) => JSON.stringify(obj, null, 2);
+                    <!-- Input número -->
+                    <div class="sm:w-48">
+                        <label class="block text-xs font-medium text-gray-400 uppercase tracking-wide mb-1.5">Número do Concurso</label>
+                        <input type="number"
+                               id="concursoNum"
+                               oninput="updateUrls()"
+                               placeholder="Ex: 2800"
+                               min="1"
+                               value="2800"
+                               class="w-full bg-gray-900 border border-gray-700 text-gray-100 rounded-lg px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-transparent placeholder-gray-600">
+                    </div>
+                </div>
+            </div>
 
-            function showOutput(text, metaText) {
-              const outputEl = el("output");
-              const metaEl = el("meta");
+            <!-- Cards de endpoint -->
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-5 mb-6">
 
-              outputEl.textContent = text;
+                <!-- Card 1: Último sorteio -->
+                <div class="card-dark rounded-xl p-4 sm:p-5 flex flex-col gap-3 transition">
+                    <div class="flex items-start gap-3">
+                        <div class="w-9 h-9 rounded-lg bg-emerald-500/10 border border-emerald-500/20 flex items-center justify-center shrink-0">
+                            <i class="fa fa-trophy text-emerald-400 text-sm"></i>
+                        </div>
+                        <div>
+                            <h3 class="font-semibold text-white text-sm sm:text-base">Último Sorteio</h3>
+                            <p class="text-gray-500 text-xs mt-0.5">Concurso mais recente disponível</p>
+                        </div>
+                    </div>
 
-              if (metaText) {
-                // metaText já traz a URL completa
-                metaEl.innerHTML = `Fonte: <a href="${metaText}" target="_blank" class="blank text-blue-600 hover:underline">${metaText}</a>`;
-              } else {
-                metaEl.textContent = "";
-              }
+                    <div class="url-box rounded-lg px-3 py-2 text-xs break-all min-h-[52px] flex items-center">
+                        <span id="url-ultimo" class="text-emerald-300 leading-relaxed"></span>
+                    </div>
+
+                    <div class="flex gap-2 mt-auto">
+                        <button onclick="copyUrl('url-ultimo')"
+                                id="copy-btn-ultimo"
+                                class="flex-1 flex items-center justify-center gap-1.5 bg-gray-800 hover:bg-gray-700 text-gray-300 text-xs font-medium py-2 px-3 rounded-lg transition border border-gray-700">
+                            <i class="fa fa-copy text-xs"></i> Copiar
+                        </button>
+                        <button onclick="testUrl('url-ultimo')"
+                                class="flex-1 flex items-center justify-center gap-1.5 bg-emerald-600/20 hover:bg-emerald-600/40 text-emerald-400 text-xs font-medium py-2 px-3 rounded-lg transition border border-emerald-700/50">
+                            <i class="fa fa-external-link-alt text-xs"></i> Testar
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Card 2: Por número -->
+                <div class="card-dark rounded-xl p-4 sm:p-5 flex flex-col gap-3 transition">
+                    <div class="flex items-start gap-3">
+                        <div class="w-9 h-9 rounded-lg bg-blue-500/10 border border-blue-500/20 flex items-center justify-center shrink-0">
+                            <i class="fa fa-hashtag text-blue-400 text-sm"></i>
+                        </div>
+                        <div>
+                            <h3 class="font-semibold text-white text-sm sm:text-base">Por Número</h3>
+                            <p class="text-gray-500 text-xs mt-0.5">Concurso específico pelo número</p>
+                        </div>
+                    </div>
+
+                    <div class="url-box rounded-lg px-3 py-2 text-xs break-all min-h-[52px] flex items-center">
+                        <span id="url-numero" class="text-blue-300 leading-relaxed"></span>
+                    </div>
+
+                    <div class="flex gap-2 mt-auto">
+                        <button onclick="copyUrl('url-numero')"
+                                id="copy-btn-numero"
+                                class="flex-1 flex items-center justify-center gap-1.5 bg-gray-800 hover:bg-gray-700 text-gray-300 text-xs font-medium py-2 px-3 rounded-lg transition border border-gray-700">
+                            <i class="fa fa-copy text-xs"></i> Copiar
+                        </button>
+                        <button onclick="testUrl('url-numero')"
+                                class="flex-1 flex items-center justify-center gap-1.5 bg-blue-600/20 hover:bg-blue-600/40 text-blue-400 text-xs font-medium py-2 px-3 rounded-lg transition border border-blue-700/50">
+                            <i class="fa fa-external-link-alt text-xs"></i> Testar
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Card 3: Histórico completo -->
+                <div class="card-dark rounded-xl p-4 sm:p-5 flex flex-col gap-3 transition sm:col-span-2 lg:col-span-1">
+                    <div class="flex items-start gap-3">
+                        <div class="w-9 h-9 rounded-lg bg-purple-500/10 border border-purple-500/20 flex items-center justify-center shrink-0">
+                            <i class="fa fa-database text-purple-400 text-sm"></i>
+                        </div>
+                        <div>
+                            <h3 class="font-semibold text-white text-sm sm:text-base">Histórico Completo</h3>
+                            <p class="text-gray-500 text-xs mt-0.5">Todos os sorteios disponíveis</p>
+                        </div>
+                    </div>
+
+                    <div class="url-box rounded-lg px-3 py-2 text-xs break-all min-h-[52px] flex items-center">
+                        <span id="url-todos" class="text-purple-300 leading-relaxed"></span>
+                    </div>
+
+                    <div class="flex gap-2 mt-auto">
+                        <button onclick="copyUrl('url-todos')"
+                                id="copy-btn-todos"
+                                class="flex-1 flex items-center justify-center gap-1.5 bg-gray-800 hover:bg-gray-700 text-gray-300 text-xs font-medium py-2 px-3 rounded-lg transition border border-gray-700">
+                            <i class="fa fa-copy text-xs"></i> Copiar
+                        </button>
+                        <button onclick="testUrl('url-todos')"
+                                class="flex-1 flex items-center justify-center gap-1.5 bg-purple-600/20 hover:bg-purple-600/40 text-purple-400 text-xs font-medium py-2 px-3 rounded-lg transition border border-purple-700/50">
+                            <i class="fa fa-external-link-alt text-xs"></i> Testar
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Preview de resposta -->
+            <div class="card-dark rounded-xl overflow-hidden">
+                <div class="flex items-center justify-between px-4 sm:px-5 py-3 border-b border-gray-800">
+                    <div class="flex items-center gap-3">
+                        <div class="flex gap-1.5">
+                            <div class="w-2.5 h-2.5 bg-red-500 rounded-full"></div>
+                            <div class="w-2.5 h-2.5 bg-yellow-500 rounded-full"></div>
+                            <div class="w-2.5 h-2.5 bg-green-500 rounded-full"></div>
+                        </div>
+                        <span class="text-gray-500 text-xs font-mono">Resposta — Último Sorteio</span>
+                    </div>
+                    <button onclick="previewResponse()"
+                            id="previewBtn"
+                            class="flex items-center gap-1.5 bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-semibold px-3 py-1.5 rounded-lg transition">
+                        <i class="fa fa-play text-xs"></i>
+                        <span>Visualizar resposta</span>
+                    </button>
+                </div>
+                <div id="previewArea" class="terminal-bg px-4 sm:px-5 py-4 preview-container min-h-[100px] flex items-center justify-center">
+                    <p class="text-gray-600 text-sm font-mono text-center">
+                        <i class="fa fa-arrow-up mr-2 text-xs"></i>
+                        Clique em "Visualizar resposta" para fazer o fetch e ver o JSON retornado
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== JOGOS SUPORTADOS ===== -->
+    <section class="py-10 sm:py-14 px-4 section-border bg-gray-900/50">
+        <div class="max-w-5xl mx-auto">
+            <div class="text-center mb-8">
+                <h2 class="text-2xl sm:text-3xl font-bold text-white mb-2">Jogos Suportados</h2>
+                <p class="text-gray-400 text-sm sm:text-base">11 loterias da Caixa Econômica Federal</p>
+            </div>
+            <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">
+                <div class="card-dark rounded-lg p-3 sm:p-4 hover:border-emerald-600/50 transition cursor-default" onclick="selectGame('megasena')">
+                    <div class="font-semibold text-white text-sm mb-1">Mega-Sena</div>
+                    <div class="font-mono text-xs text-emerald-400 bg-emerald-500/10 px-2 py-1 rounded inline-block">megasena</div>
+                </div>
+                <div class="card-dark rounded-lg p-3 sm:p-4 hover:border-emerald-600/50 transition cursor-default" onclick="selectGame('quina')">
+                    <div class="font-semibold text-white text-sm mb-1">Quina</div>
+                    <div class="font-mono text-xs text-emerald-400 bg-emerald-500/10 px-2 py-1 rounded inline-block">quina</div>
+                </div>
+                <div class="card-dark rounded-lg p-3 sm:p-4 hover:border-emerald-600/50 transition cursor-default" onclick="selectGame('lotofacil')">
+                    <div class="font-semibold text-white text-sm mb-1">Lotofácil</div>
+                    <div class="font-mono text-xs text-emerald-400 bg-emerald-500/10 px-2 py-1 rounded inline-block">lotofacil</div>
+                </div>
+                <div class="card-dark rounded-lg p-3 sm:p-4 hover:border-emerald-600/50 transition cursor-default" onclick="selectGame('lotomania')">
+                    <div class="font-semibold text-white text-sm mb-1">Lotomania</div>
+                    <div class="font-mono text-xs text-emerald-400 bg-emerald-500/10 px-2 py-1 rounded inline-block">lotomania</div>
+                </div>
+                <div class="card-dark rounded-lg p-3 sm:p-4 hover:border-emerald-600/50 transition cursor-default" onclick="selectGame('duplasena')">
+                    <div class="font-semibold text-white text-sm mb-1">Dupla Sena</div>
+                    <div class="font-mono text-xs text-emerald-400 bg-emerald-500/10 px-2 py-1 rounded inline-block">duplasena</div>
+                </div>
+                <div class="card-dark rounded-lg p-3 sm:p-4 hover:border-emerald-600/50 transition cursor-default" onclick="selectGame('diadesorte')">
+                    <div class="font-semibold text-white text-sm mb-1">Dia de Sorte</div>
+                    <div class="font-mono text-xs text-emerald-400 bg-emerald-500/10 px-2 py-1 rounded inline-block">diadesorte</div>
+                </div>
+                <div class="card-dark rounded-lg p-3 sm:p-4 hover:border-emerald-600/50 transition cursor-default" onclick="selectGame('supersete')">
+                    <div class="font-semibold text-white text-sm mb-1">Super Sete</div>
+                    <div class="font-mono text-xs text-emerald-400 bg-emerald-500/10 px-2 py-1 rounded inline-block">supersete</div>
+                </div>
+                <div class="card-dark rounded-lg p-3 sm:p-4 hover:border-emerald-600/50 transition cursor-default" onclick="selectGame('timemania')">
+                    <div class="font-semibold text-white text-sm mb-1">Timemania</div>
+                    <div class="font-mono text-xs text-emerald-400 bg-emerald-500/10 px-2 py-1 rounded inline-block">timemania</div>
+                </div>
+                <div class="card-dark rounded-lg p-3 sm:p-4 hover:border-emerald-600/50 transition cursor-default" onclick="selectGame('federal')">
+                    <div class="font-semibold text-white text-sm mb-1">Federal</div>
+                    <div class="font-mono text-xs text-emerald-400 bg-emerald-500/10 px-2 py-1 rounded inline-block">federal</div>
+                </div>
+                <div class="card-dark rounded-lg p-3 sm:p-4 hover:border-emerald-600/50 transition cursor-default" onclick="selectGame('loteca')">
+                    <div class="font-semibold text-white text-sm mb-1">Loteca</div>
+                    <div class="font-mono text-xs text-emerald-400 bg-emerald-500/10 px-2 py-1 rounded inline-block">loteca</div>
+                </div>
+                <div class="card-dark rounded-lg p-3 sm:p-4 hover:border-emerald-600/50 transition cursor-default col-span-2 sm:col-span-1" onclick="selectGame('maismilionaria')">
+                    <div class="font-semibold text-white text-sm mb-1">Mais Milionária</div>
+                    <div class="font-mono text-xs text-emerald-400 bg-emerald-500/10 px-2 py-1 rounded inline-block">maismilionaria</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== BANNER LIMITAÇÕES ===== -->
+    <section class="py-10 sm:py-14 px-4 section-border">
+        <div class="max-w-5xl mx-auto">
+            <div class="bg-amber-500/10 border border-amber-500/30 rounded-2xl p-5 sm:p-7 lg:p-8">
+                <!-- Header do banner -->
+                <div class="flex items-start gap-3 sm:gap-4 mb-5 sm:mb-6">
+                    <div class="w-10 h-10 sm:w-11 sm:h-11 bg-amber-500/20 border border-amber-500/30 rounded-xl flex items-center justify-center shrink-0">
+                        <i class="fa fa-triangle-exclamation text-amber-400 text-base sm:text-lg"></i>
+                    </div>
+                    <div>
+                        <h2 class="text-lg sm:text-xl font-bold text-amber-300">Esta é a versão gratuita e limitada</h2>
+                        <p class="text-amber-200/60 text-sm mt-0.5">Ideal para projetos pessoais e testes — não recomendada para produção</p>
+                    </div>
+                </div>
+
+                <div class="grid sm:grid-cols-2 gap-4 sm:gap-6 mb-6 sm:mb-8">
+                    <!-- O que NÃO tem -->
+                    <div>
+                        <p class="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-3">O que esta versão NÃO oferece</p>
+                        <ul class="space-y-2">
+                            <li class="flex items-start gap-2.5 text-sm text-gray-300">
+                                <span class="text-red-400 mt-0.5 shrink-0">&#10007;</span>
+                                <span>Análise de números quentes, frios e atrasados</span>
+                            </li>
+                            <li class="flex items-start gap-2.5 text-sm text-gray-300">
+                                <span class="text-red-400 mt-0.5 shrink-0">&#10007;</span>
+                                <span>Endpoints REST dedicados e autônomos</span>
+                            </li>
+                            <li class="flex items-start gap-2.5 text-sm text-gray-300">
+                                <span class="text-red-400 mt-0.5 shrink-0">&#10007;</span>
+                                <span>Filtros avançados por data, faixa de concurso ou premiação</span>
+                            </li>
+                            <li class="flex items-start gap-2.5 text-sm text-gray-300">
+                                <span class="text-red-400 mt-0.5 shrink-0">&#10007;</span>
+                                <span>Suporte técnico e SLA de disponibilidade</span>
+                            </li>
+                            <li class="flex items-start gap-2.5 text-sm text-gray-300">
+                                <span class="text-red-400 mt-0.5 shrink-0">&#10007;</span>
+                                <span>Independência do GitHub (rate limits e disponibilidade)</span>
+                            </li>
+                            <li class="flex items-start gap-2.5 text-sm text-gray-300">
+                                <span class="text-red-400 mt-0.5 shrink-0">&#10007;</span>
+                                <span>Estatísticas e histórico de premiações</span>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <!-- O que a versão paga TEM -->
+                    <div>
+                        <p class="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-3">O que a API Completa oferece</p>
+                        <ul class="space-y-2">
+                            <li class="flex items-start gap-2.5 text-sm text-gray-300">
+                                <span class="text-emerald-400 mt-0.5 shrink-0">&#10003;</span>
+                                <span>Números quentes, frios e atrasados em tempo real</span>
+                            </li>
+                            <li class="flex items-start gap-2.5 text-sm text-gray-300">
+                                <span class="text-emerald-400 mt-0.5 shrink-0">&#10003;</span>
+                                <span>Endpoints REST dedicados com chave de API</span>
+                            </li>
+                            <li class="flex items-start gap-2.5 text-sm text-gray-300">
+                                <span class="text-emerald-400 mt-0.5 shrink-0">&#10003;</span>
+                                <span>Filtros avançados, paginação e ordenação</span>
+                            </li>
+                            <li class="flex items-start gap-2.5 text-sm text-gray-300">
+                                <span class="text-emerald-400 mt-0.5 shrink-0">&#10003;</span>
+                                <span>Suporte técnico e uptime garantido</span>
+                            </li>
+                            <li class="flex items-start gap-2.5 text-sm text-gray-300">
+                                <span class="text-emerald-400 mt-0.5 shrink-0">&#10003;</span>
+                                <span>Estatísticas históricas completas de premiação</span>
+                            </li>
+                            <li class="flex items-start gap-2.5 text-sm text-gray-300">
+                                <span class="text-emerald-400 mt-0.5 shrink-0">&#10003;</span>
+                                <span>Integração via webhook e documentação detalhada</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- CTA -->
+                <div class="flex flex-col sm:flex-row items-center gap-3 pt-4 border-t border-amber-500/20">
+                    <a href="https://apiloterias.com/free-api"
+                       target="_blank" rel="noopener"
+                       class="w-full sm:w-auto flex items-center justify-center gap-2 bg-amber-500 hover:bg-amber-400 text-gray-900 font-bold px-6 py-3 rounded-xl transition text-sm sm:text-base">
+                        <i class="fa fa-bolt"></i>
+                        Ver documentação completa em apiloterias.com/free-api
+                        <i class="fa fa-arrow-right text-xs"></i>
+                    </a>
+                    <span class="text-gray-500 text-xs hidden sm:inline">Planos a partir de R$&nbsp;19/mês</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== COMO FUNCIONA ===== -->
+    <section class="py-10 sm:py-14 px-4 section-border bg-gray-900/40">
+        <div class="max-w-5xl mx-auto">
+            <div class="text-center mb-8 sm:mb-10">
+                <h2 class="text-2xl sm:text-3xl font-bold text-white mb-2">Como funciona</h2>
+                <p class="text-gray-400 text-sm sm:text-base">Simples, direto e sem dependências externas</p>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 sm:gap-6">
+                <div class="card-dark rounded-xl p-5 text-center">
+                    <div class="w-12 h-12 bg-emerald-500/10 border border-emerald-500/20 rounded-xl flex items-center justify-center mx-auto mb-4">
+                        <i class="fa fa-rotate text-emerald-400 text-xl"></i>
+                    </div>
+                    <h3 class="font-semibold text-white mb-2">Atualização Automática</h3>
+                    <p class="text-gray-500 text-sm leading-relaxed">Um CRON job coleta os resultados da Caixa e faz commit nos JSONs automaticamente.</p>
+                </div>
+                <div class="card-dark rounded-xl p-5 text-center">
+                    <div class="w-12 h-12 bg-blue-500/10 border border-blue-500/20 rounded-xl flex items-center justify-center mx-auto mb-4">
+                        <i class="fa-brands fa-github text-blue-400 text-xl"></i>
+                    </div>
+                    <h3 class="font-semibold text-white mb-2">Servido pelo GitHub</h3>
+                    <p class="text-gray-500 text-sm leading-relaxed">Os arquivos JSON ficam no repositório e são servidos pelo <code class="text-blue-300">raw.githubusercontent.com</code>.</p>
+                </div>
+                <div class="card-dark rounded-xl p-5 text-center">
+                    <div class="w-12 h-12 bg-purple-500/10 border border-purple-500/20 rounded-xl flex items-center justify-center mx-auto mb-4">
+                        <i class="fa fa-key text-purple-400 text-xl"></i>
+                    </div>
+                    <h3 class="font-semibold text-white mb-2">Sem Chave de API</h3>
+                    <p class="text-gray-500 text-sm leading-relaxed">Basta fazer um GET para a URL. Sem cadastro, sem autenticação, sem rate limit proprietário.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== FOOTER ===== -->
+    <footer class="py-8 sm:py-10 px-4 section-border bg-gray-950">
+        <div class="max-w-5xl mx-auto">
+            <div class="flex flex-col sm:flex-row items-center justify-between gap-4">
+                <div class="flex items-center gap-2 text-sm text-gray-500">
+                    <i class="fa fa-rotate text-emerald-500 text-xs"></i>
+                    <span>Atualizado automaticamente via CI/CD</span>
+                </div>
+                <div class="flex items-center gap-4 sm:gap-6">
+                    <a href="https://github.com/maickon/free-apiloterias"
+                       target="_blank" rel="noopener"
+                       class="flex items-center gap-1.5 text-gray-400 hover:text-white transition text-sm">
+                        <i class="fa-brands fa-github"></i> GitHub
+                    </a>
+                    <a href="https://apiloterias.com"
+                       target="_blank" rel="noopener"
+                       class="flex items-center gap-1.5 text-gray-400 hover:text-emerald-400 transition text-sm">
+                        <i class="fa fa-bolt text-xs"></i> apiloterias.com
+                    </a>
+                    <a href="https://apiloterias.com/free-api"
+                       target="_blank" rel="noopener"
+                       class="text-gray-400 hover:text-emerald-400 transition text-sm">
+                        Documentação
+                    </a>
+                </div>
+            </div>
+            <div class="text-center mt-6 text-gray-700 text-xs">
+                free-apiloterias &mdash; Dados públicos das loterias da Caixa Econômica Federal
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        const BASE_URL = 'https://raw.githubusercontent.com/maickon/free-apiloterias/refs/heads/master/database';
+
+        function getGame() {
+            return document.getElementById('gameSelect').value;
+        }
+
+        function getNum() {
+            return document.getElementById('concursoNum').value || '2800';
+        }
+
+        function updateUrls() {
+            const game = getGame();
+            const num  = getNum();
+
+            document.getElementById('url-ultimo').textContent =
+                `${BASE_URL}/${game}/_ultimo.json`;
+
+            document.getElementById('url-numero').textContent =
+                `${BASE_URL}/${game}/${num}.json`;
+
+            document.getElementById('url-todos').textContent =
+                `${BASE_URL}/${game}/_todos.json`;
+        }
+
+        function copyUrl(spanId) {
+            const url  = document.getElementById(spanId).textContent.trim();
+            const btnId = 'copy-btn-' + spanId.replace('url-', '');
+            const btn  = document.getElementById(btnId);
+
+            navigator.clipboard.writeText(url).then(() => {
+                const originalHTML = btn.innerHTML;
+                btn.innerHTML = '<i class="fa fa-check text-xs"></i> Copiado!';
+                btn.classList.add('copy-btn-success', 'text-white');
+                btn.classList.remove('bg-gray-800', 'text-gray-300');
+                setTimeout(() => {
+                    btn.innerHTML = originalHTML;
+                    btn.classList.remove('copy-btn-success', 'text-white');
+                    btn.classList.add('bg-gray-800', 'text-gray-300');
+                }, 2000);
+            });
+        }
+
+        function testUrl(spanId) {
+            const url = document.getElementById(spanId).textContent.trim();
+            window.open(url, '_blank', 'noopener,noreferrer');
+        }
+
+        function selectGame(gameKey) {
+            document.getElementById('gameSelect').value = gameKey;
+            updateUrls();
+            document.getElementById('endpoints').scrollIntoView({ behavior: 'smooth' });
+        }
+
+        async function previewResponse() {
+            const btn  = document.getElementById('previewBtn');
+            const area = document.getElementById('previewArea');
+            const game = getGame();
+            const url  = `${BASE_URL}/${game}/_ultimo.json`;
+
+            btn.innerHTML = '<i class="fa fa-spinner fa-spin text-xs"></i> Carregando...';
+            btn.disabled = true;
+
+            area.innerHTML = '<p class="text-gray-600 text-xs font-mono animate-pulse">Fazendo fetch...</p>';
+
+            try {
+                const response = await fetch(url);
+                if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                const data = await response.json();
+                const formatted = syntaxHighlight(JSON.stringify(data, null, 2));
+                area.innerHTML = `<pre class="text-xs font-mono leading-relaxed fade-in">${formatted}</pre>`;
+            } catch (err) {
+                area.innerHTML = `
+                    <div class="text-center fade-in">
+                        <p class="text-red-400 text-sm font-mono mb-1"><i class="fa fa-circle-xmark mr-2"></i>Erro ao carregar</p>
+                        <p class="text-gray-600 text-xs">${err.message}</p>
+                        <p class="text-gray-700 text-xs mt-2">O GitHub pode estar com rate limit ou o arquivo não existe ainda para este jogo.</p>
+                    </div>`;
+            } finally {
+                btn.innerHTML = '<i class="fa fa-rotate text-xs"></i> <span>Atualizar</span>';
+                btn.disabled = false;
             }
+        }
 
-            // Renderiza links no sidebar
-            function renderLotteriesList() {
-              const list = el("lotteries-list");
-              list.innerHTML = "";
-              for (const name of LOTTERIES) {
-                const li = document.createElement("li");
-                li.innerHTML = `
-                  <div>
-                    <p class="font-semibold text-gray-700 mb-1">${name}</p>
-                    <ul class="text-sm space-y-1">
-                      <li><a href="/concurso/${name}/1" class="block text-blue-600 hover:underline">/${name}/concurso/1</a></li>
-                      <li><a href="/concurso/${name}/todos" class="block text-blue-600 hover:underline">/${name}/concurso/todos</a></li>
-                      <li><a href="/concurso/${name}/ultimo" class="block text-blue-600 hover:underline">/${name}/concurso/ultimo</a></li>
-                    </ul>
-                  </div>`;
-                list.appendChild(li);
-              }
-            }
+        function syntaxHighlight(json) {
+            return json
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/("(\\u[a-zA-Z0-9]{4}|\\[^u]|[^\\"])*"(\s*:)?|\b(true|false|null)\b|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?)/g, function(match) {
+                    let cls = 'json-num';
+                    if (/^"/.test(match)) {
+                        cls = /:$/.test(match) ? 'json-key' : 'json-str';
+                    } else if (/true|false/.test(match)) {
+                        cls = 'json-bool';
+                    } else if (/null/.test(match)) {
+                        cls = 'json-null';
+                    }
+                    return `<span class="${cls}">${match}</span>`;
+                });
+        }
 
-            // Busca um endpoint
-            async function fetchData(lottery, param) {
-              let url;
-              if (param === "todos") {
-                url = `${DATABASE_PATH}/${lottery}/_todos.json`;
-              } else if (param === "ultimo") {
-                url = `${DATABASE_PATH}/${lottery}/_ultimo.json`;
-              } else {
-                url = `${DATABASE_PATH}/${lottery}/${param}.json`;
-              }
-
-              console.log("Fetching:", url);
-              const res = await fetch(url);
-              if (!res.ok) throw new Error(`Erro ao buscar ${url}`);
-              return { source: url, data: await res.json() };
-            }
-
-            // Router
-            async function handleRoute() {
-              const path = window.location.pathname.split("/").filter(Boolean);
-              if (path.length < 3) return;
-              const [, lottery, param] = path;
-
-              try {
-                const result = await fetchData(lottery, param);
-                showOutput(safeJSON(result.data), result.source);
-              } catch (e) {
-                showOutput(`Erro: ${e.message}`, "");
-              }
-            }
-
-            // Navegação tipo SPA
-            function enableRouterLinks() {
-              document.addEventListener("click", (ev) => {
-                const a = ev.target.closest("a");
-                if (!a) return;
-
-                // Ignora links externos ou com classe 'blank'
-                if (!a.getAttribute("href").startsWith("/") || a.classList.contains("blank")) return;
-
-                ev.preventDefault();
-                history.pushState({}, "", a.getAttribute("href"));
-                handleRoute();
-              });
-
-              window.addEventListener("popstate", handleRoute);
-            }
-
-            // Init
-            renderLotteriesList();
-            enableRouterLinks();
-            handleRoute();
-
-        </script>
-    </body>
+        // Init
+        updateUrls();
+    </script>
+</body>
 </html>
