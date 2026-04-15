@@ -1,17 +1,83 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>free-apiloterias — API Gratuita de Loterias Brasileiras</title>
-    <meta name="description" content="API gratuita e open source de loterias brasileiras via GitHub. Acesse resultados da Mega-Sena, Quina, Lotofácil e mais 8 jogos sem chave de API.">
-    <meta property="og:title" content="free-apiloterias — API Gratuita de Loterias">
-    <meta property="og:description" content="11 jogos, JSON estático via GitHub, atualização automática, sem cadastro.">
-    <meta property="og:url" content="https://github.com/maickon/free-apiloterias">
-    <meta property="og:type" content="website">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <title>API Loterias Grátis: Mega-Sena, Quina (JSON Open Source)</title>
+        
+        <meta name="description" content="Acesse resultados da Mega-Sena, Quina, Lotofácil e +8 jogos via JSON estático no GitHub. API gratuita, open source, atualização automática e sem chave de API.">
+        
+        <link rel="canonical" href="https://github.com/maickon/free-apiloterias">
+
+        <meta property="og:title" content="free-apiloterias: API de Loterias Brasileiras Gratuita e Sem API Key">
+        <meta property="og:description" content="Resultados de 11 jogos em JSON estático via GitHub. Atualização automática e open source.">
+        <meta property="og:url" content="https://github.com/maickon/free-apiloterias">
+        <meta property="og:image" content="https://apiloterias.com/assets/img/og-image.png">
+        <meta property="og:type" content="website">
+
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="API Loterias Grátis (JSON Open Source)">
+        <meta name="twitter:description" content="Acesse resultados de 11 loterias brasileiras sem chave de API via GitHub.">
+        <meta name="twitter:image" content="https://apiloterias.com/assets/img/og-image.png">
+
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "SoftwareApplication",
+          "name": "free-apiloterias",
+          "operatingSystem": "All",
+          "applicationCategory": "DeveloperApplication",
+          "description": "API gratuita e open source de loterias brasileiras via JSON estático no GitHub.",
+          "codeRepository": "https://github.com/maickon/free-apiloterias",
+          "license": "https://github.com/maickon/free-apiloterias/blob/main/LICENSE",
+          "author": {
+            "@type": "Person",
+            "name": "Maickon",
+            "url": "https://apiloterias.com"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "BRL"
+          }
+        }
+        </script>
+        
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [{
+            "@type": "Question",
+            "name": "Como usar a API de Loterias grátis?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Você pode acessar os resultados das loterias brasileiras consumindo os arquivos JSON estáticos diretamente deste repositório GitHub, sem necessidade de cadastro ou chave de API."
+            }
+          }, {
+            "@type": "Question",
+            "name": "Quais loterias estão disponíveis na API free-apiloterias?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "O projeto free-apiloterias oferece resultados para 11 jogos, incluindo Mega-Sena, Quina, Lotofácil, Lotomania, Dupla Sena, e mais."
+            }
+          }]
+        }
+        </script>
+
+        <link rel="preconnect" href="https://cdn.tailwindcss.com">
+        <link rel="preconnect" href="https://cdnjs.cloudflare.com">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+        <script src="https://cdn.tailwindcss.com"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" media="print" onload="this.media='all'">
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+
+        <link rel="icon" type="image/png" href="https://apiloterias.com/assets/img/icon.png">
+    </head>
     <style>
         body { font-family: 'Inter', sans-serif; }
 
@@ -99,7 +165,7 @@
                 <!-- Logo -->
                 <div class="flex items-center gap-2 sm:gap-3">
                     <div class="w-8 h-8 sm:w-9 sm:h-9 bg-emerald-500 rounded-lg flex items-center justify-center shrink-0">
-                        <i class="fa-solid fa-leaf text-white text-sm sm:text-base"></i>
+                        <i class="fa-solid fa-clover text-white text-sm sm:text-base"></i>
                     </div>
                     <div class="flex items-center gap-2">
                         <span class="font-bold text-base sm:text-lg text-white">free-apiloterias</span>
